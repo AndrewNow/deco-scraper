@@ -1,0 +1,69 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44124422",
+  "name": "Le Bambole 3-seater Modular Sofa by Mario Bellni for B&B Italia, 1970s",
+  "slug": "f_44124422",
+  "price": "CA$23,682.53",
+  "description": "",
+  "image_url": "https://a.1stdibscdn.com/le-bambole-3-seater-modular-sofa-by-mario-bellni-for-bb-italia-1970s-for-sale/f_57902/f_441244221742452919888/f_44124422_1742452920882_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/sectional-sofas/le-bambole-3-seater-modular-sofa-mario-bellni-bb-italia-1970s/id-f_44124422/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 29.53 in (75 cm)",
+      "width": "Width: 110.24 in (280 cm)",
+      "depth": "Depth: 35.44 in (90 cm)",
+      "seatHeight": "Seat Height: 14.97 in (38 cm)"
+    },
+    "style": "Mid-Century Modern (Of the Period)",
+    "materials": [
+      "Wool",
+      "Wool"
+    ],
+    "origin": "Italy",
+    "period": "1970-1979",
+    "dateOfManufacture": "circa 1970",
+    "condition": {
+      "rating": "Good",
+      "details": "Reupholstered. Wear consistent with age and use. Signs of use on the bottoms."
+    },
+    "sellerLocation": "amstelveen, NL",
+    "referenceNumber": "1stDibs: LU5790244124422",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Le Bambole sectional sofa, Mario Bellini, honey color wool, B&amp;B Italia\n\nThe Le Bambole is an iconic piece of Italian design. It was awarded the 1979 'Compasso d'Oro' award. An example of Le Bambole is included in MoMA's permanent collection. It's well known to provide extreme comfort. Different settings are possible. \n\nRepholstered in the luxurious Pierre Frey Toundra wool velvet. We provide leather laces to connect the sections so they don't slide.</span></div></div>",
+    "rawSpecificationsText": "Le Bambole sectional sofa, Mario Bellini, honey color wool, B&B Italia\n\nThe Le Bambole is an iconic piece of Italian design. It was awarded the 1979 'Compasso d'Oro' award. An example of Le Bambole is included in MoMA's permanent collection. It's well known to provide extreme comfort. Different settings are possible. \n\nRepholstered in the luxurious Pierre Frey Toundra wool velvet. We provide leather laces to connect the sections so they don't slide."
+  },
+  "raw_data": {
+    "productId": "f_44124422",
+    "slug": "f_44124422",
+    "url": "https://www.1stdibs.com/furniture/seating/sectional-sofas/le-bambole-3-seater-modular-sofa-mario-bellni-bb-italia-1970s/id-f_44124422/",
+    "name": "Le Bambole 3-seater Modular Sofa by Mario Bellni for B&B Italia, 1970s",
+    "price": "CA$23,682.53",
+    "imageUrl": "https://a.1stdibscdn.com/le-bambole-3-seater-modular-sofa-by-mario-bellni-for-bb-italia-1970s-for-sale/f_57902/f_441244221742452919888/f_44124422_1742452920882_bg_processed.jpg",
+    "description": "",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 29.53 in (75 cm)",
+        "width": "Width: 110.24 in (280 cm)",
+        "depth": "Depth: 35.44 in (90 cm)",
+        "seatHeight": "Seat Height: 14.97 in (38 cm)"
+      },
+      "style": "Mid-Century Modern (Of the Period)",
+      "materials": [
+        "Wool",
+        "Wool"
+      ],
+      "origin": "Italy",
+      "period": "1970-1979",
+      "dateOfManufacture": "circa 1970",
+      "condition": {
+        "rating": "Good",
+        "details": "Reupholstered. Wear consistent with age and use. Signs of use on the bottoms."
+      },
+      "sellerLocation": "amstelveen, NL",
+      "referenceNumber": "1stDibs: LU5790244124422",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Le Bambole sectional sofa, Mario Bellini, honey color wool, B&amp;B Italia\n\nThe Le Bambole is an iconic piece of Italian design. It was awarded the 1979 'Compasso d'Oro' award. An example of Le Bambole is included in MoMA's permanent collection. It's well known to provide extreme comfort. Different settings are possible. \n\nRepholstered in the luxurious Pierre Frey Toundra wool velvet. We provide leather laces to connect the sections so they don't slide.</span></div></div>",
+      "rawSpecificationsText": "Le Bambole sectional sofa, Mario Bellini, honey color wool, B&B Italia\n\nThe Le Bambole is an iconic piece of Italian design. It was awarded the 1979 'Compasso d'Oro' award. An example of Le Bambole is included in MoMA's permanent collection. It's well known to provide extreme comfort. Different settings are possible. \n\nRepholstered in the luxurious Pierre Frey Toundra wool velvet. We provide leather laces to connect the sections so they don't slide."
+    },
+    "jsonLd": null,
+    "extractionMethod": "manual"
+  }
+}

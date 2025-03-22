@@ -1,0 +1,71 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44103192",
+  "name": "Set of Four Wharton Esherick Captains Chairs 1955",
+  "slug": "f_44103192",
+  "price": "CA$93,530.18",
+  "description": "",
+  "image_url": "https://a.1stdibscdn.com/set-of-four-wharton-esherick-captains-chairs-1955-for-sale/f_8474/f_441031921742322293111/f_44103192_1742322293465_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/dining-room-chairs/set-of-four-wharton-esherick-captains-chairs-1955/id-f_44103192/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 30 in (76.2 cm)",
+      "width": "Width: 24 in (60.96 cm)",
+      "depth": "Depth: 21 in (53.34 cm)"
+    },
+    "style": "American Craftsman (Of the Period)",
+    "materials": [
+      "Leather",
+      "Walnut",
+      "Leather",
+      "Walnut"
+    ],
+    "origin": "United States",
+    "period": "1950-1959",
+    "dateOfManufacture": "1950",
+    "condition": {
+      "rating": "Good",
+      "details": "Wear consistent with age and use. VERY GOOD VINTAGE CONDITION."
+    },
+    "sellerLocation": "Chicago, IL",
+    "referenceNumber": "Seller: C00004881",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Set of Four Wharton Esherick Captain’s Chairs, 1955\nA rare set of four handcrafted Captain’s chairs by Wharton Esherick, featuring sculpted walnut frames and newly replaced saddle leather straps with a rich patina.\nMaterials: Walnut, saddle leather\nDimensions: 30\" H × 24\" W × 21\" D\nCondition: Scratches throughout, consistent with age and use; leather straps are new with patina.</span></div></div>",
+    "rawSpecificationsText": "Set of Four Wharton Esherick Captain’s Chairs, 1955\nA rare set of four handcrafted Captain’s chairs by Wharton Esherick, featuring sculpted walnut frames and newly replaced saddle leather straps with a rich patina.\nMaterials: Walnut, saddle leather\nDimensions: 30\" H × 24\" W × 21\" D\nCondition: Scratches throughout, consistent with age and use; leather straps are new with patina."
+  },
+  "raw_data": {
+    "productId": "f_44103192",
+    "slug": "f_44103192",
+    "url": "https://www.1stdibs.com/furniture/seating/dining-room-chairs/set-of-four-wharton-esherick-captains-chairs-1955/id-f_44103192/",
+    "name": "Set of Four Wharton Esherick Captains Chairs 1955",
+    "price": "CA$93,530.18",
+    "imageUrl": "https://a.1stdibscdn.com/set-of-four-wharton-esherick-captains-chairs-1955-for-sale/f_8474/f_441031921742322293111/f_44103192_1742322293465_bg_processed.jpg",
+    "description": "",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 30 in (76.2 cm)",
+        "width": "Width: 24 in (60.96 cm)",
+        "depth": "Depth: 21 in (53.34 cm)"
+      },
+      "style": "American Craftsman (Of the Period)",
+      "materials": [
+        "Leather",
+        "Walnut",
+        "Leather",
+        "Walnut"
+      ],
+      "origin": "United States",
+      "period": "1950-1959",
+      "dateOfManufacture": "1950",
+      "condition": {
+        "rating": "Good",
+        "details": "Wear consistent with age and use. VERY GOOD VINTAGE CONDITION."
+      },
+      "sellerLocation": "Chicago, IL",
+      "referenceNumber": "Seller: C00004881",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Set of Four Wharton Esherick Captain’s Chairs, 1955\nA rare set of four handcrafted Captain’s chairs by Wharton Esherick, featuring sculpted walnut frames and newly replaced saddle leather straps with a rich patina.\nMaterials: Walnut, saddle leather\nDimensions: 30\" H × 24\" W × 21\" D\nCondition: Scratches throughout, consistent with age and use; leather straps are new with patina.</span></div></div>",
+      "rawSpecificationsText": "Set of Four Wharton Esherick Captain’s Chairs, 1955\nA rare set of four handcrafted Captain’s chairs by Wharton Esherick, featuring sculpted walnut frames and newly replaced saddle leather straps with a rich patina.\nMaterials: Walnut, saddle leather\nDimensions: 30\" H × 24\" W × 21\" D\nCondition: Scratches throughout, consistent with age and use; leather straps are new with patina."
+    },
+    "jsonLd": null,
+    "extractionMethod": "manual"
+  }
+}

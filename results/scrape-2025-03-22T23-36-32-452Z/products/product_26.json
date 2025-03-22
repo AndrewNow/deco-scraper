@@ -1,0 +1,73 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44114362",
+  "name": "Very Stylish pair of Italian 1950ies chairs attributed to Paolo Buffa",
+  "slug": "f_44114362",
+  "price": "CA$12,001.28",
+  "description": "",
+  "image_url": "https://a.1stdibscdn.com/very-stylish-pair-of-italian-1950ies-chairs-attributed-to-paolo-buffa-for-sale/f_25473/f_441143621742422797613/f_44114362_1742422798932_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/armchairs/very-stylish-pair-of-italian-1950ies-chairs-attributed-to-paolo-buffa/id-f_44114362/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 30.71 in (78 cm)",
+      "width": "Width: 26.38 in (67 cm)",
+      "depth": "Depth: 28.75 in (73 cm)",
+      "seatHeight": "Seat Height: 15.75 in (40 cm)"
+    },
+    "style": "Mid-Century Modern (Of the Period)",
+    "materials": [
+      "Bouclé",
+      "Teak",
+      "Bouclé",
+      "Teak"
+    ],
+    "origin": "Italy",
+    "period": "1950-1959",
+    "dateOfManufacture": "ca 1950",
+    "condition": {
+      "rating": "Good",
+      "details": "Reupholstered. Wear consistent with age and use."
+    },
+    "sellerLocation": "Jesteburg, DE",
+    "referenceNumber": "1stDibs: LU2547344114362",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Smart pair of Armchairs in a most perfect blonde wood patina, upholstered in faux shearling. Very comfortable, stylish  and versatile pair with a great visual presence.</span></div></div>",
+    "rawSpecificationsText": "Smart pair of Armchairs in a most perfect blonde wood patina, upholstered in faux shearling. Very comfortable, stylish  and versatile pair with a great visual presence."
+  },
+  "raw_data": {
+    "productId": "f_44114362",
+    "slug": "f_44114362",
+    "url": "https://www.1stdibs.com/furniture/seating/armchairs/very-stylish-pair-of-italian-1950ies-chairs-attributed-to-paolo-buffa/id-f_44114362/",
+    "name": "Very Stylish pair of Italian 1950ies chairs attributed to Paolo Buffa",
+    "price": "CA$12,001.28",
+    "imageUrl": "https://a.1stdibscdn.com/very-stylish-pair-of-italian-1950ies-chairs-attributed-to-paolo-buffa-for-sale/f_25473/f_441143621742422797613/f_44114362_1742422798932_bg_processed.jpg",
+    "description": "",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 30.71 in (78 cm)",
+        "width": "Width: 26.38 in (67 cm)",
+        "depth": "Depth: 28.75 in (73 cm)",
+        "seatHeight": "Seat Height: 15.75 in (40 cm)"
+      },
+      "style": "Mid-Century Modern (Of the Period)",
+      "materials": [
+        "Bouclé",
+        "Teak",
+        "Bouclé",
+        "Teak"
+      ],
+      "origin": "Italy",
+      "period": "1950-1959",
+      "dateOfManufacture": "ca 1950",
+      "condition": {
+        "rating": "Good",
+        "details": "Reupholstered. Wear consistent with age and use."
+      },
+      "sellerLocation": "Jesteburg, DE",
+      "referenceNumber": "1stDibs: LU2547344114362",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Smart pair of Armchairs in a most perfect blonde wood patina, upholstered in faux shearling. Very comfortable, stylish  and versatile pair with a great visual presence.</span></div></div>",
+      "rawSpecificationsText": "Smart pair of Armchairs in a most perfect blonde wood patina, upholstered in faux shearling. Very comfortable, stylish  and versatile pair with a great visual presence."
+    },
+    "jsonLd": null,
+    "extractionMethod": "manual"
+  }
+}

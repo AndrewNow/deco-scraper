@@ -1,0 +1,69 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_43788062",
+  "name": "Soriana chaise longue by Afra and Tobia scarpa for Cassina 1970s",
+  "slug": "f_43788062",
+  "price": "CA$7,616.81",
+  "description": "",
+  "image_url": "https://a.1stdibscdn.com/soriana-chaise-longue-di-afra-e-tobia-scarpa-per-cassina-anni-70-for-sale/f_75742/f_437880621740447164743/f_43788062_1740447165702_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/chaise-longues/soriana-chaise-longue-afra-tobia-scarpa-cassina-1970s/id-f_43788062/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 26.78 in (68 cm)",
+      "width": "Width: 49.22 in (125 cm)",
+      "depth": "Depth: 37.41 in (95 cm)",
+      "seatHeight": "Seat Height: 14.97 in (38 cm)"
+    },
+    "style": "Mid-Century Modern (In the Style Of)",
+    "materials": [
+      "Cotton",
+      "Cotton"
+    ],
+    "origin": "Italy",
+    "period": "Late 20th Century",
+    "dateOfManufacture": "circa 1975",
+    "condition": {
+      "rating": "Excellent",
+      "details": "Reupholstered. the chair has been reupholstered and has no defects."
+    },
+    "sellerLocation": "Milano, IT",
+    "referenceNumber": "1stDibs: LU7574243788062",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">lounge chair by Cassina produced in the 1960s\nthe chair has been reupholstered with high-quality cotton bringing it back to a like-new condition</span></div></div>",
+    "rawSpecificationsText": "lounge chair by Cassina produced in the 1960s\nthe chair has been reupholstered with high-quality cotton bringing it back to a like-new condition"
+  },
+  "raw_data": {
+    "productId": "f_43788062",
+    "slug": "f_43788062",
+    "url": "https://www.1stdibs.com/furniture/seating/chaise-longues/soriana-chaise-longue-afra-tobia-scarpa-cassina-1970s/id-f_43788062/",
+    "name": "Soriana chaise longue by Afra and Tobia scarpa for Cassina 1970s",
+    "price": "CA$7,616.81",
+    "imageUrl": "https://a.1stdibscdn.com/soriana-chaise-longue-di-afra-e-tobia-scarpa-per-cassina-anni-70-for-sale/f_75742/f_437880621740447164743/f_43788062_1740447165702_bg_processed.jpg",
+    "description": "",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 26.78 in (68 cm)",
+        "width": "Width: 49.22 in (125 cm)",
+        "depth": "Depth: 37.41 in (95 cm)",
+        "seatHeight": "Seat Height: 14.97 in (38 cm)"
+      },
+      "style": "Mid-Century Modern (In the Style Of)",
+      "materials": [
+        "Cotton",
+        "Cotton"
+      ],
+      "origin": "Italy",
+      "period": "Late 20th Century",
+      "dateOfManufacture": "circa 1975",
+      "condition": {
+        "rating": "Excellent",
+        "details": "Reupholstered. the chair has been reupholstered and has no defects."
+      },
+      "sellerLocation": "Milano, IT",
+      "referenceNumber": "1stDibs: LU7574243788062",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">lounge chair by Cassina produced in the 1960s\nthe chair has been reupholstered with high-quality cotton bringing it back to a like-new condition</span></div></div>",
+      "rawSpecificationsText": "lounge chair by Cassina produced in the 1960s\nthe chair has been reupholstered with high-quality cotton bringing it back to a like-new condition"
+    },
+    "jsonLd": null,
+    "extractionMethod": "manual"
+  }
+}

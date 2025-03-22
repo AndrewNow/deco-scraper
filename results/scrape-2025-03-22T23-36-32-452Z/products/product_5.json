@@ -1,0 +1,69 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44100092",
+  "name": "Nazaré daybed - L shape",
+  "slug": "f_44100092",
+  "price": "CA$12,801.37",
+  "description": "",
+  "image_url": "https://a.1stdibscdn.com/nazare-daybed-l-shape-for-sale/f_62582/f_441000921742312841288/f_44100092_1742312841852_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/day-beds/nazare-daybed-l-shape/id-f_44100092/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 16.15 in (41 cm)",
+      "width": "Width: 92.52 in (235 cm)",
+      "depth": "Depth: 76.78 in (195 cm)",
+      "seatHeight": "Seat Height: 15.75 in (40 cm)"
+    },
+    "style": "Modern (In the Style Of)",
+    "materials": [
+      "Walnut",
+      "Walnut"
+    ],
+    "origin": "Portugal",
+    "period": "2010-",
+    "dateOfManufacture": "2024",
+    "condition": {
+      "rating": "New",
+      "details": null
+    },
+    "sellerLocation": "Macieira de Sarnes, PT",
+    "referenceNumber": "1stDibs: LU6258244100092",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">NAZARÉ DAYBED - L shape, designed in 2024.\n\nThe Nazaré Daybed is crafted from solid walnut and has two removable cushions. The legs have a hand-carved detailed wave texture giving the piece it's name.\n\nAvailable in customer’s own material. Please inquire to view other wood and fabric options.\n\nProduction lead time: 8-12 weeks</span></div></div>",
+    "rawSpecificationsText": "NAZARÉ DAYBED - L shape, designed in 2024.\n\nThe Nazaré Daybed is crafted from solid walnut and has two removable cushions. The legs have a hand-carved detailed wave texture giving the piece it's name.\n\nAvailable in customer’s own material. Please inquire to view other wood and fabric options.\n\nProduction lead time: 8-12 weeks"
+  },
+  "raw_data": {
+    "productId": "f_44100092",
+    "slug": "f_44100092",
+    "url": "https://www.1stdibs.com/furniture/seating/day-beds/nazare-daybed-l-shape/id-f_44100092/",
+    "name": "Nazaré daybed - L shape",
+    "price": "CA$12,801.37",
+    "imageUrl": "https://a.1stdibscdn.com/nazare-daybed-l-shape-for-sale/f_62582/f_441000921742312841288/f_44100092_1742312841852_bg_processed.jpg",
+    "description": "",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 16.15 in (41 cm)",
+        "width": "Width: 92.52 in (235 cm)",
+        "depth": "Depth: 76.78 in (195 cm)",
+        "seatHeight": "Seat Height: 15.75 in (40 cm)"
+      },
+      "style": "Modern (In the Style Of)",
+      "materials": [
+        "Walnut",
+        "Walnut"
+      ],
+      "origin": "Portugal",
+      "period": "2010-",
+      "dateOfManufacture": "2024",
+      "condition": {
+        "rating": "New",
+        "details": null
+      },
+      "sellerLocation": "Macieira de Sarnes, PT",
+      "referenceNumber": "1stDibs: LU6258244100092",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">NAZARÉ DAYBED - L shape, designed in 2024.\n\nThe Nazaré Daybed is crafted from solid walnut and has two removable cushions. The legs have a hand-carved detailed wave texture giving the piece it's name.\n\nAvailable in customer’s own material. Please inquire to view other wood and fabric options.\n\nProduction lead time: 8-12 weeks</span></div></div>",
+      "rawSpecificationsText": "NAZARÉ DAYBED - L shape, designed in 2024.\n\nThe Nazaré Daybed is crafted from solid walnut and has two removable cushions. The legs have a hand-carved detailed wave texture giving the piece it's name.\n\nAvailable in customer’s own material. Please inquire to view other wood and fabric options.\n\nProduction lead time: 8-12 weeks"
+    },
+    "jsonLd": null,
+    "extractionMethod": "manual"
+  }
+}

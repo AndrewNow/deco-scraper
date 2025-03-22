@@ -1,0 +1,73 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44099422",
+  "name": "Rare Set of 10 Attributed Maison Jansen Cameo Back Painted Leather Dining Chairs",
+  "slug": "f_44099422",
+  "price": "CA$14,704.61",
+  "description": "",
+  "image_url": "https://a.1stdibscdn.com/rare-set-of-10-attributed-maison-jansen-cameo-back-painted-leather-dining-chairs-for-sale/f_20913/f_440994221742311316251/f_44099422_1742311317196_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/dining-room-chairs/rare-set-of-10-attributed-maison-jansen-cameo-back-painted-leather-dining-chairs/id-f_44099422/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 36.5 in (92.71 cm)",
+      "width": "Width: 21.5 in (54.61 cm)",
+      "depth": "Depth: 23.5 in (59.69 cm)",
+      "seatHeight": "Seat Height: 18.75 in (47.63 cm)"
+    },
+    "style": "Louis XVI (In the Style Of)",
+    "materials": [
+      "Leather",
+      "Walnut",
+      "Leather",
+      "Walnut"
+    ],
+    "origin": "France",
+    "period": "1950-1959",
+    "dateOfManufacture": "1950",
+    "condition": {
+      "rating": "Good",
+      "details": "Wear consistent with age and use. The leather is in very good condition with the most minor signs of age and use and the painted frames and crisp and bright. The chairs are a rare set of 10 which rarely if ever show up in this color combination and condition."
+    },
+    "sellerLocation": "Swedesboro, NJ",
+    "referenceNumber": "1stDibs: LU2091344099422",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">This is a very good set of 10 Attributued Maison Jansen style dining chairs in green paint and sleek dark hunter green genuine leather upholstery. The leather is in very good condition with the most minor signs of age and use and the painted frames and crisp and bright. The chairs are a rare set of 10 which rarely if ever show up in this color combination and condition. They date to the 1950s-60s era. \n\nMeasures 36.75 tall x 21.5 wide x 23.5 deep x 18.75 seat height. Dates to the 1950s era,</span></div></div>",
+    "rawSpecificationsText": "This is a very good set of 10 Attributued Maison Jansen style dining chairs in green paint and sleek dark hunter green genuine leather upholstery. The leather is in very good condition with the most minor signs of age and use and the painted frames and crisp and bright. The chairs are a rare set of 10 which rarely if ever show up in this color combination and condition. They date to the 1950s-60s era. \n\nMeasures 36.75 tall x 21.5 wide x 23.5 deep x 18.75 seat height. Dates to the 1950s era,"
+  },
+  "raw_data": {
+    "productId": "f_44099422",
+    "slug": "f_44099422",
+    "url": "https://www.1stdibs.com/furniture/seating/dining-room-chairs/rare-set-of-10-attributed-maison-jansen-cameo-back-painted-leather-dining-chairs/id-f_44099422/",
+    "name": "Rare Set of 10 Attributed Maison Jansen Cameo Back Painted Leather Dining Chairs",
+    "price": "CA$14,704.61",
+    "imageUrl": "https://a.1stdibscdn.com/rare-set-of-10-attributed-maison-jansen-cameo-back-painted-leather-dining-chairs-for-sale/f_20913/f_440994221742311316251/f_44099422_1742311317196_bg_processed.jpg",
+    "description": "",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 36.5 in (92.71 cm)",
+        "width": "Width: 21.5 in (54.61 cm)",
+        "depth": "Depth: 23.5 in (59.69 cm)",
+        "seatHeight": "Seat Height: 18.75 in (47.63 cm)"
+      },
+      "style": "Louis XVI (In the Style Of)",
+      "materials": [
+        "Leather",
+        "Walnut",
+        "Leather",
+        "Walnut"
+      ],
+      "origin": "France",
+      "period": "1950-1959",
+      "dateOfManufacture": "1950",
+      "condition": {
+        "rating": "Good",
+        "details": "Wear consistent with age and use. The leather is in very good condition with the most minor signs of age and use and the painted frames and crisp and bright. The chairs are a rare set of 10 which rarely if ever show up in this color combination and condition."
+      },
+      "sellerLocation": "Swedesboro, NJ",
+      "referenceNumber": "1stDibs: LU2091344099422",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">This is a very good set of 10 Attributued Maison Jansen style dining chairs in green paint and sleek dark hunter green genuine leather upholstery. The leather is in very good condition with the most minor signs of age and use and the painted frames and crisp and bright. The chairs are a rare set of 10 which rarely if ever show up in this color combination and condition. They date to the 1950s-60s era. \n\nMeasures 36.75 tall x 21.5 wide x 23.5 deep x 18.75 seat height. Dates to the 1950s era,</span></div></div>",
+      "rawSpecificationsText": "This is a very good set of 10 Attributued Maison Jansen style dining chairs in green paint and sleek dark hunter green genuine leather upholstery. The leather is in very good condition with the most minor signs of age and use and the painted frames and crisp and bright. The chairs are a rare set of 10 which rarely if ever show up in this color combination and condition. They date to the 1950s-60s era. \n\nMeasures 36.75 tall x 21.5 wide x 23.5 deep x 18.75 seat height. Dates to the 1950s era,"
+    },
+    "jsonLd": null,
+    "extractionMethod": "manual"
+  }
+}

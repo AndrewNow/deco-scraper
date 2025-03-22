@@ -1,0 +1,71 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44096082",
+  "name": "Three seats sofa in the style of Madeleine Castaing, 1970s.",
+  "slug": "f_44096082",
+  "price": "CA$11,857.27",
+  "description": "",
+  "image_url": "https://a.1stdibscdn.com/three-seats-sofa-in-the-style-of-madeleine-castaing-1970s-for-sale/f_79132/f_440960821742294700818/f_44096082_1742294700982_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/sofas/three-seats-sofa-style-madeleine-castaing-1970s/id-f_44096082/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 31.5 in (80 cm)",
+      "width": "Width: 83.47 in (212 cm)",
+      "depth": "Depth: 35.44 in (90 cm)",
+      "seatHeight": "Seat Height: 16.54 in (42 cm)"
+    },
+    "materials": [
+      "Fabric",
+      "Foam",
+      "Fabric",
+      "Foam"
+    ],
+    "origin": "France",
+    "period": "1970-1979",
+    "dateOfManufacture": "1970",
+    "condition": {
+      "rating": "Excellent",
+      "details": "Reupholstered."
+    },
+    "sellerLocation": "Lisboa, PT",
+    "referenceNumber": "1stDibs: LU7913244096082",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Large three-seater sofa with an inclined side upholstered side ending with upholstered eggs, in the style of Madeleine Castaing. France 1970s.</span></div></div>",
+    "rawSpecificationsText": "Large three-seater sofa with an inclined side upholstered side ending with upholstered eggs, in the style of Madeleine Castaing. France 1970s."
+  },
+  "raw_data": {
+    "productId": "f_44096082",
+    "slug": "f_44096082",
+    "url": "https://www.1stdibs.com/furniture/seating/sofas/three-seats-sofa-style-madeleine-castaing-1970s/id-f_44096082/",
+    "name": "Three seats sofa in the style of Madeleine Castaing, 1970s.",
+    "price": "CA$11,857.27",
+    "imageUrl": "https://a.1stdibscdn.com/three-seats-sofa-in-the-style-of-madeleine-castaing-1970s-for-sale/f_79132/f_440960821742294700818/f_44096082_1742294700982_bg_processed.jpg",
+    "description": "",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 31.5 in (80 cm)",
+        "width": "Width: 83.47 in (212 cm)",
+        "depth": "Depth: 35.44 in (90 cm)",
+        "seatHeight": "Seat Height: 16.54 in (42 cm)"
+      },
+      "materials": [
+        "Fabric",
+        "Foam",
+        "Fabric",
+        "Foam"
+      ],
+      "origin": "France",
+      "period": "1970-1979",
+      "dateOfManufacture": "1970",
+      "condition": {
+        "rating": "Excellent",
+        "details": "Reupholstered."
+      },
+      "sellerLocation": "Lisboa, PT",
+      "referenceNumber": "1stDibs: LU7913244096082",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Large three-seater sofa with an inclined side upholstered side ending with upholstered eggs, in the style of Madeleine Castaing. France 1970s.</span></div></div>",
+      "rawSpecificationsText": "Large three-seater sofa with an inclined side upholstered side ending with upholstered eggs, in the style of Madeleine Castaing. France 1970s."
+    },
+    "jsonLd": null,
+    "extractionMethod": "manual"
+  }
+}

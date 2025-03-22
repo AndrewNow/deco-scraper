@@ -1,0 +1,69 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44022542",
+  "name": "Hoop Armchair by PALANGE & TOFFOLONI",
+  "slug": "f_44022542",
+  "price": "CA$4,800.51",
+  "description": "",
+  "image_url": "https://a.1stdibscdn.com/hoop-armchair-by-palange-toffoloni-for-sale/f_46162/f_440225421741860618364/f_44022542_1741860619012_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/armchairs/hoop-armchair-palange-toffoloni/id-f_44022542/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 41.34 in (105 cm)",
+      "width": "Width: 30.71 in (78 cm)",
+      "depth": "Depth: 31.5 in (80 cm)",
+      "seatHeight": "Seat Height: 13.78 in (35 cm)"
+    },
+    "style": "Mid-Century Modern (Of the Period)",
+    "materials": [
+      "Leather",
+      "Leather"
+    ],
+    "origin": "Italy",
+    "period": "1970-1979",
+    "dateOfManufacture": "1972",
+    "condition": {
+      "rating": "Good",
+      "details": "Wear consistent with age and use."
+    },
+    "sellerLocation": "Berlin, DE",
+    "referenceNumber": "1stDibs: LU4616244022542",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Armchair designed by Piero Palange and Werther Toffolon. Italy, Germa, 1972.\n\nBlack lacquered wooden frame with the original leather upholstery. This is model G23. Seat height: 35 cm.\nCondition:  \n\nGood condition.</span></div></div>",
+    "rawSpecificationsText": "Armchair designed by Piero Palange and Werther Toffolon. Italy, Germa, 1972.\n\nBlack lacquered wooden frame with the original leather upholstery. This is model G23. Seat height: 35 cm.\nCondition:  \n\nGood condition."
+  },
+  "raw_data": {
+    "productId": "f_44022542",
+    "slug": "f_44022542",
+    "url": "https://www.1stdibs.com/furniture/seating/armchairs/hoop-armchair-palange-toffoloni/id-f_44022542/",
+    "name": "Hoop Armchair by PALANGE & TOFFOLONI",
+    "price": "CA$4,800.51",
+    "imageUrl": "https://a.1stdibscdn.com/hoop-armchair-by-palange-toffoloni-for-sale/f_46162/f_440225421741860618364/f_44022542_1741860619012_bg_processed.jpg",
+    "description": "",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 41.34 in (105 cm)",
+        "width": "Width: 30.71 in (78 cm)",
+        "depth": "Depth: 31.5 in (80 cm)",
+        "seatHeight": "Seat Height: 13.78 in (35 cm)"
+      },
+      "style": "Mid-Century Modern (Of the Period)",
+      "materials": [
+        "Leather",
+        "Leather"
+      ],
+      "origin": "Italy",
+      "period": "1970-1979",
+      "dateOfManufacture": "1972",
+      "condition": {
+        "rating": "Good",
+        "details": "Wear consistent with age and use."
+      },
+      "sellerLocation": "Berlin, DE",
+      "referenceNumber": "1stDibs: LU4616244022542",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Armchair designed by Piero Palange and Werther Toffolon. Italy, Germa, 1972.\n\nBlack lacquered wooden frame with the original leather upholstery. This is model G23. Seat height: 35 cm.\nCondition:  \n\nGood condition.</span></div></div>",
+      "rawSpecificationsText": "Armchair designed by Piero Palange and Werther Toffolon. Italy, Germa, 1972.\n\nBlack lacquered wooden frame with the original leather upholstery. This is model G23. Seat height: 35 cm.\nCondition:  \n\nGood condition."
+    },
+    "jsonLd": null,
+    "extractionMethod": "manual"
+  }
+}

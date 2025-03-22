@@ -1,0 +1,73 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44065802",
+  "name": "Mid-Century Modern Sculptural Wrought Iron Bar Stools, Set of 3",
+  "slug": "f_44065802",
+  "price": "CA$1,765.44",
+  "description": "",
+  "image_url": "https://a.1stdibscdn.com/mid-century-modern-sculptural-wrought-iron-bar-stools-set-of-3-for-sale/f_19743/f_440658021742084008251/f_44065802_1742084009629_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/stools/mid-century-modern-sculptural-wrought-iron-bar-stools-set-of-3/id-f_44065802/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 45 in (114.3 cm)",
+      "width": "Width: 18 in (45.72 cm)",
+      "depth": "Depth: 18 in (45.72 cm)",
+      "seatHeight": "Seat Height: 29.5 in (74.93 cm)"
+    },
+    "style": "Mid-Century Modern (Of the Period)",
+    "materials": [
+      "Fabric",
+      "Wrought Iron",
+      "Fabric",
+      "Wrought Iron"
+    ],
+    "origin": "United States",
+    "period": "Mid-20th Century",
+    "dateOfManufacture": "mid-20th century",
+    "condition": {
+      "rating": "Good",
+      "details": "Refinished. Reupholstered."
+    },
+    "sellerLocation": "Miami, FL",
+    "referenceNumber": "1stDibs: LU1974344065802",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Mid-Century Modern Sculptural Wrought Iron Bar Stools\n\nOffered for sale are Mid-Century Modern sculptural wrought iron bar stools which are being listed individuality with the availability of 9. The stools are are well made and quite substantial and are newly upholstered. The seat height is 29.5\"H.\n\nDimensions: Height: 45 in (114.3 cm)\nWidth: 18 in (45.72 cm)\nDepth: 18 in (45.72 cm)\nSeat Height: 29.5 in (74.93 cm)</span></div></div>",
+    "rawSpecificationsText": "Mid-Century Modern Sculptural Wrought Iron Bar Stools\n\nOffered for sale are Mid-Century Modern sculptural wrought iron bar stools which are being listed individuality with the availability of 9. The stools are are well made and quite substantial and are newly upholstered. The seat height is 29.5\"H.\n\nDimensions: Height: 45 in (114.3 cm)\nWidth: 18 in (45.72 cm)\nDepth: 18 in (45.72 cm)\nSeat Height: 29.5 in (74.93 cm)"
+  },
+  "raw_data": {
+    "productId": "f_44065802",
+    "slug": "f_44065802",
+    "url": "https://www.1stdibs.com/furniture/seating/stools/mid-century-modern-sculptural-wrought-iron-bar-stools-set-of-3/id-f_44065802/",
+    "name": "Mid-Century Modern Sculptural Wrought Iron Bar Stools, Set of 3",
+    "price": "CA$1,765.44",
+    "imageUrl": "https://a.1stdibscdn.com/mid-century-modern-sculptural-wrought-iron-bar-stools-set-of-3-for-sale/f_19743/f_440658021742084008251/f_44065802_1742084009629_bg_processed.jpg",
+    "description": "",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 45 in (114.3 cm)",
+        "width": "Width: 18 in (45.72 cm)",
+        "depth": "Depth: 18 in (45.72 cm)",
+        "seatHeight": "Seat Height: 29.5 in (74.93 cm)"
+      },
+      "style": "Mid-Century Modern (Of the Period)",
+      "materials": [
+        "Fabric",
+        "Wrought Iron",
+        "Fabric",
+        "Wrought Iron"
+      ],
+      "origin": "United States",
+      "period": "Mid-20th Century",
+      "dateOfManufacture": "mid-20th century",
+      "condition": {
+        "rating": "Good",
+        "details": "Refinished. Reupholstered."
+      },
+      "sellerLocation": "Miami, FL",
+      "referenceNumber": "1stDibs: LU1974344065802",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Mid-Century Modern Sculptural Wrought Iron Bar Stools\n\nOffered for sale are Mid-Century Modern sculptural wrought iron bar stools which are being listed individuality with the availability of 9. The stools are are well made and quite substantial and are newly upholstered. The seat height is 29.5\"H.\n\nDimensions: Height: 45 in (114.3 cm)\nWidth: 18 in (45.72 cm)\nDepth: 18 in (45.72 cm)\nSeat Height: 29.5 in (74.93 cm)</span></div></div>",
+      "rawSpecificationsText": "Mid-Century Modern Sculptural Wrought Iron Bar Stools\n\nOffered for sale are Mid-Century Modern sculptural wrought iron bar stools which are being listed individuality with the availability of 9. The stools are are well made and quite substantial and are newly upholstered. The seat height is 29.5\"H.\n\nDimensions: Height: 45 in (114.3 cm)\nWidth: 18 in (45.72 cm)\nDepth: 18 in (45.72 cm)\nSeat Height: 29.5 in (74.93 cm)"
+    },
+    "jsonLd": null,
+    "extractionMethod": "manual"
+  }
+}

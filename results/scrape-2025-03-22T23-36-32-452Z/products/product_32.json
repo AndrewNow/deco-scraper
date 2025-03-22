@@ -1,0 +1,71 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_28734342",
+  "name": "Marco Bogazzi Modern Outdoor Adirondack Chair in Teak or Mahogany",
+  "slug": "f_28734342",
+  "price": "CA$1,765.44",
+  "description": "",
+  "image_url": "https://a.1stdibscdn.com/marco-bogazzi-modern-outdoor-adirondack-chair-in-teak-or-mahogany-for-sale/f_68512/f_287343421653000910752/f_28734342_1653000911060_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/lounge-chairs/marco-bogazzi-modern-outdoor-adirondack-chair-teak-mahogany/id-f_28734342/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 29 in (73.66 cm)",
+      "width": "Width: 34 in (86.36 cm)",
+      "depth": "Depth: 32 in (81.28 cm)",
+      "seatHeight": "Seat Height: 13.5 in (34.29 cm)"
+    },
+    "materials": [
+      "Mahogany",
+      "Teak",
+      "Mahogany",
+      "Teak"
+    ],
+    "origin": "United States",
+    "period": "21st Century",
+    "dateOfManufacture": "2025",
+    "condition": {
+      "rating": "New",
+      "details": null
+    },
+    "sellerLocation": "Portland, OR",
+    "referenceNumber": "1stDibs: LU6851228734342",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Modern outdoor rocking chair designed for traditional/transitional and modern/contemporary outdoor decks, patio, porches, and poolsides. \n\nBuilt using mortise and tenon joinery, this chair is designed to age gracefully even in the most demanding outdoor environments. Each slat is curved to provide a most comfortable rocking experience. It ships fully assembled and as such, has no exposed hardware.\n\nAvailable in solid grade a teak or mahogany, the wood is sanded to 400 grit and left bare so as to develop a beautiful, uniform gray patina over time. \n\nCustom cushions are available upon request.\n\nShipping is free within the continental US.</span></div></div>",
+    "rawSpecificationsText": "Modern outdoor rocking chair designed for traditional/transitional and modern/contemporary outdoor decks, patio, porches, and poolsides. \n\nBuilt using mortise and tenon joinery, this chair is designed to age gracefully even in the most demanding outdoor environments. Each slat is curved to provide a most comfortable rocking experience. It ships fully assembled and as such, has no exposed hardware.\n\nAvailable in solid grade a teak or mahogany, the wood is sanded to 400 grit and left bare so as to develop a beautiful, uniform gray patina over time. \n\nCustom cushions are available upon request.\n\nShipping is free within the continental US."
+  },
+  "raw_data": {
+    "productId": "f_28734342",
+    "slug": "f_28734342",
+    "url": "https://www.1stdibs.com/furniture/seating/lounge-chairs/marco-bogazzi-modern-outdoor-adirondack-chair-teak-mahogany/id-f_28734342/",
+    "name": "Marco Bogazzi Modern Outdoor Adirondack Chair in Teak or Mahogany",
+    "price": "CA$1,765.44",
+    "imageUrl": "https://a.1stdibscdn.com/marco-bogazzi-modern-outdoor-adirondack-chair-in-teak-or-mahogany-for-sale/f_68512/f_287343421653000910752/f_28734342_1653000911060_bg_processed.jpg",
+    "description": "",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 29 in (73.66 cm)",
+        "width": "Width: 34 in (86.36 cm)",
+        "depth": "Depth: 32 in (81.28 cm)",
+        "seatHeight": "Seat Height: 13.5 in (34.29 cm)"
+      },
+      "materials": [
+        "Mahogany",
+        "Teak",
+        "Mahogany",
+        "Teak"
+      ],
+      "origin": "United States",
+      "period": "21st Century",
+      "dateOfManufacture": "2025",
+      "condition": {
+        "rating": "New",
+        "details": null
+      },
+      "sellerLocation": "Portland, OR",
+      "referenceNumber": "1stDibs: LU6851228734342",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Modern outdoor rocking chair designed for traditional/transitional and modern/contemporary outdoor decks, patio, porches, and poolsides. \n\nBuilt using mortise and tenon joinery, this chair is designed to age gracefully even in the most demanding outdoor environments. Each slat is curved to provide a most comfortable rocking experience. It ships fully assembled and as such, has no exposed hardware.\n\nAvailable in solid grade a teak or mahogany, the wood is sanded to 400 grit and left bare so as to develop a beautiful, uniform gray patina over time. \n\nCustom cushions are available upon request.\n\nShipping is free within the continental US.</span></div></div>",
+      "rawSpecificationsText": "Modern outdoor rocking chair designed for traditional/transitional and modern/contemporary outdoor decks, patio, porches, and poolsides. \n\nBuilt using mortise and tenon joinery, this chair is designed to age gracefully even in the most demanding outdoor environments. Each slat is curved to provide a most comfortable rocking experience. It ships fully assembled and as such, has no exposed hardware.\n\nAvailable in solid grade a teak or mahogany, the wood is sanded to 400 grit and left bare so as to develop a beautiful, uniform gray patina over time. \n\nCustom cushions are available upon request.\n\nShipping is free within the continental US."
+    },
+    "jsonLd": null,
+    "extractionMethod": "manual"
+  }
+}

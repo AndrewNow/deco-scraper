@@ -1,0 +1,71 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44091442",
+  "name": "Tufted Linen Painted Stool",
+  "slug": "f_44091442",
+  "price": "CA$6,620.39",
+  "description": "",
+  "image_url": "https://a.1stdibscdn.com/tufted-linen-painted-stool-for-sale/f_7983/f_440914421742256997929/f_44091442_1742256998352_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/ottomans-poufs/tufted-linen-painted-stool/id-f_44091442/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 17.5 in (44.45 cm)",
+      "width": "Width: 27 in (68.58 cm)",
+      "depth": "Depth: 20 in (50.8 cm)"
+    },
+    "style": "Louis XV (Of the Period)",
+    "materials": [
+      "Linen",
+      "Wood",
+      "Linen",
+      "Wood"
+    ],
+    "origin": "France",
+    "period": "18th Century",
+    "dateOfManufacture": "1770",
+    "condition": {
+      "rating": "Good",
+      "details": "Wear consistent with age and use. Good antique condition. Recently reupholstered."
+    },
+    "sellerLocation": "Greenwich, CT",
+    "referenceNumber": "Seller: YEWTR00002004",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">A lovely light and airy 18th century upholstered stool or ottoman. An elegant piece with apron and carved sprauncy legs in blue grey paint retaining highlights of gilding, enhanced by the blue silver buttoned linen upholstery and piping. This would work well at the foot of a bed, in the center of a dressing room. or in a living room for additional seating.</span></div></div>",
+    "rawSpecificationsText": "A lovely light and airy 18th century upholstered stool or ottoman. An elegant piece with apron and carved sprauncy legs in blue grey paint retaining highlights of gilding, enhanced by the blue silver buttoned linen upholstery and piping. This would work well at the foot of a bed, in the center of a dressing room. or in a living room for additional seating."
+  },
+  "raw_data": {
+    "productId": "f_44091442",
+    "slug": "f_44091442",
+    "url": "https://www.1stdibs.com/furniture/seating/ottomans-poufs/tufted-linen-painted-stool/id-f_44091442/",
+    "name": "Tufted Linen Painted Stool",
+    "price": "CA$6,620.39",
+    "imageUrl": "https://a.1stdibscdn.com/tufted-linen-painted-stool-for-sale/f_7983/f_440914421742256997929/f_44091442_1742256998352_bg_processed.jpg",
+    "description": "",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 17.5 in (44.45 cm)",
+        "width": "Width: 27 in (68.58 cm)",
+        "depth": "Depth: 20 in (50.8 cm)"
+      },
+      "style": "Louis XV (Of the Period)",
+      "materials": [
+        "Linen",
+        "Wood",
+        "Linen",
+        "Wood"
+      ],
+      "origin": "France",
+      "period": "18th Century",
+      "dateOfManufacture": "1770",
+      "condition": {
+        "rating": "Good",
+        "details": "Wear consistent with age and use. Good antique condition. Recently reupholstered."
+      },
+      "sellerLocation": "Greenwich, CT",
+      "referenceNumber": "Seller: YEWTR00002004",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">A lovely light and airy 18th century upholstered stool or ottoman. An elegant piece with apron and carved sprauncy legs in blue grey paint retaining highlights of gilding, enhanced by the blue silver buttoned linen upholstery and piping. This would work well at the foot of a bed, in the center of a dressing room. or in a living room for additional seating.</span></div></div>",
+      "rawSpecificationsText": "A lovely light and airy 18th century upholstered stool or ottoman. An elegant piece with apron and carved sprauncy legs in blue grey paint retaining highlights of gilding, enhanced by the blue silver buttoned linen upholstery and piping. This would work well at the foot of a bed, in the center of a dressing room. or in a living room for additional seating."
+    },
+    "jsonLd": null,
+    "extractionMethod": "manual"
+  }
+}
