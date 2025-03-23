@@ -3,8 +3,19 @@ import { chromium } from 'playwright';
 import { FirstDibsAdapter } from './adapters/retailers/firstdibs-adapter.js';
 import fs from 'fs/promises';
 import path from 'path';
+import pLimit from 'p-limit';
 
 const DEBUG_MODE = process.env.DEBUG === 'true';
+
+const PROXY_LIST = [
+  'http://proxy1:port',
+  'http://proxy2:port',
+  // ...
+];
+
+function getRandomProxy() {
+  return PROXY_LIST[Math.floor(Math.random() * PROXY_LIST.length)];
+}
 
 async function test1stDibsScraper() {
   console.log('Starting 1stDibs scraper test...');
@@ -34,6 +45,15 @@ async function test1stDibsScraper() {
     return; // Exit if we can't create the session directory
   }
   
+  // Create a products directory within the session directory
+  const productsDir = path.join(sessionDir, 'products');
+  try {
+    await fs.mkdir(productsDir, { recursive: true });
+    console.log(`Created products directory: ${productsDir}`);
+  } catch (error) {
+    console.error('Error creating products directory:', error);
+  }
+  
   // Create a log file for this session
   const logFilePath = path.join(sessionDir, 'scrape-log.txt');
   
@@ -46,20 +66,28 @@ async function test1stDibsScraper() {
   const testCategory = categories[0];
   console.log(`\nTesting with category: ${testCategory.name} (${testCategory.url})`);
   
-  // Launch browser
-  const browser = await chromium.launch({ headless: !DEBUG_MODE });
+  // Clear proxy-related environment variables
+  delete process.env.HTTP_PROXY;
+  delete process.env.HTTPS_PROXY;
+  delete process.env.NO_PROXY;
+  delete process.env.http_proxy;
+  delete process.env.https_proxy;
+  delete process.env.no_proxy;
+
+  // Then launch browser
+  const browser = await chromium.launch({ headless: true });
   const context = await browser.newContext({
     userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36',
-    viewport: { width: 1920, height: 1080 },
+    viewport: { width: 1280, height: 720 },
     hasTouch: false,
     isMobile: false,
-    deviceScaleFactor: 1,
-    javaScriptEnabled: true
+    javaScriptEnabled: true,
+    bypassCSP: true,
+    ignoreHTTPSErrors: true,
   });
   const page = await context.newPage();
   
-  // Track results
-  const scrapedProducts = [];
+  // Initialize tracking variables
   let successCount = 0;
   let failureCount = 0;
   
@@ -95,67 +123,74 @@ async function test1stDibsScraper() {
     console.log(`Processing all ${testProducts.length} products`);
     await appendToLog(logFilePath, `Processing all ${testProducts.length} products`);
     
-    // Step 2: Extract product data for each link
-    console.log('\n--- STEP 2: Extracting product details ---');
-    await appendToLog(logFilePath, '\n--- STEP 2: Extracting product details ---');
+    // Set up concurrency limit (adjust based on your system capabilities)
+    const CONCURRENCY = 5; // Process 5 products simultaneously
+    const limit = pLimit(CONCURRENCY);
     
-    // Create a directory for product data
-    const productsDir = path.join(sessionDir, 'products');
-    await fs.mkdir(productsDir, { recursive: true });
-    
-    for (let i = 0; i < testProducts.length; i++) {
-      const url = testProducts[i];
-      console.log(`\nProcessing product ${i+1}/${testProducts.length}: ${url}`);
-      await appendToLog(logFilePath, `\nProcessing product ${i+1}/${testProducts.length}: ${url}`);
-      
-      try {
-        const productData = await adapter.extractProductData(page, url);
-        if (productData) {
-          console.log('✅ Successfully extracted raw product data');
-          await appendToLog(logFilePath, '✅ Successfully extracted raw product data');
-          
-          // Transform the data to standardized format
-          const transformedData = adapter.transformProductData(productData);
-          if (transformedData) {
-            console.log('✅ Successfully transformed product data');
-            await appendToLog(logFilePath, '✅ Successfully transformed product data');
+    // Replace the sequential for-loop with parallel processing
+    const productPromises = testProducts.map((url, i) => {
+      return limit(async () => {
+        console.log(`\nQueuing product ${i+1}/${testProducts.length}: ${url}`);
+        
+        // Create a new browser context for each product to avoid cross-contamination
+        const productContext = await browser.newContext({
+          userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36',
+        });
+        const productPage = await productContext.newPage();
+        
+        try {
+          const productData = await adapter.extractProductData(productPage, url);
+          if (productData) {
+            console.log(`✅ Product ${i+1}: Successfully extracted raw product data`);
+            await appendToLog(logFilePath, `✅ Product ${i+1}: Successfully extracted raw product data`);
             
-            // Add to our collection
-            scrapedProducts.push(transformedData);
-            successCount++;
-            
-            // Create a simple filename for the product
-            const productFilename = `product_${i+1}.json`;
-            const productPath = path.join(productsDir, productFilename);
-            await fs.writeFile(productPath, JSON.stringify(transformedData, null, 2));
-            console.log(`✅ Saved product data to ${productFilename}`);
-            await appendToLog(logFilePath, `✅ Saved product data to ${productFilename}`);
+            // Transform the data to standardized format
+            const transformedData = adapter.transformProductData(productData);
+            if (transformedData) {
+              console.log(`✅ Product ${i+1}: Successfully transformed product data`);
+              await appendToLog(logFilePath, `✅ Product ${i+1}: Successfully transformed product data`);
+              
+              // Save individual product file
+              const productFilename = `product_${i+1}.json`;
+              const productPath = path.join(productsDir, productFilename);
+              await fs.writeFile(productPath, JSON.stringify(transformedData, null, 2));
+              console.log(`✅ Product ${i+1}: Saved to ${productFilename}`);
+              
+              // Track success
+              successCount++;
+              
+              // Return the transformed data to be collected
+              return transformedData;
+            } else {
+              console.log(`❌ Product ${i+1}: Failed to transform product data`);
+              await appendToLog(logFilePath, `❌ Product ${i+1}: Failed to transform product data`);
+              failureCount++;
+              return null;
+            }
           } else {
-            console.log('❌ Failed to transform product data');
-            await appendToLog(logFilePath, '❌ Failed to transform product data');
+            console.log(`❌ Product ${i+1}: Failed to extract product data`);
+            await appendToLog(logFilePath, `❌ Product ${i+1}: Failed to extract product data`);
             failureCount++;
+            return null;
           }
-        } else {
-          console.log('❌ Failed to extract product data');
-          await appendToLog(logFilePath, '❌ Failed to extract product data');
+        } catch (productError) {
+          console.error(`Error processing product ${i+1}:`, productError.message);
+          await appendToLog(logFilePath, `❌ Product ${i+1} Error: ${productError.message}`);
           failureCount++;
+          return null;
+        } finally {
+          await productContext.close(); // Close the context when done
         }
-      } catch (productError) {
-        console.error('Error processing product:', productError);
-        await appendToLog(logFilePath, `❌ Error: ${productError.message}`);
-        failureCount++;
-      }
-      
-      // Wait between requests to be respectful
-      await new Promise(resolve => setTimeout(resolve, 2000));
-      
-      // Periodically save the results in case of interruption
-      if (i > 0 && i % 10 === 0) {
-        const progressPath = path.join(sessionDir, 'progress_all_products.json');
-        await fs.writeFile(progressPath, JSON.stringify(scrapedProducts, null, 2));
-        console.log(`Saved progress after ${i} products`);
-      }
-    }
+      });
+    });
+    
+    // Wait for all products to be processed
+    console.log('\nWaiting for all parallel product processing to complete...');
+    const results = await Promise.all(productPromises);
+    
+    // Filter out failed products (null values)
+    const scrapedProducts = results.filter(Boolean);
+    console.log(`\nProcessed ${results.length} products, with ${scrapedProducts.length} successful extractions`);
     
     // Save all results to a single file
     const allResultsPath = path.join(sessionDir, 'all_products.json');
@@ -169,8 +204,8 @@ async function test1stDibsScraper() {
       category: testCategory.name,
       totalProductsFound: productLinks.length,
       productsScraped: testProducts.length,
-      successCount,
-      failureCount,
+      successCount: successCount,
+      failureCount: failureCount,
       totalSaved: scrapedProducts.length
     };
     

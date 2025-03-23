@@ -1,0 +1,271 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_43486562",
+  "name": "Sintra Bench - Walnut",
+  "slug": "f_43486562",
+  "price": "CA$4,800.51",
+  "description": "",
+  "image_url": "https://a.1stdibscdn.com/sintra-bench-walnut-for-sale/f_62582/f_434865621742307751807/f_43486562_1742307752324_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/benches/sintra-bench-walnut/id-f_43486562/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 15.75 in (40 cm)",
+      "width": "Width: 61.03 in (155 cm)",
+      "depth": "Depth: 14.18 in (36 cm)",
+      "seatHeight": "Seat Height: 15.75 in (40 cm)"
+    },
+    "style": "Modern (In the Style Of)",
+    "materials": [
+      "Walnut",
+      "Walnut"
+    ],
+    "origin": "Portugal",
+    "period": "2010-",
+    "dateOfManufacture": "2023",
+    "condition": {
+      "rating": "New",
+      "details": null
+    },
+    "sellerLocation": "Macieira de Sarnes, PT",
+    "referenceNumber": "1stDibs: LU6258243486562",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">\"Sintra bench\"\nDesigned by Project 213A in 2023\n\nThe bench is made by highly skilled craftsmen in Northern Portugal from oak wood.\n\nThis bench is part of the \"Sintra\" collection which also features a curved bench and a dining table and with their characteristic playful curved legs.\n\nBespoke dimensions and wood options available upon request.\nProduction lead time: 6-8 weeks\n\nRates vary by destination and complexity.\n\nCustoms Duties &amp; Taxes May Apply\n\nShips from: Portugal\n\n \n\nReturns\n\nProject 213A can only accept returns for in stock furniture, all furniture made on request and items returned without original packaging are non-refundable.\n\nPlease note that delivery charges will not be refunded and that all costs for return shipment will be covered by the customer.</span></div></div>",
+    "rawSpecificationsText": "\"Sintra bench\"\nDesigned by Project 213A in 2023\n\nThe bench is made by highly skilled craftsmen in Northern Portugal from oak wood.\n\nThis bench is part of the \"Sintra\" collection which also features a curved bench and a dining table and with their characteristic playful curved legs.\n\nBespoke dimensions and wood options available upon request.\nProduction lead time: 6-8 weeks\n\nRates vary by destination and complexity.\n\nCustoms Duties & Taxes May Apply\n\nShips from: Portugal\n\n \n\nReturns\n\nProject 213A can only accept returns for in stock furniture, all furniture made on request and items returned without original packaging are non-refundable.\n\nPlease note that delivery charges will not be refunded and that all costs for return shipment will be covered by the customer."
+  },
+  "raw_data": {
+    "productId": "f_43486562",
+    "slug": "f_43486562",
+    "url": "https://www.1stdibs.com/furniture/seating/benches/sintra-bench-walnut/id-f_43486562/",
+    "name": "Sintra Bench - Walnut",
+    "price": "CA$4,800.51",
+    "imageUrl": "https://a.1stdibscdn.com/sintra-bench-walnut-for-sale/f_62582/f_434865621742307751807/f_43486562_1742307752324_bg_processed.jpg",
+    "description": "",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 15.75 in (40 cm)",
+        "width": "Width: 61.03 in (155 cm)",
+        "depth": "Depth: 14.18 in (36 cm)",
+        "seatHeight": "Seat Height: 15.75 in (40 cm)"
+      },
+      "style": "Modern (In the Style Of)",
+      "materials": [
+        "Walnut",
+        "Walnut"
+      ],
+      "origin": "Portugal",
+      "period": "2010-",
+      "dateOfManufacture": "2023",
+      "condition": {
+        "rating": "New",
+        "details": null
+      },
+      "sellerLocation": "Macieira de Sarnes, PT",
+      "referenceNumber": "1stDibs: LU6258243486562",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">\"Sintra bench\"\nDesigned by Project 213A in 2023\n\nThe bench is made by highly skilled craftsmen in Northern Portugal from oak wood.\n\nThis bench is part of the \"Sintra\" collection which also features a curved bench and a dining table and with their characteristic playful curved legs.\n\nBespoke dimensions and wood options available upon request.\nProduction lead time: 6-8 weeks\n\nRates vary by destination and complexity.\n\nCustoms Duties &amp; Taxes May Apply\n\nShips from: Portugal\n\n \n\nReturns\n\nProject 213A can only accept returns for in stock furniture, all furniture made on request and items returned without original packaging are non-refundable.\n\nPlease note that delivery charges will not be refunded and that all costs for return shipment will be covered by the customer.</span></div></div>",
+      "rawSpecificationsText": "\"Sintra bench\"\nDesigned by Project 213A in 2023\n\nThe bench is made by highly skilled craftsmen in Northern Portugal from oak wood.\n\nThis bench is part of the \"Sintra\" collection which also features a curved bench and a dining table and with their characteristic playful curved legs.\n\nBespoke dimensions and wood options available upon request.\nProduction lead time: 6-8 weeks\n\nRates vary by destination and complexity.\n\nCustoms Duties & Taxes May Apply\n\nShips from: Portugal\n\n \n\nReturns\n\nProject 213A can only accept returns for in stock furniture, all furniture made on request and items returned without original packaging are non-refundable.\n\nPlease note that delivery charges will not be refunded and that all costs for return shipment will be covered by the customer."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Sintra Bench - Walnut",
+        "description": "\"Sintra bench\"\nDesigned by Project 213A in 2023\n\nThe bench is made by highly skilled craftsmen in Northern Portugal from oak wood.\n\nThis bench is part of the \"Sintra\" collection which also features a curved bench and a dining table and with their characteristic playful curved legs.\n\nBespoke dimensions and wood options available upon request.\nProduction lead time: 6-8 weeks\n\nRates vary by destination and complexity.\n\nCustoms Duties & Taxes May Apply\n\nShips from: Portugal\n\n \n\nReturns\n\nProject 213A can only accept returns for in stock furniture, all furniture made on request and items returned without original packaging are non-refundable.\n\nPlease note that delivery charges will not be refunded and that all costs for return shipment will be covered by the customer.",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Project 213A",
+            "caption": "Sintra Bench - Walnut For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/sintra-bench-walnut-for-sale/f_62582/f_434865621742307751807/f_43486562_1742307752324_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/sintra-bench-walnut-for-sale/f_62582/f_434865621742307751807/f_43486562_1742307752324_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-18T10:24:28.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Project 213A",
+            "caption": "\"Sintra bench\"\nDesigned by Project 213A in 2023\n\nThe bench is made by highly skilled craftsmen in Northern Portugal from oak wood.\n\nThis bench is part of the \"Sintra\" collection which also features a curved bench and a dining table and with their",
+            "contentUrl": "https://a.1stdibscdn.com/sintra-bench-walnut-for-sale-picture-2/f_62582/f_434865621742307795327/Project_213A_Sintra_Bench_Walnut_1_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/sintra-bench-walnut-for-sale-picture-2/f_62582/f_434865621742307795327/Project_213A_Sintra_Bench_Walnut_1_master.jpg?width=768",
+            "uploadDate": "2025-03-18T10:24:28.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Project 213A",
+            "caption": "Modern Sintra Bench - Walnut For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/sintra-bench-walnut-for-sale-picture-3/f_62582/f_434865621742307796865/Project_213A_Sintra_Bench_Walnut_2_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/sintra-bench-walnut-for-sale-picture-3/f_62582/f_434865621742307796865/Project_213A_Sintra_Bench_Walnut_2_master.jpg?width=768",
+            "uploadDate": "2025-03-18T10:24:28.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Project 213A",
+            "caption": "Portuguese Sintra Bench - Walnut For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/sintra-bench-walnut-for-sale-picture-4/f_62582/f_434865621742307800154/Project_213A_Sintra_Bench_Walnut_3_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/sintra-bench-walnut-for-sale-picture-4/f_62582/f_434865621742307800154/Project_213A_Sintra_Bench_Walnut_3_master.jpg?width=768",
+            "uploadDate": "2025-03-18T10:24:28.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Project 213A",
+            "caption": "Hand-Carved Sintra Bench - Walnut For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/sintra-bench-walnut-for-sale-picture-5/f_62582/f_434865621742307804229/Project_213A_Sintra_Bench_Walnut_4_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/sintra-bench-walnut-for-sale-picture-5/f_62582/f_434865621742307804229/Project_213A_Sintra_Bench_Walnut_4_master.jpg?width=768",
+            "uploadDate": "2025-03-18T10:24:28.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Project 213A",
+            "caption": "Sintra Bench - Walnut In New Condition For Sale In Macieira de Sarnes, PT",
+            "contentUrl": "https://a.1stdibscdn.com/sintra-bench-walnut-for-sale-picture-6/f_62582/f_434865621742307803476/Project_213A_Sintra_Bench_Walnut_5_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/sintra-bench-walnut-for-sale-picture-6/f_62582/f_434865621742307803476/Project_213A_Sintra_Bench_Walnut_5_master.jpg?width=768",
+            "uploadDate": "2025-03-18T10:24:28.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Project 213A",
+            "caption": "Contemporary Sintra Bench - Walnut For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/sintra-bench-walnut-for-sale-picture-7/f_62582/f_434865621742307813784/Project_213A_Sintra_Bench_Walnut_6_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/sintra-bench-walnut-for-sale-picture-7/f_62582/f_434865621742307813784/Project_213A_Sintra_Bench_Walnut_6_master.jpg?width=768",
+            "uploadDate": "2025-03-18T10:24:28.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Project 213A",
+            "caption": "Sintra Bench - Walnut For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/sintra-bench-walnut-for-sale-picture-8/f_62582/f_434865621742307807897/Project_213A_Sintra_Bench_Walnut_7_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/sintra-bench-walnut-for-sale-picture-8/f_62582/f_434865621742307807897/Project_213A_Sintra_Bench_Walnut_7_master.jpg?width=768",
+            "uploadDate": "2025-03-18T10:24:28.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/NewCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/benches/sintra-bench-walnut/id-f_43486562/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 2942.08,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 5305.58,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 67361.27,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3000,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 2576.25,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 22957.65,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3328.26,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 4800.51,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 33739.83,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 35184.16,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 5,
+          "reviewCount": 2
+        },
+        "productionDate": "2010-",
+        "category": "Benches",
+        "brand": {
+          "@type": "Brand",
+          "name": "Project 213A"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Benches",
+              "@id": "/furniture/seating/benches/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

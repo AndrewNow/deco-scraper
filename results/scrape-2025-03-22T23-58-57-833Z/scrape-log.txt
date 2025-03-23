@@ -1,0 +1,66 @@
+1stDibs Scraper Test - 2025-03-22T23:58:58.213Z
+Category: Seating (https://www.1stdibs.com/furniture/seating/)
+
+--- STEP 1: Extracting product links ---
+Found 219 product links
+Processing all 219 products
+✅ Product 4: Successfully extracted raw product data
+✅ Product 4: Successfully transformed product data
+✅ Product 2: Successfully extracted raw product data
+✅ Product 2: Successfully transformed product data
+✅ Product 5: Successfully extracted raw product data
+✅ Product 5: Successfully transformed product data
+✅ Product 1: Successfully extracted raw product data
+✅ Product 1: Successfully transformed product data
+✅ Product 3: Successfully extracted raw product data
+✅ Product 3: Successfully transformed product data
+✅ Product 6: Successfully extracted raw product data
+✅ Product 6: Successfully transformed product data
+✅ Product 7: Successfully extracted raw product data
+✅ Product 7: Successfully transformed product data
+✅ Product 8: Successfully extracted raw product data
+✅ Product 8: Successfully transformed product data
+✅ Product 9: Successfully extracted raw product data
+✅ Product 9: Successfully transformed product data
+✅ Product 10: Successfully extracted raw product data
+✅ Product 10: Successfully transformed product data
+✅ Product 11: Successfully extracted raw product data
+✅ Product 11: Successfully transformed product data
+✅ Product 12: Successfully extracted raw product data
+✅ Product 12: Successfully transformed product data
+❌ Product 13 Error: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.1stdibs.com/furniture/seating/armchairs/19th-century-french-louis-xvi-style-maple-armchairs-green-velvet-pair/id-f_44105012/", waiting until "networkidle"[22m
+
+❌ Product 14 Error: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.1stdibs.com/furniture/seating/sectional-sofas/le-bambole-3-seater-modular-sofa-mario-bellni-bb-italia-1970s/id-f_44124422/", waiting until "networkidle"[22m
+
+❌ Product 15 Error: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.1stdibs.com/furniture/seating/benches/19th-century-italian-pair-of-painted-wood-banquettes/id-f_44099892/", waiting until "networkidle"[22m
+
+❌ Product 16 Error: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.1stdibs.com/furniture/seating/lounge-chairs/kazuhide-takahama-pair-of-suzanne-lounge-chairs-gavina-edition-1965/id-f_43724492/", waiting until "networkidle"[22m
+
+❌ Product 17 Error: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.1stdibs.com/furniture/seating/sofas/brazilian-oak-olive-green-leather-3-seat-sofa-jean-gillon/id-f_14592411/", waiting until "networkidle"[22m
+
+✅ Product 18: Successfully extracted raw product data
+✅ Product 18: Successfully transformed product data
+✅ Product 19: Successfully extracted raw product data
+✅ Product 19: Successfully transformed product data
+✅ Product 20: Successfully extracted raw product data
+✅ Product 20: Successfully transformed product data
+✅ Product 21: Successfully extracted raw product data
+✅ Product 21: Successfully transformed product data
+✅ Product 22: Successfully extracted raw product data
+✅ Product 22: Successfully transformed product data
+✅ Product 23: Successfully extracted raw product data
+✅ Product 23: Successfully transformed product data
+✅ Product 26: Successfully extracted raw product data
+✅ Product 26: Successfully transformed product data
+✅ Product 24: Successfully extracted raw product data
+✅ Product 24: Successfully transformed product data
