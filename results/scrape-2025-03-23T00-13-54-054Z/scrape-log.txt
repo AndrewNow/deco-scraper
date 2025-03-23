@@ -1,5 +1,0 @@
-1stDibs Stable Scraper - 2025-03-23T00:13:54.055Z
-Retailer: 1stDibs
-Category: Seating (https://www.1stdibs.com/furniture/seating/)
-
---- STEP 1: Extracting product links ---

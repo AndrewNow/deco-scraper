@@ -11,6 +11,10 @@ export class FirstDibsAdapter extends BaseAdapter {
     this.country = country;
     this.language = language;
     this.baseUrl = `https://www.1stdibs.com`;
+    
+    // Anti-bot detection configuration
+    this.retryAttempts = 3;
+    this.retryDelay = 2000; // 2 seconds between retries
   }
 
   /**
@@ -53,6 +57,75 @@ export class FirstDibsAdapter extends BaseAdapter {
       // }
     ];
   }
+  
+  /**
+   * Delay helper to avoid rate limiting
+   * @param {number} ms - Milliseconds to delay
+   * @returns {Promise<void>}
+   */
+  async delay(ms = this.retryDelay) {
+    return new Promise(resolve => setTimeout(resolve, ms));
+  }
+  
+  /**
+   * Retry a function multiple times before giving up
+   * @param {Function} fn - Function to retry
+   * @param {number} retries - Number of retries
+   * @param {number} delayMs - Delay between retries
+   * @returns {Promise<any>} - Result of the function
+   */
+  async retry(fn, retries = this.retryAttempts, delayMs = this.retryDelay) {
+    try {
+      return await fn();
+    } catch (error) {
+      if (retries <= 1) throw error;
+      console.log(`Retry attempt, ${retries-1} remaining`);
+      await this.delay(delayMs);
+      return this.retry(fn, retries - 1, delayMs);
+    }
+  }
+  
+  /**
+   * Simulate human-like scrolling behavior
+   * @param {Page} page - Playwright page
+   */
+  async simulateHumanScrolling(page) {
+    console.log('Simulating human-like scrolling...');
+    
+    // Get page height
+    const pageHeight = await page.evaluate(() => document.body.scrollHeight);
+    
+    // Scroll down in chunks with random delays
+    let currentPosition = 0;
+    const viewportHeight = await page.evaluate(() => window.innerHeight);
+    
+    while (currentPosition < pageHeight) {
+      // Random scroll amount between 100 and viewport height
+      const scrollAmount = Math.floor(Math.random() * (viewportHeight - 100)) + 100;
+      currentPosition += scrollAmount;
+      
+      await page.evaluate((scrollPos) => {
+        window.scrollTo({
+          top: scrollPos,
+          behavior: 'smooth'
+        });
+      }, currentPosition);
+      
+      // Random delay between 300ms and 1000ms
+      const randomDelay = Math.floor(Math.random() * 700) + 300;
+      await this.delay(randomDelay);
+    }
+    
+    // Scroll back up a bit (as humans often do)
+    await page.evaluate(() => {
+      window.scrollTo({
+        top: window.scrollY - 400,
+        behavior: 'smooth'
+      });
+    });
+    
+    await this.delay(500);
+  }
 
   /**
    * Extract product links from a category page
@@ -62,75 +135,123 @@ export class FirstDibsAdapter extends BaseAdapter {
    */
   async extractProductLinksFromCategory(page, url) {
     console.log(`Navigating to category page: ${url}`);
-    await page.goto(url, { waitUntil: 'networkidle' });
     
-    console.log('Page loaded, extracting product links...');
-    
-    // Debug: Log the page title to confirm we're on the right page
-    const title = await page.title();
-    console.log(`Page title: ${title}`);
-    
-    // Take a screenshot to debug
-    await page.screenshot({ path: '1stdibs-debug.png' });
-    console.log('Saved screenshot to 1stdibs-debug.png for debugging');
-    
-    // Try several different selectors that might be used on 1stDibs
-    
-    // 1. Check for product cards
-    const productCards = await page.$$('div[data-tn="product-card"]');
-    console.log(`Found ${productCards.length} product cards with [data-tn="product-card"]`);
-    
-    // 2. Try to get links within product cards
-    const links = await page.$$eval('div[data-tn="product-card"] a[href*="/furniture/"]', links => 
-      links.map(link => link.href)
-    ).catch(async (err) => {
-      console.error('Error getting links from product cards:', err.message);
-      return [];
-    });
-    
-    if (links.length > 0) {
-      console.log(`Found ${links.length} products using div[data-tn="product-card"] selector`);
-      return links;
-    }
-    
-    // 3. Try a more general approach to find all furniture links
-    const furnitureLinks = await page.$$eval('a[href*="/furniture/"][href*="/id-"]', links => 
-      links.map(link => link.href)
-    ).catch(async (err) => {
-      console.error('Error with furniture links selector:', err.message);
-      return [];
-    });
-    
-    if (furnitureLinks.length > 0) {
-      console.log(`Found ${furnitureLinks.length} products using href pattern matching`);
-      return furnitureLinks;
-    }
-    
-    // 4. Most general approach - try to find any links that might be product links
-    console.log('Trying more general selectors...');
-    
-    // Check all links on the page
-    const allLinks = await page.$$('a');
-    console.log(`Found ${allLinks.length} total links on the page`);
-    
-    // Look for links that match patterns typically found in product URLs
-    const potentialProductLinks = await page.$$eval('a', links => 
-      links.filter(link => {
-        const href = link.href.toLowerCase();
-        return href.includes('/id-') && href.includes('/furniture/');
-      }).map(link => link.href)
-    );
-    
-    console.log(`Found ${potentialProductLinks.length} potential product links by filtering all links`);
-    
-    // If all else fails, log the HTML structure for manual inspection
-    if (potentialProductLinks.length === 0) {
+    try {
+      // More conservative loading strategy
+      await page.goto(url, { 
+        waitUntil: 'domcontentloaded', 
+        timeout: 60000 // 60 seconds timeout
+      });
+      
+      // Wait for essential page elements with a decent timeout
+      await this.retry(async () => {
+        await page.waitForSelector('h1', { timeout: 15000 })
+          .catch(() => console.log('Timeout waiting for H1, but continuing anyway'));
+      });
+      
+      console.log('Page loaded, extracting product links...');
+      
+      // Debug: Log the page title to confirm we're on the right page
+      const title = await page.title();
+      console.log(`Page title: ${title}`);
+      
+      // Simulate human-like scrolling behavior
+      await this.simulateHumanScrolling(page);
+      
+      // Take a screenshot to debug
+      const screenshotPath = `1stdibs-debug-${Date.now()}.png`;
+      await page.screenshot({ path: screenshotPath });
+      console.log(`Saved screenshot to ${screenshotPath} for debugging`);
+      
+      // Try several different selectors that might be used on 1stDibs
+      let productLinks = [];
+      
+      // 1. Try data-tn attribute approach first (most specific)
+      try {
+        const cards = await page.$$('div[data-tn="product-card"]');
+        console.log(`Found ${cards.length} product cards with [data-tn="product-card"]`);
+        
+        if (cards.length > 0) {
+          productLinks = await page.$$eval('div[data-tn="product-card"] a[href*="/furniture/"]', links => 
+            links.map(link => link.href)
+          );
+          
+          if (productLinks.length > 0) {
+            console.log(`Found ${productLinks.length} products using div[data-tn="product-card"] selector`);
+            return productLinks;
+          }
+        }
+      } catch (error) {
+        console.error('Error with product card selector:', error.message);
+      }
+      
+      // 2. Try a more general approach with href pattern matching
+      try {
+        console.log('Trying href pattern matching approach...');
+        const furnitureLinks = await page.$$eval('a[href*="/furniture/"][href*="/id-"]', links => 
+          links.map(link => link.href)
+        );
+        
+        if (furnitureLinks.length > 0) {
+          console.log(`Found ${furnitureLinks.length} products using href pattern matching`);
+          return furnitureLinks;
+        }
+      } catch (error) {
+        console.error('Error with furniture links selector:', error.message);
+      }
+      
+      // 3. Try product grid approach
+      try {
+        console.log('Trying product grid approach...');
+        const gridItems = await page.$$('.grid-item a[href*="/id-"]');
+        console.log(`Found ${gridItems.length} grid items`);
+        
+        if (gridItems.length > 0) {
+          const gridLinks = await page.$$eval('.grid-item a[href*="/id-"]', links => 
+            links.map(link => link.href)
+          );
+          
+          if (gridLinks.length > 0) {
+            console.log(`Found ${gridLinks.length} products using grid-item selector`);
+            return gridLinks;
+          }
+        }
+      } catch (error) {
+        console.error('Error with grid-item selector:', error.message);
+      }
+      
+      // 4. Most general approach - try to find any links that might be product links
+      console.log('Trying most general selector approach...');
+      
+      try {
+        // Look for links that match patterns typically found in product URLs
+        const potentialProductLinks = await page.$$eval('a', links => 
+          links.filter(link => {
+            const href = link.href.toLowerCase();
+            return href.includes('/id-') && href.includes('/furniture/');
+          }).map(link => link.href)
+        );
+        
+        console.log(`Found ${potentialProductLinks.length} potential product links by filtering all links`);
+        
+        if (potentialProductLinks.length > 0) {
+          return potentialProductLinks;
+        }
+      } catch (error) {
+        console.error('Error with general link selector:', error.message);
+      }
+      
+      // If all else fails, log the HTML structure for manual inspection
       console.log('No product links found. Logging page structure for debugging...');
       const bodyHTML = await page.evaluate(() => document.body.innerHTML.substring(0, 5000)); // First 5000 chars
-      console.log('Page HTML preview:', bodyHTML);
+      console.log('Page HTML preview:', bodyHTML.substring(0, 500) + '...');
+      
+      return [];
+      
+    } catch (error) {
+      console.error(`Error navigating to category page ${url}:`, error.message);
+      return [];
     }
-    
-    return potentialProductLinks;
   }
 
   /**
@@ -141,46 +262,124 @@ export class FirstDibsAdapter extends BaseAdapter {
   async goToNextPage(page) {
     console.log('Checking for pagination elements...');
     
-    // Look for the specific 1stDibs "Next" button with data-tn="page-forward"
-    const nextButton = await page.$('[data-tn="page-forward"]');
-    
-    if (nextButton) {
-      const isVisible = await nextButton.isVisible();
-      console.log(`Found "Next page" button (data-tn="page-forward"), visible: ${isVisible}`);
+    try {
+      // First approach: Look for a "Next" button
+      const nextButton = await this.retry(async () => {
+        return await page.$('[data-tn="page-forward"]');
+      });
       
-      if (isVisible) {
-        console.log('Clicking "Next page" button...');
-        await nextButton.click();
-        await page.waitForLoadState('networkidle');
-        return true;
+      if (nextButton) {
+        const isVisible = await nextButton.isVisible();
+        console.log(`Found "Next page" button (data-tn="page-forward"), visible: ${isVisible}`);
+        
+        if (isVisible) {
+          console.log('Clicking "Next page" button...');
+          
+          // Scroll to the button first (as a human would)
+          await nextButton.scrollIntoViewIfNeeded();
+          await this.delay(1000);
+          
+          // Click with retry logic
+          await this.retry(async () => {
+            await nextButton.click();
+            // More conservative wait strategy
+            await page.waitForLoadState('domcontentloaded', { timeout: 60000 });
+            // Wait for an essential element to confirm page changed
+            await page.waitForSelector('h1', { timeout: 15000 })
+              .catch(() => console.log('Timeout waiting for H1 on next page, but continuing'));
+          });
+          
+          // Add additional delay to allow dynamic content to load
+          await this.delay(2000);
+          
+          // Verify the page actually changed
+          const currentUrl = page.url();
+          console.log(`Page after navigation: ${currentUrl}`);
+          
+          return true;
+        }
       }
-    } else {
-      console.log('No "Next page" button with data-tn="page-forward" found');
+      
+      // Second approach: Look for "Load More" button
+      const loadMoreButtons = await page.$$('button:has-text("Load More"), button:has-text("load more")');
+      const loadMoreButton = loadMoreButtons.length > 0 ? loadMoreButtons[0] : null;
+      
+      if (loadMoreButton && await loadMoreButton.isVisible()) {
+        console.log('Found "Load More" button, clicking it...');
+        
+        // Get current product count before clicking
+        const currentProductCount = await page.$$eval('a[href*="/id-"]', items => items.length);
+        
+        // Scroll to the button first
+        await loadMoreButton.scrollIntoViewIfNeeded();
+        await this.delay(1000);
+        
+        // Click the button with retry
+        let clickSuccessful = false;
+        
+        await this.retry(async () => {
+          await loadMoreButton.click();
+          
+          // Wait for new content to load
+          await this.delay(3000);
+          
+          // Check if more products loaded
+          const newProductCount = await page.$$eval('a[href*="/id-"]', items => items.length);
+          console.log(`Product count before: ${currentProductCount}, after: ${newProductCount}`);
+          
+          if (newProductCount > currentProductCount) {
+            clickSuccessful = true;
+          } else {
+            throw new Error('No new products loaded after clicking Load More');
+          }
+        }).catch(err => {
+          console.log(`Load More button failed: ${err.message}`);
+          clickSuccessful = false;
+        });
+        
+        return clickSuccessful;
+      }
+      
+      // Additional approach: Check for any pagination links with numbers
+      const paginationLinks = await page.$$('a[href*="page="], .pagination a');
+      
+      if (paginationLinks.length > 0) {
+        console.log(`Found ${paginationLinks.length} pagination links`);
+        
+        // Try to find the active/current page and click the next one
+        const currentPageElem = await page.$('.pagination .active, .pagination .current');
+        
+        if (currentPageElem) {
+          const currentPageText = await currentPageElem.textContent();
+          const currentPageNum = parseInt(currentPageText.trim(), 10);
+          console.log(`Current page appears to be: ${currentPageNum}`);
+          
+          // Look for the next page number
+          const nextPageElem = await page.$(`.pagination a:has-text("${currentPageNum + 1}")`);
+          
+          if (nextPageElem) {
+            console.log(`Found link to page ${currentPageNum + 1}, clicking it...`);
+            
+            await nextPageElem.scrollIntoViewIfNeeded();
+            await this.delay(1000);
+            
+            await this.retry(async () => {
+              await nextPageElem.click();
+              await page.waitForLoadState('domcontentloaded', { timeout: 60000 });
+            });
+            
+            return true;
+          }
+        }
+      }
+      
+      console.log('No pagination elements found, reached end of products');
+      return false;
+      
+    } catch (error) {
+      console.error('Error during pagination:', error.message);
+      return false;
     }
-    
-    // Fallback: Another common pattern is a "Load more" button
-    const loadMoreButton = await page.$('button:has-text("Load More")');
-    if (loadMoreButton && await loadMoreButton.isVisible()) {
-      console.log('Found "Load More" button, clicking it...');
-      
-      // Get current product count before clicking
-      const currentProductCount = await page.$$eval('a[href*="/id-"]', items => items.length);
-      
-      // Click the button
-      await loadMoreButton.click();
-      
-      // Wait for new products to load
-      await page.waitForTimeout(3000);
-      
-      // Check if more products loaded
-      const newProductCount = await page.$$eval('a[href*="/id-"]', items => items.length);
-      console.log(`Product count before: ${currentProductCount}, after: ${newProductCount}`);
-      
-      return newProductCount > currentProductCount;
-    }
-    
-    console.log('No pagination elements found, reached end of products');
-    return false;
   }
 
   /**
@@ -193,17 +392,28 @@ export class FirstDibsAdapter extends BaseAdapter {
     console.log(`Visiting product page: ${url}`);
     
     try {
-      // Use domcontentloaded instead of networkidle for faster and more reliable loading
-      await page.goto(url, { waitUntil: 'domcontentloaded' });
+      // Use a more conservative loading strategy
+      await this.retry(async () => {
+        await page.goto(url, { 
+          waitUntil: 'domcontentloaded',
+          timeout: 60000
+        });
+      });
       
       // Wait for the page title to be visible (indicates basic page load)
-      await page.waitForSelector('h1', { timeout: 10000 }).catch(() => {
-        console.log('Could not find H1 element, but continuing anyway');
+      await this.retry(async () => {
+        await page.waitForSelector('h1', { timeout: 15000 })
+          .catch(() => console.log('Could not find H1 element, but continuing anyway'));
       });
+      
+      // Simulate human-like scrolling
+      await this.simulateHumanScrolling(page);
       
       // Take a screenshot for debugging
       const debugName = url.split('/').pop().split('?')[0];
-      await page.screenshot({ path: `debug-${debugName}.png` });
+      const screenshotPath = `debug-${debugName}-${Date.now()}.png`;
+      await page.screenshot({ path: screenshotPath });
+      console.log(`Saved debug screenshot to ${screenshotPath}`);
       
       // Get product URL slug/ID
       const urlObj = new URL(url);
@@ -214,45 +424,77 @@ export class FirstDibsAdapter extends BaseAdapter {
       
       // 1. Extract the first image URL using the specific selector
       console.log('Extracting first image URL...');
-      const firstImageUrl = await page.$eval('[data-tn="pdp-image-carousel-image-1"] figure picture img', img => img.src)
-        .catch(async () => {
-          console.log('Primary image selector failed, trying fallback...');
-          // Fallback 1: Try the selector without requiring all nested elements
-          return await page.$eval('[data-tn="pdp-image-carousel-image-1"] img', img => img.src)
-            .catch(async () => {
-              console.log('Fallback 1 failed, trying more general selectors...');
-              // Fallback 2: Try a more general selector for product images
-              return await page.$eval('img[data-tn="product-image"]', img => img.src)
-                .catch(async () => {
-                  // Fallback 3: Get any image in the product gallery
-                  return await page.$eval('div[data-tn="product-gallery"] img', img => img.src)
-                    .catch(() => {
-                      console.log('All image selectors failed');
-                      return null;
-                    });
-                });
-            });
-        });
+      
+      // Let's use retry logic for image extraction
+      const firstImageUrl = await this.retry(async () => {
+        // Try multiple selectors with fallbacks
+        try {
+          const mainImage = await page.$eval('[data-tn="pdp-image-carousel-image-1"] figure picture img', img => img.src);
+          return mainImage;
+        } catch (error) {
+          console.log('Primary image selector failed, trying fallback 1...');
+          try {
+            const fallback1 = await page.$eval('[data-tn="pdp-image-carousel-image-1"] img', img => img.src);
+            return fallback1;
+          } catch (error) {
+            console.log('Fallback 1 failed, trying fallback 2...');
+            try {
+              const fallback2 = await page.$eval('img[data-tn="product-image"]', img => img.src);
+              return fallback2;
+            } catch (error) {
+              console.log('Fallback 2 failed, trying fallback 3...');
+              try {
+                const fallback3 = await page.$eval('div[data-tn="product-gallery"] img', img => img.src);
+                return fallback3;
+              } catch (error) {
+                console.log('All image selectors failed');
+                // General fallback: any large image on the page
+                const anyImage = await page.$eval('img[src*="width="]', img => img.src)
+                  .catch(() => null);
+                return anyImage;
+              }
+            }
+          }
+        }
+      }).catch(() => null);
       
       console.log(`Image URL found: ${firstImageUrl || 'None'}`);
       
       // 2. Extract basic product details first
       console.log('Extracting basic product details...');
-      const name = await page.$eval('h1', el => el.textContent.trim())
-        .catch(() => 'Unknown Product');
       
-      const price = await page.$eval('[data-tn="price-amount"]', el => el.textContent.trim())
-        .catch(() => 'Price not available');
+      // Get name with retry
+      const name = await this.retry(async () => {
+        return await page.$eval('h1', el => el.textContent.trim())
+          .catch(() => 'Unknown Product');
+      });
+      
+      // Get price with retry
+      const price = await this.retry(async () => {
+        return await page.$eval('[data-tn="price-amount"]', el => el.textContent.trim())
+          .catch(async () => {
+            // Fallback price selector
+            return await page.$eval('.price, .product-price', el => el.textContent.trim())
+              .catch(() => 'Price not available');
+          });
+      });
       
       // 3. Extract the item details section
       console.log('Extracting item details section...');
       
-      // Check if there's a "Read More" button and click it to expand details
-      const hasReadMoreButton = await page.$('[data-tn="read-more"]') !== null;
-      if (hasReadMoreButton) {
-        console.log('Found "Read More" button, clicking to expand details...');
-        await page.click('[data-tn="read-more"]');
-        await page.waitForTimeout(1000); // Wait for expansion animation
+      // Try to expand details if there's a "Read More" button
+      try {
+        const readMoreButton = await page.$('[data-tn="read-more"]');
+        
+        if (readMoreButton) {
+          console.log('Found "Read More" button, clicking to expand details...');
+          await readMoreButton.scrollIntoViewIfNeeded();
+          await this.delay(500);
+          await readMoreButton.click();
+          await this.delay(1500); // Wait for expansion animation
+        }
+      } catch (error) {
+        console.log('Error clicking Read More button:', error.message);
       }
       
       // Create an object to hold all the detailed specifications
@@ -383,21 +625,66 @@ export class FirstDibsAdapter extends BaseAdapter {
       } catch (error) {
         console.error('Error extracting specifications:', error.message);
         
-        // Fallback to the previous method if specific selectors fail
-        console.log('Falling back to previous extraction method...');
+        // Fallback: Try to extract structured information from general spec section
+        console.log('Falling back to general specifications extraction...');
         
-        // Use the original fallback approach here (the regex-based extraction)
-        // This is your existing code for fallback extraction
-        // ...
+        try {
+          // Look for any product specifications section
+          const specSections = await page.$$('.product-specs, .specifications, .details');
+          
+          if (specSections.length > 0) {
+            console.log(`Found ${specSections.length} potential specification sections`);
+            
+            // Extract text from first section found
+            const rawSpecText = await specSections[0].evaluate(node => node.textContent.trim());
+            specifications.rawText = rawSpecText;
+            
+            // Extract any property pairs (label: value)
+            const specRows = await page.$$('.spec-row, .property-row, .detail-row');
+            
+            if (specRows.length > 0) {
+              console.log(`Found ${specRows.length} specification rows`);
+              
+              for (const row of specRows) {
+                try {
+                  const label = await row.$eval('.label, .property-label', el => el.textContent.trim());
+                  const value = await row.$eval('.value, .property-value', el => el.textContent.trim());
+                  
+                  if (label && value) {
+                    // Clean up label to use as property name
+                    const propName = label.toLowerCase().replace(/\s+/g, '_').replace(/[^a-z0-9_]/g, '');
+                    specifications[propName] = value;
+                    console.log(`  Found ${label}: ${value}`);
+                  }
+                } catch (err) {
+                  // Ignore individual row errors
+                }
+              }
+            }
+          }
+        } catch (fallbackError) {
+          console.error('Fallback specification extraction failed:', fallbackError.message);
+        }
       }
       
-      // Extract the product description (separate from specifications)
-      const description = await page.$eval('[data-tn="pdp-description"] p', el => el.textContent.trim())
-        .catch(async () => {
-          // Fallback for description
-          return await page.$eval('.pdp-description', el => el.textContent.trim())
-            .catch(() => '');
-        });
+      // Extract the product description with retry
+      const description = await this.retry(async () => {
+        try {
+          return await page.$eval('[data-tn="pdp-description"] p', el => el.textContent.trim());
+        } catch (error) {
+          console.log('Primary description selector failed, trying fallback...');
+          try {
+            return await page.$eval('.pdp-description, .product-description', el => el.textContent.trim());
+          } catch (error) {
+            console.log('Description fallback failed, trying most general selector...');
+            try {
+              return await page.$eval('p:not(:empty)', el => el.textContent.trim());
+            } catch (error) {
+              return '';
+            }
+          }
+        }
+      }).catch(() => '');
       
       console.log(`Description extracted (${description.length} characters)`);
       if (description) {
