@@ -1,5 +1,0 @@
-1stDibs Scraper Test - 2025-03-23T00:20:38.939Z
-Category: Seating (https://www.1stdibs.com/furniture/seating/)
-
---- STEP 1: Extracting product links ---
-Fatal error: page.waitForLoadState: Target page, context or browser has been closed

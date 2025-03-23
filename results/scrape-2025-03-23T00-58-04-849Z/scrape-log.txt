@@ -1,0 +1,34 @@
+1stDibs Scraper Test - 2025-03-23T00:58:04.849Z
+Concurrency: 10
+Category: Seating (https://www.1stdibs.com/furniture/seating/)
+
+--- STEP 1: Extracting product links ---
+Found 215 product links
+
+--- STEP 2: Processing products with concurrency ---
+✅ Product 5: Saved to product_5.json
+Progress: 0% (1/215), Success: 1, Failed: 0, Time elapsed: 17.3s
+✅ Product 7: Saved to product_7.json
+Progress: 1% (2/215), Success: 2, Failed: 0, Time elapsed: 17.5s
+✅ Product 2: Saved to product_2.json
+Progress: 1% (3/215), Success: 3, Failed: 0, Time elapsed: 18.1s
+✅ Product 6: Saved to product_6.json
+✅ Product 4: Saved to product_4.json
+Progress: 2% (4/215), Success: 5, Failed: 0, Time elapsed: 19.2s
+Progress: 2% (5/215), Success: 5, Failed: 0, Time elapsed: 19.2s
+✅ Product 9: Saved to product_9.json
+Progress: 3% (6/215), Success: 6, Failed: 0, Time elapsed: 21.3s
+❌ Product 11 (https://www.1stdibs.com/furniture/seating/stools/mid-century-modern-sculptural-wrought-iron-bar-stools-set-of-3/id-f_44065802/): Failed - Failed to extract data
+❌ Product 13 (https://www.1stdibs.com/furniture/seating/armchairs/19th-century-french-louis-xvi-style-maple-armchairs-green-velvet-pair/id-f_44105012/): Failed - Failed to extract data
+❌ Product 12 (https://www.1stdibs.com/furniture/seating/armchairs/solid-oak-post-modern-italian-armchair/id-f_43814272/): Failed - Failed to extract data
+Progress: 3% (7/215), Success: 6, Failed: 3, Time elapsed: 21.6s
+Progress: 4% (8/215), Success: 6, Failed: 3, Time elapsed: 21.6s
+Progress: 4% (9/215), Success: 6, Failed: 3, Time elapsed: 21.6s
+✅ Product 8: Saved to product_8.json
+✅ Product 1: Saved to product_1.json
+✅ Product 3: Saved to product_3.json
+✅ Product 10: Saved to product_10.json
+Progress: 5% (10/215), Success: 10, Failed: 3, Time elapsed: 21.6s
+Progress: 5% (11/215), Success: 10, Failed: 3, Time elapsed: 21.6s
+Progress: 6% (12/215), Success: 10, Failed: 3, Time elapsed: 21.6s
+Progress: 6% (13/215), Success: 10, Failed: 3, Time elapsed: 21.6s

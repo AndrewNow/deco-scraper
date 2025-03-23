@@ -1,0 +1,247 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44096432",
+  "name": "Amalfi White and Gray Outdoor Sofa by Studio 63 in Stainless Steel",
+  "slug": "f_44096432",
+  "price": "CA$15,160.69",
+  "description": "f_44096432",
+  "image_url": "https://a.1stdibscdn.com/amalfi-white-and-gray-outdoor-sofa-by-studio-63-in-stainless-steel-for-sale/f_17062/f_440964321742296320367/f_44096432_1742296320641_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/sofas/amalfi-white-gray-outdoor-sofa-studio-63-stainless-steel/id-f_44096432/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 29.14 in (74 cm)",
+      "width": "Width: 70.87 in (180 cm)",
+      "depth": "Depth: 27.56 in (70 cm)"
+    },
+    "materials": [
+      "Steel",
+      "Steel"
+    ],
+    "origin": "Italy",
+    "period": "2010-",
+    "dateOfManufacture": "contemporary",
+    "condition": {
+      "rating": "New",
+      "details": null
+    },
+    "sellerLocation": "Milan, IT",
+    "referenceNumber": "Seller: CIANFI-067",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">An elegant design where to enjoy long-lasting comfort while sipping a drink in good company or simply admiring a blooming garden, this sofa is a modern outdoor furniture piece marked by sinuous curves. The harmonious stainless steel frame, powder-varnished in manganese gray, is coupled to a plump cushioned seat covered in white Sunbrella Nattè fabric. Protective covers are included.</span></div></div>",
+    "rawSpecificationsText": "An elegant design where to enjoy long-lasting comfort while sipping a drink in good company or simply admiring a blooming garden, this sofa is a modern outdoor furniture piece marked by sinuous curves. The harmonious stainless steel frame, powder-varnished in manganese gray, is coupled to a plump cushioned seat covered in white Sunbrella Nattè fabric. Protective covers are included."
+  },
+  "raw_data": {
+    "productId": "f_44096432",
+    "slug": "f_44096432",
+    "url": "https://www.1stdibs.com/furniture/seating/sofas/amalfi-white-gray-outdoor-sofa-studio-63-stainless-steel/id-f_44096432/",
+    "name": "Amalfi White and Gray Outdoor Sofa by Studio 63 in Stainless Steel",
+    "price": "CA$15,160.69",
+    "imageUrl": "https://a.1stdibscdn.com/amalfi-white-and-gray-outdoor-sofa-by-studio-63-in-stainless-steel-for-sale/f_17062/f_440964321742296320367/f_44096432_1742296320641_bg_processed.jpg",
+    "description": "f_44096432",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 29.14 in (74 cm)",
+        "width": "Width: 70.87 in (180 cm)",
+        "depth": "Depth: 27.56 in (70 cm)"
+      },
+      "materials": [
+        "Steel",
+        "Steel"
+      ],
+      "origin": "Italy",
+      "period": "2010-",
+      "dateOfManufacture": "contemporary",
+      "condition": {
+        "rating": "New",
+        "details": null
+      },
+      "sellerLocation": "Milan, IT",
+      "referenceNumber": "Seller: CIANFI-067",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">An elegant design where to enjoy long-lasting comfort while sipping a drink in good company or simply admiring a blooming garden, this sofa is a modern outdoor furniture piece marked by sinuous curves. The harmonious stainless steel frame, powder-varnished in manganese gray, is coupled to a plump cushioned seat covered in white Sunbrella Nattè fabric. Protective covers are included.</span></div></div>",
+      "rawSpecificationsText": "An elegant design where to enjoy long-lasting comfort while sipping a drink in good company or simply admiring a blooming garden, this sofa is a modern outdoor furniture piece marked by sinuous curves. The harmonious stainless steel frame, powder-varnished in manganese gray, is coupled to a plump cushioned seat covered in white Sunbrella Nattè fabric. Protective covers are included."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Amalfi White and Gray Outdoor Sofa by Studio 63 in Stainless Steel",
+        "description": "An elegant design where to enjoy long-lasting comfort while sipping a drink in good company or simply admiring a blooming garden, this sofa is a modern outdoor furniture piece marked by sinuous curves. The harmonious stainless steel frame, powder-varnished in manganese gray, is coupled to a plump cushioned seat covered in white Sunbrella Nattè fabric. Protective covers are included.",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Officina Ciani",
+            "caption": "Amalfi White and Gray Outdoor Sofa by Studio 63 in Stainless Steel For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/amalfi-white-and-gray-outdoor-sofa-by-studio-63-in-stainless-steel-for-sale/f_17062/f_440964321742296320367/f_44096432_1742296320641_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/amalfi-white-and-gray-outdoor-sofa-by-studio-63-in-stainless-steel-for-sale/f_17062/f_440964321742296320367/f_44096432_1742296320641_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-18T07:15:13.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Officina Ciani",
+            "caption": "An elegant design where to enjoy long-lasting comfort while sipping a drink in good company or simply admiring a blooming garden, this sofa is a modern outdoor furniture piece marked by sinuous curves. The harmonious stainless steel frame,",
+            "contentUrl": "https://a.1stdibscdn.com/amalfi-white-and-gray-outdoor-sofa-by-studio-63-in-stainless-steel-for-sale-picture-2/f_17062/f_440964321742296340763/1669884257654_MRAENY_0020_GF3035SO_20retro_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/amalfi-white-and-gray-outdoor-sofa-by-studio-63-in-stainless-steel-for-sale-picture-2/f_17062/f_440964321742296340763/1669884257654_MRAENY_0020_GF3035SO_20retro_master.jpg?width=768",
+            "uploadDate": "2025-03-18T07:15:13.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Officina Ciani",
+            "caption": "Italian Amalfi White and Gray Outdoor Sofa by Studio 63 in Stainless Steel For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/amalfi-white-and-gray-outdoor-sofa-by-studio-63-in-stainless-steel-for-sale-picture-3/f_17062/f_440964321742296340498/1669884208221_MRAENY_0001_0010_GF3035SO_20fronte_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/amalfi-white-and-gray-outdoor-sofa-by-studio-63-in-stainless-steel-for-sale-picture-3/f_17062/f_440964321742296340498/1669884208221_MRAENY_0001_0010_GF3035SO_20fronte_master.jpg?width=768",
+            "uploadDate": "2025-03-18T07:15:13.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Officina Ciani",
+            "caption": "Amalfi White and Gray Outdoor Sofa by Studio 63 in Stainless Steel In New Condition For Sale In Milan, IT",
+            "contentUrl": "https://a.1stdibscdn.com/amalfi-white-and-gray-outdoor-sofa-by-studio-63-in-stainless-steel-for-sale-picture-4/f_17062/f_440964321742296353426/1669884257654_MRAENY_0020_GF3035SO_20retro_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/amalfi-white-and-gray-outdoor-sofa-by-studio-63-in-stainless-steel-for-sale-picture-4/f_17062/f_440964321742296353426/1669884257654_MRAENY_0020_GF3035SO_20retro_master.jpg?width=768",
+            "uploadDate": "2025-03-18T07:15:13.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Officina Ciani",
+            "caption": "Contemporary Amalfi White and Gray Outdoor Sofa by Studio 63 in Stainless Steel For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/amalfi-white-and-gray-outdoor-sofa-by-studio-63-in-stainless-steel-for-sale-picture-5/f_17062/f_440964321742296353550/1669884208221_MRAENY_0001_0010_GF3035SO_20fronte_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/amalfi-white-and-gray-outdoor-sofa-by-studio-63-in-stainless-steel-for-sale-picture-5/f_17062/f_440964321742296353550/1669884208221_MRAENY_0001_0010_GF3035SO_20fronte_master.jpg?width=768",
+            "uploadDate": "2025-03-18T07:15:13.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Officina Ciani",
+            "caption": "Amalfi White and Gray Outdoor Sofa by Studio 63 in Stainless Steel For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/amalfi-white-and-gray-outdoor-sofa-by-studio-63-in-stainless-steel-for-sale-picture-6/f_17062/f_440964321742296364849/1669884257654_MRAENY_0020_GF3035SO_20retro_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/amalfi-white-and-gray-outdoor-sofa-by-studio-63-in-stainless-steel-for-sale-picture-6/f_17062/f_440964321742296364849/1669884257654_MRAENY_0020_GF3035SO_20retro_master.jpg?width=768",
+            "uploadDate": "2025-03-18T07:15:13.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/NewCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/sofas/amalfi-white-gray-outdoor-sofa-studio-63-stainless-steel/id-f_44096432/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 9291.49,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 16755.74,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 212736.26,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 9663.91,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 8136.16,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 72503.47,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 10305,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 15160.69,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 106555.07,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 111116.46,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 4.8,
+          "reviewCount": 105
+        },
+        "productionDate": "2010-",
+        "category": "Sofas",
+        "brand": {
+          "@type": "Brand",
+          "name": "Officina Ciani"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Sofas",
+              "@id": "/furniture/seating/sofas/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

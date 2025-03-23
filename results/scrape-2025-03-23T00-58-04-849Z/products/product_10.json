@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44038392",
+  "name": "Exceptional Finn Juhl '57' Sofa",
+  "slug": "f_44038392",
+  "price": "Price not available",
+  "description": "",
+  "image_url": "https://a.1stdibscdn.com/exceptional-finn-juhl-57-sofa-for-sale/f_9314/f_440383921741942756311/f_44038392_1741942756936_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/sofas/exceptional-finn-juhl-57-sofa/id-f_44038392/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_44038392",
+    "slug": "f_44038392",
+    "url": "https://www.1stdibs.com/furniture/seating/sofas/exceptional-finn-juhl-57-sofa/id-f_44038392/",
+    "name": "Exceptional Finn Juhl '57' Sofa",
+    "price": "Price not available",
+    "imageUrl": "https://a.1stdibscdn.com/exceptional-finn-juhl-57-sofa-for-sale/f_9314/f_440383921741942756311/f_44038392_1741942756936_bg_processed.jpg",
+    "description": "",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "manual"
+  }
+}

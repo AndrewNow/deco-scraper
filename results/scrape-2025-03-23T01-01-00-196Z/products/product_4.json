@@ -1,0 +1,331 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44116892",
+  "name": "Bolha Chair",
+  "slug": "f_44116892",
+  "price": "CA$2,880.31",
+  "description": "f_44116892",
+  "image_url": "https://a.1stdibscdn.com/bolha-chair-for-sale/f_62582/f_441168921742402117363/f_44116892_1742402118018_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/chairs/bolha-chair/id-f_44116892/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 34.65 in (88 cm)",
+      "width": "Width: 17.72 in (45 cm)",
+      "depth": "Depth: 20.48 in (52 cm)",
+      "seatHeight": "Seat Height: 17.72 in (45 cm)"
+    },
+    "style": "Modern (In the Style Of)",
+    "materials": [
+      "Chestnut",
+      "Chestnut"
+    ],
+    "origin": "Portugal",
+    "period": "2010-",
+    "dateOfManufacture": "2025",
+    "condition": {
+      "rating": "New",
+      "details": null
+    },
+    "sellerLocation": "Macieira de Sarnes, PT",
+    "referenceNumber": "1stDibs: LU6258244116892",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">BOLHA CHAIR, designed in 2025\n\nThis chair is part of the Bolha series with elegant wood-turned detailing and an upholstered seat. Crafted by skilled artisans in Northern Portugal.\n\nPlease inquire to view other wood options.\n\nProduction lead time: 6-8 weeks</span></div></div>",
+    "rawSpecificationsText": "BOLHA CHAIR, designed in 2025\n\nThis chair is part of the Bolha series with elegant wood-turned detailing and an upholstered seat. Crafted by skilled artisans in Northern Portugal.\n\nPlease inquire to view other wood options.\n\nProduction lead time: 6-8 weeks"
+  },
+  "raw_data": {
+    "productId": "f_44116892",
+    "slug": "f_44116892",
+    "url": "https://www.1stdibs.com/furniture/seating/chairs/bolha-chair/id-f_44116892/",
+    "name": "Bolha Chair",
+    "price": "CA$2,880.31",
+    "imageUrl": "https://a.1stdibscdn.com/bolha-chair-for-sale/f_62582/f_441168921742402117363/f_44116892_1742402118018_bg_processed.jpg",
+    "description": "f_44116892",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 34.65 in (88 cm)",
+        "width": "Width: 17.72 in (45 cm)",
+        "depth": "Depth: 20.48 in (52 cm)",
+        "seatHeight": "Seat Height: 17.72 in (45 cm)"
+      },
+      "style": "Modern (In the Style Of)",
+      "materials": [
+        "Chestnut",
+        "Chestnut"
+      ],
+      "origin": "Portugal",
+      "period": "2010-",
+      "dateOfManufacture": "2025",
+      "condition": {
+        "rating": "New",
+        "details": null
+      },
+      "sellerLocation": "Macieira de Sarnes, PT",
+      "referenceNumber": "1stDibs: LU6258244116892",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">BOLHA CHAIR, designed in 2025\n\nThis chair is part of the Bolha series with elegant wood-turned detailing and an upholstered seat. Crafted by skilled artisans in Northern Portugal.\n\nPlease inquire to view other wood options.\n\nProduction lead time: 6-8 weeks</span></div></div>",
+      "rawSpecificationsText": "BOLHA CHAIR, designed in 2025\n\nThis chair is part of the Bolha series with elegant wood-turned detailing and an upholstered seat. Crafted by skilled artisans in Northern Portugal.\n\nPlease inquire to view other wood options.\n\nProduction lead time: 6-8 weeks"
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Bolha Chair",
+        "description": "BOLHA CHAIR, designed in 2025\n\nThis chair is part of the Bolha series with elegant wood-turned detailing and an upholstered seat. Crafted by skilled artisans in Northern Portugal.\n\nPlease inquire to view other wood options.\n\nProduction lead time: 6-8 weeks",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Project 213A",
+            "caption": "Bolha Chair For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/bolha-chair-for-sale/f_62582/f_441168921742402117363/f_44116892_1742402118018_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/bolha-chair-for-sale/f_62582/f_441168921742402117363/f_44116892_1742402118018_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-19T12:37:28.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Project 213A",
+            "caption": "BOLHA CHAIR, designed in 2025\n\nThis chair is part of the Bolha series with elegant wood-turned detailing and an upholstered seat. Crafted by skilled artisans in Northern Portugal.\n\nPlease inquire to view other wood options.\n\nProduction lead time:",
+            "contentUrl": "https://a.1stdibscdn.com/bolha-chair-for-sale-picture-2/f_62582/f_441168921742402152137/Project_213A_Bolha_chair_3_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/bolha-chair-for-sale-picture-2/f_62582/f_441168921742402152137/Project_213A_Bolha_chair_3_master.jpg?width=768",
+            "uploadDate": "2025-03-19T12:37:28.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Project 213A",
+            "caption": "Modern Bolha Chair For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/bolha-chair-for-sale-picture-3/f_62582/f_441168921742402151001/Project_213A_Bolha_chair_4_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/bolha-chair-for-sale-picture-3/f_62582/f_441168921742402151001/Project_213A_Bolha_chair_4_master.jpg?width=768",
+            "uploadDate": "2025-03-19T12:37:28.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Project 213A",
+            "caption": "Portuguese Bolha Chair For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/bolha-chair-for-sale-picture-4/f_62582/f_441168921742402165063/Project_213A_Bolha_chair_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/bolha-chair-for-sale-picture-4/f_62582/f_441168921742402165063/Project_213A_Bolha_chair_master.jpg?width=768",
+            "uploadDate": "2025-03-19T12:37:28.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Project 213A",
+            "caption": "Hand-Crafted Bolha Chair For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/bolha-chair-for-sale-picture-5/f_62582/f_441168921742402152072/Project_213A_Bolha_Chair_White_1_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/bolha-chair-for-sale-picture-5/f_62582/f_441168921742402152072/Project_213A_Bolha_Chair_White_1_master.jpg?width=768",
+            "uploadDate": "2025-03-19T12:37:28.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Project 213A",
+            "caption": "Bolha Chair In New Condition For Sale In Macieira de Sarnes, PT",
+            "contentUrl": "https://a.1stdibscdn.com/bolha-chair-for-sale-picture-6/f_62582/f_441168921742402152211/Project_213A_Bolha_Chair_White_2_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/bolha-chair-for-sale-picture-6/f_62582/f_441168921742402152211/Project_213A_Bolha_Chair_White_2_master.jpg?width=768",
+            "uploadDate": "2025-03-19T12:37:28.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Project 213A",
+            "caption": "Contemporary Bolha Chair For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/bolha-chair-for-sale-picture-7/f_62582/f_441168921742402151421/Project_213A_Bolha_Chair_White_3_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/bolha-chair-for-sale-picture-7/f_62582/f_441168921742402151421/Project_213A_Bolha_Chair_White_3_master.jpg?width=768",
+            "uploadDate": "2025-03-19T12:37:28.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Project 213A",
+            "caption": "Chestnut Bolha Chair For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/bolha-chair-for-sale-picture-8/f_62582/f_441168921742402152053/Project_213A_Bolha_Chair_White_4_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/bolha-chair-for-sale-picture-8/f_62582/f_441168921742402152053/Project_213A_Bolha_Chair_White_4_master.jpg?width=768",
+            "uploadDate": "2025-03-19T12:37:28.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Project 213A",
+            "caption": "Bolha Chair For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/bolha-chair-for-sale-picture-9/f_62582/f_441168921742402162361/Project_213A_Bolha_Chair_White_5_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/bolha-chair-for-sale-picture-9/f_62582/f_441168921742402162361/Project_213A_Bolha_Chair_White_5_master.jpg?width=768",
+            "uploadDate": "2025-03-19T12:37:28.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Project 213A",
+            "caption": "Bolha Chair For Sale 2",
+            "contentUrl": "https://a.1stdibscdn.com/bolha-chair-for-sale-picture-10/f_62582/f_441168921742402162397/Project_213A_Bolha_Chair_White_6_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/bolha-chair-for-sale-picture-10/f_62582/f_441168921742402162397/Project_213A_Bolha_Chair_White_6_master.jpg?width=768",
+            "uploadDate": "2025-03-19T12:37:28.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Project 213A",
+            "caption": "Bolha Chair For Sale 3",
+            "contentUrl": "https://a.1stdibscdn.com/bolha-chair-for-sale-picture-11/f_62582/f_441168921742402162558/Project_213A_Bolha_Chair_White_7_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/bolha-chair-for-sale-picture-11/f_62582/f_441168921742402162558/Project_213A_Bolha_Chair_White_7_master.jpg?width=768",
+            "uploadDate": "2025-03-19T12:37:28.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Project 213A",
+            "caption": "Bolha Chair For Sale 4",
+            "contentUrl": "https://a.1stdibscdn.com/bolha-chair-for-sale-picture-12/f_62582/f_441168921742402164656/Project_213A_Bolha_Chair_White_8_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/bolha-chair-for-sale-picture-12/f_62582/f_441168921742402164656/Project_213A_Bolha_Chair_White_8_master.jpg?width=768",
+            "uploadDate": "2025-03-19T12:37:28.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Project 213A",
+            "caption": "Bolha Chair For Sale 5",
+            "contentUrl": "https://a.1stdibscdn.com/bolha-chair-for-sale-picture-13/f_62582/f_441168921742402163762/Project_213A_Bolha_Chair_White_9_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/bolha-chair-for-sale-picture-13/f_62582/f_441168921742402163762/Project_213A_Bolha_Chair_White_9_master.jpg?width=768",
+            "uploadDate": "2025-03-19T12:37:28.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Project 213A",
+            "caption": "Bolha Chair For Sale 6",
+            "contentUrl": "https://a.1stdibscdn.com/bolha-chair-for-sale-picture-14/f_62582/f_441168921742402158590/Project_213A_Bolha_Chair_White_10_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/bolha-chair-for-sale-picture-14/f_62582/f_441168921742402158590/Project_213A_Bolha_Chair_White_10_master.jpg?width=768",
+            "uploadDate": "2025-03-19T12:37:28.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/NewCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/chairs/bolha-chair/id-f_44116892/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1765.25,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3183.35,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 40416.76,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1800,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1545.75,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 13774.59,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1996.95,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 2880.31,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 20243.9,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 21110.5,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 5,
+          "reviewCount": 2
+        },
+        "productionDate": "2010-",
+        "category": "Chairs",
+        "brand": {
+          "@type": "Brand",
+          "name": "Project 213A"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Chairs",
+              "@id": "/furniture/seating/chairs/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

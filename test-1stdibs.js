@@ -5,9 +5,11 @@ import fs from 'fs/promises';
 import path from 'path';
 import pLimit from 'p-limit';
 
-const DEBUG_MODE = process.env.DEBUG === 'true';
+// Debugging mode flag - commented out as it's only for debugging
+// const DEBUG_MODE = process.env.DEBUG === 'true';
+
 // Concurrency settings
-const CONCURRENCY = 10; // Process 5 products simultaneously - adjust based on your system's capabilities
+const CONCURRENCY = 10; // Process 10 products simultaneously - adjust based on your system's capabilities
 const SAVE_DELAY = 1000; // 1 second delay between requests as a baseline
 const SAVE_INTERVAL = 10; // Save all products file every X completed products
 
@@ -70,8 +72,9 @@ async function test1stDibsScraper() {
   
   try {
     // Launch browser with appropriate settings
+    // Always use headless mode for production (removing DEBUG flag)
     browser = await chromium.launch({ 
-      headless: !DEBUG_MODE,
+      headless: true,
       args: ['--disable-dev-shm-usage', '--no-sandbox', '--disable-setuid-sandbox'],
     });
     
@@ -90,9 +93,8 @@ async function test1stDibsScraper() {
     const page = await context.newPage();
     
     try {
-      // Take screenshots at key points
+      // Navigate to the category page without taking screenshots
       await page.goto(testCategory.url, { waitUntil: 'networkidle' });
-      await page.screenshot({ path: path.join(sessionDir, 'debug-category-page.png') });
       
       // Extract product links, allowing for multiple pages
       const productLinks = await extractProductLinks(adapter, page, testCategory.url, 3); // Get 3 pages worth of products
@@ -196,8 +198,11 @@ async function test1stDibsScraper() {
         
         // Make sure we have the most up-to-date collection of products
         if (scrapedProducts.length > allScrapedProducts.length) {
+          // Commenting out debug message
+          /* 
           console.log(`Note: processProductsWithConcurrency returned ${scrapedProducts.length} products, but we collected ${allScrapedProducts.length} through callbacks.`);
           console.log(`Using the larger collection for the final files.`);
+          */
           
           // Final save of all products files using the largest collection
           await saveAllProductsFiles();
@@ -242,8 +247,11 @@ async function test1stDibsScraper() {
       console.error('Error during category page processing:', error);
       await appendToLog(logFilePath, `Error during category page processing: ${error.message}`);
       
+      // Commenting out detailed error saving
+      /* 
       // Save error details
       await fs.writeFile(path.join(sessionDir, 'category-error.txt'), error.stack || error.toString());
+      */
       
       // Close page if open
       if (page) await page.close().catch(() => {});
@@ -253,7 +261,11 @@ async function test1stDibsScraper() {
   } catch (error) {
     console.error('Fatal error during scraping:', error);
     await appendToLog(logFilePath, `Fatal error: ${error.message}`);
+    
+    // Commenting out detailed error saving
+    /* 
     await fs.writeFile(path.join(sessionDir, 'fatal-error.txt'), error.stack || error.toString());
+    */
   } finally {
     // Close the browser
     if (browser) {
@@ -269,7 +281,10 @@ async function appendToLog(filePath, message) {
   try {
     await fs.appendFile(filePath, message + '\n');
   } catch (error) {
+    // Commenting out detailed error logging
+    /* 
     console.error('Error writing to log file:', error);
+    */
   }
 }
 

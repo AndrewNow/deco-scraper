@@ -157,11 +157,6 @@ export class FirstDibsAdapter extends BaseAdapter {
       // Simulate human-like scrolling behavior
       await this.simulateHumanScrolling(page);
       
-      // Take a screenshot to debug
-      const screenshotPath = `1stdibs-debug-${Date.now()}.png`;
-      await page.screenshot({ path: screenshotPath });
-      console.log(`Saved screenshot to ${screenshotPath} for debugging`);
-      
       // Try several different selectors that might be used on 1stDibs
       let productLinks = [];
       
@@ -407,12 +402,6 @@ export class FirstDibsAdapter extends BaseAdapter {
       
       // Simulate human-like scrolling
       await this.simulateHumanScrolling(page);
-      
-      // Take a screenshot for debugging
-      const debugName = url.split('/').pop().split('?')[0];
-      const screenshotPath = `debug-${debugName}-${Date.now()}.png`;
-      await page.screenshot({ path: screenshotPath });
-      console.log(`Saved debug screenshot to ${screenshotPath}`);
       
       // Get product URL slug/ID
       const urlObj = new URL(url);
