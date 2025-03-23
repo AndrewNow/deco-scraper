@@ -191,10 +191,20 @@ export class FirstDibsAdapter extends BaseAdapter {
    */
   async extractProductData(page, url) {
     console.log(`Visiting product page: ${url}`);
-    await page.goto(url, { waitUntil: 'networkidle' });
-    await page.waitForTimeout(2000); // Additional wait for dynamic content
     
     try {
+      // Use domcontentloaded instead of networkidle for faster and more reliable loading
+      await page.goto(url, { waitUntil: 'domcontentloaded' });
+      
+      // Wait for the page title to be visible (indicates basic page load)
+      await page.waitForSelector('h1', { timeout: 10000 }).catch(() => {
+        console.log('Could not find H1 element, but continuing anyway');
+      });
+      
+      // Take a screenshot for debugging
+      const debugName = url.split('/').pop().split('?')[0];
+      await page.screenshot({ path: `debug-${debugName}.png` });
+      
       // Get product URL slug/ID
       const urlObj = new URL(url);
       const pathParts = urlObj.pathname.split('/');

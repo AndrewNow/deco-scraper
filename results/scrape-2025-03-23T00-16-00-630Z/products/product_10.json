@@ -1,0 +1,247 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44096362",
+  "name": "Amalfi White and Gray Outdoor Chaise Longue by Studio 63 in Stainless Steel",
+  "slug": "f_44096362",
+  "price": "CA$15,160.69",
+  "description": "",
+  "image_url": "https://a.1stdibscdn.com/amalfi-white-and-gray-outdoor-chaise-longue-by-studio-63-in-stainless-steel-for-sale/f_17062/f_440963621742295932034/f_44096362_1742295932352_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/chaise-longues/amalfi-white-gray-outdoor-chaise-longue-studio-63-stainless-steel/id-f_44096362/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 29.14 in (74 cm)",
+      "width": "Width: 26.38 in (67 cm)",
+      "depth": "Depth: 61.03 in (155 cm)"
+    },
+    "materials": [
+      "Steel",
+      "Steel"
+    ],
+    "origin": "Italy",
+    "period": "2010-",
+    "dateOfManufacture": "contemporary",
+    "condition": {
+      "rating": "New",
+      "details": null
+    },
+    "sellerLocation": "Milan, IT",
+    "referenceNumber": "Seller: CIANFI-069",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">This sublime chaise longue was conceived having in mind the chance of laying on a plush design while observing an Amalfi sunset from a coastal terrace. Fine Sunbrella Nattè white fabric covers the entire L-shaped cushioned seat, which is set on a sturdy stainless steel frame powder-varnished in manganese gray and outlined by captivatingly sinuous curves. Protective covers are included.</span></div></div>",
+    "rawSpecificationsText": "This sublime chaise longue was conceived having in mind the chance of laying on a plush design while observing an Amalfi sunset from a coastal terrace. Fine Sunbrella Nattè white fabric covers the entire L-shaped cushioned seat, which is set on a sturdy stainless steel frame powder-varnished in manganese gray and outlined by captivatingly sinuous curves. Protective covers are included."
+  },
+  "raw_data": {
+    "productId": "f_44096362",
+    "slug": "f_44096362",
+    "url": "https://www.1stdibs.com/furniture/seating/chaise-longues/amalfi-white-gray-outdoor-chaise-longue-studio-63-stainless-steel/id-f_44096362/",
+    "name": "Amalfi White and Gray Outdoor Chaise Longue by Studio 63 in Stainless Steel",
+    "price": "CA$15,160.69",
+    "imageUrl": "https://a.1stdibscdn.com/amalfi-white-and-gray-outdoor-chaise-longue-by-studio-63-in-stainless-steel-for-sale/f_17062/f_440963621742295932034/f_44096362_1742295932352_bg_processed.jpg",
+    "description": "",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 29.14 in (74 cm)",
+        "width": "Width: 26.38 in (67 cm)",
+        "depth": "Depth: 61.03 in (155 cm)"
+      },
+      "materials": [
+        "Steel",
+        "Steel"
+      ],
+      "origin": "Italy",
+      "period": "2010-",
+      "dateOfManufacture": "contemporary",
+      "condition": {
+        "rating": "New",
+        "details": null
+      },
+      "sellerLocation": "Milan, IT",
+      "referenceNumber": "Seller: CIANFI-069",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">This sublime chaise longue was conceived having in mind the chance of laying on a plush design while observing an Amalfi sunset from a coastal terrace. Fine Sunbrella Nattè white fabric covers the entire L-shaped cushioned seat, which is set on a sturdy stainless steel frame powder-varnished in manganese gray and outlined by captivatingly sinuous curves. Protective covers are included.</span></div></div>",
+      "rawSpecificationsText": "This sublime chaise longue was conceived having in mind the chance of laying on a plush design while observing an Amalfi sunset from a coastal terrace. Fine Sunbrella Nattè white fabric covers the entire L-shaped cushioned seat, which is set on a sturdy stainless steel frame powder-varnished in manganese gray and outlined by captivatingly sinuous curves. Protective covers are included."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Amalfi White and Gray Outdoor Chaise Longue by Studio 63 in Stainless Steel",
+        "description": "This sublime chaise longue was conceived having in mind the chance of laying on a plush design while observing an Amalfi sunset from a coastal terrace. Fine Sunbrella Nattè white fabric covers the entire L-shaped cushioned seat, which is set on a sturdy stainless steel frame powder-varnished in manganese gray and outlined by captivatingly sinuous curves. Protective covers are included.",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Officina Ciani",
+            "caption": "Amalfi White and Gray Outdoor Chaise Longue by Studio 63 in Stainless Steel For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/amalfi-white-and-gray-outdoor-chaise-longue-by-studio-63-in-stainless-steel-for-sale/f_17062/f_440963621742295932034/f_44096362_1742295932352_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/amalfi-white-and-gray-outdoor-chaise-longue-by-studio-63-in-stainless-steel-for-sale/f_17062/f_440963621742295932034/f_44096362_1742295932352_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-18T07:07:58.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Officina Ciani",
+            "caption": "This sublime chaise longue was conceived having in mind the chance of laying on a plush design while observing an Amalfi sunset from a coastal terrace. Fine Sunbrella Nattè white fabric covers the entire L-shaped cushioned seat, which is set on a",
+            "contentUrl": "https://a.1stdibscdn.com/amalfi-white-and-gray-outdoor-chaise-longue-by-studio-63-in-stainless-steel-for-sale-picture-2/f_17062/f_440963621742295953532/1669884294759_MRAENY_0016_GF4035BE_2_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/amalfi-white-and-gray-outdoor-chaise-longue-by-studio-63-in-stainless-steel-for-sale-picture-2/f_17062/f_440963621742295953532/1669884294759_MRAENY_0016_GF4035BE_2_master.jpg?width=768",
+            "uploadDate": "2025-03-18T07:07:58.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Officina Ciani",
+            "caption": "Italian Amalfi White and Gray Outdoor Chaise Longue by Studio 63 in Stainless Steel For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/amalfi-white-and-gray-outdoor-chaise-longue-by-studio-63-in-stainless-steel-for-sale-picture-3/f_17062/f_440963621742295953983/1669884291493_MRAENY_0017_GF4035AR_6_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/amalfi-white-and-gray-outdoor-chaise-longue-by-studio-63-in-stainless-steel-for-sale-picture-3/f_17062/f_440963621742295953983/1669884291493_MRAENY_0017_GF4035AR_6_master.jpg?width=768",
+            "uploadDate": "2025-03-18T07:07:58.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Officina Ciani",
+            "caption": "Amalfi White and Gray Outdoor Chaise Longue by Studio 63 in Stainless Steel In New Condition For Sale In Milan, IT",
+            "contentUrl": "https://a.1stdibscdn.com/amalfi-white-and-gray-outdoor-chaise-longue-by-studio-63-in-stainless-steel-for-sale-picture-4/f_17062/f_440963621742295953926/1669884286687_MRAENY_0003_0008_GF4035BE_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/amalfi-white-and-gray-outdoor-chaise-longue-by-studio-63-in-stainless-steel-for-sale-picture-4/f_17062/f_440963621742295953926/1669884286687_MRAENY_0003_0008_GF4035BE_master.jpg?width=768",
+            "uploadDate": "2025-03-18T07:07:58.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Officina Ciani",
+            "caption": "Contemporary Amalfi White and Gray Outdoor Chaise Longue by Studio 63 in Stainless Steel For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/amalfi-white-and-gray-outdoor-chaise-longue-by-studio-63-in-stainless-steel-for-sale-picture-5/f_17062/f_440963621742295971049/1669884294759_MRAENY_0016_GF4035BE_2_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/amalfi-white-and-gray-outdoor-chaise-longue-by-studio-63-in-stainless-steel-for-sale-picture-5/f_17062/f_440963621742295971049/1669884294759_MRAENY_0016_GF4035BE_2_master.jpg?width=768",
+            "uploadDate": "2025-03-18T07:07:58.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Officina Ciani",
+            "caption": "Amalfi White and Gray Outdoor Chaise Longue by Studio 63 in Stainless Steel For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/amalfi-white-and-gray-outdoor-chaise-longue-by-studio-63-in-stainless-steel-for-sale-picture-6/f_17062/f_440963621742295971458/1669884291493_MRAENY_0017_GF4035AR_6_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/amalfi-white-and-gray-outdoor-chaise-longue-by-studio-63-in-stainless-steel-for-sale-picture-6/f_17062/f_440963621742295971458/1669884291493_MRAENY_0017_GF4035AR_6_master.jpg?width=768",
+            "uploadDate": "2025-03-18T07:07:58.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/NewCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/chaise-longues/amalfi-white-gray-outdoor-chaise-longue-studio-63-stainless-steel/id-f_44096362/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 9291.49,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 16755.74,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 212736.26,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 9663.91,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 8136.16,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 72503.47,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 10305,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 15160.69,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 106555.07,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 111116.46,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 4.8,
+          "reviewCount": 105
+        },
+        "productionDate": "2010-",
+        "category": "Chaise Longues",
+        "brand": {
+          "@type": "Brand",
+          "name": "Officina Ciani"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Chaise Longues",
+              "@id": "/furniture/seating/chaise-longues/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

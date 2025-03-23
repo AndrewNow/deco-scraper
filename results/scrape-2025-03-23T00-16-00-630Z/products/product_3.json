@@ -1,0 +1,271 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_30988792",
+  "name": "1960’s Danish Mid Century Modern Lounge Chair in Teak",
+  "slug": "f_30988792",
+  "price": "CA$2,574.59",
+  "description": "",
+  "image_url": "https://a.1stdibscdn.com/archivesE/upload/1121189/f_309887921666921709530/30988792_datamatics.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/lounge-chairs/1960s-danish-mid-century-modern-lounge-chair-teak/id-f_30988792/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 29 in (73.66 cm)",
+      "width": "Width: 27 in (68.58 cm)",
+      "depth": "Depth: 28 in (71.12 cm)",
+      "seatHeight": "Seat Height: 16 in (40.64 cm)"
+    },
+    "materials": [
+      "Fabric",
+      "Teak",
+      "Velvet",
+      "Fabric",
+      "Teak",
+      "Velvet"
+    ],
+    "period": "1960-1969",
+    "dateOfManufacture": "Circa 1960",
+    "condition": {
+      "rating": "Good",
+      "details": "Reupholstered. Wear consistent with age and use. New upholstery."
+    },
+    "sellerLocation": "Hudson, NY",
+    "referenceNumber": "1stDibs: LU7275230988792",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">A 1960’s Danish mid century modern lounge chair made of solid teak. New upholstery with teal velvet and red striped cushions.</span></div></div>",
+    "rawSpecificationsText": "A 1960’s Danish mid century modern lounge chair made of solid teak. New upholstery with teal velvet and red striped cushions."
+  },
+  "raw_data": {
+    "productId": "f_30988792",
+    "slug": "f_30988792",
+    "url": "https://www.1stdibs.com/furniture/seating/lounge-chairs/1960s-danish-mid-century-modern-lounge-chair-teak/id-f_30988792/",
+    "name": "1960’s Danish Mid Century Modern Lounge Chair in Teak",
+    "price": "CA$2,574.59",
+    "imageUrl": "https://a.1stdibscdn.com/archivesE/upload/1121189/f_309887921666921709530/30988792_datamatics.jpg",
+    "description": "",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 29 in (73.66 cm)",
+        "width": "Width: 27 in (68.58 cm)",
+        "depth": "Depth: 28 in (71.12 cm)",
+        "seatHeight": "Seat Height: 16 in (40.64 cm)"
+      },
+      "materials": [
+        "Fabric",
+        "Teak",
+        "Velvet",
+        "Fabric",
+        "Teak",
+        "Velvet"
+      ],
+      "period": "1960-1969",
+      "dateOfManufacture": "Circa 1960",
+      "condition": {
+        "rating": "Good",
+        "details": "Reupholstered. Wear consistent with age and use. New upholstery."
+      },
+      "sellerLocation": "Hudson, NY",
+      "referenceNumber": "1stDibs: LU7275230988792",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">A 1960’s Danish mid century modern lounge chair made of solid teak. New upholstery with teal velvet and red striped cushions.</span></div></div>",
+      "rawSpecificationsText": "A 1960’s Danish mid century modern lounge chair made of solid teak. New upholstery with teal velvet and red striped cushions."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "1960’s Danish Mid Century Modern Lounge Chair in Teak",
+        "description": "A 1960’s Danish mid century modern lounge chair made of solid teak. New upholstery with teal velvet and red striped cushions.",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "1960’s Danish Mid Century Modern Lounge Chair in Teak  For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/archivesE/upload/1121189/f_309887921666921709530/30988792_datamatics.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/archivesE/upload/1121189/f_309887921666921709530/30988792_datamatics.jpg?width=768",
+            "uploadDate": "2022-10-26T05:19:22.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "A 1960’s Danish mid century modern lounge chair made of solid teak. New upholstery with teal velvet and red striped cushions.",
+            "contentUrl": "https://a.1stdibscdn.com/1960s-danish-mid-century-modern-lounge-chair-in-teak-for-sale-picture-2/f_72752/1666621447145/mobilejpegupload_D227FF1584CA4824B350E6B53C3E97A4_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/1960s-danish-mid-century-modern-lounge-chair-in-teak-for-sale-picture-2/f_72752/1666621447145/mobilejpegupload_D227FF1584CA4824B350E6B53C3E97A4_master.jpg?width=768",
+            "uploadDate": "2022-10-26T05:19:22.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "1960’s Danish Mid Century Modern Lounge Chair in Teak  In Good Condition For Sale In Hudson, NY",
+            "contentUrl": "https://a.1stdibscdn.com/1960s-danish-mid-century-modern-lounge-chair-in-teak-for-sale-picture-3/f_72752/1666621448261/mobilejpegupload_751274A06516468C83A68DDE96D3408D_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/1960s-danish-mid-century-modern-lounge-chair-in-teak-for-sale-picture-3/f_72752/1666621448261/mobilejpegupload_751274A06516468C83A68DDE96D3408D_master.jpg?width=768",
+            "uploadDate": "2022-10-26T05:19:22.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Mid-20th Century 1960’s Danish Mid Century Modern Lounge Chair in Teak  For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/1960s-danish-mid-century-modern-lounge-chair-in-teak-for-sale-picture-4/f_72752/1666621448388/mobilejpegupload_3AF2AD21241A4CD4BA019A16F9647A36_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/1960s-danish-mid-century-modern-lounge-chair-in-teak-for-sale-picture-4/f_72752/1666621448388/mobilejpegupload_3AF2AD21241A4CD4BA019A16F9647A36_master.jpg?width=768",
+            "uploadDate": "2022-10-26T05:19:22.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Fabric 1960’s Danish Mid Century Modern Lounge Chair in Teak  For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/1960s-danish-mid-century-modern-lounge-chair-in-teak-for-sale-picture-5/f_72752/1666621449261/mobilejpegupload_7FE54256FD5044C1A7B84370C2A3D922_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/1960s-danish-mid-century-modern-lounge-chair-in-teak-for-sale-picture-5/f_72752/1666621449261/mobilejpegupload_7FE54256FD5044C1A7B84370C2A3D922_master.jpg?width=768",
+            "uploadDate": "2022-10-26T05:19:22.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "1960’s Danish Mid Century Modern Lounge Chair in Teak  For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/1960s-danish-mid-century-modern-lounge-chair-in-teak-for-sale-picture-6/f_72752/1666621449774/mobilejpegupload_0374BD5008AB4B7B9026193082D95516_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/1960s-danish-mid-century-modern-lounge-chair-in-teak-for-sale-picture-6/f_72752/1666621449774/mobilejpegupload_0374BD5008AB4B7B9026193082D95516_master.jpg?width=768",
+            "uploadDate": "2022-10-26T05:19:22.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "1960’s Danish Mid Century Modern Lounge Chair in Teak  For Sale 2",
+            "contentUrl": "https://a.1stdibscdn.com/1960s-danish-mid-century-modern-lounge-chair-in-teak-for-sale-picture-7/f_72752/1666621450340/mobilejpegupload_06BD1B315E0244E090116AE471A88DE9_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/1960s-danish-mid-century-modern-lounge-chair-in-teak-for-sale-picture-7/f_72752/1666621450340/mobilejpegupload_06BD1B315E0244E090116AE471A88DE9_master.jpg?width=768",
+            "uploadDate": "2022-10-26T05:19:22.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "1960’s Danish Mid Century Modern Lounge Chair in Teak  For Sale 3",
+            "contentUrl": "https://a.1stdibscdn.com/1960s-danish-mid-century-modern-lounge-chair-in-teak-for-sale-picture-8/f_72752/1666621450719/mobilejpegupload_A725790100024966A7897A90B7CFE244_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/1960s-danish-mid-century-modern-lounge-chair-in-teak-for-sale-picture-8/f_72752/1666621450719/mobilejpegupload_A725790100024966A7897A90B7CFE244_master.jpg?width=768",
+            "uploadDate": "2022-10-26T05:19:22.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/UsedCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/lounge-chairs/1960s-danish-mid-century-modern-lounge-chair-teak/id-f_30988792/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1577.88,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 2845.47,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 36126.97,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1641.13,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1381.69,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 12312.57,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1750,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 2574.59,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 18095.23,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 18869.85,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 5,
+          "reviewCount": 1
+        },
+        "productionDate": "1960-1969",
+        "category": "Lounge Chairs"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Lounge Chairs",
+              "@id": "/furniture/seating/lounge-chairs/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}
