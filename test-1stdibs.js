@@ -6,8 +6,9 @@ import path from 'path';
 
 const DEBUG_MODE = process.env.DEBUG === 'true';
 // Concurrency settings
-const CONCURRENCY = 5; // Process 5 products simultaneously - adjust based on your system's capabilities
+const CONCURRENCY = 10; // Process 5 products simultaneously - adjust based on your system's capabilities
 const SAVE_DELAY = 1000; // 1 second delay between requests as a baseline
+const SAVE_INTERVAL = 10; // Save all products file every X completed products
 
 async function test1stDibsScraper() {
   console.log('Starting 1stDibs scraper with concurrency...');
@@ -111,20 +112,53 @@ async function test1stDibsScraper() {
         console.log('\n--- STEP 2: Processing products with concurrency ---');
         await appendToLog(logFilePath, '\n--- STEP 2: Processing products with concurrency ---');
         
-        // For periodic progress saving
+        // Define file paths for all products files
         const progressFilePath = path.join(sessionDir, 'progress.json');
         const allProductsPath = path.join(sessionDir, 'all_products.json');
+        const allProductsObjectPath = path.join(sessionDir, 'all_products_object.json');
+        
+        // Track all successfully scraped products
+        const allScrapedProducts = [];
+        
+        // For saving all products periodically
+        let lastSaveCount = 0;
+        
+        // Function to save all products files
+        const saveAllProductsFiles = async () => {
+          // Save as array of products
+          await fs.writeFile(allProductsPath, JSON.stringify(allScrapedProducts, null, 2));
+          
+          // Also save as a single JSON object with product IDs as keys
+          const productsObject = {};
+          allScrapedProducts.forEach(product => {
+            const id = product.product_id || `product_${Math.random().toString(36).substring(2, 10)}`;
+            productsObject[id] = product;
+          });
+          
+          await fs.writeFile(allProductsObjectPath, JSON.stringify(productsObject, null, 2));
+          console.log(`✅ Saved ${allScrapedProducts.length} products to all_products files (interim save)`);
+        };
         
         // Setup concurrency options with callbacks
         const concurrencyOptions = {
           // When a product is successfully processed
           onSuccess: async (product, index) => {
+            // Add to our collection of all products
+            allScrapedProducts.push(product);
+            
             // Save each product to its own file
             const productFileName = `product_${index}.json`;
             const productFilePath = path.join(productsDir, productFileName);
             await fs.writeFile(productFilePath, JSON.stringify(product, null, 2));
             console.log(`✅ Saved product ${index} to ${productFileName}`);
             await appendToLog(logFilePath, `✅ Product ${index}: Saved to ${productFileName}`);
+            
+            // Periodically save all products files
+            if (allScrapedProducts.length % SAVE_INTERVAL === 0 && 
+                allScrapedProducts.length > lastSaveCount) {
+              await saveAllProductsFiles();
+              lastSaveCount = allScrapedProducts.length;
+            }
           },
           
           // When a product fails
@@ -159,11 +193,24 @@ async function test1stDibsScraper() {
           concurrencyOptions
         );
         
-        // Save all products to a single file
-        if (scrapedProducts.length > 0) {
-          await fs.writeFile(allProductsPath, JSON.stringify(scrapedProducts, null, 2));
-          console.log(`\n✅ Saved all ${scrapedProducts.length} products to ${allProductsPath}`);
-          await appendToLog(logFilePath, `\n✅ Saved all ${scrapedProducts.length} products to ${allProductsPath}`);
+        // Make sure we have the most up-to-date collection of products
+        if (scrapedProducts.length > allScrapedProducts.length) {
+          console.log(`Note: processProductsWithConcurrency returned ${scrapedProducts.length} products, but we collected ${allScrapedProducts.length} through callbacks.`);
+          console.log(`Using the larger collection for the final files.`);
+          
+          // Final save of all products files using the largest collection
+          await saveAllProductsFiles();
+        } else {
+          // Final save of all products files
+          if (allScrapedProducts.length > lastSaveCount || lastSaveCount === 0) {
+            await saveAllProductsFiles();
+          }
+        }
+        
+        // Final confirmation
+        if (allScrapedProducts.length > 0) {
+          console.log(`\n✅ Final all_products files saved with ${allScrapedProducts.length} products`);
+          await appendToLog(logFilePath, `\n✅ Final all_products files saved with ${allScrapedProducts.length} products`);
         } else {
           console.log('\n❌ No products were successfully scraped');
           await appendToLog(logFilePath, '\n❌ No products were successfully scraped');
@@ -175,8 +222,8 @@ async function test1stDibsScraper() {
           category: testCategory.name,
           totalProductsFound: productLinks.length,
           productsProcessed: productLinks.length,
-          successCount: scrapedProducts.length,
-          failureCount: productLinks.length - scrapedProducts.length
+          successCount: allScrapedProducts.length,
+          failureCount: productLinks.length - allScrapedProducts.length
         };
         
         const summaryPath = path.join(sessionDir, 'summary.json');

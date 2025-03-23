@@ -1,0 +1,247 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44096192",
+  "name": "Forest Green and White Outdoor Sofa by Officina Ciani in Stainless Steel",
+  "slug": "f_44096192",
+  "price": "CA$11,725.44",
+  "description": "",
+  "image_url": "https://a.1stdibscdn.com/forest-green-and-white-outdoor-sofa-by-officina-ciani-in-stainless-steel-for-sale/f_17062/f_440961921742295153272/f_44096192_1742295153600_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/sofas/forest-green-white-outdoor-sofa-officina-ciani-stainless-steel/id-f_44096192/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 29.53 in (75 cm)",
+      "width": "Width: 51.19 in (130 cm)",
+      "depth": "Depth: 31.5 in (80 cm)"
+    },
+    "materials": [
+      "Steel",
+      "Steel"
+    ],
+    "origin": "Italy",
+    "period": "2010-",
+    "dateOfManufacture": "contemporary",
+    "condition": {
+      "rating": "New",
+      "details": null
+    },
+    "sellerLocation": "Milan, IT",
+    "referenceNumber": "Seller: CIANFI-074",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">This sofa is dominated by geometric influences and cozy, generously cushioned seat and backrest, both covered in white sunbrella Nattè fabric. A delightful addition to a modern patio or porch, its fresh character is sealed by the soft green hue (RAL 6021) chosen for the powder varnish its stainless steel structure is finished with. A captivating openwork pattern adorns the back.</span></div></div>",
+    "rawSpecificationsText": "This sofa is dominated by geometric influences and cozy, generously cushioned seat and backrest, both covered in white sunbrella Nattè fabric. A delightful addition to a modern patio or porch, its fresh character is sealed by the soft green hue (RAL 6021) chosen for the powder varnish its stainless steel structure is finished with. A captivating openwork pattern adorns the back."
+  },
+  "raw_data": {
+    "productId": "f_44096192",
+    "slug": "f_44096192",
+    "url": "https://www.1stdibs.com/furniture/seating/sofas/forest-green-white-outdoor-sofa-officina-ciani-stainless-steel/id-f_44096192/",
+    "name": "Forest Green and White Outdoor Sofa by Officina Ciani in Stainless Steel",
+    "price": "CA$11,725.44",
+    "imageUrl": "https://a.1stdibscdn.com/forest-green-and-white-outdoor-sofa-by-officina-ciani-in-stainless-steel-for-sale/f_17062/f_440961921742295153272/f_44096192_1742295153600_bg_processed.jpg",
+    "description": "",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 29.53 in (75 cm)",
+        "width": "Width: 51.19 in (130 cm)",
+        "depth": "Depth: 31.5 in (80 cm)"
+      },
+      "materials": [
+        "Steel",
+        "Steel"
+      ],
+      "origin": "Italy",
+      "period": "2010-",
+      "dateOfManufacture": "contemporary",
+      "condition": {
+        "rating": "New",
+        "details": null
+      },
+      "sellerLocation": "Milan, IT",
+      "referenceNumber": "Seller: CIANFI-074",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">This sofa is dominated by geometric influences and cozy, generously cushioned seat and backrest, both covered in white sunbrella Nattè fabric. A delightful addition to a modern patio or porch, its fresh character is sealed by the soft green hue (RAL 6021) chosen for the powder varnish its stainless steel structure is finished with. A captivating openwork pattern adorns the back.</span></div></div>",
+      "rawSpecificationsText": "This sofa is dominated by geometric influences and cozy, generously cushioned seat and backrest, both covered in white sunbrella Nattè fabric. A delightful addition to a modern patio or porch, its fresh character is sealed by the soft green hue (RAL 6021) chosen for the powder varnish its stainless steel structure is finished with. A captivating openwork pattern adorns the back."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Forest Green and White Outdoor Sofa by Officina Ciani in Stainless Steel",
+        "description": "This sofa is dominated by geometric influences and cozy, generously cushioned seat and backrest, both covered in white sunbrella Nattè fabric. A delightful addition to a modern patio or porch, its fresh character is sealed by the soft green hue (RAL 6021) chosen for the powder varnish its stainless steel structure is finished with. A captivating openwork pattern adorns the back.",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Officina Ciani",
+            "caption": "Forest Green and White Outdoor Sofa by Officina Ciani in Stainless Steel For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/forest-green-and-white-outdoor-sofa-by-officina-ciani-in-stainless-steel-for-sale/f_17062/f_440961921742295153272/f_44096192_1742295153600_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/forest-green-and-white-outdoor-sofa-by-officina-ciani-in-stainless-steel-for-sale/f_17062/f_440961921742295153272/f_44096192_1742295153600_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-18T06:55:28.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Officina Ciani",
+            "caption": "This sofa is dominated by geometric influences and cozy, generously cushioned seat and backrest, both covered in white sunbrella Nattè fabric. A delightful addition to a modern patio or porch, its fresh character is sealed by the soft green hue (RAL",
+            "contentUrl": "https://a.1stdibscdn.com/forest-green-and-white-outdoor-sofa-by-officina-ciani-in-stainless-steel-for-sale-picture-2/f_17062/f_440961921742295177372/1669884470115_MRAENY_0011_GF4037SO_20BACK_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/forest-green-and-white-outdoor-sofa-by-officina-ciani-in-stainless-steel-for-sale-picture-2/f_17062/f_440961921742295177372/1669884470115_MRAENY_0011_GF4037SO_20BACK_master.jpg?width=768",
+            "uploadDate": "2025-03-18T06:55:28.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Officina Ciani",
+            "caption": "Italian Forest Green and White Outdoor Sofa by Officina Ciani in Stainless Steel For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/forest-green-and-white-outdoor-sofa-by-officina-ciani-in-stainless-steel-for-sale-picture-3/f_17062/f_440961921742295177855/1669884465908_MRAENY_0012_GF4037SO_20_202_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/forest-green-and-white-outdoor-sofa-by-officina-ciani-in-stainless-steel-for-sale-picture-3/f_17062/f_440961921742295177855/1669884465908_MRAENY_0012_GF4037SO_20_202_master.jpg?width=768",
+            "uploadDate": "2025-03-18T06:55:28.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Officina Ciani",
+            "caption": "Forest Green and White Outdoor Sofa by Officina Ciani in Stainless Steel In New Condition For Sale In Milan, IT",
+            "contentUrl": "https://a.1stdibscdn.com/forest-green-and-white-outdoor-sofa-by-officina-ciani-in-stainless-steel-for-sale-picture-4/f_17062/f_440961921742295177781/1669884453316_MRAENY_0008_0003_GF4037SO_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/forest-green-and-white-outdoor-sofa-by-officina-ciani-in-stainless-steel-for-sale-picture-4/f_17062/f_440961921742295177781/1669884453316_MRAENY_0008_0003_GF4037SO_master.jpg?width=768",
+            "uploadDate": "2025-03-18T06:55:28.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Officina Ciani",
+            "caption": "Contemporary Forest Green and White Outdoor Sofa by Officina Ciani in Stainless Steel For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/forest-green-and-white-outdoor-sofa-by-officina-ciani-in-stainless-steel-for-sale-picture-5/f_17062/f_440961921742295201928/1669884470115_MRAENY_0011_GF4037SO_20BACK_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/forest-green-and-white-outdoor-sofa-by-officina-ciani-in-stainless-steel-for-sale-picture-5/f_17062/f_440961921742295201928/1669884470115_MRAENY_0011_GF4037SO_20BACK_master.jpg?width=768",
+            "uploadDate": "2025-03-18T06:55:28.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Officina Ciani",
+            "caption": "Forest Green and White Outdoor Sofa by Officina Ciani in Stainless Steel For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/forest-green-and-white-outdoor-sofa-by-officina-ciani-in-stainless-steel-for-sale-picture-6/f_17062/f_440961921742295202206/1669884465908_MRAENY_0012_GF4037SO_20_202_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/forest-green-and-white-outdoor-sofa-by-officina-ciani-in-stainless-steel-for-sale-picture-6/f_17062/f_440961921742295202206/1669884465908_MRAENY_0012_GF4037SO_20_202_master.jpg?width=768",
+            "uploadDate": "2025-03-18T06:55:28.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/NewCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/sofas/forest-green-white-outdoor-sofa-officina-ciani-stainless-steel/id-f_44096192/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 12959.08,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 7186.14,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 164532.55,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 7474.17,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 6292.59,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 56074.98,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 7970,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 11725.44,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 82410.86,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 85938.69,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 4.8,
+          "reviewCount": 105
+        },
+        "productionDate": "2010-",
+        "category": "Sofas",
+        "brand": {
+          "@type": "Brand",
+          "name": "Officina Ciani"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Sofas",
+              "@id": "/furniture/seating/sofas/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

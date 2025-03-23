@@ -1,0 +1,247 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44096002",
+  "name": "Marina Kummell Outdoor Armchair Limited Edition in Stainless Steel by Officina C",
+  "slug": "f_44096002",
+  "price": "CA$10,923.64",
+  "description": "",
+  "image_url": "https://a.1stdibscdn.com/marina-kummell-outdoor-armchair-limited-edition-in-stainless-steel-by-officina-c-for-sale/f_17062/f_440960021742294336907/f_44096002_1742294337285_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/armchairs/marina-kummell-outdoor-armchair-limited-edition-stainless-steel-officina-c/id-f_44096002/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 29.93 in (76 cm)",
+      "width": "Width: 31.5 in (80 cm)",
+      "depth": "Depth: 32.29 in (82 cm)"
+    },
+    "materials": [
+      "Steel",
+      "Steel"
+    ],
+    "origin": "Italy",
+    "period": "2010-",
+    "dateOfManufacture": "contemporary",
+    "condition": {
+      "rating": "New",
+      "details": null
+    },
+    "sellerLocation": "Milan, IT",
+    "referenceNumber": "Seller: CIANFI-076",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">The Marina Armchair is crafted from stainless steel for a traditional look, inspired by classic Florentine designs. Specially crafted for outdoor use, this chair is upholstered in Loro Piana dehors St Raphael Kummel fabric. The frame in a black hole finish, is galvanized and powder-coated for optimal resistance. This an easy way to revamp a patio, garden, terrace, or courtyard.</span></div></div>",
+    "rawSpecificationsText": "The Marina Armchair is crafted from stainless steel for a traditional look, inspired by classic Florentine designs. Specially crafted for outdoor use, this chair is upholstered in Loro Piana dehors St Raphael Kummel fabric. The frame in a black hole finish, is galvanized and powder-coated for optimal resistance. This an easy way to revamp a patio, garden, terrace, or courtyard."
+  },
+  "raw_data": {
+    "productId": "f_44096002",
+    "slug": "f_44096002",
+    "url": "https://www.1stdibs.com/furniture/seating/armchairs/marina-kummell-outdoor-armchair-limited-edition-stainless-steel-officina-c/id-f_44096002/",
+    "name": "Marina Kummell Outdoor Armchair Limited Edition in Stainless Steel by Officina C",
+    "price": "CA$10,923.64",
+    "imageUrl": "https://a.1stdibscdn.com/marina-kummell-outdoor-armchair-limited-edition-in-stainless-steel-by-officina-c-for-sale/f_17062/f_440960021742294336907/f_44096002_1742294337285_bg_processed.jpg",
+    "description": "",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 29.93 in (76 cm)",
+        "width": "Width: 31.5 in (80 cm)",
+        "depth": "Depth: 32.29 in (82 cm)"
+      },
+      "materials": [
+        "Steel",
+        "Steel"
+      ],
+      "origin": "Italy",
+      "period": "2010-",
+      "dateOfManufacture": "contemporary",
+      "condition": {
+        "rating": "New",
+        "details": null
+      },
+      "sellerLocation": "Milan, IT",
+      "referenceNumber": "Seller: CIANFI-076",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">The Marina Armchair is crafted from stainless steel for a traditional look, inspired by classic Florentine designs. Specially crafted for outdoor use, this chair is upholstered in Loro Piana dehors St Raphael Kummel fabric. The frame in a black hole finish, is galvanized and powder-coated for optimal resistance. This an easy way to revamp a patio, garden, terrace, or courtyard.</span></div></div>",
+      "rawSpecificationsText": "The Marina Armchair is crafted from stainless steel for a traditional look, inspired by classic Florentine designs. Specially crafted for outdoor use, this chair is upholstered in Loro Piana dehors St Raphael Kummel fabric. The frame in a black hole finish, is galvanized and powder-coated for optimal resistance. This an easy way to revamp a patio, garden, terrace, or courtyard."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Marina Kummell Outdoor Armchair Limited Edition in Stainless Steel by Officina C",
+        "description": "The Marina Armchair is crafted from stainless steel for a traditional look, inspired by classic Florentine designs. Specially crafted for outdoor use, this chair is upholstered in Loro Piana dehors St Raphael Kummel fabric. The frame in a black hole finish, is galvanized and powder-coated for optimal resistance. This an easy way to revamp a patio, garden, terrace, or courtyard.",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Officina Ciani",
+            "caption": "Marina Kummell Outdoor Armchair Limited Edition in Stainless Steel by Officina C For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/marina-kummell-outdoor-armchair-limited-edition-in-stainless-steel-by-officina-c-for-sale/f_17062/f_440960021742294336907/f_44096002_1742294337285_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/marina-kummell-outdoor-armchair-limited-edition-in-stainless-steel-by-officina-c-for-sale/f_17062/f_440960021742294336907/f_44096002_1742294337285_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-18T06:41:58.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Officina Ciani",
+            "caption": "The Marina Armchair is crafted from stainless steel for a traditional look, inspired by classic Florentine designs. Specially crafted for outdoor use, this chair is upholstered in Loro Piana dehors St Raphael Kummel fabric. The frame in a black hole",
+            "contentUrl": "https://a.1stdibscdn.com/marina-kummell-outdoor-armchair-limited-edition-in-stainless-steel-by-officina-c-for-sale-picture-2/f_17062/f_440960021742294352891/1711701390272_ARTSNY_0000_OFFICINA_20CIANI_002_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/marina-kummell-outdoor-armchair-limited-edition-in-stainless-steel-by-officina-c-for-sale-picture-2/f_17062/f_440960021742294352891/1711701390272_ARTSNY_0000_OFFICINA_20CIANI_002_master.jpg?width=768",
+            "uploadDate": "2025-03-18T06:41:58.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Officina Ciani",
+            "caption": "Italian Marina Kummell Outdoor Armchair Limited Edition in Stainless Steel by Officina C For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/marina-kummell-outdoor-armchair-limited-edition-in-stainless-steel-by-officina-c-for-sale-picture-3/f_17062/f_440960021742294372087/1711701390272_ARTSNY_0000_OFFICINA_20CIANI_002_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/marina-kummell-outdoor-armchair-limited-edition-in-stainless-steel-by-officina-c-for-sale-picture-3/f_17062/f_440960021742294372087/1711701390272_ARTSNY_0000_OFFICINA_20CIANI_002_master.jpg?width=768",
+            "uploadDate": "2025-03-18T06:41:58.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Officina Ciani",
+            "caption": "Marina Kummell Outdoor Armchair Limited Edition in Stainless Steel by Officina C In New Condition For Sale In Milan, IT",
+            "contentUrl": "https://a.1stdibscdn.com/marina-kummell-outdoor-armchair-limited-edition-in-stainless-steel-by-officina-c-for-sale-picture-4/f_17062/f_440960021742294391215/1711701390272_ARTSNY_0000_OFFICINA_20CIANI_002_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/marina-kummell-outdoor-armchair-limited-edition-in-stainless-steel-by-officina-c-for-sale-picture-4/f_17062/f_440960021742294391215/1711701390272_ARTSNY_0000_OFFICINA_20CIANI_002_master.jpg?width=768",
+            "uploadDate": "2025-03-18T06:41:58.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Officina Ciani",
+            "caption": "Contemporary Marina Kummell Outdoor Armchair Limited Edition in Stainless Steel by Officina C For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/marina-kummell-outdoor-armchair-limited-edition-in-stainless-steel-by-officina-c-for-sale-picture-5/f_17062/f_440960021742294401032/1711701390272_ARTSNY_0000_OFFICINA_20CIANI_002_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/marina-kummell-outdoor-armchair-limited-edition-in-stainless-steel-by-officina-c-for-sale-picture-5/f_17062/f_440960021742294401032/1711701390272_ARTSNY_0000_OFFICINA_20CIANI_002_master.jpg?width=768",
+            "uploadDate": "2025-03-18T06:41:58.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Officina Ciani",
+            "caption": "Marina Kummell Outdoor Armchair Limited Edition in Stainless Steel by Officina C For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/marina-kummell-outdoor-armchair-limited-edition-in-stainless-steel-by-officina-c-for-sale-picture-6/f_17062/f_440960021742294412626/1711701390272_ARTSNY_0000_OFFICINA_20CIANI_002_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/marina-kummell-outdoor-armchair-limited-edition-in-stainless-steel-by-officina-c-for-sale-picture-6/f_17062/f_440960021742294412626/1711701390272_ARTSNY_0000_OFFICINA_20CIANI_002_master.jpg?width=768",
+            "uploadDate": "2025-03-18T06:41:58.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/NewCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/armchairs/marina-kummell-outdoor-armchair-limited-edition-stainless-steel-officina-c/id-f_44096002/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 12072.92,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 6694.74,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 153281.58,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 6963.08,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 5862.3,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 52240.49,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 7425,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 10923.64,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 76775.49,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 80062.08,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 4.8,
+          "reviewCount": 105
+        },
+        "productionDate": "2010-",
+        "category": "Armchairs",
+        "brand": {
+          "@type": "Brand",
+          "name": "Officina Ciani"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Armchairs",
+              "@id": "/furniture/seating/armchairs/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

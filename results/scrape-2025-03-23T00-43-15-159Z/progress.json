@@ -1,0 +1,11 @@
+{
+  "total": 215,
+  "completed": 29,
+  "success": 23,
+  "failure": 6,
+  "percent": 13,
+  "elapsedSeconds": "39.6",
+  "remainingSeconds": "254.1",
+  "estimatedTotalSeconds": "293.7",
+  "itemsPerSecond": "0.73"
+}
