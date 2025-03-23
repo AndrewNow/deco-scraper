@@ -1,0 +1,380 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_43071652",
+  "name": "Early 19th Century Mahogany Daybed",
+  "slug": "f_43071652",
+  "price": "CA$48,005.12",
+  "description": "f_43071652",
+  "image_url": "https://a.1stdibscdn.com/early-19th-century-mahogany-daybed-for-sale/f_58042/f_430716521736342359001/f_43071652_1736342360512_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/day-beds/early-19th-century-mahogany-daybed/id-f_43071652/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 41.74 in (106 cm)",
+      "width": "Width: 86.62 in (220 cm)",
+      "depth": "Depth: 51.58 in (131 cm)",
+      "seatHeight": "Seat Height: 17.72 in (45 cm)"
+    },
+    "style": "Empire (Of the Period)",
+    "materials": [
+      "Bronze",
+      "Mahogany",
+      "Bronze",
+      "Mahogany"
+    ],
+    "origin": "France",
+    "period": "Early 19th Century",
+    "dateOfManufacture": "c. 1805",
+    "condition": {
+      "rating": "Good",
+      "details": "Wear consistent with age and use."
+    },
+    "sellerLocation": "Paris, FR",
+    "referenceNumber": "1stDibs: LU5804243071652",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Mahogany sleigh bed, circa 1805, by Jacob Frères and designed by the architect Louis-Martin Berthault.\n\nThis rare model, practically identical to one made for Madame Récamier (See documentation), exemplifies French Empire elegance with sculpted winged swans and gilt bronze mounts.\n\nAnother comparable piece resides in the Louvre, underscoring its historical importance.\n\nDocumentation: “Les ébénistes du XIXeme Siècle” by Denise Ledoux-Lebard- Page 318</span></div></div>",
+    "rawSpecificationsText": "Mahogany sleigh bed, circa 1805, by Jacob Frères and designed by the architect Louis-Martin Berthault.\n\nThis rare model, practically identical to one made for Madame Récamier (See documentation), exemplifies French Empire elegance with sculpted winged swans and gilt bronze mounts.\n\nAnother comparable piece resides in the Louvre, underscoring its historical importance.\n\nDocumentation: “Les ébénistes du XIXeme Siècle” by Denise Ledoux-Lebard- Page 318"
+  },
+  "raw_data": {
+    "productId": "f_43071652",
+    "slug": "f_43071652",
+    "url": "https://www.1stdibs.com/furniture/seating/day-beds/early-19th-century-mahogany-daybed/id-f_43071652/",
+    "name": "Early 19th Century Mahogany Daybed",
+    "price": "CA$48,005.12",
+    "imageUrl": "https://a.1stdibscdn.com/early-19th-century-mahogany-daybed-for-sale/f_58042/f_430716521736342359001/f_43071652_1736342360512_bg_processed.jpg",
+    "description": "f_43071652",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 41.74 in (106 cm)",
+        "width": "Width: 86.62 in (220 cm)",
+        "depth": "Depth: 51.58 in (131 cm)",
+        "seatHeight": "Seat Height: 17.72 in (45 cm)"
+      },
+      "style": "Empire (Of the Period)",
+      "materials": [
+        "Bronze",
+        "Mahogany",
+        "Bronze",
+        "Mahogany"
+      ],
+      "origin": "France",
+      "period": "Early 19th Century",
+      "dateOfManufacture": "c. 1805",
+      "condition": {
+        "rating": "Good",
+        "details": "Wear consistent with age and use."
+      },
+      "sellerLocation": "Paris, FR",
+      "referenceNumber": "1stDibs: LU5804243071652",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Mahogany sleigh bed, circa 1805, by Jacob Frères and designed by the architect Louis-Martin Berthault.\n\nThis rare model, practically identical to one made for Madame Récamier (See documentation), exemplifies French Empire elegance with sculpted winged swans and gilt bronze mounts.\n\nAnother comparable piece resides in the Louvre, underscoring its historical importance.\n\nDocumentation: “Les ébénistes du XIXeme Siècle” by Denise Ledoux-Lebard- Page 318</span></div></div>",
+      "rawSpecificationsText": "Mahogany sleigh bed, circa 1805, by Jacob Frères and designed by the architect Louis-Martin Berthault.\n\nThis rare model, practically identical to one made for Madame Récamier (See documentation), exemplifies French Empire elegance with sculpted winged swans and gilt bronze mounts.\n\nAnother comparable piece resides in the Louvre, underscoring its historical importance.\n\nDocumentation: “Les ébénistes du XIXeme Siècle” by Denise Ledoux-Lebard- Page 318"
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Early 19th Century Mahogany Daybed",
+        "description": "Mahogany sleigh bed, circa 1805, by Jacob Frères and designed by the architect Louis-Martin Berthault.\n\nThis rare model, practically identical to one made for Madame Récamier (See documentation), exemplifies French Empire elegance with sculpted winged swans and gilt bronze mounts.\n\nAnother comparable piece resides in the Louvre, underscoring its historical importance.\n\nDocumentation: “Les ébénistes du XIXeme Siècle” by Denise Ledoux-Lebard- Page 318",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Jacob Freres Rue Meslée",
+            "caption": "Early 19th Century Mahogany Daybed For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/early-19th-century-mahogany-daybed-for-sale/f_58042/f_430716521736342359001/f_43071652_1736342360512_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/early-19th-century-mahogany-daybed-for-sale/f_58042/f_430716521736342359001/f_43071652_1736342360512_bg_processed.jpg?width=768",
+            "uploadDate": "2025-01-08T08:36:10.000-05:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Jacob Freres Rue Meslée",
+            "caption": "Mahogany sleigh bed, circa 1805, by Jacob Frères and designed by the architect Louis-Martin Berthault.\n\nThis rare model, practically identical to one made for Madame Récamier (See documentation), exemplifies French Empire elegance with sculpted",
+            "contentUrl": "https://a.1stdibscdn.com/early-19th-century-mahogany-daybed-for-sale-picture-2/f_58042/f_43071652/IMG_1736342528655_master.JPG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/early-19th-century-mahogany-daybed-for-sale-picture-2/f_58042/f_43071652/IMG_1736342528655_master.JPG?width=768",
+            "uploadDate": "2025-01-08T08:36:10.000-05:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Jacob Freres Rue Meslée",
+            "caption": "Empire Early 19th Century Mahogany Daybed For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/early-19th-century-mahogany-daybed-for-sale-picture-3/f_58042/f_430716521736342465107/IMG_1379_2_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/early-19th-century-mahogany-daybed-for-sale-picture-3/f_58042/f_430716521736342465107/IMG_1379_2_master.jpg?width=768",
+            "uploadDate": "2025-01-08T08:36:10.000-05:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Jacob Freres Rue Meslée",
+            "caption": "French Early 19th Century Mahogany Daybed For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/early-19th-century-mahogany-daybed-for-sale-picture-4/f_58042/f_430716521736342468570/IMG_1380_master.JPG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/early-19th-century-mahogany-daybed-for-sale-picture-4/f_58042/f_430716521736342468570/IMG_1380_master.JPG?width=768",
+            "uploadDate": "2025-01-08T08:36:10.000-05:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Jacob Freres Rue Meslée",
+            "caption": "Carved Early 19th Century Mahogany Daybed For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/early-19th-century-mahogany-daybed-for-sale-picture-5/f_58042/f_430716521736342466765/IMG_1382_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/early-19th-century-mahogany-daybed-for-sale-picture-5/f_58042/f_430716521736342466765/IMG_1382_master.jpg?width=768",
+            "uploadDate": "2025-01-08T08:36:10.000-05:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Jacob Freres Rue Meslée",
+            "caption": "Early 19th Century Mahogany Daybed In Good Condition For Sale In Paris, FR",
+            "contentUrl": "https://a.1stdibscdn.com/early-19th-century-mahogany-daybed-for-sale-picture-6/f_58042/f_43071652/IMG_1736342540703_master.JPG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/early-19th-century-mahogany-daybed-for-sale-picture-6/f_58042/f_43071652/IMG_1736342540703_master.JPG?width=768",
+            "uploadDate": "2025-01-08T08:36:10.000-05:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Jacob Freres Rue Meslée",
+            "caption": "Bronze Early 19th Century Mahogany Daybed For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/early-19th-century-mahogany-daybed-for-sale-picture-7/f_58042/f_430716521736342509720/IMG_1391_2_master.JPG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/early-19th-century-mahogany-daybed-for-sale-picture-7/f_58042/f_430716521736342509720/IMG_1391_2_master.JPG?width=768",
+            "uploadDate": "2025-01-08T08:36:10.000-05:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Jacob Freres Rue Meslée",
+            "caption": "Early 19th Century Mahogany Daybed For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/early-19th-century-mahogany-daybed-for-sale-picture-8/f_58042/f_430716521736342468038/IMG_1390_2_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/early-19th-century-mahogany-daybed-for-sale-picture-8/f_58042/f_430716521736342468038/IMG_1390_2_master.jpg?width=768",
+            "uploadDate": "2025-01-08T08:36:10.000-05:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Jacob Freres Rue Meslée",
+            "caption": "Early 19th Century Mahogany Daybed For Sale 2",
+            "contentUrl": "https://a.1stdibscdn.com/early-19th-century-mahogany-daybed-for-sale-picture-9/f_58042/f_43071652/IMG_1397_1736342608793_master.JPG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/early-19th-century-mahogany-daybed-for-sale-picture-9/f_58042/f_43071652/IMG_1397_1736342608793_master.JPG?width=768",
+            "uploadDate": "2025-01-08T08:36:10.000-05:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Jacob Freres Rue Meslée",
+            "caption": "Early 19th Century Mahogany Daybed For Sale 3",
+            "contentUrl": "https://a.1stdibscdn.com/early-19th-century-mahogany-daybed-for-sale-picture-10/f_58042/f_430716521736342469034/IMG_1376_2_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/early-19th-century-mahogany-daybed-for-sale-picture-10/f_58042/f_430716521736342469034/IMG_1376_2_master.jpg?width=768",
+            "uploadDate": "2025-01-08T08:36:10.000-05:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Jacob Freres Rue Meslée",
+            "caption": "Early 19th Century Mahogany Daybed For Sale 4",
+            "contentUrl": "https://a.1stdibscdn.com/early-19th-century-mahogany-daybed-for-sale-picture-11/f_58042/f_43071652/IMG_1373_1736342617509_master.JPG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/early-19th-century-mahogany-daybed-for-sale-picture-11/f_58042/f_43071652/IMG_1373_1736342617509_master.JPG?width=768",
+            "uploadDate": "2025-01-08T08:36:10.000-05:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Jacob Freres Rue Meslée",
+            "caption": "Early 19th Century Mahogany Daybed For Sale 5",
+            "contentUrl": "https://a.1stdibscdn.com/early-19th-century-mahogany-daybed-for-sale-picture-12/f_58042/f_43071652/IMG_1371_1736342624123_master.JPG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/early-19th-century-mahogany-daybed-for-sale-picture-12/f_58042/f_43071652/IMG_1371_1736342624123_master.JPG?width=768",
+            "uploadDate": "2025-01-08T08:36:10.000-05:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Jacob Freres Rue Meslée",
+            "caption": "Early 19th Century Mahogany Daybed For Sale 6",
+            "contentUrl": "https://a.1stdibscdn.com/early-19th-century-mahogany-daybed-for-sale-picture-13/f_58042/f_430716521736342471526/IMG_1369_2_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/early-19th-century-mahogany-daybed-for-sale-picture-13/f_58042/f_430716521736342471526/IMG_1369_2_master.jpg?width=768",
+            "uploadDate": "2025-01-08T08:36:10.000-05:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Jacob Freres Rue Meslée",
+            "caption": "Early 19th Century Mahogany Daybed For Sale 7",
+            "contentUrl": "https://a.1stdibscdn.com/early-19th-century-mahogany-daybed-for-sale-picture-14/f_58042/f_430716521736342472716/IMG_1356_2_master.JPG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/early-19th-century-mahogany-daybed-for-sale-picture-14/f_58042/f_430716521736342472716/IMG_1356_2_master.JPG?width=768",
+            "uploadDate": "2025-01-08T08:36:10.000-05:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Jacob Freres Rue Meslée",
+            "caption": "Early 19th Century Mahogany Daybed For Sale 8",
+            "contentUrl": "https://a.1stdibscdn.com/early-19th-century-mahogany-daybed-for-sale-picture-15/f_58042/f_43071652/IMG_1351_1736342632538_master.JPG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/early-19th-century-mahogany-daybed-for-sale-picture-15/f_58042/f_43071652/IMG_1351_1736342632538_master.JPG?width=768",
+            "uploadDate": "2025-01-08T08:36:10.000-05:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Jacob Freres Rue Meslée",
+            "caption": "Early 19th Century Mahogany Daybed For Sale 9",
+            "contentUrl": "https://a.1stdibscdn.com/early-19th-century-mahogany-daybed-for-sale-picture-16/f_58042/f_43071652/IMG_1342_1736342640150_master.JPG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/early-19th-century-mahogany-daybed-for-sale-picture-16/f_58042/f_43071652/IMG_1342_1736342640150_master.JPG?width=768",
+            "uploadDate": "2025-01-08T08:36:10.000-05:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Jacob Freres Rue Meslée",
+            "caption": "Early 19th Century Mahogany Daybed For Sale 10",
+            "contentUrl": "https://a.1stdibscdn.com/early-19th-century-mahogany-daybed-for-sale-picture-17/f_58042/f_430716521736342472485/IMG_1338_2_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/early-19th-century-mahogany-daybed-for-sale-picture-17/f_58042/f_430716521736342472485/IMG_1338_2_master.jpg?width=768",
+            "uploadDate": "2025-01-08T08:36:10.000-05:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Jacob Freres Rue Meslée",
+            "caption": "Early 19th Century Mahogany Daybed For Sale 11",
+            "contentUrl": "https://a.1stdibscdn.com/early-19th-century-mahogany-daybed-for-sale-picture-18/f_58042/f_430716521736342710133/tempImageZZfoxc_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/early-19th-century-mahogany-daybed-for-sale-picture-18/f_58042/f_430716521736342710133/tempImageZZfoxc_master.jpg?width=768",
+            "uploadDate": "2025-01-08T08:36:10.000-05:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Jacob Freres Rue Meslée",
+            "caption": "Early 19th Century Mahogany Daybed For Sale 12",
+            "contentUrl": "https://a.1stdibscdn.com/early-19th-century-mahogany-daybed-for-sale-picture-19/f_58042/f_430716521736342687082/tempImageTtCsc2_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/early-19th-century-mahogany-daybed-for-sale-picture-19/f_58042/f_430716521736342687082/tempImageTtCsc2_master.jpg?width=768",
+            "uploadDate": "2025-01-08T08:36:10.000-05:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/UsedCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/day-beds/early-19th-century-mahogany-daybed/id-f_43071652/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 29420.77,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 53055.75,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 673612.7,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 30000,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 25762.51,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 229576.55,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 33282.58,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 48005.12,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 337398.28,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 351841.59,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "productionDate": "Early 19th Century",
+        "category": "Daybeds",
+        "brand": {
+          "@type": "Brand",
+          "name": "Jacob Freres Rue Meslée"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Daybeds",
+              "@id": "/furniture/seating/day-beds/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

@@ -26,3 +26,432 @@ Progress: 4% (8/218), Success: 8, Failed: 0, Time elapsed: 17.3s
 Progress: 4% (9/218), Success: 9, Failed: 0, Time elapsed: 17.6s
 ✅ Product 8: Saved to product_8.json
 Progress: 5% (10/218), Success: 10, Failed: 0, Time elapsed: 19.6s
+✅ Product 13: Saved to product_13.json
+Progress: 5% (11/218), Success: 11, Failed: 0, Time elapsed: 33.4s
+✅ Product 15: Saved to product_15.json
+✅ Product 12: Saved to product_12.json
+Progress: 6% (12/218), Success: 13, Failed: 0, Time elapsed: 33.5s
+Progress: 6% (13/218), Success: 13, Failed: 0, Time elapsed: 33.5s
+✅ Product 11: Saved to product_11.json
+Progress: 6% (14/218), Success: 14, Failed: 0, Time elapsed: 34.3s
+✅ Product 14: Saved to product_14.json
+Progress: 7% (15/218), Success: 15, Failed: 0, Time elapsed: 35.1s
+✅ Product 18: Saved to product_18.json
+Progress: 7% (16/218), Success: 16, Failed: 0, Time elapsed: 35.8s
+✅ Product 19: Saved to product_19.json
+Progress: 8% (17/218), Success: 17, Failed: 0, Time elapsed: 39.2s
+✅ Product 16: Saved to product_16.json
+Progress: 8% (18/218), Success: 18, Failed: 0, Time elapsed: 39.3s
+✅ Product 20: Saved to product_20.json
+✅ Product 17: Saved to product_17.json
+Progress: 9% (19/218), Success: 20, Failed: 0, Time elapsed: 44.9s
+Progress: 9% (20/218), Success: 20, Failed: 0, Time elapsed: 44.9s
+✅ Product 24: Saved to product_24.json
+Progress: 10% (21/218), Success: 21, Failed: 0, Time elapsed: 48.2s
+✅ Product 22: Saved to product_22.json
+Progress: 10% (22/218), Success: 22, Failed: 0, Time elapsed: 49.8s
+✅ Product 21: Saved to product_21.json
+Progress: 11% (23/218), Success: 23, Failed: 0, Time elapsed: 50.5s
+✅ Product 23: Saved to product_23.json
+Progress: 11% (24/218), Success: 24, Failed: 0, Time elapsed: 52.5s
+✅ Product 28: Saved to product_28.json
+Progress: 11% (25/218), Success: 25, Failed: 0, Time elapsed: 52.7s
+✅ Product 25: Saved to product_25.json
+Progress: 12% (26/218), Success: 26, Failed: 0, Time elapsed: 52.9s
+✅ Product 26: Saved to product_26.json
+Progress: 12% (27/218), Success: 27, Failed: 0, Time elapsed: 53.2s
+✅ Product 27: Saved to product_27.json
+Progress: 13% (28/218), Success: 28, Failed: 0, Time elapsed: 64.3s
+✅ Product 29: Saved to product_29.json
+Progress: 13% (29/218), Success: 29, Failed: 0, Time elapsed: 67.6s
+✅ Product 30: Saved to product_30.json
+Progress: 14% (30/218), Success: 30, Failed: 0, Time elapsed: 67.8s
+✅ Product 32: Saved to product_32.json
+✅ Product 31: Saved to product_31.json
+Progress: 14% (31/218), Success: 32, Failed: 0, Time elapsed: 68.3s
+Progress: 15% (32/218), Success: 32, Failed: 0, Time elapsed: 68.4s
+✅ Product 34: Saved to product_34.json
+Progress: 15% (33/218), Success: 33, Failed: 0, Time elapsed: 76.0s
+✅ Product 33: Saved to product_33.json
+Progress: 16% (34/218), Success: 34, Failed: 0, Time elapsed: 76.5s
+✅ Product 36: Saved to product_36.json
+✅ Product 37: Saved to product_37.json
+Progress: 16% (35/218), Success: 36, Failed: 0, Time elapsed: 76.7s
+Progress: 17% (36/218), Success: 36, Failed: 0, Time elapsed: 76.8s
+✅ Product 35: Saved to product_35.json
+Progress: 17% (37/218), Success: 37, Failed: 0, Time elapsed: 76.9s
+✅ Product 40: Saved to product_40.json
+Progress: 17% (38/218), Success: 38, Failed: 0, Time elapsed: 78.4s
+✅ Product 38: Saved to product_38.json
+Progress: 18% (39/218), Success: 39, Failed: 0, Time elapsed: 78.7s
+✅ Product 39: Saved to product_39.json
+Progress: 18% (40/218), Success: 40, Failed: 0, Time elapsed: 86.2s
+✅ Product 41: Saved to product_41.json
+Progress: 19% (41/218), Success: 41, Failed: 0, Time elapsed: 87.6s
+✅ Product 42: Saved to product_42.json
+Progress: 19% (42/218), Success: 42, Failed: 0, Time elapsed: 89.9s
+✅ Product 43: Saved to product_43.json
+Progress: 20% (43/218), Success: 43, Failed: 0, Time elapsed: 90.2s
+✅ Product 44: Saved to product_44.json
+Progress: 20% (44/218), Success: 44, Failed: 0, Time elapsed: 91.2s
+✅ Product 47: Saved to product_47.json
+Progress: 21% (45/218), Success: 45, Failed: 0, Time elapsed: 91.8s
+✅ Product 45: Saved to product_45.json
+Progress: 21% (46/218), Success: 46, Failed: 0, Time elapsed: 92.0s
+✅ Product 49: Saved to product_49.json
+✅ Product 46: Saved to product_46.json
+Progress: 22% (47/218), Success: 48, Failed: 0, Time elapsed: 93.5s
+Progress: 22% (48/218), Success: 48, Failed: 0, Time elapsed: 93.8s
+✅ Product 48: Saved to product_48.json
+Progress: 22% (49/218), Success: 49, Failed: 0, Time elapsed: 94.2s
+✅ Product 50: Saved to product_50.json
+Progress: 23% (50/218), Success: 50, Failed: 0, Time elapsed: 100.4s
+✅ Product 52: Saved to product_52.json
+✅ Product 51: Saved to product_51.json
+Progress: 23% (51/218), Success: 52, Failed: 0, Time elapsed: 102.8s
+Progress: 24% (52/218), Success: 52, Failed: 0, Time elapsed: 102.8s
+✅ Product 53: Saved to product_53.json
+Progress: 24% (53/218), Success: 53, Failed: 0, Time elapsed: 105.3s
+✅ Product 56: Saved to product_56.json
+✅ Product 55: Saved to product_55.json
+✅ Product 54: Saved to product_54.json
+Progress: 25% (54/218), Success: 56, Failed: 0, Time elapsed: 110.7s
+✅ Product 58: Saved to product_58.json
+Progress: 25% (55/218), Success: 57, Failed: 0, Time elapsed: 110.7s
+Progress: 26% (56/218), Success: 57, Failed: 0, Time elapsed: 110.9s
+Progress: 26% (57/218), Success: 57, Failed: 0, Time elapsed: 110.9s
+✅ Product 57: Saved to product_57.json
+Progress: 27% (58/218), Success: 58, Failed: 0, Time elapsed: 111.0s
+✅ Product 59: Saved to product_59.json
+Progress: 27% (59/218), Success: 59, Failed: 0, Time elapsed: 112.0s
+✅ Product 60: Saved to product_60.json
+Progress: 28% (60/218), Success: 60, Failed: 0, Time elapsed: 116.6s
+✅ Product 65: Saved to product_65.json
+Progress: 28% (61/218), Success: 61, Failed: 0, Time elapsed: 118.9s
+✅ Product 61: Saved to product_61.json
+✅ Product 63: Saved to product_63.json
+Progress: 28% (62/218), Success: 63, Failed: 0, Time elapsed: 120.8s
+Progress: 29% (63/218), Success: 63, Failed: 0, Time elapsed: 120.8s
+✅ Product 62: Saved to product_62.json
+Progress: 29% (64/218), Success: 64, Failed: 0, Time elapsed: 121.0s
+✅ Product 68: Saved to product_68.json
+Progress: 30% (65/218), Success: 65, Failed: 0, Time elapsed: 122.3s
+✅ Product 64: Saved to product_64.json
+Progress: 30% (66/218), Success: 66, Failed: 0, Time elapsed: 123.3s
+✅ Product 66: Saved to product_66.json
+✅ Product 67: Saved to product_67.json
+Progress: 31% (67/218), Success: 68, Failed: 0, Time elapsed: 126.4s
+Progress: 31% (68/218), Success: 68, Failed: 0, Time elapsed: 126.5s
+✅ Product 70: Saved to product_70.json
+Progress: 32% (69/218), Success: 69, Failed: 0, Time elapsed: 129.1s
+✅ Product 69: Saved to product_69.json
+Progress: 32% (70/218), Success: 70, Failed: 0, Time elapsed: 129.3s
+✅ Product 71: Saved to product_71.json
+Progress: 33% (71/218), Success: 71, Failed: 0, Time elapsed: 132.5s
+✅ Product 72: Saved to product_72.json
+✅ Product 76: Saved to product_76.json
+Progress: 33% (72/218), Success: 73, Failed: 0, Time elapsed: 134.7s
+Progress: 33% (73/218), Success: 73, Failed: 0, Time elapsed: 134.8s
+✅ Product 75: Saved to product_75.json
+✅ Product 74: Saved to product_74.json
+Progress: 34% (74/218), Success: 75, Failed: 0, Time elapsed: 135.2s
+Progress: 34% (75/218), Success: 75, Failed: 0, Time elapsed: 135.3s
+✅ Product 73: Saved to product_73.json
+Progress: 35% (76/218), Success: 76, Failed: 0, Time elapsed: 137.1s
+✅ Product 77: Saved to product_77.json
+Progress: 35% (77/218), Success: 77, Failed: 0, Time elapsed: 140.5s
+✅ Product 78: Saved to product_78.json
+Progress: 36% (78/218), Success: 78, Failed: 0, Time elapsed: 141.4s
+✅ Product 79: Saved to product_79.json
+Progress: 36% (79/218), Success: 79, Failed: 0, Time elapsed: 142.7s
+✅ Product 81: Saved to product_81.json
+Progress: 37% (80/218), Success: 80, Failed: 0, Time elapsed: 144.8s
+✅ Product 80: Saved to product_80.json
+Progress: 37% (81/218), Success: 81, Failed: 0, Time elapsed: 145.2s
+✅ Product 82: Saved to product_82.json
+Progress: 38% (82/218), Success: 82, Failed: 0, Time elapsed: 147.2s
+✅ Product 84: Saved to product_84.json
+Progress: 38% (83/218), Success: 83, Failed: 0, Time elapsed: 150.8s
+✅ Product 85: Saved to product_85.json
+Progress: 39% (84/218), Success: 84, Failed: 0, Time elapsed: 151.0s
+✅ Product 86: Saved to product_86.json
+✅ Product 83: Saved to product_83.json
+Progress: 39% (85/218), Success: 86, Failed: 0, Time elapsed: 156.0s
+Progress: 39% (86/218), Success: 86, Failed: 0, Time elapsed: 156.0s
+✅ Product 87: Saved to product_87.json
+Progress: 40% (87/218), Success: 87, Failed: 0, Time elapsed: 159.9s
+✅ Product 88: Saved to product_88.json
+Progress: 40% (88/218), Success: 88, Failed: 0, Time elapsed: 161.0s
+✅ Product 90: Saved to product_90.json
+✅ Product 91: Saved to product_91.json
+Progress: 41% (89/218), Success: 90, Failed: 0, Time elapsed: 161.3s
+Progress: 41% (90/218), Success: 90, Failed: 0, Time elapsed: 161.4s
+✅ Product 89: Saved to product_89.json
+Progress: 42% (91/218), Success: 91, Failed: 0, Time elapsed: 162.2s
+✅ Product 92: Saved to product_92.json
+Progress: 42% (92/218), Success: 92, Failed: 0, Time elapsed: 167.4s
+✅ Product 94: Saved to product_94.json
+Progress: 43% (93/218), Success: 93, Failed: 0, Time elapsed: 169.1s
+✅ Product 95: Saved to product_95.json
+✅ Product 93: Saved to product_93.json
+Progress: 43% (94/218), Success: 95, Failed: 0, Time elapsed: 170.4s
+Progress: 44% (95/218), Success: 95, Failed: 0, Time elapsed: 170.4s
+✅ Product 96: Saved to product_96.json
+Progress: 44% (96/218), Success: 96, Failed: 0, Time elapsed: 170.9s
+✅ Product 101: Saved to product_101.json
+Progress: 44% (97/218), Success: 97, Failed: 0, Time elapsed: 172.3s
+✅ Product 97: Saved to product_97.json
+Progress: 45% (98/218), Success: 98, Failed: 0, Time elapsed: 174.8s
+✅ Product 100: Saved to product_100.json
+Progress: 45% (99/218), Success: 99, Failed: 0, Time elapsed: 175.1s
+✅ Product 98: Saved to product_98.json
+Progress: 46% (100/218), Success: 100, Failed: 0, Time elapsed: 176.8s
+✅ Product 99: Saved to product_99.json
+Progress: 46% (101/218), Success: 101, Failed: 0, Time elapsed: 177.3s
+✅ Product 103: Saved to product_103.json
+Progress: 47% (102/218), Success: 102, Failed: 0, Time elapsed: 181.0s
+✅ Product 104: Saved to product_104.json
+Progress: 47% (103/218), Success: 103, Failed: 0, Time elapsed: 181.9s
+✅ Product 105: Saved to product_105.json
+Progress: 48% (104/218), Success: 104, Failed: 0, Time elapsed: 183.2s
+✅ Product 102: Saved to product_102.json
+Progress: 48% (105/218), Success: 105, Failed: 0, Time elapsed: 183.4s
+✅ Product 107: Saved to product_107.json
+Progress: 49% (106/218), Success: 106, Failed: 0, Time elapsed: 183.9s
+✅ Product 106: Saved to product_106.json
+Progress: 49% (107/218), Success: 107, Failed: 0, Time elapsed: 185.0s
+✅ Product 108: Saved to product_108.json
+Progress: 50% (108/218), Success: 108, Failed: 0, Time elapsed: 187.1s
+✅ Product 110: Saved to product_110.json
+Progress: 50% (109/218), Success: 109, Failed: 0, Time elapsed: 189.0s
+✅ Product 109: Saved to product_109.json
+Progress: 50% (110/218), Success: 110, Failed: 0, Time elapsed: 189.8s
+✅ Product 111: Saved to product_111.json
+Progress: 51% (111/218), Success: 111, Failed: 0, Time elapsed: 191.7s
+✅ Product 115: Saved to product_115.json
+Progress: 51% (112/218), Success: 112, Failed: 0, Time elapsed: 194.7s
+✅ Product 113: Saved to product_113.json
+Progress: 52% (113/218), Success: 113, Failed: 0, Time elapsed: 196.8s
+✅ Product 117: Saved to product_117.json
+Progress: 52% (114/218), Success: 114, Failed: 0, Time elapsed: 196.9s
+✅ Product 112: Saved to product_112.json
+Progress: 53% (115/218), Success: 115, Failed: 0, Time elapsed: 197.1s
+✅ Product 114: Saved to product_114.json
+Progress: 53% (116/218), Success: 116, Failed: 0, Time elapsed: 197.6s
+✅ Product 118: Saved to product_118.json
+✅ Product 116: Saved to product_116.json
+Progress: 54% (117/218), Success: 118, Failed: 0, Time elapsed: 199.8s
+Progress: 54% (118/218), Success: 118, Failed: 0, Time elapsed: 199.9s
+✅ Product 120: Saved to product_120.json
+Progress: 55% (119/218), Success: 119, Failed: 0, Time elapsed: 203.6s
+✅ Product 121: Saved to product_121.json
+Progress: 55% (120/218), Success: 120, Failed: 0, Time elapsed: 204.1s
+✅ Product 119: Saved to product_119.json
+Progress: 56% (121/218), Success: 121, Failed: 0, Time elapsed: 205.0s
+✅ Product 122: Saved to product_122.json
+Progress: 56% (122/218), Success: 122, Failed: 0, Time elapsed: 208.3s
+✅ Product 125: Saved to product_125.json
+Progress: 56% (123/218), Success: 123, Failed: 0, Time elapsed: 209.3s
+✅ Product 123: Saved to product_123.json
+✅ Product 126: Saved to product_126.json
+Progress: 57% (124/218), Success: 125, Failed: 0, Time elapsed: 211.2s
+Progress: 57% (125/218), Success: 125, Failed: 0, Time elapsed: 211.2s
+✅ Product 124: Saved to product_124.json
+Progress: 58% (126/218), Success: 126, Failed: 0, Time elapsed: 213.4s
+✅ Product 127: Saved to product_127.json
+Progress: 58% (127/218), Success: 127, Failed: 0, Time elapsed: 214.6s
+✅ Product 128: Saved to product_128.json
+Progress: 59% (128/218), Success: 128, Failed: 0, Time elapsed: 214.7s
+✅ Product 129: Saved to product_129.json
+Progress: 59% (129/218), Success: 129, Failed: 0, Time elapsed: 217.1s
+✅ Product 131: Saved to product_131.json
+Progress: 60% (130/218), Success: 130, Failed: 0, Time elapsed: 217.3s
+✅ Product 130: Saved to product_130.json
+Progress: 60% (131/218), Success: 131, Failed: 0, Time elapsed: 219.1s
+✅ Product 132: Saved to product_132.json
+Progress: 61% (132/218), Success: 132, Failed: 0, Time elapsed: 222.4s
+✅ Product 133: Saved to product_133.json
+Progress: 61% (133/218), Success: 133, Failed: 0, Time elapsed: 224.1s
+✅ Product 135: Saved to product_135.json
+Progress: 61% (134/218), Success: 134, Failed: 0, Time elapsed: 225.0s
+✅ Product 134: Saved to product_134.json
+Progress: 62% (135/218), Success: 135, Failed: 0, Time elapsed: 226.3s
+✅ Product 136: Saved to product_136.json
+Progress: 62% (136/218), Success: 136, Failed: 0, Time elapsed: 227.2s
+✅ Product 137: Saved to product_137.json
+Progress: 63% (137/218), Success: 137, Failed: 0, Time elapsed: 227.8s
+✅ Product 140: Saved to product_140.json
+Progress: 63% (138/218), Success: 138, Failed: 0, Time elapsed: 229.1s
+✅ Product 138: Saved to product_138.json
+Progress: 64% (139/218), Success: 139, Failed: 0, Time elapsed: 229.4s
+✅ Product 139: Saved to product_139.json
+Progress: 64% (140/218), Success: 140, Failed: 0, Time elapsed: 229.9s
+✅ Product 141: Saved to product_141.json
+Progress: 65% (141/218), Success: 141, Failed: 0, Time elapsed: 234.6s
+✅ Product 143: Saved to product_143.json
+Progress: 65% (142/218), Success: 142, Failed: 0, Time elapsed: 235.1s
+✅ Product 142: Saved to product_142.json
+Progress: 66% (143/218), Success: 143, Failed: 0, Time elapsed: 235.9s
+✅ Product 144: Saved to product_144.json
+Progress: 66% (144/218), Success: 144, Failed: 0, Time elapsed: 236.5s
+✅ Product 145: Saved to product_145.json
+Progress: 67% (145/218), Success: 145, Failed: 0, Time elapsed: 238.5s
+✅ Product 146: Saved to product_146.json
+Progress: 67% (146/218), Success: 146, Failed: 0, Time elapsed: 238.9s
+✅ Product 147: Saved to product_147.json
+Progress: 67% (147/218), Success: 147, Failed: 0, Time elapsed: 240.2s
+✅ Product 150: Saved to product_150.json
+Progress: 68% (148/218), Success: 148, Failed: 0, Time elapsed: 241.0s
+✅ Product 149: Saved to product_149.json
+Progress: 68% (149/218), Success: 149, Failed: 0, Time elapsed: 241.7s
+✅ Product 148: Saved to product_148.json
+Progress: 69% (150/218), Success: 150, Failed: 0, Time elapsed: 242.8s
+✅ Product 151: Saved to product_151.json
+Progress: 69% (151/218), Success: 151, Failed: 0, Time elapsed: 248.1s
+✅ Product 152: Saved to product_152.json
+Progress: 70% (152/218), Success: 152, Failed: 0, Time elapsed: 248.2s
+✅ Product 153: Saved to product_153.json
+Progress: 70% (153/218), Success: 153, Failed: 0, Time elapsed: 248.7s
+✅ Product 154: Saved to product_154.json
+Progress: 71% (154/218), Success: 154, Failed: 0, Time elapsed: 252.4s
+✅ Product 156: Saved to product_156.json
+Progress: 71% (155/218), Success: 155, Failed: 0, Time elapsed: 252.5s
+✅ Product 155: Saved to product_155.json
+Progress: 72% (156/218), Success: 156, Failed: 0, Time elapsed: 254.3s
+✅ Product 157: Saved to product_157.json
+Progress: 72% (157/218), Success: 157, Failed: 0, Time elapsed: 254.6s
+✅ Product 159: Saved to product_159.json
+Progress: 72% (158/218), Success: 158, Failed: 0, Time elapsed: 254.8s
+✅ Product 158: Saved to product_158.json
+Progress: 73% (159/218), Success: 159, Failed: 0, Time elapsed: 255.0s
+✅ Product 160: Saved to product_160.json
+Progress: 73% (160/218), Success: 160, Failed: 0, Time elapsed: 257.4s
+✅ Product 161: Saved to product_161.json
+Progress: 74% (161/218), Success: 161, Failed: 0, Time elapsed: 260.2s
+✅ Product 162: Saved to product_162.json
+Progress: 74% (162/218), Success: 162, Failed: 0, Time elapsed: 260.5s
+✅ Product 163: Saved to product_163.json
+Progress: 75% (163/218), Success: 163, Failed: 0, Time elapsed: 261.5s
+✅ Product 165: Saved to product_165.json
+Progress: 75% (164/218), Success: 164, Failed: 0, Time elapsed: 263.6s
+✅ Product 164: Saved to product_164.json
+Progress: 76% (165/218), Success: 165, Failed: 0, Time elapsed: 263.8s
+✅ Product 166: Saved to product_166.json
+Progress: 76% (166/218), Success: 166, Failed: 0, Time elapsed: 266.7s
+✅ Product 167: Saved to product_167.json
+Progress: 77% (167/218), Success: 167, Failed: 0, Time elapsed: 266.9s
+✅ Product 169: Saved to product_169.json
+Progress: 77% (168/218), Success: 168, Failed: 0, Time elapsed: 269.1s
+✅ Product 168: Saved to product_168.json
+Progress: 78% (169/218), Success: 169, Failed: 0, Time elapsed: 269.5s
+✅ Product 172: Saved to product_172.json
+✅ Product 171: Saved to product_171.json
+Progress: 78% (170/218), Success: 171, Failed: 0, Time elapsed: 272.4s
+Progress: 78% (171/218), Success: 171, Failed: 0, Time elapsed: 272.4s
+✅ Product 170: Saved to product_170.json
+Progress: 79% (172/218), Success: 172, Failed: 0, Time elapsed: 273.0s
+✅ Product 173: Saved to product_173.json
+Progress: 79% (173/218), Success: 173, Failed: 0, Time elapsed: 274.5s
+✅ Product 175: Saved to product_175.json
+✅ Product 174: Saved to product_174.json
+Progress: 80% (174/218), Success: 175, Failed: 0, Time elapsed: 279.9s
+Progress: 80% (175/218), Success: 175, Failed: 0, Time elapsed: 280.0s
+✅ Product 176: Saved to product_176.json
+Progress: 81% (176/218), Success: 176, Failed: 0, Time elapsed: 280.3s
+✅ Product 177: Saved to product_177.json
+Progress: 81% (177/218), Success: 177, Failed: 0, Time elapsed: 280.7s
+✅ Product 178: Saved to product_178.json
+Progress: 82% (178/218), Success: 178, Failed: 0, Time elapsed: 282.8s
+✅ Product 179: Saved to product_179.json
+Progress: 82% (179/218), Success: 179, Failed: 0, Time elapsed: 283.4s
+✅ Product 181: Saved to product_181.json
+Progress: 83% (180/218), Success: 180, Failed: 0, Time elapsed: 287.1s
+✅ Product 182: Saved to product_182.json
+Progress: 83% (181/218), Success: 181, Failed: 0, Time elapsed: 287.6s
+✅ Product 183: Saved to product_183.json
+Progress: 83% (182/218), Success: 182, Failed: 0, Time elapsed: 289.1s
+✅ Product 180: Saved to product_180.json
+Progress: 84% (183/218), Success: 183, Failed: 0, Time elapsed: 289.2s
+✅ Product 185: Saved to product_185.json
+Progress: 84% (184/218), Success: 184, Failed: 0, Time elapsed: 293.1s
+✅ Product 186: Saved to product_186.json
+Progress: 85% (185/218), Success: 185, Failed: 0, Time elapsed: 293.9s
+✅ Product 184: Saved to product_184.json
+Progress: 85% (186/218), Success: 186, Failed: 0, Time elapsed: 294.1s
+✅ Product 187: Saved to product_187.json
+Progress: 86% (187/218), Success: 187, Failed: 0, Time elapsed: 294.7s
+✅ Product 188: Saved to product_188.json
+Progress: 86% (188/218), Success: 188, Failed: 0, Time elapsed: 297.3s
+✅ Product 189: Saved to product_189.json
+Progress: 87% (189/218), Success: 189, Failed: 0, Time elapsed: 299.7s
+✅ Product 190: Saved to product_190.json
+Progress: 87% (190/218), Success: 190, Failed: 0, Time elapsed: 301.7s
+✅ Product 191: Saved to product_191.json
+Progress: 88% (191/218), Success: 191, Failed: 0, Time elapsed: 301.8s
+✅ Product 193: Saved to product_193.json
+Progress: 88% (192/218), Success: 192, Failed: 0, Time elapsed: 302.4s
+✅ Product 192: Saved to product_192.json
+Progress: 89% (193/218), Success: 193, Failed: 0, Time elapsed: 304.9s
+✅ Product 195: Saved to product_195.json
+Progress: 89% (194/218), Success: 194, Failed: 0, Time elapsed: 311.6s
+✅ Product 196: Saved to product_196.json
+✅ Product 194: Saved to product_194.json
+Progress: 89% (195/218), Success: 196, Failed: 0, Time elapsed: 311.8s
+Progress: 90% (196/218), Success: 196, Failed: 0, Time elapsed: 311.8s
+✅ Product 197: Saved to product_197.json
+Progress: 90% (197/218), Success: 197, Failed: 0, Time elapsed: 313.5s
+✅ Product 198: Saved to product_198.json
+Progress: 91% (198/218), Success: 198, Failed: 0, Time elapsed: 314.4s
+✅ Product 199: Saved to product_199.json
+Progress: 91% (199/218), Success: 199, Failed: 0, Time elapsed: 315.1s
+✅ Product 202: Saved to product_202.json
+Progress: 92% (200/218), Success: 200, Failed: 0, Time elapsed: 316.6s
+✅ Product 200: Saved to product_200.json
+Progress: 92% (201/218), Success: 201, Failed: 0, Time elapsed: 316.7s
+✅ Product 201: Saved to product_201.json
+Progress: 93% (202/218), Success: 202, Failed: 0, Time elapsed: 318.4s
+✅ Product 203: Saved to product_203.json
+Progress: 93% (203/218), Success: 203, Failed: 0, Time elapsed: 321.5s
+✅ Product 205: Saved to product_205.json
+Progress: 94% (204/218), Success: 204, Failed: 0, Time elapsed: 328.9s
+✅ Product 206: Saved to product_206.json
+Progress: 94% (205/218), Success: 205, Failed: 0, Time elapsed: 329.0s
+✅ Product 204: Saved to product_204.json
+Progress: 94% (206/218), Success: 206, Failed: 0, Time elapsed: 330.6s
+✅ Product 207: Saved to product_207.json
+Progress: 95% (207/218), Success: 207, Failed: 0, Time elapsed: 331.5s
+✅ Product 210: Saved to product_210.json
+✅ Product 208: Saved to product_208.json
+Progress: 95% (208/218), Success: 209, Failed: 0, Time elapsed: 332.5s
+✅ Product 209: Saved to product_209.json
+Progress: 96% (209/218), Success: 210, Failed: 0, Time elapsed: 332.7s
+Progress: 96% (210/218), Success: 210, Failed: 0, Time elapsed: 332.8s
+✅ Product 211: Saved to product_211.json
+Progress: 97% (211/218), Success: 211, Failed: 0, Time elapsed: 333.0s
+✅ Product 212: Saved to product_212.json
+Progress: 97% (212/218), Success: 212, Failed: 0, Time elapsed: 336.9s
+✅ Product 213: Saved to product_213.json
+Progress: 98% (213/218), Success: 213, Failed: 0, Time elapsed: 337.6s
+✅ Product 215: Saved to product_215.json
+Progress: 98% (214/218), Success: 214, Failed: 0, Time elapsed: 339.0s
+✅ Product 214: Saved to product_214.json
+Progress: 99% (215/218), Success: 215, Failed: 0, Time elapsed: 340.9s
+✅ Product 217: Saved to product_217.json
+Progress: 99% (216/218), Success: 216, Failed: 0, Time elapsed: 341.1s
+✅ Product 216: Saved to product_216.json
+Progress: 100% (217/218), Success: 217, Failed: 0, Time elapsed: 341.9s
+✅ Product 218: Saved to product_218.json
+Progress: 100% (218/218), Success: 218, Failed: 0, Time elapsed: 342.6s
+
+✅ Final all_products files saved with 218 products
+
+--- Summary ---
+{
+  "timestamp": "2025-03-23T01:08:18.255Z",
+  "category": "Seating",
+  "totalProductsFound": 218,
+  "productsProcessed": 218,
+  "successCount": 218,
+  "failureCount": 0
+}
+Scraping complete. Browser closed.

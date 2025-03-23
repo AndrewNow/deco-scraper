@@ -1,0 +1,251 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_42420962",
+  "name": "Danish Cabinetmaker Honey Sheepskin Lounge Chair, c1940s",
+  "slug": "f_42420962",
+  "price": "CA$5,606.88",
+  "description": "f_42420962",
+  "image_url": "https://a.1stdibscdn.com/archivesE/upload/f_13332/f_424209621737042905198/f_42420962_1737042906006_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/club-chairs/danish-cabinetmaker-honey-sheepskin-lounge-chair-c1940s/id-f_42420962/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 37.41 in (95 cm)",
+      "width": "Width: 33.08 in (84 cm)",
+      "depth": "Depth: 33.86 in (86 cm)",
+      "seatHeight": "Seat Height: 16.54 in (42 cm)"
+    },
+    "style": "Scandinavian Modern (Of the Period)",
+    "materials": [
+      "Beech",
+      "Sheepskin",
+      "Beech",
+      "Sheepskin"
+    ],
+    "origin": "Europe",
+    "period": "1940-1949",
+    "dateOfManufacture": "c1940s",
+    "condition": {
+      "rating": "Excellent",
+      "details": "Refinished. Reupholstered. Wear consistent with age and use."
+    },
+    "sellerLocation": "London, GB",
+    "referenceNumber": "1stDibs: LU1333242420962",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Danish Cabinetmaker Sheepskin Armchair, circa 1940s.\n\nThis tall lounge chair produced by a Danish Cabinetmaker in the 1940s is typical of Danish lounge chair designs of the day. It features a slightly curved wing-back with angular arms and straight, tapered legs made in refinished stained beech. The chair has been totally refurbished at our London workshops with new padding and tightened springs for maximum comfort. It has been recovered in premium honey-coloured sheepskin from Australia.</span></div></div>",
+    "rawSpecificationsText": "Danish Cabinetmaker Sheepskin Armchair, circa 1940s.\n\nThis tall lounge chair produced by a Danish Cabinetmaker in the 1940s is typical of Danish lounge chair designs of the day. It features a slightly curved wing-back with angular arms and straight, tapered legs made in refinished stained beech. The chair has been totally refurbished at our London workshops with new padding and tightened springs for maximum comfort. It has been recovered in premium honey-coloured sheepskin from Australia."
+  },
+  "raw_data": {
+    "productId": "f_42420962",
+    "slug": "f_42420962",
+    "url": "https://www.1stdibs.com/furniture/seating/club-chairs/danish-cabinetmaker-honey-sheepskin-lounge-chair-c1940s/id-f_42420962/",
+    "name": "Danish Cabinetmaker Honey Sheepskin Lounge Chair, c1940s",
+    "price": "CA$5,606.88",
+    "imageUrl": "https://a.1stdibscdn.com/archivesE/upload/f_13332/f_424209621737042905198/f_42420962_1737042906006_bg_processed.jpg",
+    "description": "f_42420962",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 37.41 in (95 cm)",
+        "width": "Width: 33.08 in (84 cm)",
+        "depth": "Depth: 33.86 in (86 cm)",
+        "seatHeight": "Seat Height: 16.54 in (42 cm)"
+      },
+      "style": "Scandinavian Modern (Of the Period)",
+      "materials": [
+        "Beech",
+        "Sheepskin",
+        "Beech",
+        "Sheepskin"
+      ],
+      "origin": "Europe",
+      "period": "1940-1949",
+      "dateOfManufacture": "c1940s",
+      "condition": {
+        "rating": "Excellent",
+        "details": "Refinished. Reupholstered. Wear consistent with age and use."
+      },
+      "sellerLocation": "London, GB",
+      "referenceNumber": "1stDibs: LU1333242420962",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Danish Cabinetmaker Sheepskin Armchair, circa 1940s.\n\nThis tall lounge chair produced by a Danish Cabinetmaker in the 1940s is typical of Danish lounge chair designs of the day. It features a slightly curved wing-back with angular arms and straight, tapered legs made in refinished stained beech. The chair has been totally refurbished at our London workshops with new padding and tightened springs for maximum comfort. It has been recovered in premium honey-coloured sheepskin from Australia.</span></div></div>",
+      "rawSpecificationsText": "Danish Cabinetmaker Sheepskin Armchair, circa 1940s.\n\nThis tall lounge chair produced by a Danish Cabinetmaker in the 1940s is typical of Danish lounge chair designs of the day. It features a slightly curved wing-back with angular arms and straight, tapered legs made in refinished stained beech. The chair has been totally refurbished at our London workshops with new padding and tightened springs for maximum comfort. It has been recovered in premium honey-coloured sheepskin from Australia."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Danish Cabinetmaker Honey Sheepskin Lounge Chair, c1940s",
+        "description": "Danish Cabinetmaker Sheepskin Armchair, circa 1940s.\n\nThis tall lounge chair produced by a Danish Cabinetmaker in the 1940s is typical of Danish lounge chair designs of the day. It features a slightly curved wing-back with angular arms and straight, tapered legs made in refinished stained beech. The chair has been totally refurbished at our London workshops with new padding and tightened springs for maximum comfort. It has been recovered in premium honey-coloured sheepskin from Australia.\n\n",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Danish Cabinetmaker Honey Sheepskin Lounge Chair, c1940s For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/archivesE/upload/f_13332/f_424209621737042905198/f_42420962_1737042906006_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/archivesE/upload/f_13332/f_424209621737042905198/f_42420962_1737042906006_bg_processed.jpg?width=768",
+            "uploadDate": "2024-11-22T08:01:14.000-05:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Danish Cabinetmaker Sheepskin Armchair, circa 1940s.\n\nThis tall lounge chair produced by a Danish Cabinetmaker in the 1940s is typical of Danish lounge chair designs of the day. It features a slightly curved wing-back with angular arms and straight,",
+            "contentUrl": "https://a.1stdibscdn.com/danish-cabinetmaker-honey-sheepskin-lounge-chair-c1940s-for-sale-picture-2/f_13332/f_424209621732280347746/DCM_Wing_Chair_Honey12181_r1_rgb_3500px_copy_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/danish-cabinetmaker-honey-sheepskin-lounge-chair-c1940s-for-sale-picture-2/f_13332/f_424209621732280347746/DCM_Wing_Chair_Honey12181_r1_rgb_3500px_copy_master.jpg?width=768",
+            "uploadDate": "2024-11-22T08:01:14.000-05:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Scandinavian Modern Danish Cabinetmaker Honey Sheepskin Lounge Chair, c1940s For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/danish-cabinetmaker-honey-sheepskin-lounge-chair-c1940s-for-sale-picture-4/f_13332/f_424209621732280347753/DCM_Wing_Chair_Honey12187_r1_rgb_3500px_copy_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/danish-cabinetmaker-honey-sheepskin-lounge-chair-c1940s-for-sale-picture-4/f_13332/f_424209621732280347753/DCM_Wing_Chair_Honey12187_r1_rgb_3500px_copy_master.jpg?width=768",
+            "uploadDate": "2024-11-22T08:01:14.000-05:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "European Danish Cabinetmaker Honey Sheepskin Lounge Chair, c1940s For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/danish-cabinetmaker-honey-sheepskin-lounge-chair-c1940s-for-sale-picture-5/f_13332/f_424209621732280384127/DCM_Wing_Chair_Honey12180_r1_rgb_3500px_copy_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/danish-cabinetmaker-honey-sheepskin-lounge-chair-c1940s-for-sale-picture-5/f_13332/f_424209621732280384127/DCM_Wing_Chair_Honey12180_r1_rgb_3500px_copy_master.jpg?width=768",
+            "uploadDate": "2024-11-22T08:01:14.000-05:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Danish Cabinetmaker Honey Sheepskin Lounge Chair, c1940s In Excellent Condition For Sale In London, England",
+            "contentUrl": "https://a.1stdibscdn.com/danish-cabinetmaker-honey-sheepskin-lounge-chair-c1940s-for-sale-picture-6/f_13332/f_424209621732280408005/DCM_Wing_Chair_Honey3843_r1_srgb_1800px_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/danish-cabinetmaker-honey-sheepskin-lounge-chair-c1940s-for-sale-picture-6/f_13332/f_424209621732280408005/DCM_Wing_Chair_Honey3843_r1_srgb_1800px_master.jpg?width=768",
+            "uploadDate": "2024-11-22T08:01:14.000-05:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Mid-20th Century Danish Cabinetmaker Honey Sheepskin Lounge Chair, c1940s For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/danish-cabinetmaker-honey-sheepskin-lounge-chair-c1940s-for-sale-picture-7/f_13332/f_424209621732280407949/DCM_Wing_Chair_Honey3844_r1_srgb_1800px_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/danish-cabinetmaker-honey-sheepskin-lounge-chair-c1940s-for-sale-picture-7/f_13332/f_424209621732280407949/DCM_Wing_Chair_Honey3844_r1_srgb_1800px_master.jpg?width=768",
+            "uploadDate": "2024-11-22T08:01:14.000-05:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/UsedCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/club-chairs/danish-cabinetmaker-honey-sheepskin-lounge-chair-c1940s/id-f_42420962/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 6196.79,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3436.28,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 78676.36,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3574.01,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 2950,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 26814,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3887.33,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 5606.88,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 39407.32,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 41094.26,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 4.9,
+          "reviewCount": 26
+        },
+        "productionDate": "1940-1949",
+        "category": "Club Chairs"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Club Chairs",
+              "@id": "/furniture/seating/club-chairs/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

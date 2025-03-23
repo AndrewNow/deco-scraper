@@ -1,0 +1,355 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44130872",
+  "name": "Pair of \"Kilin\" Armchairs by Sergio Rodrigues, Brazil, 1973",
+  "slug": "f_44130872",
+  "price": "CA$47,372.54",
+  "description": "f_44130872",
+  "image_url": "https://a.1stdibscdn.com/pair-of-kilin-armchairs-by-sergio-rodrigues-brazil-1973-for-sale/f_39791/f_441308721742486398905/f_44130872_1742486399263_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/armchairs/pair-of-kilin-armchairs-sergio-rodrigues-brazil-1973/id-f_44130872/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 26.58 in (67.5 cm)",
+      "width": "Width: 26.07 in (66.2 cm)",
+      "depth": "Depth: 26.38 in (67 cm)",
+      "seatHeight": "Seat Height: 12.41 in (31.5 cm)"
+    },
+    "style": "Mid-Century Modern (Of the Period)",
+    "materials": [
+      "Leather",
+      "Wood",
+      "Leather",
+      "Wood"
+    ],
+    "origin": "Brazil",
+    "period": "1970-1979",
+    "dateOfManufacture": "1973",
+    "condition": {
+      "rating": "Good",
+      "details": "Reupholstered. Wear consistent with age and use."
+    },
+    "sellerLocation": "New York, NY",
+    "referenceNumber": "Seller: BO.SRO.007-007",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Designed by Sergio Rodrigues (1927-2014) in 1973 and produced by Oca, the Kilin armchair is composed of two sides and two crosspieces, with the back and seat made from a unique piece of leather.\n\nThe bold design, with shapes and fittings of wood leather floating in the air and prepared to shape and hug the body, makes Kilin the favorite piece of many people.\n\nThe name is a tribute to Rodrigues's wife, Vera Beatriz (1931-2017), who he affectionately called \"little squirrel.\" Kilin is an adaptation of the Brazilian word for the nickname \"esquilinho.\".</span></div></div>",
+    "rawSpecificationsText": "Designed by Sergio Rodrigues (1927-2014) in 1973 and produced by Oca, the Kilin armchair is composed of two sides and two crosspieces, with the back and seat made from a unique piece of leather.\n\nThe bold design, with shapes and fittings of wood leather floating in the air and prepared to shape and hug the body, makes Kilin the favorite piece of many people.\n\nThe name is a tribute to Rodrigues's wife, Vera Beatriz (1931-2017), who he affectionately called \"little squirrel.\" Kilin is an adaptation of the Brazilian word for the nickname \"esquilinho.\"."
+  },
+  "raw_data": {
+    "productId": "f_44130872",
+    "slug": "f_44130872",
+    "url": "https://www.1stdibs.com/furniture/seating/armchairs/pair-of-kilin-armchairs-sergio-rodrigues-brazil-1973/id-f_44130872/",
+    "name": "Pair of \"Kilin\" Armchairs by Sergio Rodrigues, Brazil, 1973",
+    "price": "CA$47,372.54",
+    "imageUrl": "https://a.1stdibscdn.com/pair-of-kilin-armchairs-by-sergio-rodrigues-brazil-1973-for-sale/f_39791/f_441308721742486398905/f_44130872_1742486399263_bg_processed.jpg",
+    "description": "f_44130872",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 26.58 in (67.5 cm)",
+        "width": "Width: 26.07 in (66.2 cm)",
+        "depth": "Depth: 26.38 in (67 cm)",
+        "seatHeight": "Seat Height: 12.41 in (31.5 cm)"
+      },
+      "style": "Mid-Century Modern (Of the Period)",
+      "materials": [
+        "Leather",
+        "Wood",
+        "Leather",
+        "Wood"
+      ],
+      "origin": "Brazil",
+      "period": "1970-1979",
+      "dateOfManufacture": "1973",
+      "condition": {
+        "rating": "Good",
+        "details": "Reupholstered. Wear consistent with age and use."
+      },
+      "sellerLocation": "New York, NY",
+      "referenceNumber": "Seller: BO.SRO.007-007",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Designed by Sergio Rodrigues (1927-2014) in 1973 and produced by Oca, the Kilin armchair is composed of two sides and two crosspieces, with the back and seat made from a unique piece of leather.\n\nThe bold design, with shapes and fittings of wood leather floating in the air and prepared to shape and hug the body, makes Kilin the favorite piece of many people.\n\nThe name is a tribute to Rodrigues's wife, Vera Beatriz (1931-2017), who he affectionately called \"little squirrel.\" Kilin is an adaptation of the Brazilian word for the nickname \"esquilinho.\".</span></div></div>",
+      "rawSpecificationsText": "Designed by Sergio Rodrigues (1927-2014) in 1973 and produced by Oca, the Kilin armchair is composed of two sides and two crosspieces, with the back and seat made from a unique piece of leather.\n\nThe bold design, with shapes and fittings of wood leather floating in the air and prepared to shape and hug the body, makes Kilin the favorite piece of many people.\n\nThe name is a tribute to Rodrigues's wife, Vera Beatriz (1931-2017), who he affectionately called \"little squirrel.\" Kilin is an adaptation of the Brazilian word for the nickname \"esquilinho.\"."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Pair of \"Kilin\" Armchairs by Sergio Rodrigues, Brazil, 1973",
+        "description": "Designed by Sergio Rodrigues (1927-2014) in 1973 and produced by Oca, the Kilin armchair is composed of two sides and two crosspieces, with the back and seat made from a unique piece of leather.\n\nThe bold design, with shapes and fittings of wood leather floating in the air and prepared to shape and hug the body, makes Kilin the favorite piece of many people.\n\nThe name is a tribute to Rodrigues's wife, Vera Beatriz (1931-2017), who he affectionately called \"little squirrel.\" Kilin is an adaptation of the Brazilian word for the nickname \"esquilinho.\".",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Sergio Rodrigues",
+            "caption": "Pair of \"Kilin\" Armchairs by Sergio Rodrigues, Brazil, 1973 For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/pair-of-kilin-armchairs-by-sergio-rodrigues-brazil-1973-for-sale/f_39791/f_441308721742486398905/f_44130872_1742486399263_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/pair-of-kilin-armchairs-by-sergio-rodrigues-brazil-1973-for-sale/f_39791/f_441308721742486398905/f_44130872_1742486399263_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-20T12:04:09.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Sergio Rodrigues",
+            "caption": "Designed by Sergio Rodrigues (1927-2014) in 1973 and produced by Oca, the Kilin armchair is composed of two sides and two crosspieces, with the back and seat made from a unique piece of leather.\n\nThe bold design, with shapes and fittings of wood",
+            "contentUrl": "https://a.1stdibscdn.com/pair-of-kilin-armchairs-by-sergio-rodrigues-brazil-1973-for-sale-picture-2/f_39791/f_441308721742486521086/BO_SRO_007_007_Restored_1_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/pair-of-kilin-armchairs-by-sergio-rodrigues-brazil-1973-for-sale-picture-2/f_39791/f_441308721742486521086/BO_SRO_007_007_Restored_1_master.jpg?width=768",
+            "uploadDate": "2025-03-20T12:04:09.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Sergio Rodrigues",
+            "caption": "Mid-Century Modern Pair of \"Kilin\" Armchairs by Sergio Rodrigues, Brazil, 1973 For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/pair-of-kilin-armchairs-by-sergio-rodrigues-brazil-1973-for-sale-picture-3/f_39791/f_441308721742486518720/BO_SRO_007_007_Restored_2_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/pair-of-kilin-armchairs-by-sergio-rodrigues-brazil-1973-for-sale-picture-3/f_39791/f_441308721742486518720/BO_SRO_007_007_Restored_2_master.jpg?width=768",
+            "uploadDate": "2025-03-20T12:04:09.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Sergio Rodrigues",
+            "caption": "Brazilian Pair of \"Kilin\" Armchairs by Sergio Rodrigues, Brazil, 1973 For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/pair-of-kilin-armchairs-by-sergio-rodrigues-brazil-1973-for-sale-picture-4/f_39791/f_441308721742486514624/BO_SRO_007_007_Restored_3_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/pair-of-kilin-armchairs-by-sergio-rodrigues-brazil-1973-for-sale-picture-4/f_39791/f_441308721742486514624/BO_SRO_007_007_Restored_3_master.jpg?width=768",
+            "uploadDate": "2025-03-20T12:04:09.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Sergio Rodrigues",
+            "caption": "Pair of \"Kilin\" Armchairs by Sergio Rodrigues, Brazil, 1973 In Good Condition For Sale In New York, NY",
+            "contentUrl": "https://a.1stdibscdn.com/pair-of-kilin-armchairs-by-sergio-rodrigues-brazil-1973-for-sale-picture-5/f_39791/f_441308721742486514156/BO_SRO_007_007_Restored_4_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/pair-of-kilin-armchairs-by-sergio-rodrigues-brazil-1973-for-sale-picture-5/f_39791/f_441308721742486514156/BO_SRO_007_007_Restored_4_master.jpg?width=768",
+            "uploadDate": "2025-03-20T12:04:09.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Sergio Rodrigues",
+            "caption": "Late 20th Century Pair of \"Kilin\" Armchairs by Sergio Rodrigues, Brazil, 1973 For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/pair-of-kilin-armchairs-by-sergio-rodrigues-brazil-1973-for-sale-picture-6/f_39791/f_441308721742486513611/BO_SRO_007_007_Restored_5_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/pair-of-kilin-armchairs-by-sergio-rodrigues-brazil-1973-for-sale-picture-6/f_39791/f_441308721742486513611/BO_SRO_007_007_Restored_5_master.jpg?width=768",
+            "uploadDate": "2025-03-20T12:04:09.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Sergio Rodrigues",
+            "caption": "Leather Pair of \"Kilin\" Armchairs by Sergio Rodrigues, Brazil, 1973 For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/pair-of-kilin-armchairs-by-sergio-rodrigues-brazil-1973-for-sale-picture-7/f_39791/f_441308721742486512183/BO_SRO_007_007_Restored_6_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/pair-of-kilin-armchairs-by-sergio-rodrigues-brazil-1973-for-sale-picture-7/f_39791/f_441308721742486512183/BO_SRO_007_007_Restored_6_master.jpg?width=768",
+            "uploadDate": "2025-03-20T12:04:09.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Sergio Rodrigues",
+            "caption": "Pair of \"Kilin\" Armchairs by Sergio Rodrigues, Brazil, 1973 For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/pair-of-kilin-armchairs-by-sergio-rodrigues-brazil-1973-for-sale-picture-8/f_39791/f_441308721742486537259/BO_SRO_007_007_Restored_7_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/pair-of-kilin-armchairs-by-sergio-rodrigues-brazil-1973-for-sale-picture-8/f_39791/f_441308721742486537259/BO_SRO_007_007_Restored_7_master.jpg?width=768",
+            "uploadDate": "2025-03-20T12:04:09.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Sergio Rodrigues",
+            "caption": "Pair of \"Kilin\" Armchairs by Sergio Rodrigues, Brazil, 1973 For Sale 2",
+            "contentUrl": "https://a.1stdibscdn.com/pair-of-kilin-armchairs-by-sergio-rodrigues-brazil-1973-for-sale-picture-9/f_39791/f_441308721742486538184/BO_SRO_007_007_Restored_8_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/pair-of-kilin-armchairs-by-sergio-rodrigues-brazil-1973-for-sale-picture-9/f_39791/f_441308721742486538184/BO_SRO_007_007_Restored_8_master.jpg?width=768",
+            "uploadDate": "2025-03-20T12:04:09.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Sergio Rodrigues",
+            "caption": "Pair of \"Kilin\" Armchairs by Sergio Rodrigues, Brazil, 1973 For Sale 3",
+            "contentUrl": "https://a.1stdibscdn.com/pair-of-kilin-armchairs-by-sergio-rodrigues-brazil-1973-for-sale-picture-10/f_39791/f_441308721742486537739/BO_SRO_007_007_Restored_9_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/pair-of-kilin-armchairs-by-sergio-rodrigues-brazil-1973-for-sale-picture-10/f_39791/f_441308721742486537739/BO_SRO_007_007_Restored_9_master.jpg?width=768",
+            "uploadDate": "2025-03-20T12:04:09.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Sergio Rodrigues",
+            "caption": "Pair of \"Kilin\" Armchairs by Sergio Rodrigues, Brazil, 1973 For Sale 4",
+            "contentUrl": "https://a.1stdibscdn.com/pair-of-kilin-armchairs-by-sergio-rodrigues-brazil-1973-for-sale-picture-11/f_39791/f_441308721742486536904/BO_SRO_007_007_Restored_10_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/pair-of-kilin-armchairs-by-sergio-rodrigues-brazil-1973-for-sale-picture-11/f_39791/f_441308721742486536904/BO_SRO_007_007_Restored_10_master.jpg?width=768",
+            "uploadDate": "2025-03-20T12:04:09.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Sergio Rodrigues",
+            "caption": "Pair of \"Kilin\" Armchairs by Sergio Rodrigues, Brazil, 1973 For Sale 5",
+            "contentUrl": "https://a.1stdibscdn.com/pair-of-kilin-armchairs-by-sergio-rodrigues-brazil-1973-for-sale-picture-12/f_39791/f_441308721742486593833/BO_SRO_007_007_Restored_13_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/pair-of-kilin-armchairs-by-sergio-rodrigues-brazil-1973-for-sale-picture-12/f_39791/f_441308721742486593833/BO_SRO_007_007_Restored_13_master.jpg?width=768",
+            "uploadDate": "2025-03-20T12:04:09.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Sergio Rodrigues",
+            "caption": "Pair of \"Kilin\" Armchairs by Sergio Rodrigues, Brazil, 1973 For Sale 6",
+            "contentUrl": "https://a.1stdibscdn.com/pair-of-kilin-armchairs-by-sergio-rodrigues-brazil-1973-for-sale-picture-13/f_39791/f_441308721742486594271/BO_SRO_007_007_Restored_14_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/pair-of-kilin-armchairs-by-sergio-rodrigues-brazil-1973-for-sale-picture-13/f_39791/f_441308721742486594271/BO_SRO_007_007_Restored_14_master.jpg?width=768",
+            "uploadDate": "2025-03-20T12:04:09.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Sergio Rodrigues",
+            "caption": "Pair of \"Kilin\" Armchairs by Sergio Rodrigues, Brazil, 1973 For Sale 7",
+            "contentUrl": "https://a.1stdibscdn.com/pair-of-kilin-armchairs-by-sergio-rodrigues-brazil-1973-for-sale-picture-14/f_39791/f_441308721742486591556/BO_SRO_007_007_Restored_15_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/pair-of-kilin-armchairs-by-sergio-rodrigues-brazil-1973-for-sale-picture-14/f_39791/f_441308721742486591556/BO_SRO_007_007_Restored_15_master.jpg?width=768",
+            "uploadDate": "2025-03-20T12:04:09.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Sergio Rodrigues",
+            "caption": "Pair of \"Kilin\" Armchairs by Sergio Rodrigues, Brazil, 1973 For Sale 8",
+            "contentUrl": "https://a.1stdibscdn.com/pair-of-kilin-armchairs-by-sergio-rodrigues-brazil-1973-for-sale-picture-15/f_39791/f_441308721742486584508/BO_SRO_007_007_Restored_16_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/pair-of-kilin-armchairs-by-sergio-rodrigues-brazil-1973-for-sale-picture-15/f_39791/f_441308721742486584508/BO_SRO_007_007_Restored_16_master.jpg?width=768",
+            "uploadDate": "2025-03-20T12:04:09.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Sergio Rodrigues",
+            "caption": "Pair of \"Kilin\" Armchairs by Sergio Rodrigues, Brazil, 1973 For Sale 9",
+            "contentUrl": "https://a.1stdibscdn.com/pair-of-kilin-armchairs-by-sergio-rodrigues-brazil-1973-for-sale-picture-16/f_39791/f_441308721742486594282/BO_SRO_007_007_Restored_17_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/pair-of-kilin-armchairs-by-sergio-rodrigues-brazil-1973-for-sale-picture-16/f_39791/f_441308721742486594282/BO_SRO_007_007_Restored_17_master.jpg?width=768",
+            "uploadDate": "2025-03-20T12:04:09.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/UsedCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/armchairs/pair-of-kilin-armchairs-sergio-rodrigues-brazil-1973/id-f_44130872/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 29033.08,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 52356.62,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 664736.28,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 30196.77,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 25423.03,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 226551.34,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 32200,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 47372.54,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 332952.27,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 347205.26,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 5,
+          "reviewCount": 7
+        },
+        "productionDate": "1970-1979",
+        "category": "Armchairs",
+        "brand": {
+          "@type": "Brand",
+          "name": "Sergio Rodrigues"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Armchairs",
+              "@id": "/furniture/seating/armchairs/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

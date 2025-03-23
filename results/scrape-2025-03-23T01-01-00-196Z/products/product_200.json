@@ -1,0 +1,23 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_43916672",
+  "name": "Unknown Product",
+  "slug": "f_43916672",
+  "price": "Price not available",
+  "description": "We know your time is valuable. Give us a few seconds and try loading this page again.",
+  "image_url": "",
+  "url": "https://www.1stdibs.com/furniture/seating/ottomans-poufs/mushroom-ottoman-saffron-wool/id-f_43916672/",
+  "specifications": {},
+  "raw_data": {
+    "productId": "f_43916672",
+    "slug": "f_43916672",
+    "url": "https://www.1stdibs.com/furniture/seating/ottomans-poufs/mushroom-ottoman-saffron-wool/id-f_43916672/",
+    "name": "Unknown Product",
+    "price": "Price not available",
+    "imageUrl": null,
+    "description": "We know your time is valuable. Give us a few seconds and try loading this page again.",
+    "specifications": {},
+    "jsonLd": null,
+    "extractionMethod": "manual"
+  }
+}

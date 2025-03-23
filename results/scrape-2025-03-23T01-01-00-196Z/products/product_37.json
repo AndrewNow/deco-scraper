@@ -1,0 +1,293 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44027892",
+  "name": "Elegant Pair of Italian Armchairs. New Velvet Upholstery.",
+  "slug": "f_44027892",
+  "price": "CA$10,401.11",
+  "description": "f_44027892",
+  "image_url": "https://a.1stdibscdn.com/elegant-pair-of-italian-armchairs-new-velvet-upholstery-for-sale/f_15322/f_440278921741958746371/f_44027892_1741958747082_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/armchairs/elegant-pair-of-italian-armchairs-new-velvet-upholstery/id-f_44027892/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 27.17 in (69 cm)",
+      "width": "Width: 37.01 in (94 cm)",
+      "depth": "Depth: 34.65 in (88 cm)",
+      "seatHeight": "Seat Height: 13.39 in (34 cm)"
+    },
+    "style": "Mid-Century Modern (Of the Period)",
+    "materials": [
+      "Fabric",
+      "Oak",
+      "Upholstery",
+      "Velvet",
+      "Fabric",
+      "Oak",
+      "Upholstery",
+      "Velvet"
+    ],
+    "origin": "Italy",
+    "period": "Mid-20th Century",
+    "dateOfManufacture": "1950/60",
+    "condition": {
+      "rating": "Excellent",
+      "details": "Refinished. Reupholstered. Excellent condition. New upholstery / new foams / new fabrics."
+    },
+    "sellerLocation": "Paris, FR",
+    "referenceNumber": "1stDibs: LU1532244027892",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Elegant Pair of Italian Armchairs. Circa 1950/60.\nSoft and comfortable seat. Light oak waxed feet.\nPerfect condition.\n\nThe pair has been newly re-upholstered in the traditional way by the best French craftsmen, we used a high quality velvet fabric from Kvadrat Raf Simons' collection and new foams.\nWe can particularly appreciate the work and savoir-faire of our team of upholsterers respecting the right proportions and lines.\n\nAdditional photos and videos available on demand.\n\nWorldwide Express deliveries by air freight are available on all our items.</span></div></div>",
+    "rawSpecificationsText": "Elegant Pair of Italian Armchairs. Circa 1950/60.\nSoft and comfortable seat. Light oak waxed feet.\nPerfect condition.\n\nThe pair has been newly re-upholstered in the traditional way by the best French craftsmen, we used a high quality velvet fabric from Kvadrat Raf Simons' collection and new foams.\nWe can particularly appreciate the work and savoir-faire of our team of upholsterers respecting the right proportions and lines.\n\nAdditional photos and videos available on demand.\n\nWorldwide Express deliveries by air freight are available on all our items."
+  },
+  "raw_data": {
+    "productId": "f_44027892",
+    "slug": "f_44027892",
+    "url": "https://www.1stdibs.com/furniture/seating/armchairs/elegant-pair-of-italian-armchairs-new-velvet-upholstery/id-f_44027892/",
+    "name": "Elegant Pair of Italian Armchairs. New Velvet Upholstery.",
+    "price": "CA$10,401.11",
+    "imageUrl": "https://a.1stdibscdn.com/elegant-pair-of-italian-armchairs-new-velvet-upholstery-for-sale/f_15322/f_440278921741958746371/f_44027892_1741958747082_bg_processed.jpg",
+    "description": "f_44027892",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 27.17 in (69 cm)",
+        "width": "Width: 37.01 in (94 cm)",
+        "depth": "Depth: 34.65 in (88 cm)",
+        "seatHeight": "Seat Height: 13.39 in (34 cm)"
+      },
+      "style": "Mid-Century Modern (Of the Period)",
+      "materials": [
+        "Fabric",
+        "Oak",
+        "Upholstery",
+        "Velvet",
+        "Fabric",
+        "Oak",
+        "Upholstery",
+        "Velvet"
+      ],
+      "origin": "Italy",
+      "period": "Mid-20th Century",
+      "dateOfManufacture": "1950/60",
+      "condition": {
+        "rating": "Excellent",
+        "details": "Refinished. Reupholstered. Excellent condition. New upholstery / new foams / new fabrics."
+      },
+      "sellerLocation": "Paris, FR",
+      "referenceNumber": "1stDibs: LU1532244027892",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Elegant Pair of Italian Armchairs. Circa 1950/60.\nSoft and comfortable seat. Light oak waxed feet.\nPerfect condition.\n\nThe pair has been newly re-upholstered in the traditional way by the best French craftsmen, we used a high quality velvet fabric from Kvadrat Raf Simons' collection and new foams.\nWe can particularly appreciate the work and savoir-faire of our team of upholsterers respecting the right proportions and lines.\n\nAdditional photos and videos available on demand.\n\nWorldwide Express deliveries by air freight are available on all our items.</span></div></div>",
+      "rawSpecificationsText": "Elegant Pair of Italian Armchairs. Circa 1950/60.\nSoft and comfortable seat. Light oak waxed feet.\nPerfect condition.\n\nThe pair has been newly re-upholstered in the traditional way by the best French craftsmen, we used a high quality velvet fabric from Kvadrat Raf Simons' collection and new foams.\nWe can particularly appreciate the work and savoir-faire of our team of upholsterers respecting the right proportions and lines.\n\nAdditional photos and videos available on demand.\n\nWorldwide Express deliveries by air freight are available on all our items."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Elegant Pair of Italian Armchairs. New Velvet Upholstery.",
+        "description": "Elegant Pair of Italian Armchairs. Circa 1950/60.\nSoft and comfortable seat. Light oak waxed feet.\nPerfect condition.\n\nThe pair has been newly re-upholstered in the traditional way by the best French craftsmen, we used a high quality velvet fabric from Kvadrat Raf Simons' collection and new foams.\nWe can particularly appreciate the work and savoir-faire of our team of upholsterers respecting the right proportions and lines.\n\nAdditional photos and videos available on demand.\n\nWorldwide Express deliveries by air freight are available on all our items.",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Unknown",
+            "caption": "Elegant Pair of Italian Armchairs. New Velvet Upholstery. For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/elegant-pair-of-italian-armchairs-new-velvet-upholstery-for-sale/f_15322/f_440278921741958746371/f_44027892_1741958747082_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/elegant-pair-of-italian-armchairs-new-velvet-upholstery-for-sale/f_15322/f_440278921741958746371/f_44027892_1741958747082_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-20T04:16:14.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Unknown",
+            "caption": "Elegant Pair of Italian Armchairs. Circa 1950/60.\nSoft and comfortable seat. Light oak waxed feet.\nPerfect condition.\n\nThe pair has been newly re-upholstered in the traditional way by the best French craftsmen, we used a high quality velvet fabric",
+            "contentUrl": "https://a.1stdibscdn.com/elegant-pair-of-italian-armchairs-new-velvet-upholstery-for-sale-picture-2/f_15322/f_440278921741958924690/50_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/elegant-pair-of-italian-armchairs-new-velvet-upholstery-for-sale-picture-2/f_15322/f_440278921741958924690/50_master.jpg?width=768",
+            "uploadDate": "2025-03-20T04:16:14.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Unknown",
+            "caption": "Mid-Century Modern Elegant Pair of Italian Armchairs. New Velvet Upholstery. For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/elegant-pair-of-italian-armchairs-new-velvet-upholstery-for-sale-picture-3/f_15322/f_440278921741958923838/51_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/elegant-pair-of-italian-armchairs-new-velvet-upholstery-for-sale-picture-3/f_15322/f_440278921741958923838/51_master.jpg?width=768",
+            "uploadDate": "2025-03-20T04:16:14.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Unknown",
+            "caption": "Elegant Pair of Italian Armchairs. New Velvet Upholstery. In Excellent Condition For Sale In Paris, FR",
+            "contentUrl": "https://a.1stdibscdn.com/elegant-pair-of-italian-armchairs-new-velvet-upholstery-for-sale-picture-4/f_15322/f_440278921741958924393/52_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/elegant-pair-of-italian-armchairs-new-velvet-upholstery-for-sale-picture-4/f_15322/f_440278921741958924393/52_master.jpg?width=768",
+            "uploadDate": "2025-03-20T04:16:14.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Unknown",
+            "caption": "20th Century Elegant Pair of Italian Armchairs. New Velvet Upholstery. For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/elegant-pair-of-italian-armchairs-new-velvet-upholstery-for-sale-picture-5/f_15322/f_440278921741958923704/53_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/elegant-pair-of-italian-armchairs-new-velvet-upholstery-for-sale-picture-5/f_15322/f_440278921741958923704/53_master.jpg?width=768",
+            "uploadDate": "2025-03-20T04:16:14.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Unknown",
+            "caption": "Fabric Elegant Pair of Italian Armchairs. New Velvet Upholstery. For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/elegant-pair-of-italian-armchairs-new-velvet-upholstery-for-sale-picture-6/f_15322/f_440278921741958923624/54_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/elegant-pair-of-italian-armchairs-new-velvet-upholstery-for-sale-picture-6/f_15322/f_440278921741958923624/54_master.jpg?width=768",
+            "uploadDate": "2025-03-20T04:16:14.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Unknown",
+            "caption": "Elegant Pair of Italian Armchairs. New Velvet Upholstery. For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/elegant-pair-of-italian-armchairs-new-velvet-upholstery-for-sale-picture-7/f_15322/f_440278921741958925509/55_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/elegant-pair-of-italian-armchairs-new-velvet-upholstery-for-sale-picture-7/f_15322/f_440278921741958925509/55_master.jpg?width=768",
+            "uploadDate": "2025-03-20T04:16:14.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Unknown",
+            "caption": "Elegant Pair of Italian Armchairs. New Velvet Upholstery. For Sale 2",
+            "contentUrl": "https://a.1stdibscdn.com/elegant-pair-of-italian-armchairs-new-velvet-upholstery-for-sale-picture-8/f_15322/f_440278921741958946008/56_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/elegant-pair-of-italian-armchairs-new-velvet-upholstery-for-sale-picture-8/f_15322/f_440278921741958946008/56_master.jpg?width=768",
+            "uploadDate": "2025-03-20T04:16:14.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Unknown",
+            "caption": "Elegant Pair of Italian Armchairs. New Velvet Upholstery. For Sale 3",
+            "contentUrl": "https://a.1stdibscdn.com/elegant-pair-of-italian-armchairs-new-velvet-upholstery-for-sale-picture-9/f_15322/f_440278921741958945730/57_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/elegant-pair-of-italian-armchairs-new-velvet-upholstery-for-sale-picture-9/f_15322/f_440278921741958945730/57_master.jpg?width=768",
+            "uploadDate": "2025-03-20T04:16:14.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/UsedCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/armchairs/elegant-pair-of-italian-armchairs-new-velvet-upholstery/id-f_44027892/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 6374.5,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 11495.41,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 145949.42,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 6500,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 5581.88,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 49741.59,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 7211.22,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 10401.11,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 73102.96,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 76232.34,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 5,
+          "reviewCount": 8
+        },
+        "productionDate": "Mid-20th Century",
+        "category": "Armchairs",
+        "brand": {
+          "@type": "Brand",
+          "name": "Unknown"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Armchairs",
+              "@id": "/furniture/seating/armchairs/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

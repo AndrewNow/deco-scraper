@@ -1,0 +1,267 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44111842",
+  "name": "Ripples Small Wood Stool by Toyo Ito",
+  "slug": "f_44111842",
+  "price": "CA$1,007.77",
+  "description": "f_44111842",
+  "image_url": "https://a.1stdibscdn.com/ripples-small-wood-stool-by-toyo-ito-for-sale/f_17062/f_441118421742383995073/f_44111842_1742383995398_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/stools/ripples-small-wood-stool-toyo-ito/id-f_44111842/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 17.72 in (45 cm)",
+      "width": "Width: 16.15 in (41 cm)",
+      "depth": "Depth: 11.82 in (30 cm)"
+    },
+    "materials": [
+      "Aluminum",
+      "Ash",
+      "Cherry",
+      "Mahogany",
+      "Oak",
+      "Walnut",
+      "Aluminum",
+      "Ash",
+      "Cherry",
+      "Mahogany",
+      "Oak",
+      "Walnut"
+    ],
+    "origin": "Italy",
+    "period": "2010-",
+    "dateOfManufacture": "contemporary",
+    "condition": {
+      "rating": "New",
+      "details": null
+    },
+    "sellerLocation": "Milan, IT",
+    "referenceNumber": "Seller: HORMPN-015",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Sophisticated and unique, this stool designed by Toyo Ito is the winner of the 2004 Golden Compass Award. The seat, entirely finished by hand, is made of plywood using five different types of wood (walnut, mahogany, cherry, oak, and ash), and boasts a soft texture with the different essences smoothly flowing into each other. The footrest is made of anodized aluminum, adding a functional and essential profile to the piece.</span></div></div>",
+    "rawSpecificationsText": "Sophisticated and unique, this stool designed by Toyo Ito is the winner of the 2004 Golden Compass Award. The seat, entirely finished by hand, is made of plywood using five different types of wood (walnut, mahogany, cherry, oak, and ash), and boasts a soft texture with the different essences smoothly flowing into each other. The footrest is made of anodized aluminum, adding a functional and essential profile to the piece."
+  },
+  "raw_data": {
+    "productId": "f_44111842",
+    "slug": "f_44111842",
+    "url": "https://www.1stdibs.com/furniture/seating/stools/ripples-small-wood-stool-toyo-ito/id-f_44111842/",
+    "name": "Ripples Small Wood Stool by Toyo Ito",
+    "price": "CA$1,007.77",
+    "imageUrl": "https://a.1stdibscdn.com/ripples-small-wood-stool-by-toyo-ito-for-sale/f_17062/f_441118421742383995073/f_44111842_1742383995398_bg_processed.jpg",
+    "description": "f_44111842",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 17.72 in (45 cm)",
+        "width": "Width: 16.15 in (41 cm)",
+        "depth": "Depth: 11.82 in (30 cm)"
+      },
+      "materials": [
+        "Aluminum",
+        "Ash",
+        "Cherry",
+        "Mahogany",
+        "Oak",
+        "Walnut",
+        "Aluminum",
+        "Ash",
+        "Cherry",
+        "Mahogany",
+        "Oak",
+        "Walnut"
+      ],
+      "origin": "Italy",
+      "period": "2010-",
+      "dateOfManufacture": "contemporary",
+      "condition": {
+        "rating": "New",
+        "details": null
+      },
+      "sellerLocation": "Milan, IT",
+      "referenceNumber": "Seller: HORMPN-015",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Sophisticated and unique, this stool designed by Toyo Ito is the winner of the 2004 Golden Compass Award. The seat, entirely finished by hand, is made of plywood using five different types of wood (walnut, mahogany, cherry, oak, and ash), and boasts a soft texture with the different essences smoothly flowing into each other. The footrest is made of anodized aluminum, adding a functional and essential profile to the piece.</span></div></div>",
+      "rawSpecificationsText": "Sophisticated and unique, this stool designed by Toyo Ito is the winner of the 2004 Golden Compass Award. The seat, entirely finished by hand, is made of plywood using five different types of wood (walnut, mahogany, cherry, oak, and ash), and boasts a soft texture with the different essences smoothly flowing into each other. The footrest is made of anodized aluminum, adding a functional and essential profile to the piece."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Ripples Small Wood Stool by Toyo Ito",
+        "description": "Sophisticated and unique, this stool designed by Toyo Ito is the winner of the 2004 Golden Compass Award. The seat, entirely finished by hand, is made of plywood using five different types of wood (walnut, mahogany, cherry, oak, and ash), and boasts a soft texture with the different essences smoothly flowing into each other. The footrest is made of anodized aluminum, adding a functional and essential profile to the piece.",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Horm",
+            "caption": "Ripples Small Wood Stool by Toyo Ito For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/ripples-small-wood-stool-by-toyo-ito-for-sale/f_17062/f_441118421742383995073/f_44111842_1742383995398_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/ripples-small-wood-stool-by-toyo-ito-for-sale/f_17062/f_441118421742383995073/f_44111842_1742383995398_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-19T07:35:20.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Horm",
+            "caption": "Sophisticated and unique, this stool designed by Toyo Ito is the winner of the 2004 Golden Compass Award. The seat, entirely finished by hand, is made of plywood using five different types of wood (walnut, mahogany, cherry, oak, and ash), and boasts",
+            "contentUrl": "https://a.1stdibscdn.com/ripples-small-wood-stool-by-toyo-ito-for-sale-picture-2/f_17062/f_441118421742384008733/HORMPN_015_E20190731_7_ro10tt_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/ripples-small-wood-stool-by-toyo-ito-for-sale-picture-2/f_17062/f_441118421742384008733/HORMPN_015_E20190731_7_ro10tt_master.jpg?width=768",
+            "uploadDate": "2025-03-19T07:35:20.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Horm",
+            "caption": "Italian Ripples Small Wood Stool by Toyo Ito For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/ripples-small-wood-stool-by-toyo-ito-for-sale-picture-3/f_17062/f_441118421742384008437/HORMPN_015_D20190731_7_1m2nqx7_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/ripples-small-wood-stool-by-toyo-ito-for-sale-picture-3/f_17062/f_441118421742384008437/HORMPN_015_D20190731_7_1m2nqx7_master.jpg?width=768",
+            "uploadDate": "2025-03-19T07:35:20.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Horm",
+            "caption": "Ripples Small Wood Stool by Toyo Ito In New Condition For Sale In Milan, IT",
+            "contentUrl": "https://a.1stdibscdn.com/ripples-small-wood-stool-by-toyo-ito-for-sale-picture-4/f_17062/f_441118421742384009001/HORMPN_015_C20190731_7_1x0p10i_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/ripples-small-wood-stool-by-toyo-ito-for-sale-picture-4/f_17062/f_441118421742384009001/HORMPN_015_C20190731_7_1x0p10i_master.jpg?width=768",
+            "uploadDate": "2025-03-19T07:35:20.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Horm",
+            "caption": "Contemporary Ripples Small Wood Stool by Toyo Ito For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/ripples-small-wood-stool-by-toyo-ito-for-sale-picture-5/f_17062/f_441118421742384008950/HORMPN_015_B20190731_7_1bg5wzh_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/ripples-small-wood-stool-by-toyo-ito-for-sale-picture-5/f_17062/f_441118421742384008950/HORMPN_015_B20190731_7_1bg5wzh_master.jpg?width=768",
+            "uploadDate": "2025-03-19T07:35:20.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Horm",
+            "caption": "Aluminum Ripples Small Wood Stool by Toyo Ito For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/ripples-small-wood-stool-by-toyo-ito-for-sale-picture-6/f_17062/f_441118421742384008638/HORMPN_015_A20190731_7_ea45vn_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/ripples-small-wood-stool-by-toyo-ito-for-sale-picture-6/f_17062/f_441118421742384008638/HORMPN_015_A20190731_7_ea45vn_master.jpg?width=768",
+            "uploadDate": "2025-03-19T07:35:20.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/NewCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/stools/ripples-small-wood-stool-toyo-ito/id-f_44111842/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 617.63,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1113.8,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 14141.13,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 642.38,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 540.83,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 4819.49,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 685,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1007.77,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 7082.99,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 7386.2,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 4.8,
+          "reviewCount": 105
+        },
+        "productionDate": "2010-",
+        "category": "Stools",
+        "brand": {
+          "@type": "Brand",
+          "name": "Horm"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Stools",
+              "@id": "/furniture/seating/stools/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

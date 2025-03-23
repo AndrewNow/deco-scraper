@@ -1,0 +1,251 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44138712",
+  "name": "Diva Divan by Spini Firenze",
+  "slug": "f_44138712",
+  "price": "CA$5,995.13",
+  "description": "f_44138712",
+  "image_url": "https://a.1stdibscdn.com/diva-divan-by-spini-firenze-for-sale/f_17062/f_441387121742545315791/f_44138712_1742545316167_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/sofas/diva-divan-spini-firenze/id-f_44138712/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 45.28 in (115 cm)",
+      "width": "Width: 51.19 in (130 cm)",
+      "depth": "Depth: 28.75 in (73 cm)"
+    },
+    "materials": [
+      "Velvet",
+      "Wood",
+      "Velvet",
+      "Wood"
+    ],
+    "origin": "Italy",
+    "period": "2010-",
+    "dateOfManufacture": "contemporary",
+    "condition": {
+      "rating": "New",
+      "details": null
+    },
+    "sellerLocation": "Milan, IT",
+    "referenceNumber": "Seller: SPINFI-075",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">With a classic and charming design, the Diva Divan will bring an element of joy to any sitting area. This two-seater wooden sofa features a real gold leaf finish on the legs applied by hand and an antique pink velvet fabric for the seat and armrests. The unique backrest is upholstered in a floral Christian Lacroix fabric.</span></div></div>",
+    "rawSpecificationsText": "With a classic and charming design, the Diva Divan will bring an element of joy to any sitting area. This two-seater wooden sofa features a real gold leaf finish on the legs applied by hand and an antique pink velvet fabric for the seat and armrests. The unique backrest is upholstered in a floral Christian Lacroix fabric."
+  },
+  "raw_data": {
+    "productId": "f_44138712",
+    "slug": "f_44138712",
+    "url": "https://www.1stdibs.com/furniture/seating/sofas/diva-divan-spini-firenze/id-f_44138712/",
+    "name": "Diva Divan by Spini Firenze",
+    "price": "CA$5,995.13",
+    "imageUrl": "https://a.1stdibscdn.com/diva-divan-by-spini-firenze-for-sale/f_17062/f_441387121742545315791/f_44138712_1742545316167_bg_processed.jpg",
+    "description": "f_44138712",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 45.28 in (115 cm)",
+        "width": "Width: 51.19 in (130 cm)",
+        "depth": "Depth: 28.75 in (73 cm)"
+      },
+      "materials": [
+        "Velvet",
+        "Wood",
+        "Velvet",
+        "Wood"
+      ],
+      "origin": "Italy",
+      "period": "2010-",
+      "dateOfManufacture": "contemporary",
+      "condition": {
+        "rating": "New",
+        "details": null
+      },
+      "sellerLocation": "Milan, IT",
+      "referenceNumber": "Seller: SPINFI-075",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">With a classic and charming design, the Diva Divan will bring an element of joy to any sitting area. This two-seater wooden sofa features a real gold leaf finish on the legs applied by hand and an antique pink velvet fabric for the seat and armrests. The unique backrest is upholstered in a floral Christian Lacroix fabric.</span></div></div>",
+      "rawSpecificationsText": "With a classic and charming design, the Diva Divan will bring an element of joy to any sitting area. This two-seater wooden sofa features a real gold leaf finish on the legs applied by hand and an antique pink velvet fabric for the seat and armrests. The unique backrest is upholstered in a floral Christian Lacroix fabric."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Diva Divan by Spini Firenze",
+        "description": "With a classic and charming design, the Diva Divan will bring an element of joy to any sitting area. This two-seater wooden sofa features a real gold leaf finish on the legs applied by hand and an antique pink velvet fabric for the seat and armrests. The unique backrest is upholstered in a floral Christian Lacroix fabric.",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Spini Firenze",
+            "caption": "Diva Divan by Spini Firenze For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/diva-divan-by-spini-firenze-for-sale/f_17062/f_441387121742545315791/f_44138712_1742545316167_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/diva-divan-by-spini-firenze-for-sale/f_17062/f_441387121742545315791/f_44138712_1742545316167_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-21T04:25:00.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Spini Firenze",
+            "caption": "With a classic and charming design, the Diva Divan will bring an element of joy to any sitting area. This two-seater wooden sofa features a real gold leaf finish on the legs applied by hand and an antique pink velvet fabric for the seat and",
+            "contentUrl": "https://a.1stdibscdn.com/diva-divan-by-spini-firenze-for-sale-picture-2/f_17062/f_441387121742545328850/SPINFI_075_B20200424_47_eam993_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/diva-divan-by-spini-firenze-for-sale-picture-2/f_17062/f_441387121742545328850/SPINFI_075_B20200424_47_eam993_master.jpg?width=768",
+            "uploadDate": "2025-03-21T04:25:00.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Spini Firenze",
+            "caption": "Italian Diva Divan by Spini Firenze For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/diva-divan-by-spini-firenze-for-sale-picture-3/f_17062/f_441387121742545329029/SPINFI_075_A20200424_47_4rizzs_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/diva-divan-by-spini-firenze-for-sale-picture-3/f_17062/f_441387121742545329029/SPINFI_075_A20200424_47_4rizzs_master.jpg?width=768",
+            "uploadDate": "2025-03-21T04:25:00.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Spini Firenze",
+            "caption": "Diva Divan by Spini Firenze In New Condition For Sale In Milan, IT",
+            "contentUrl": "https://a.1stdibscdn.com/diva-divan-by-spini-firenze-for-sale-picture-4/f_17062/f_441387121742545328886/SPINFI_07520200424_47_1q6egmr_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/diva-divan-by-spini-firenze-for-sale-picture-4/f_17062/f_441387121742545328886/SPINFI_07520200424_47_1q6egmr_master.jpg?width=768",
+            "uploadDate": "2025-03-21T04:25:00.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Spini Firenze",
+            "caption": "Contemporary Diva Divan by Spini Firenze For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/diva-divan-by-spini-firenze-for-sale-picture-5/f_17062/f_441387121742545345974/SPINFI_075_B20200424_47_eam993_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/diva-divan-by-spini-firenze-for-sale-picture-5/f_17062/f_441387121742545345974/SPINFI_075_B20200424_47_eam993_master.jpg?width=768",
+            "uploadDate": "2025-03-21T04:25:00.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Spini Firenze",
+            "caption": "Velvet Diva Divan by Spini Firenze For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/diva-divan-by-spini-firenze-for-sale-picture-6/f_17062/f_441387121742545346288/SPINFI_075_A20200424_47_4rizzs_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/diva-divan-by-spini-firenze-for-sale-picture-6/f_17062/f_441387121742545346288/SPINFI_075_A20200424_47_4rizzs_master.jpg?width=768",
+            "uploadDate": "2025-03-21T04:25:00.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/NewCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/sofas/diva-divan-spini-firenze/id-f_44138712/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3674.22,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 6625.88,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 84124.23,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3821.49,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3217.36,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 28670.71,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 4075,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 5995.13,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 42136.04,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 43939.8,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 4.8,
+          "reviewCount": 105
+        },
+        "productionDate": "2010-",
+        "category": "Sofas",
+        "brand": {
+          "@type": "Brand",
+          "name": "Spini Firenze"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Sofas",
+              "@id": "/furniture/seating/sofas/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

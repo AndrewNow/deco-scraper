@@ -1,0 +1,315 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44062372",
+  "name": "\"Delfino\" Armchair by Erberto Carboni for Arflex, Italy, 1950s",
+  "slug": "f_44062372",
+  "price": "CA$6,080.65",
+  "description": "f_44062372",
+  "image_url": "https://a.1stdibscdn.com/delfino-armchair-by-erberto-carboni-for-arflex-italy-1950s-for-sale/f_9451/f_440623721742058883021/f_44062372_1742058883328_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/lounge-chairs/delfino-armchair-erberto-carboni-arflex-italy-1950s/id-f_44062372/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 33.08 in (84 cm)",
+      "width": "Width: 29.53 in (75 cm)",
+      "depth": "Depth: 31.5 in (80 cm)"
+    },
+    "materials": [
+      "Brass",
+      "Fabric",
+      "Metal",
+      "Brass",
+      "Fabric",
+      "Metal"
+    ],
+    "origin": "Italy",
+    "period": "1950-1959",
+    "dateOfManufacture": "1954",
+    "condition": {
+      "rating": "Good",
+      "details": "Reupholstered. Wear consistent with age and use."
+    },
+    "sellerLocation": "Milan, IT",
+    "referenceNumber": "1stDibs: LU945144062372",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">\"Delfino\" armchair by Erberto Carboni for Arflex.</span></div></div>",
+    "rawSpecificationsText": "\"Delfino\" armchair by Erberto Carboni for Arflex."
+  },
+  "raw_data": {
+    "productId": "f_44062372",
+    "slug": "f_44062372",
+    "url": "https://www.1stdibs.com/furniture/seating/lounge-chairs/delfino-armchair-erberto-carboni-arflex-italy-1950s/id-f_44062372/",
+    "name": "\"Delfino\" Armchair by Erberto Carboni for Arflex, Italy, 1950s",
+    "price": "CA$6,080.65",
+    "imageUrl": "https://a.1stdibscdn.com/delfino-armchair-by-erberto-carboni-for-arflex-italy-1950s-for-sale/f_9451/f_440623721742058883021/f_44062372_1742058883328_bg_processed.jpg",
+    "description": "f_44062372",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 33.08 in (84 cm)",
+        "width": "Width: 29.53 in (75 cm)",
+        "depth": "Depth: 31.5 in (80 cm)"
+      },
+      "materials": [
+        "Brass",
+        "Fabric",
+        "Metal",
+        "Brass",
+        "Fabric",
+        "Metal"
+      ],
+      "origin": "Italy",
+      "period": "1950-1959",
+      "dateOfManufacture": "1954",
+      "condition": {
+        "rating": "Good",
+        "details": "Reupholstered. Wear consistent with age and use."
+      },
+      "sellerLocation": "Milan, IT",
+      "referenceNumber": "1stDibs: LU945144062372",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">\"Delfino\" armchair by Erberto Carboni for Arflex.</span></div></div>",
+      "rawSpecificationsText": "\"Delfino\" armchair by Erberto Carboni for Arflex."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "\"Delfino\" Armchair by Erberto Carboni for Arflex, Italy, 1950s",
+        "description": "\"Delfino\" armchair by Erberto Carboni for Arflex.\n",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Arflex, Erberto Carboni",
+            "caption": "\"Delfino\" Armchair by Erberto Carboni for Arflex, Italy, 1950s For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/delfino-armchair-by-erberto-carboni-for-arflex-italy-1950s-for-sale/f_9451/f_440623721742058883021/f_44062372_1742058883328_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/delfino-armchair-by-erberto-carboni-for-arflex-italy-1950s-for-sale/f_9451/f_440623721742058883021/f_44062372_1742058883328_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-18T14:00:51.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Arflex, Erberto Carboni",
+            "caption": "\"Delfino\" armchair by Erberto Carboni for Arflex.\n",
+            "contentUrl": "https://a.1stdibscdn.com/delfino-armchair-by-erberto-carboni-for-arflex-italy-1950s-for-sale-picture-2/f_9451/f_440623721742058904080/2025_03_0153_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/delfino-armchair-by-erberto-carboni-for-arflex-italy-1950s-for-sale-picture-2/f_9451/f_440623721742058904080/2025_03_0153_master.jpg?width=768",
+            "uploadDate": "2025-03-18T14:00:51.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Arflex, Erberto Carboni",
+            "caption": "Italian \"Delfino\" Armchair by Erberto Carboni for Arflex, Italy, 1950s For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/delfino-armchair-by-erberto-carboni-for-arflex-italy-1950s-for-sale-picture-3/f_9451/f_440623721742058913805/2025_03_0163_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/delfino-armchair-by-erberto-carboni-for-arflex-italy-1950s-for-sale-picture-3/f_9451/f_440623721742058913805/2025_03_0163_master.jpg?width=768",
+            "uploadDate": "2025-03-18T14:00:51.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Arflex, Erberto Carboni",
+            "caption": "\"Delfino\" Armchair by Erberto Carboni for Arflex, Italy, 1950s In Good Condition For Sale In Milan, IT",
+            "contentUrl": "https://a.1stdibscdn.com/delfino-armchair-by-erberto-carboni-for-arflex-italy-1950s-for-sale-picture-4/f_9451/f_440623721742058914058/2025_03_0164_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/delfino-armchair-by-erberto-carboni-for-arflex-italy-1950s-for-sale-picture-4/f_9451/f_440623721742058914058/2025_03_0164_master.jpg?width=768",
+            "uploadDate": "2025-03-18T14:00:51.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Arflex, Erberto Carboni",
+            "caption": "Mid-20th Century \"Delfino\" Armchair by Erberto Carboni for Arflex, Italy, 1950s For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/delfino-armchair-by-erberto-carboni-for-arflex-italy-1950s-for-sale-picture-5/f_9451/f_440623721742058923010/2025_03_0155_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/delfino-armchair-by-erberto-carboni-for-arflex-italy-1950s-for-sale-picture-5/f_9451/f_440623721742058923010/2025_03_0155_master.jpg?width=768",
+            "uploadDate": "2025-03-18T14:00:51.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Arflex, Erberto Carboni",
+            "caption": "Metal \"Delfino\" Armchair by Erberto Carboni for Arflex, Italy, 1950s For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/delfino-armchair-by-erberto-carboni-for-arflex-italy-1950s-for-sale-picture-6/f_9451/f_440623721742058923710/2025_03_0156_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/delfino-armchair-by-erberto-carboni-for-arflex-italy-1950s-for-sale-picture-6/f_9451/f_440623721742058923710/2025_03_0156_master.jpg?width=768",
+            "uploadDate": "2025-03-18T14:00:51.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Arflex, Erberto Carboni",
+            "caption": "\"Delfino\" Armchair by Erberto Carboni for Arflex, Italy, 1950s For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/delfino-armchair-by-erberto-carboni-for-arflex-italy-1950s-for-sale-picture-7/f_9451/f_440623721742058923023/2025_03_0157_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/delfino-armchair-by-erberto-carboni-for-arflex-italy-1950s-for-sale-picture-7/f_9451/f_440623721742058923023/2025_03_0157_master.jpg?width=768",
+            "uploadDate": "2025-03-18T14:00:51.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Arflex, Erberto Carboni",
+            "caption": "\"Delfino\" Armchair by Erberto Carboni for Arflex, Italy, 1950s For Sale 2",
+            "contentUrl": "https://a.1stdibscdn.com/delfino-armchair-by-erberto-carboni-for-arflex-italy-1950s-for-sale-picture-8/f_9451/f_440623721742058923122/2025_03_0158_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/delfino-armchair-by-erberto-carboni-for-arflex-italy-1950s-for-sale-picture-8/f_9451/f_440623721742058923122/2025_03_0158_master.jpg?width=768",
+            "uploadDate": "2025-03-18T14:00:51.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Arflex, Erberto Carboni",
+            "caption": "\"Delfino\" Armchair by Erberto Carboni for Arflex, Italy, 1950s For Sale 3",
+            "contentUrl": "https://a.1stdibscdn.com/delfino-armchair-by-erberto-carboni-for-arflex-italy-1950s-for-sale-picture-9/f_9451/f_440623721742058923647/2025_03_0165_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/delfino-armchair-by-erberto-carboni-for-arflex-italy-1950s-for-sale-picture-9/f_9451/f_440623721742058923647/2025_03_0165_master.jpg?width=768",
+            "uploadDate": "2025-03-18T14:00:51.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Arflex, Erberto Carboni",
+            "caption": "\"Delfino\" Armchair by Erberto Carboni for Arflex, Italy, 1950s For Sale 4",
+            "contentUrl": "https://a.1stdibscdn.com/delfino-armchair-by-erberto-carboni-for-arflex-italy-1950s-for-sale-picture-10/f_9451/f_440623721742058923678/2025_03_0167_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/delfino-armchair-by-erberto-carboni-for-arflex-italy-1950s-for-sale-picture-10/f_9451/f_440623721742058923678/2025_03_0167_master.jpg?width=768",
+            "uploadDate": "2025-03-18T14:00:51.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Arflex, Erberto Carboni",
+            "caption": "\"Delfino\" Armchair by Erberto Carboni for Arflex, Italy, 1950s For Sale 5",
+            "contentUrl": "https://a.1stdibscdn.com/delfino-armchair-by-erberto-carboni-for-arflex-italy-1950s-for-sale-picture-11/f_9451/f_440623721742058959501/2025_03_0168_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/delfino-armchair-by-erberto-carboni-for-arflex-italy-1950s-for-sale-picture-11/f_9451/f_440623721742058959501/2025_03_0168_master.jpg?width=768",
+            "uploadDate": "2025-03-18T14:00:51.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Arflex, Erberto Carboni",
+            "caption": "\"Delfino\" Armchair by Erberto Carboni for Arflex, Italy, 1950s For Sale 6",
+            "contentUrl": "https://a.1stdibscdn.com/delfino-armchair-by-erberto-carboni-for-arflex-italy-1950s-for-sale-picture-12/f_9451/f_440623721742058960083/2025_03_0169_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/delfino-armchair-by-erberto-carboni-for-arflex-italy-1950s-for-sale-picture-12/f_9451/f_440623721742058960083/2025_03_0169_master.jpg?width=768",
+            "uploadDate": "2025-03-18T14:00:51.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/UsedCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/lounge-chairs/delfino-armchair-erberto-carboni-arflex-italy-1950s/id-f_44062372/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3726.63,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 6720.4,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 85324.28,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3800,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3263.25,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 29079.7,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 4215.79,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 6080.65,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 42737.12,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 44566.6,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 4.8,
+          "reviewCount": 24
+        },
+        "productionDate": "1950-1959",
+        "category": "Lounge Chairs",
+        "brand": {
+          "@type": "Brand",
+          "name": "Arflex, Erberto Carboni"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Lounge Chairs",
+              "@id": "/furniture/seating/lounge-chairs/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

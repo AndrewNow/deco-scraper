@@ -1,0 +1,287 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44111662",
+  "name": "Ripples Wood Stool by Toyo Ito",
+  "slug": "f_44111662",
+  "price": "CA$1,162.25",
+  "description": "f_44111662",
+  "image_url": "https://a.1stdibscdn.com/ripples-wood-stool-by-toyo-ito-for-sale/f_17062/f_441116621742383387981/f_44111662_1742383388269_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/stools/ripples-wood-stool-toyo-ito/id-f_44111662/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 30.32 in (77 cm)",
+      "width": "Width: 16.15 in (41 cm)",
+      "depth": "Depth: 11.82 in (30 cm)"
+    },
+    "materials": [
+      "Aluminum",
+      "Ash",
+      "Cherry",
+      "Mahogany",
+      "Oak",
+      "Walnut",
+      "Aluminum",
+      "Ash",
+      "Cherry",
+      "Mahogany",
+      "Oak",
+      "Walnut"
+    ],
+    "origin": "Italy",
+    "period": "2010-",
+    "dateOfManufacture": "contemporary",
+    "condition": {
+      "rating": "New",
+      "details": null
+    },
+    "sellerLocation": "Milan, IT",
+    "referenceNumber": "Seller: HORMPN-040",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">An impeccable example of refined craftsmanship, this stool designed by Toyo Ito is crafted of plywood composed of five different types of wood (walnut, mahogany, cherry, oak, and ash). The seat shape, carved with industrial technology yet entirely hand-finished, boasts a soft texture due to the ductility of wood and Horm’s passion for craftsmanship. The sides of this piece are equipped with a footrest in extruded anodized aluminum, completing the functional and elegant design of this stool.</span></div></div>",
+    "rawSpecificationsText": "An impeccable example of refined craftsmanship, this stool designed by Toyo Ito is crafted of plywood composed of five different types of wood (walnut, mahogany, cherry, oak, and ash). The seat shape, carved with industrial technology yet entirely hand-finished, boasts a soft texture due to the ductility of wood and Horm’s passion for craftsmanship. The sides of this piece are equipped with a footrest in extruded anodized aluminum, completing the functional and elegant design of this stool."
+  },
+  "raw_data": {
+    "productId": "f_44111662",
+    "slug": "f_44111662",
+    "url": "https://www.1stdibs.com/furniture/seating/stools/ripples-wood-stool-toyo-ito/id-f_44111662/",
+    "name": "Ripples Wood Stool by Toyo Ito",
+    "price": "CA$1,162.25",
+    "imageUrl": "https://a.1stdibscdn.com/ripples-wood-stool-by-toyo-ito-for-sale/f_17062/f_441116621742383387981/f_44111662_1742383388269_bg_processed.jpg",
+    "description": "f_44111662",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 30.32 in (77 cm)",
+        "width": "Width: 16.15 in (41 cm)",
+        "depth": "Depth: 11.82 in (30 cm)"
+      },
+      "materials": [
+        "Aluminum",
+        "Ash",
+        "Cherry",
+        "Mahogany",
+        "Oak",
+        "Walnut",
+        "Aluminum",
+        "Ash",
+        "Cherry",
+        "Mahogany",
+        "Oak",
+        "Walnut"
+      ],
+      "origin": "Italy",
+      "period": "2010-",
+      "dateOfManufacture": "contemporary",
+      "condition": {
+        "rating": "New",
+        "details": null
+      },
+      "sellerLocation": "Milan, IT",
+      "referenceNumber": "Seller: HORMPN-040",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">An impeccable example of refined craftsmanship, this stool designed by Toyo Ito is crafted of plywood composed of five different types of wood (walnut, mahogany, cherry, oak, and ash). The seat shape, carved with industrial technology yet entirely hand-finished, boasts a soft texture due to the ductility of wood and Horm’s passion for craftsmanship. The sides of this piece are equipped with a footrest in extruded anodized aluminum, completing the functional and elegant design of this stool.</span></div></div>",
+      "rawSpecificationsText": "An impeccable example of refined craftsmanship, this stool designed by Toyo Ito is crafted of plywood composed of five different types of wood (walnut, mahogany, cherry, oak, and ash). The seat shape, carved with industrial technology yet entirely hand-finished, boasts a soft texture due to the ductility of wood and Horm’s passion for craftsmanship. The sides of this piece are equipped with a footrest in extruded anodized aluminum, completing the functional and elegant design of this stool."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Ripples Wood Stool by Toyo Ito",
+        "description": "An impeccable example of refined craftsmanship, this stool designed by Toyo Ito is crafted of plywood composed of five different types of wood (walnut, mahogany, cherry, oak, and ash). The seat shape, carved with industrial technology yet entirely hand-finished, boasts a soft texture due to the ductility of wood and Horm’s passion for craftsmanship. The sides of this piece are equipped with a footrest in extruded anodized aluminum, completing the functional and elegant design of this stool.",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Horm",
+            "caption": "Ripples Wood Stool by Toyo Ito For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/ripples-wood-stool-by-toyo-ito-for-sale/f_17062/f_441116621742383387981/f_44111662_1742383388269_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/ripples-wood-stool-by-toyo-ito-for-sale/f_17062/f_441116621742383387981/f_44111662_1742383388269_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-19T07:25:42.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Horm",
+            "caption": "An impeccable example of refined craftsmanship, this stool designed by Toyo Ito is crafted of plywood composed of five different types of wood (walnut, mahogany, cherry, oak, and ash). The seat shape, carved with industrial technology yet entirely",
+            "contentUrl": "https://a.1stdibscdn.com/ripples-wood-stool-by-toyo-ito-for-sale-picture-2/f_17062/f_441116621742383401349/HORMPN_040_C20190731_7_1x2o8vm_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/ripples-wood-stool-by-toyo-ito-for-sale-picture-2/f_17062/f_441116621742383401349/HORMPN_040_C20190731_7_1x2o8vm_master.jpg?width=768",
+            "uploadDate": "2025-03-19T07:25:42.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Horm",
+            "caption": "Italian Ripples Wood Stool by Toyo Ito For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/ripples-wood-stool-by-toyo-ito-for-sale-picture-3/f_17062/f_441116621742383401796/HORMPN_040_B20190731_7_cx8313_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/ripples-wood-stool-by-toyo-ito-for-sale-picture-3/f_17062/f_441116621742383401796/HORMPN_040_B20190731_7_cx8313_master.jpg?width=768",
+            "uploadDate": "2025-03-19T07:25:42.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Horm",
+            "caption": "Ripples Wood Stool by Toyo Ito In New Condition For Sale In Milan, IT",
+            "contentUrl": "https://a.1stdibscdn.com/ripples-wood-stool-by-toyo-ito-for-sale-picture-4/f_17062/f_441116621742383401970/HORMPN_040_A20190731_7_1fbdzr3_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/ripples-wood-stool-by-toyo-ito-for-sale-picture-4/f_17062/f_441116621742383401970/HORMPN_040_A20190731_7_1fbdzr3_master.jpg?width=768",
+            "uploadDate": "2025-03-19T07:25:42.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Horm",
+            "caption": "Contemporary Ripples Wood Stool by Toyo Ito For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/ripples-wood-stool-by-toyo-ito-for-sale-picture-5/f_17062/f_441116621742383401527/HORMPN_04020190731_7_15d1hze_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/ripples-wood-stool-by-toyo-ito-for-sale-picture-5/f_17062/f_441116621742383401527/HORMPN_04020190731_7_15d1hze_master.jpg?width=768",
+            "uploadDate": "2025-03-19T07:25:42.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Horm",
+            "caption": "Aluminum Ripples Wood Stool by Toyo Ito For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/ripples-wood-stool-by-toyo-ito-for-sale-picture-6/f_17062/f_441116621742383433617/HORMPN_040_C20190731_7_1x2o8vm_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/ripples-wood-stool-by-toyo-ito-for-sale-picture-6/f_17062/f_441116621742383433617/HORMPN_040_C20190731_7_1x2o8vm_master.jpg?width=768",
+            "uploadDate": "2025-03-19T07:25:42.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Horm",
+            "caption": "Ripples Wood Stool by Toyo Ito For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/ripples-wood-stool-by-toyo-ito-for-sale-picture-7/f_17062/f_441116621742383433569/HORMPN_040_B20190731_7_cx8313_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/ripples-wood-stool-by-toyo-ito-for-sale-picture-7/f_17062/f_441116621742383433569/HORMPN_040_B20190731_7_cx8313_master.jpg?width=768",
+            "uploadDate": "2025-03-19T07:25:42.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Horm",
+            "caption": "Ripples Wood Stool by Toyo Ito For Sale 2",
+            "contentUrl": "https://a.1stdibscdn.com/ripples-wood-stool-by-toyo-ito-for-sale-picture-8/f_17062/f_441116621742383433700/HORMPN_040_A20190731_7_1fbdzr3_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/ripples-wood-stool-by-toyo-ito-for-sale-picture-8/f_17062/f_441116621742383433700/HORMPN_040_A20190731_7_1fbdzr3_master.jpg?width=768",
+            "uploadDate": "2025-03-19T07:25:42.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/NewCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/stools/ripples-wood-stool-toyo-ito/id-f_44111662/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1284.53,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 712.3,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 16308.75,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 740.85,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 623.73,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 5558.25,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 790,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1162.25,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 8168.7,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 8518.39,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 4.8,
+          "reviewCount": 105
+        },
+        "productionDate": "2010-",
+        "category": "Stools",
+        "brand": {
+          "@type": "Brand",
+          "name": "Horm"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Stools",
+              "@id": "/furniture/seating/stools/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44094992",
+  "name": "Postmodern Dining Chairs by Eka Wohnmöbel",
+  "slug": "f_44094992",
+  "price": "CA$3,264.35",
+  "description": "f_44094992",
+  "image_url": "https://a.1stdibscdn.com/postmodern-dining-chairs-by-eka-wohnmobel-for-sale/f_69722/f_440949921742291114134/f_44094992_1742291114378_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/dining-room-chairs/postmodern-dining-chairs-eka-wohnmobel/id-f_44094992/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 29.53 in (75 cm)",
+      "width": "Width: 18.51 in (47 cm)",
+      "depth": "Depth: 18.51 in (47 cm)",
+      "seatHeight": "Seat Height: 17.72 in (45 cm)"
+    },
+    "style": "Post-Modern (Of the Period)",
+    "materials": [
+      "Beech",
+      "Beech"
+    ],
+    "origin": "Germany",
+    "period": "1980-1989",
+    "dateOfManufacture": "Unknown",
+    "condition": {
+      "rating": "Good",
+      "details": "Refinished. Wear consistent with age and use. Good condition with slight signs of usage."
+    },
+    "sellerLocation": "Neuss, DE",
+    "referenceNumber": "Seller: 2401001",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Postmodern dining chairs from the 1980s. Solid beech frame, seat and backrest. The offer includes 2 chairs.\n\nQuality Features:\nvery good workmanship\nhigh-quality materials\nsolid wood frame\nMade in Germany, manufacturer: Eka Wohnmöbel</span></div></div>",
+    "rawSpecificationsText": "Postmodern dining chairs from the 1980s. Solid beech frame, seat and backrest. The offer includes 2 chairs.\n\nQuality Features:\nvery good workmanship\nhigh-quality materials\nsolid wood frame\nMade in Germany, manufacturer: Eka Wohnmöbel"
+  },
+  "raw_data": {
+    "productId": "f_44094992",
+    "slug": "f_44094992",
+    "url": "https://www.1stdibs.com/furniture/seating/dining-room-chairs/postmodern-dining-chairs-eka-wohnmobel/id-f_44094992/",
+    "name": "Postmodern Dining Chairs by Eka Wohnmöbel",
+    "price": "CA$3,264.35",
+    "imageUrl": "https://a.1stdibscdn.com/postmodern-dining-chairs-by-eka-wohnmobel-for-sale/f_69722/f_440949921742291114134/f_44094992_1742291114378_bg_processed.jpg",
+    "description": "f_44094992",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 29.53 in (75 cm)",
+        "width": "Width: 18.51 in (47 cm)",
+        "depth": "Depth: 18.51 in (47 cm)",
+        "seatHeight": "Seat Height: 17.72 in (45 cm)"
+      },
+      "style": "Post-Modern (Of the Period)",
+      "materials": [
+        "Beech",
+        "Beech"
+      ],
+      "origin": "Germany",
+      "period": "1980-1989",
+      "dateOfManufacture": "Unknown",
+      "condition": {
+        "rating": "Good",
+        "details": "Refinished. Wear consistent with age and use. Good condition with slight signs of usage."
+      },
+      "sellerLocation": "Neuss, DE",
+      "referenceNumber": "Seller: 2401001",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Postmodern dining chairs from the 1980s. Solid beech frame, seat and backrest. The offer includes 2 chairs.\n\nQuality Features:\nvery good workmanship\nhigh-quality materials\nsolid wood frame\nMade in Germany, manufacturer: Eka Wohnmöbel</span></div></div>",
+      "rawSpecificationsText": "Postmodern dining chairs from the 1980s. Solid beech frame, seat and backrest. The offer includes 2 chairs.\n\nQuality Features:\nvery good workmanship\nhigh-quality materials\nsolid wood frame\nMade in Germany, manufacturer: Eka Wohnmöbel"
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Postmodern Dining Chairs by Eka Wohnmöbel",
+        "description": "Postmodern dining chairs from the 1980s. Solid beech frame, seat and backrest. The offer includes 2 chairs.\n\nQuality Features:\nvery good workmanship\nhigh-quality materials\nsolid wood frame\nMade in Germany, manufacturer: Eka Wohnmöbel",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Postmodern Dining Chairs by Eka Wohnmöbel For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/postmodern-dining-chairs-by-eka-wohnmobel-for-sale/f_69722/f_440949921742291114134/f_44094992_1742291114378_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/postmodern-dining-chairs-by-eka-wohnmobel-for-sale/f_69722/f_440949921742291114134/f_44094992_1742291114378_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-18T05:47:12.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Postmodern dining chairs from the 1980s. Solid beech frame, seat and backrest. The offer includes 2 chairs.\n\nQuality Features:\nvery good workmanship\nhigh-quality materials\nsolid wood frame\nMade in Germany, manufacturer: Eka Wohnmöbel",
+            "contentUrl": "https://a.1stdibscdn.com/postmodern-dining-chairs-by-eka-wohnmobel-for-sale-picture-2/f_69722/f_440949921742291158823/2401001_Stu_hle_Neu06_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/postmodern-dining-chairs-by-eka-wohnmobel-for-sale-picture-2/f_69722/f_440949921742291158823/2401001_Stu_hle_Neu06_master.jpg?width=768",
+            "uploadDate": "2025-03-18T05:47:12.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Post-Modern Postmodern Dining Chairs by Eka Wohnmöbel For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/postmodern-dining-chairs-by-eka-wohnmobel-for-sale-picture-3/f_69722/f_440949921742291158831/2401001_Stu_hle_Neu04_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/postmodern-dining-chairs-by-eka-wohnmobel-for-sale-picture-3/f_69722/f_440949921742291158831/2401001_Stu_hle_Neu04_master.jpg?width=768",
+            "uploadDate": "2025-03-18T05:47:12.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "German Postmodern Dining Chairs by Eka Wohnmöbel For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/postmodern-dining-chairs-by-eka-wohnmobel-for-sale-picture-4/f_69722/f_440949921742291158824/2401001_Stu_hle_Neu10_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/postmodern-dining-chairs-by-eka-wohnmobel-for-sale-picture-4/f_69722/f_440949921742291158824/2401001_Stu_hle_Neu10_master.jpg?width=768",
+            "uploadDate": "2025-03-18T05:47:12.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Postmodern Dining Chairs by Eka Wohnmöbel In Good Condition For Sale In Neuss, NW",
+            "contentUrl": "https://a.1stdibscdn.com/postmodern-dining-chairs-by-eka-wohnmobel-for-sale-picture-5/f_69722/f_440949921742291158856/2401001_Stu_hle_Neu01_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/postmodern-dining-chairs-by-eka-wohnmobel-for-sale-picture-5/f_69722/f_440949921742291158856/2401001_Stu_hle_Neu01_master.jpg?width=768",
+            "uploadDate": "2025-03-18T05:47:12.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Late 20th Century Postmodern Dining Chairs by Eka Wohnmöbel For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/postmodern-dining-chairs-by-eka-wohnmobel-for-sale-picture-6/f_69722/f_440949921742291158825/2401001_Stu_hle_Neu09_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/postmodern-dining-chairs-by-eka-wohnmobel-for-sale-picture-6/f_69722/f_440949921742291158825/2401001_Stu_hle_Neu09_master.jpg?width=768",
+            "uploadDate": "2025-03-18T05:47:12.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Beech Postmodern Dining Chairs by Eka Wohnmöbel For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/postmodern-dining-chairs-by-eka-wohnmobel-for-sale-picture-7/f_69722/f_440949921742291159230/2401001_Stu_hle_Neu08_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/postmodern-dining-chairs-by-eka-wohnmobel-for-sale-picture-7/f_69722/f_440949921742291159230/2401001_Stu_hle_Neu08_master.jpg?width=768",
+            "uploadDate": "2025-03-18T05:47:12.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/UsedCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/dining-room-chairs/postmodern-dining-chairs-eka-wohnmobel/id-f_44094992/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 2000.61,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3607.79,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 45805.66,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 2040,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1751.85,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 15611.21,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 2263.22,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3264.35,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 22943.08,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 23925.23,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 5,
+          "reviewCount": 4
+        },
+        "productionDate": "1980-1989",
+        "category": "Dining Room Chairs"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Dining Room Chairs",
+              "@id": "/furniture/seating/dining-room-chairs/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

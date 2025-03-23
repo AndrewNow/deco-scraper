@@ -1,0 +1,305 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44103222",
+  "name": "Vintage Milo Baughman Chrome Wave Chaise Lounge in kiwi green Italian Leather",
+  "slug": "f_44103222",
+  "price": "CA$13,976.37",
+  "description": "f_44103222",
+  "image_url": "https://a.1stdibscdn.com/vintage-milo-baughman-chrome-wave-chaise-lounge-in-kiwi-green-italian-leather-for-sale/f_73682/f_441032221742330792490/f_44103222_1742330793027_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/chaise-longues/vintage-milo-baughman-chrome-wave-chaise-lounge-kiwi-green-italian-leather/id-f_44103222/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 31.5 in (80.01 cm)",
+      "width": "Width: 25 in (63.5 cm)",
+      "depth": "Depth: 52 in (132.08 cm)",
+      "seatHeight": "Seat Height: 4 in (10.16 cm)"
+    },
+    "style": "Mid-Century Modern (Of the Period)",
+    "materials": [
+      "Chrome",
+      "Leather",
+      "Chrome",
+      "Leather"
+    ],
+    "origin": "United States",
+    "period": "1970-1979",
+    "dateOfManufacture": "circa 1970",
+    "condition": {
+      "rating": "Good",
+      "details": "Reupholstered."
+    },
+    "sellerLocation": "Saint Louis, US",
+    "referenceNumber": "1stDibs: LU7368244103222",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Indulge in the perfect blend of style and comfort with the original Milo Baughman Wave Chaise, reupholstered in luxurious kiwi green Italian calfskin leather. Its sleek, contoured design cradles the body, providing ultimate relaxation whether by day or night. With a supportive headrest pillow and a polished T-frame chrome base, this piece is a stunning addition to any office, study, or parlor room. Fully reupholstered and in excellent condition—where luxury meets timeless design.</span></div></div>",
+    "rawSpecificationsText": "Indulge in the perfect blend of style and comfort with the original Milo Baughman Wave Chaise, reupholstered in luxurious kiwi green Italian calfskin leather. Its sleek, contoured design cradles the body, providing ultimate relaxation whether by day or night. With a supportive headrest pillow and a polished T-frame chrome base, this piece is a stunning addition to any office, study, or parlor room. Fully reupholstered and in excellent condition—where luxury meets timeless design."
+  },
+  "raw_data": {
+    "productId": "f_44103222",
+    "slug": "f_44103222",
+    "url": "https://www.1stdibs.com/furniture/seating/chaise-longues/vintage-milo-baughman-chrome-wave-chaise-lounge-kiwi-green-italian-leather/id-f_44103222/",
+    "name": "Vintage Milo Baughman Chrome Wave Chaise Lounge in kiwi green Italian Leather",
+    "price": "CA$13,976.37",
+    "imageUrl": "https://a.1stdibscdn.com/vintage-milo-baughman-chrome-wave-chaise-lounge-in-kiwi-green-italian-leather-for-sale/f_73682/f_441032221742330792490/f_44103222_1742330793027_bg_processed.jpg",
+    "description": "f_44103222",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 31.5 in (80.01 cm)",
+        "width": "Width: 25 in (63.5 cm)",
+        "depth": "Depth: 52 in (132.08 cm)",
+        "seatHeight": "Seat Height: 4 in (10.16 cm)"
+      },
+      "style": "Mid-Century Modern (Of the Period)",
+      "materials": [
+        "Chrome",
+        "Leather",
+        "Chrome",
+        "Leather"
+      ],
+      "origin": "United States",
+      "period": "1970-1979",
+      "dateOfManufacture": "circa 1970",
+      "condition": {
+        "rating": "Good",
+        "details": "Reupholstered."
+      },
+      "sellerLocation": "Saint Louis, US",
+      "referenceNumber": "1stDibs: LU7368244103222",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Indulge in the perfect blend of style and comfort with the original Milo Baughman Wave Chaise, reupholstered in luxurious kiwi green Italian calfskin leather. Its sleek, contoured design cradles the body, providing ultimate relaxation whether by day or night. With a supportive headrest pillow and a polished T-frame chrome base, this piece is a stunning addition to any office, study, or parlor room. Fully reupholstered and in excellent condition—where luxury meets timeless design.</span></div></div>",
+      "rawSpecificationsText": "Indulge in the perfect blend of style and comfort with the original Milo Baughman Wave Chaise, reupholstered in luxurious kiwi green Italian calfskin leather. Its sleek, contoured design cradles the body, providing ultimate relaxation whether by day or night. With a supportive headrest pillow and a polished T-frame chrome base, this piece is a stunning addition to any office, study, or parlor room. Fully reupholstered and in excellent condition—where luxury meets timeless design."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Vintage Milo Baughman Chrome Wave Chaise Lounge in kiwi green Italian Leather",
+        "description": "Indulge in the perfect blend of style and comfort with the original Milo Baughman Wave Chaise, reupholstered in luxurious kiwi green Italian calfskin leather. Its sleek, contoured design cradles the body, providing ultimate relaxation whether by day or night. With a supportive headrest pillow and a polished T-frame chrome base, this piece is a stunning addition to any office, study, or parlor room. Fully reupholstered and in excellent condition—where luxury meets timeless design.\n\n",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Milo Baughman",
+            "caption": "Vintage Milo Baughman Chrome Wave Chaise Lounge in kiwi green Italian Leather For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/vintage-milo-baughman-chrome-wave-chaise-lounge-in-kiwi-green-italian-leather-for-sale/f_73682/f_441032221742330792490/f_44103222_1742330793027_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/vintage-milo-baughman-chrome-wave-chaise-lounge-in-kiwi-green-italian-leather-for-sale/f_73682/f_441032221742330792490/f_44103222_1742330793027_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-18T16:56:46.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Milo Baughman",
+            "caption": "Indulge in the perfect blend of style and comfort with the original Milo Baughman Wave Chaise, reupholstered in luxurious kiwi green Italian calfskin leather. Its sleek, contoured design cradles the body, providing ultimate relaxation whether by day",
+            "contentUrl": "https://a.1stdibscdn.com/vintage-milo-baughman-chrome-wave-chaise-lounge-in-kiwi-green-italian-leather-for-sale-picture-2/f_73682/f_441032221742330356950/Photoroom_20240423_094258_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/vintage-milo-baughman-chrome-wave-chaise-lounge-in-kiwi-green-italian-leather-for-sale-picture-2/f_73682/f_441032221742330356950/Photoroom_20240423_094258_master.jpg?width=768",
+            "uploadDate": "2025-03-18T16:56:46.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Milo Baughman",
+            "caption": "Mid-Century Modern Vintage Milo Baughman Chrome Wave Chaise Lounge in kiwi green Italian Leather For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/vintage-milo-baughman-chrome-wave-chaise-lounge-in-kiwi-green-italian-leather-for-sale-picture-3/f_73682/f_441032221742330388311/IMG_4758_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/vintage-milo-baughman-chrome-wave-chaise-lounge-in-kiwi-green-italian-leather-for-sale-picture-3/f_73682/f_441032221742330388311/IMG_4758_master.jpg?width=768",
+            "uploadDate": "2025-03-18T16:56:46.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Milo Baughman",
+            "caption": "American Vintage Milo Baughman Chrome Wave Chaise Lounge in kiwi green Italian Leather For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/vintage-milo-baughman-chrome-wave-chaise-lounge-in-kiwi-green-italian-leather-for-sale-picture-4/f_73682/f_441032221742330490007/IMG_4760_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/vintage-milo-baughman-chrome-wave-chaise-lounge-in-kiwi-green-italian-leather-for-sale-picture-4/f_73682/f_441032221742330490007/IMG_4760_master.jpg?width=768",
+            "uploadDate": "2025-03-18T16:56:46.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Milo Baughman",
+            "caption": "Vintage Milo Baughman Chrome Wave Chaise Lounge in kiwi green Italian Leather In Good Condition For Sale In Saint Louis, US",
+            "contentUrl": "https://a.1stdibscdn.com/vintage-milo-baughman-chrome-wave-chaise-lounge-in-kiwi-green-italian-leather-for-sale-picture-5/f_73682/f_441032221742330506941/IMG_4761_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/vintage-milo-baughman-chrome-wave-chaise-lounge-in-kiwi-green-italian-leather-for-sale-picture-5/f_73682/f_441032221742330506941/IMG_4761_master.jpg?width=768",
+            "uploadDate": "2025-03-18T16:56:46.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Milo Baughman",
+            "caption": "Late 20th Century Vintage Milo Baughman Chrome Wave Chaise Lounge in kiwi green Italian Leather For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/vintage-milo-baughman-chrome-wave-chaise-lounge-in-kiwi-green-italian-leather-for-sale-picture-6/f_73682/f_441032221742330590321/IMG_4763_1__master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/vintage-milo-baughman-chrome-wave-chaise-lounge-in-kiwi-green-italian-leather-for-sale-picture-6/f_73682/f_441032221742330590321/IMG_4763_1__master.jpg?width=768",
+            "uploadDate": "2025-03-18T16:56:46.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Milo Baughman",
+            "caption": "Vintage Milo Baughman Chrome Wave Chaise Lounge in kiwi green Italian Leather For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/vintage-milo-baughman-chrome-wave-chaise-lounge-in-kiwi-green-italian-leather-for-sale-picture-7/f_73682/f_44103222/IMG_1742330663659_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/vintage-milo-baughman-chrome-wave-chaise-lounge-in-kiwi-green-italian-leather-for-sale-picture-7/f_73682/f_44103222/IMG_1742330663659_master.jpg?width=768",
+            "uploadDate": "2025-03-18T16:56:46.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Milo Baughman",
+            "caption": "Vintage Milo Baughman Chrome Wave Chaise Lounge in kiwi green Italian Leather For Sale 2",
+            "contentUrl": "https://a.1stdibscdn.com/vintage-milo-baughman-chrome-wave-chaise-lounge-in-kiwi-green-italian-leather-for-sale-picture-8/f_73682/f_44103222/IMG_1742330702756_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/vintage-milo-baughman-chrome-wave-chaise-lounge-in-kiwi-green-italian-leather-for-sale-picture-8/f_73682/f_44103222/IMG_1742330702756_master.jpg?width=768",
+            "uploadDate": "2025-03-18T16:56:46.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Milo Baughman",
+            "caption": "Vintage Milo Baughman Chrome Wave Chaise Lounge in kiwi green Italian Leather For Sale 3",
+            "contentUrl": "https://a.1stdibscdn.com/vintage-milo-baughman-chrome-wave-chaise-lounge-in-kiwi-green-italian-leather-for-sale-picture-9/f_73682/f_44103222/IMG_4765_1_1742330812918_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/vintage-milo-baughman-chrome-wave-chaise-lounge-in-kiwi-green-italian-leather-for-sale-picture-9/f_73682/f_44103222/IMG_4765_1_1742330812918_master.jpg?width=768",
+            "uploadDate": "2025-03-18T16:56:46.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Milo Baughman",
+            "caption": "Vintage Milo Baughman Chrome Wave Chaise Lounge in kiwi green Italian Leather For Sale 4",
+            "contentUrl": "https://a.1stdibscdn.com/vintage-milo-baughman-chrome-wave-chaise-lounge-in-kiwi-green-italian-leather-for-sale-picture-10/f_73682/f_441032221742330722667/IMG_4787_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/vintage-milo-baughman-chrome-wave-chaise-lounge-in-kiwi-green-italian-leather-for-sale-picture-10/f_73682/f_441032221742330722667/IMG_4787_master.jpg?width=768",
+            "uploadDate": "2025-03-18T16:56:46.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/UsedCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/chaise-longues/vintage-milo-baughman-chrome-wave-chaise-lounge-kiwi-green-italian-leather/id-f_44103222/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 8565.66,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 15446.83,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 196117.85,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 8908.99,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 7500.58,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 66839.68,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 9500,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 13976.37,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 98231.26,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 102436.33,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 5,
+          "reviewCount": 2
+        },
+        "productionDate": "1970-1979",
+        "category": "Chaise Longues",
+        "brand": {
+          "@type": "Brand",
+          "name": "Milo Baughman"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Chaise Longues",
+              "@id": "/furniture/seating/chaise-longues/"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "VideoObject",
+        "name": "Vintage Milo Baughman Chrome Wave Chaise Lounge in kiwi green Italian Leather",
+        "description": "Indulge in the perfect blend of style and comfort with the original Milo Baughman Wave Chaise, reupholstered in luxurious kiwi green Italian calfskin leather. Its sleek, contoured design cradles the body, providing ultimate relaxation whether by day or night. With a supportive headrest pillow and a polished T-frame chrome base, this piece is a stunning addition to any office, study, or parlor room. Fully reupholstered and in excellent condition—where luxury meets timeless design.\n\n",
+        "thumbnailUrl": "https://i.vimeocdn.com/video/1994964467-548e4de87eb98a84cf0f9d44deda9fcadea1a38d6b912cbbb8c8d80fc608886c-d_1920x1080?&r=pad",
+        "uploadDate": "2025-03-18T20:54:12+00:00",
+        "duration": "PT0H0M27S",
+        "contentUrl": "https://player.vimeo.com/progressive_redirect/playback/1067115871/rendition/360p/file.mp4?loc=external&oauth2_token_id=1438265637&signature=b994910616826cb5230f5da544a7508558f12463781b10944238db246dfc9c48&user_id=95659418"
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

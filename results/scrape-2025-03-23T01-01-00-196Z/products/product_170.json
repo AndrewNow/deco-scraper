@@ -1,0 +1,453 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44043482",
+  "name": "Post-Modern Italian Sofa in Chromed Metal and Beige Fabric",
+  "slug": "f_44043482",
+  "price": "CA$12,799.41",
+  "description": "f_44043482",
+  "image_url": "https://a.1stdibscdn.com/archivesE/upload/f_9331/f_440434821741964700007/f_44043482_1741964700631_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/sofas/post-modern-italian-sofa-chromed-metal-beige-fabric/id-f_44043482/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 33.47 in (85 cm)",
+      "width": "Width: 94.49 in (240 cm)",
+      "depth": "Depth: 35.44 in (90 cm)"
+    },
+    "style": "Post-Modern (Of the Period)",
+    "materials": [
+      "Chrome",
+      "Fabric",
+      "Metal",
+      "Chrome",
+      "Fabric",
+      "Metal"
+    ],
+    "origin": "Italy",
+    "period": "1970-1979",
+    "dateOfManufacture": "1970s",
+    "condition": {
+      "rating": "Good",
+      "details": "Wear consistent with age and use. Every item Morentz offers is checked by our team of 30 craftspeople in our in-house workshop. Special restoration or reupholstery requests can be done. Check ‘About the item’ or ask our design specialists for detailed information on the condition."
+    },
+    "sellerLocation": "Waalwijk, NL",
+    "referenceNumber": "Seller: 50116795",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Sofa, chrome-plated metal, fabric, Italy, 1970s\n\nThis captivating Italian sofa from the 1970s is a playful and expressive example of postmodern design. With its generously rounded forms and exaggerated, bulky silhouette, this piece embodies a joyful approach to both comfort and aesthetics. Upholstered in a soft fabric, this sofa invites sitting down and relaxing while offering a strong visual presence. The curved, oversized armrests and deeply cushioned seats are balanced by the contrast of chrome detailing, which is an iconic material pairing that reflects the postmodern era in design.\n\nKindly note that this item is in good, used condition.</span></div></div>",
+    "rawSpecificationsText": "Sofa, chrome-plated metal, fabric, Italy, 1970s\n\nThis captivating Italian sofa from the 1970s is a playful and expressive example of postmodern design. With its generously rounded forms and exaggerated, bulky silhouette, this piece embodies a joyful approach to both comfort and aesthetics. Upholstered in a soft fabric, this sofa invites sitting down and relaxing while offering a strong visual presence. The curved, oversized armrests and deeply cushioned seats are balanced by the contrast of chrome detailing, which is an iconic material pairing that reflects the postmodern era in design.\n\nKindly note that this item is in good, used condition."
+  },
+  "raw_data": {
+    "productId": "f_44043482",
+    "slug": "f_44043482",
+    "url": "https://www.1stdibs.com/furniture/seating/sofas/post-modern-italian-sofa-chromed-metal-beige-fabric/id-f_44043482/",
+    "name": "Post-Modern Italian Sofa in Chromed Metal and Beige Fabric",
+    "price": "CA$12,799.41",
+    "imageUrl": "https://a.1stdibscdn.com/archivesE/upload/f_9331/f_440434821741964700007/f_44043482_1741964700631_bg_processed.jpg",
+    "description": "f_44043482",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 33.47 in (85 cm)",
+        "width": "Width: 94.49 in (240 cm)",
+        "depth": "Depth: 35.44 in (90 cm)"
+      },
+      "style": "Post-Modern (Of the Period)",
+      "materials": [
+        "Chrome",
+        "Fabric",
+        "Metal",
+        "Chrome",
+        "Fabric",
+        "Metal"
+      ],
+      "origin": "Italy",
+      "period": "1970-1979",
+      "dateOfManufacture": "1970s",
+      "condition": {
+        "rating": "Good",
+        "details": "Wear consistent with age and use. Every item Morentz offers is checked by our team of 30 craftspeople in our in-house workshop. Special restoration or reupholstery requests can be done. Check ‘About the item’ or ask our design specialists for detailed information on the condition."
+      },
+      "sellerLocation": "Waalwijk, NL",
+      "referenceNumber": "Seller: 50116795",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Sofa, chrome-plated metal, fabric, Italy, 1970s\n\nThis captivating Italian sofa from the 1970s is a playful and expressive example of postmodern design. With its generously rounded forms and exaggerated, bulky silhouette, this piece embodies a joyful approach to both comfort and aesthetics. Upholstered in a soft fabric, this sofa invites sitting down and relaxing while offering a strong visual presence. The curved, oversized armrests and deeply cushioned seats are balanced by the contrast of chrome detailing, which is an iconic material pairing that reflects the postmodern era in design.\n\nKindly note that this item is in good, used condition.</span></div></div>",
+      "rawSpecificationsText": "Sofa, chrome-plated metal, fabric, Italy, 1970s\n\nThis captivating Italian sofa from the 1970s is a playful and expressive example of postmodern design. With its generously rounded forms and exaggerated, bulky silhouette, this piece embodies a joyful approach to both comfort and aesthetics. Upholstered in a soft fabric, this sofa invites sitting down and relaxing while offering a strong visual presence. The curved, oversized armrests and deeply cushioned seats are balanced by the contrast of chrome detailing, which is an iconic material pairing that reflects the postmodern era in design.\n\nKindly note that this item is in good, used condition."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Post-Modern Italian Sofa in Chromed Metal and Beige Fabric",
+        "description": "Sofa, chrome-plated metal, fabric, Italy, 1970s\n\nThis captivating Italian sofa from the 1970s is a playful and expressive example of postmodern design. With its generously rounded forms and exaggerated, bulky silhouette, this piece embodies a joyful approach to both comfort and aesthetics. Upholstered in a soft fabric, this sofa invites sitting down and relaxing while offering a strong visual presence. The curved, oversized armrests and deeply cushioned seats are balanced by the contrast of chrome detailing, which is an iconic material pairing that reflects the postmodern era in design.\n\nKindly note that this item is in good, used condition. ",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Post-Modern Italian Sofa in Chromed Metal and Beige Fabric For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/archivesE/upload/f_9331/f_440434821741964700007/f_44043482_1741964700631_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/archivesE/upload/f_9331/f_440434821741964700007/f_44043482_1741964700631_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-20T06:20:49.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Post-Modern Italian Sofa in Chromed Metal and Beige Fabric For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/archivesE/upload/f_9331/f_440434821741965162375/f_44043482_1741965163029_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/archivesE/upload/f_9331/f_440434821741965162375/f_44043482_1741965163029_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-20T06:20:49.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Post-Modern Italian Sofa in Chromed Metal and Beige Fabric For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/archivesE/upload/f_9331/f_440434821741963874299/f_44043482_1741963875124_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/archivesE/upload/f_9331/f_440434821741963874299/f_44043482_1741963875124_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-20T06:20:49.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Post-Modern Italian Sofa in Chromed Metal and Beige Fabric For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/post-modern-italian-sofa-in-chromed-metal-and-beige-fabric-for-sale/f_9331/f_440434821741979692276/f_44043482_1741979692893_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/post-modern-italian-sofa-in-chromed-metal-and-beige-fabric-for-sale/f_9331/f_440434821741979692276/f_44043482_1741979692893_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-20T06:20:49.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Sofa, chrome-plated metal, fabric, Italy, 1970s\n\nThis captivating Italian sofa from the 1970s is a playful and expressive example of postmodern design. With its generously rounded forms and exaggerated, bulky silhouette, this piece embodies a joyful",
+            "contentUrl": "https://a.1stdibscdn.com/archivesE/upload/f_9331/f_440434821741964709022/tmp_image_master.JPEG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/archivesE/upload/f_9331/f_440434821741964709022/tmp_image_master.JPEG?width=768",
+            "uploadDate": "2025-03-20T06:20:49.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Sofa, chrome-plated metal, fabric, Italy, 1970s\n\nThis captivating Italian sofa from the 1970s is a playful and expressive example of postmodern design. With its generously rounded forms and exaggerated, bulky silhouette, this piece embodies a joyful",
+            "contentUrl": "https://a.1stdibscdn.com/post-modern-italian-sofa-in-chromed-metal-and-beige-fabric-for-sale-picture-2/f_9331/f_440434821741979701835/tmp_image_master.JPEG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/post-modern-italian-sofa-in-chromed-metal-and-beige-fabric-for-sale-picture-2/f_9331/f_440434821741979701835/tmp_image_master.JPEG?width=768",
+            "uploadDate": "2025-03-20T06:20:49.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Sofa, chrome-plated metal, fabric, Italy, 1970s\n\nThis captivating Italian sofa from the 1970s is a playful and expressive example of postmodern design. With its generously rounded forms and exaggerated, bulky silhouette, this piece embodies a joyful",
+            "contentUrl": "https://a.1stdibscdn.com/archivesE/upload/f_9331/f_440434821741965173499/tmp_image_master.JPEG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/archivesE/upload/f_9331/f_440434821741965173499/tmp_image_master.JPEG?width=768",
+            "uploadDate": "2025-03-20T06:20:49.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Sofa, chrome-plated metal, fabric, Italy, 1970s\n\nThis captivating Italian sofa from the 1970s is a playful and expressive example of postmodern design. With its generously rounded forms and exaggerated, bulky silhouette, this piece embodies a joyful",
+            "contentUrl": "https://a.1stdibscdn.com/archivesE/upload/f_9331/f_440434821741963882599/tmp_image_master.JPEG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/archivesE/upload/f_9331/f_440434821741963882599/tmp_image_master.JPEG?width=768",
+            "uploadDate": "2025-03-20T06:20:49.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Post-Modern Italian Sofa in Chromed Metal and Beige Fabric In Good Condition For Sale In Waalwijk, NL",
+            "contentUrl": "https://a.1stdibscdn.com/post-modern-italian-sofa-in-chromed-metal-and-beige-fabric-for-sale-picture-3/f_9331/f_440434821741979713244/tmp_image_master.JPEG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/post-modern-italian-sofa-in-chromed-metal-and-beige-fabric-for-sale-picture-3/f_9331/f_440434821741979713244/tmp_image_master.JPEG?width=768",
+            "uploadDate": "2025-03-20T06:20:49.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Post-Modern Italian Sofa in Chromed Metal and Beige Fabric In Good Condition For Sale In Waalwijk, NL",
+            "contentUrl": "https://a.1stdibscdn.com/archivesE/upload/f_9331/f_440434821741965184170/tmp_image_master.JPEG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/archivesE/upload/f_9331/f_440434821741965184170/tmp_image_master.JPEG?width=768",
+            "uploadDate": "2025-03-20T06:20:49.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Post-Modern Italian Sofa in Chromed Metal and Beige Fabric In Good Condition For Sale In Waalwijk, NL",
+            "contentUrl": "https://a.1stdibscdn.com/archivesE/upload/f_9331/f_440434821741964720740/tmp_image_master.JPEG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/archivesE/upload/f_9331/f_440434821741964720740/tmp_image_master.JPEG?width=768",
+            "uploadDate": "2025-03-20T06:20:49.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Late 20th Century Post-Modern Italian Sofa in Chromed Metal and Beige Fabric For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/post-modern-italian-sofa-in-chromed-metal-and-beige-fabric-for-sale-picture-4/f_9331/f_440434821741979746979/tmp_image_master.JPEG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/post-modern-italian-sofa-in-chromed-metal-and-beige-fabric-for-sale-picture-4/f_9331/f_440434821741979746979/tmp_image_master.JPEG?width=768",
+            "uploadDate": "2025-03-20T06:20:49.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Late 20th Century Post-Modern Italian Sofa in Chromed Metal and Beige Fabric For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/archivesE/upload/f_9331/f_440434821741964736989/tmp_image_master.JPEG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/archivesE/upload/f_9331/f_440434821741964736989/tmp_image_master.JPEG?width=768",
+            "uploadDate": "2025-03-20T06:20:49.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Late 20th Century Post-Modern Italian Sofa in Chromed Metal and Beige Fabric For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/archivesE/upload/f_9331/f_440434821741965193021/tmp_image_master.JPEG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/archivesE/upload/f_9331/f_440434821741965193021/tmp_image_master.JPEG?width=768",
+            "uploadDate": "2025-03-20T06:20:49.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Post-Modern Italian Sofa in Chromed Metal and Beige Fabric For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/post-modern-italian-sofa-in-chromed-metal-and-beige-fabric-for-sale-picture-5/f_9331/f_440434821741979758225/tmp_image_master.JPEG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/post-modern-italian-sofa-in-chromed-metal-and-beige-fabric-for-sale-picture-5/f_9331/f_440434821741979758225/tmp_image_master.JPEG?width=768",
+            "uploadDate": "2025-03-20T06:20:49.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Post-Modern Italian Sofa in Chromed Metal and Beige Fabric For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/archivesE/upload/f_9331/f_440434821741965202892/tmp_image_master.JPEG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/archivesE/upload/f_9331/f_440434821741965202892/tmp_image_master.JPEG?width=768",
+            "uploadDate": "2025-03-20T06:20:49.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Post-Modern Italian Sofa in Chromed Metal and Beige Fabric For Sale 2",
+            "contentUrl": "https://a.1stdibscdn.com/archivesE/upload/f_9331/f_440434821741965212989/tmp_image_master.JPEG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/archivesE/upload/f_9331/f_440434821741965212989/tmp_image_master.JPEG?width=768",
+            "uploadDate": "2025-03-20T06:20:49.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Post-Modern Italian Sofa in Chromed Metal and Beige Fabric For Sale 2",
+            "contentUrl": "https://a.1stdibscdn.com/post-modern-italian-sofa-in-chromed-metal-and-beige-fabric-for-sale-picture-6/f_9331/f_440434821741979794139/tmp_image_master.JPEG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/post-modern-italian-sofa-in-chromed-metal-and-beige-fabric-for-sale-picture-6/f_9331/f_440434821741979794139/tmp_image_master.JPEG?width=768",
+            "uploadDate": "2025-03-20T06:20:49.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Post-Modern Italian Sofa in Chromed Metal and Beige Fabric For Sale 3",
+            "contentUrl": "https://a.1stdibscdn.com/post-modern-italian-sofa-in-chromed-metal-and-beige-fabric-for-sale-picture-7/f_9331/f_440434821741979805494/tmp_image_master.JPEG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/post-modern-italian-sofa-in-chromed-metal-and-beige-fabric-for-sale-picture-7/f_9331/f_440434821741979805494/tmp_image_master.JPEG?width=768",
+            "uploadDate": "2025-03-20T06:20:49.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Post-Modern Italian Sofa in Chromed Metal and Beige Fabric For Sale 3",
+            "contentUrl": "https://a.1stdibscdn.com/archivesE/upload/f_9331/f_440434821741965227828/tmp_image_master.JPEG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/archivesE/upload/f_9331/f_440434821741965227828/tmp_image_master.JPEG?width=768",
+            "uploadDate": "2025-03-20T06:20:49.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Post-Modern Italian Sofa in Chromed Metal and Beige Fabric For Sale 4",
+            "contentUrl": "https://a.1stdibscdn.com/post-modern-italian-sofa-in-chromed-metal-and-beige-fabric-for-sale-picture-8/f_9331/f_440434821741979815499/tmp_image_master.JPEG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/post-modern-italian-sofa-in-chromed-metal-and-beige-fabric-for-sale-picture-8/f_9331/f_440434821741979815499/tmp_image_master.JPEG?width=768",
+            "uploadDate": "2025-03-20T06:20:49.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Post-Modern Italian Sofa in Chromed Metal and Beige Fabric For Sale 4",
+            "contentUrl": "https://a.1stdibscdn.com/archivesE/upload/f_9331/f_440434821741965238710/tmp_image_master.JPEG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/archivesE/upload/f_9331/f_440434821741965238710/tmp_image_master.JPEG?width=768",
+            "uploadDate": "2025-03-20T06:20:49.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Post-Modern Italian Sofa in Chromed Metal and Beige Fabric For Sale 5",
+            "contentUrl": "https://a.1stdibscdn.com/archivesE/upload/f_9331/f_440434821741965249326/tmp_image_master.JPEG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/archivesE/upload/f_9331/f_440434821741965249326/tmp_image_master.JPEG?width=768",
+            "uploadDate": "2025-03-20T06:20:49.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Post-Modern Italian Sofa in Chromed Metal and Beige Fabric For Sale 5",
+            "contentUrl": "https://a.1stdibscdn.com/post-modern-italian-sofa-in-chromed-metal-and-beige-fabric-for-sale-picture-9/f_9331/f_440434821741979827364/tmp_image_master.JPEG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/post-modern-italian-sofa-in-chromed-metal-and-beige-fabric-for-sale-picture-9/f_9331/f_440434821741979827364/tmp_image_master.JPEG?width=768",
+            "uploadDate": "2025-03-20T06:20:49.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Post-Modern Italian Sofa in Chromed Metal and Beige Fabric For Sale 6",
+            "contentUrl": "https://a.1stdibscdn.com/archivesE/upload/f_9331/f_440434821741965261812/tmp_image_master.JPEG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/archivesE/upload/f_9331/f_440434821741965261812/tmp_image_master.JPEG?width=768",
+            "uploadDate": "2025-03-20T06:20:49.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Post-Modern Italian Sofa in Chromed Metal and Beige Fabric For Sale 6",
+            "contentUrl": "https://a.1stdibscdn.com/post-modern-italian-sofa-in-chromed-metal-and-beige-fabric-for-sale-picture-10/f_9331/f_440434821741979839268/tmp_image_master.JPEG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/post-modern-italian-sofa-in-chromed-metal-and-beige-fabric-for-sale-picture-10/f_9331/f_440434821741979839268/tmp_image_master.JPEG?width=768",
+            "uploadDate": "2025-03-20T06:20:49.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/UsedCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/sofas/post-modern-italian-sofa-chromed-metal-beige-fabric/id-f_44043482/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 14146.04,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 7844.34,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 179602.66,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 8158.76,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 6868.96,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 61211.08,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 8700,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 12799.41,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 89959.15,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 93810.12,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 4.9,
+          "reviewCount": 170
+        },
+        "productionDate": "1970-1979",
+        "category": "Sofas"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Sofas",
+              "@id": "/furniture/seating/sofas/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

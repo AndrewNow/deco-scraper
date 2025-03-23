@@ -1,0 +1,385 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44115692",
+  "name": "Set of 4 Chrome and Cord Chairs, 1970s",
+  "slug": "f_44115692",
+  "price": "CA$2,240.24",
+  "description": "f_44115692",
+  "image_url": "https://a.1stdibscdn.com/set-of-4-chrome-and-cord-chairs-1970s-for-sale/f_73982/f_441156921742398992286/f_44115692_1742398992960_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/dining-room-chairs/set-of-4-chrome-cord-chairs-1970s/id-f_44115692/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 31.5 in (80 cm)",
+      "width": "Width: 15.75 in (40 cm)",
+      "depth": "Depth: 13.78 in (35 cm)"
+    },
+    "materials": [
+      "Chrome",
+      "Rope",
+      "Chrome",
+      "Rope"
+    ],
+    "period": "Late 20th Century",
+    "dateOfManufacture": "Circa 1970",
+    "condition": {
+      "rating": "Good",
+      "details": "Wear consistent with age and use."
+    },
+    "sellerLocation": "PARIS, FR",
+    "referenceNumber": "Seller: LP5025 - 5028",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Set of 4 Modernist Chairs from the 1970s with a Tubular Chrome Metal Structure and a Woven Cord Seat. Inspired by the minimalist and functional design of the era, their design highlights the lightness of materials while ensuring strength and comfort. In very good condition.</span></div></div>",
+    "rawSpecificationsText": "Set of 4 Modernist Chairs from the 1970s with a Tubular Chrome Metal Structure and a Woven Cord Seat. Inspired by the minimalist and functional design of the era, their design highlights the lightness of materials while ensuring strength and comfort. In very good condition."
+  },
+  "raw_data": {
+    "productId": "f_44115692",
+    "slug": "f_44115692",
+    "url": "https://www.1stdibs.com/furniture/seating/dining-room-chairs/set-of-4-chrome-cord-chairs-1970s/id-f_44115692/",
+    "name": "Set of 4 Chrome and Cord Chairs, 1970s",
+    "price": "CA$2,240.24",
+    "imageUrl": "https://a.1stdibscdn.com/set-of-4-chrome-and-cord-chairs-1970s-for-sale/f_73982/f_441156921742398992286/f_44115692_1742398992960_bg_processed.jpg",
+    "description": "f_44115692",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 31.5 in (80 cm)",
+        "width": "Width: 15.75 in (40 cm)",
+        "depth": "Depth: 13.78 in (35 cm)"
+      },
+      "materials": [
+        "Chrome",
+        "Rope",
+        "Chrome",
+        "Rope"
+      ],
+      "period": "Late 20th Century",
+      "dateOfManufacture": "Circa 1970",
+      "condition": {
+        "rating": "Good",
+        "details": "Wear consistent with age and use."
+      },
+      "sellerLocation": "PARIS, FR",
+      "referenceNumber": "Seller: LP5025 - 5028",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Set of 4 Modernist Chairs from the 1970s with a Tubular Chrome Metal Structure and a Woven Cord Seat. Inspired by the minimalist and functional design of the era, their design highlights the lightness of materials while ensuring strength and comfort. In very good condition.</span></div></div>",
+      "rawSpecificationsText": "Set of 4 Modernist Chairs from the 1970s with a Tubular Chrome Metal Structure and a Woven Cord Seat. Inspired by the minimalist and functional design of the era, their design highlights the lightness of materials while ensuring strength and comfort. In very good condition."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Set of 4 Chrome and Cord Chairs, 1970s",
+        "description": "Set of 4 Modernist Chairs from the 1970s with a Tubular Chrome Metal Structure and a Woven Cord Seat. Inspired by the minimalist and functional design of the era, their design highlights the lightness of materials while ensuring strength and comfort. In very good condition.",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Set of 4 Chrome and Cord Chairs, 1970s For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/set-of-4-chrome-and-cord-chairs-1970s-for-sale/f_73982/f_441156921742398992286/f_44115692_1742398992960_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/set-of-4-chrome-and-cord-chairs-1970s-for-sale/f_73982/f_441156921742398992286/f_44115692_1742398992960_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-19T11:46:18.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Set of 4 Modernist Chairs from the 1970s with a Tubular Chrome Metal Structure and a Woven Cord Seat. Inspired by the minimalist and functional design of the era, their design highlights the lightness of materials while ensuring strength and",
+            "contentUrl": "https://a.1stdibscdn.com/set-of-4-chrome-and-cord-chairs-1970s-for-sale-picture-2/f_73982/f_441156921742399017554/LP5025_1_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/set-of-4-chrome-and-cord-chairs-1970s-for-sale-picture-2/f_73982/f_441156921742399017554/LP5025_1_master.jpg?width=768",
+            "uploadDate": "2025-03-19T11:46:18.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Set of 4 Chrome and Cord Chairs, 1970s In Good Condition For Sale In PARIS, FR",
+            "contentUrl": "https://a.1stdibscdn.com/set-of-4-chrome-and-cord-chairs-1970s-for-sale-picture-3/f_73982/f_441156921742399017454/LP5025_2_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/set-of-4-chrome-and-cord-chairs-1970s-for-sale-picture-3/f_73982/f_441156921742399017454/LP5025_2_master.jpg?width=768",
+            "uploadDate": "2025-03-19T11:46:18.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "20th Century Set of 4 Chrome and Cord Chairs, 1970s For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/set-of-4-chrome-and-cord-chairs-1970s-for-sale-picture-4/f_73982/f_441156921742399017603/LP5025_3_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/set-of-4-chrome-and-cord-chairs-1970s-for-sale-picture-4/f_73982/f_441156921742399017603/LP5025_3_master.jpg?width=768",
+            "uploadDate": "2025-03-19T11:46:18.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Rope Set of 4 Chrome and Cord Chairs, 1970s For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/set-of-4-chrome-and-cord-chairs-1970s-for-sale-picture-5/f_73982/f_441156921742399017874/LP5025_4_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/set-of-4-chrome-and-cord-chairs-1970s-for-sale-picture-5/f_73982/f_441156921742399017874/LP5025_4_master.jpg?width=768",
+            "uploadDate": "2025-03-19T11:46:18.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Set of 4 Chrome and Cord Chairs, 1970s For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/set-of-4-chrome-and-cord-chairs-1970s-for-sale-picture-6/f_73982/f_441156921742399017771/LP5025_6_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/set-of-4-chrome-and-cord-chairs-1970s-for-sale-picture-6/f_73982/f_441156921742399017771/LP5025_6_master.jpg?width=768",
+            "uploadDate": "2025-03-19T11:46:18.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Set of 4 Chrome and Cord Chairs, 1970s For Sale 2",
+            "contentUrl": "https://a.1stdibscdn.com/set-of-4-chrome-and-cord-chairs-1970s-for-sale-picture-7/f_73982/f_441156921742399017875/LP5025_7_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/set-of-4-chrome-and-cord-chairs-1970s-for-sale-picture-7/f_73982/f_441156921742399017875/LP5025_7_master.jpg?width=768",
+            "uploadDate": "2025-03-19T11:46:18.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Set of 4 Chrome and Cord Chairs, 1970s For Sale 3",
+            "contentUrl": "https://a.1stdibscdn.com/set-of-4-chrome-and-cord-chairs-1970s-for-sale-picture-8/f_73982/f_441156921742399019338/LP5025_8_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/set-of-4-chrome-and-cord-chairs-1970s-for-sale-picture-8/f_73982/f_441156921742399019338/LP5025_8_master.jpg?width=768",
+            "uploadDate": "2025-03-19T11:46:18.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Set of 4 Chrome and Cord Chairs, 1970s For Sale 4",
+            "contentUrl": "https://a.1stdibscdn.com/set-of-4-chrome-and-cord-chairs-1970s-for-sale-picture-9/f_73982/f_441156921742399019667/LP5025_9_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/set-of-4-chrome-and-cord-chairs-1970s-for-sale-picture-9/f_73982/f_441156921742399019667/LP5025_9_master.jpg?width=768",
+            "uploadDate": "2025-03-19T11:46:18.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Set of 4 Chrome and Cord Chairs, 1970s For Sale 5",
+            "contentUrl": "https://a.1stdibscdn.com/set-of-4-chrome-and-cord-chairs-1970s-for-sale-picture-10/f_73982/f_441156921742399019558/LP5025_10_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/set-of-4-chrome-and-cord-chairs-1970s-for-sale-picture-10/f_73982/f_441156921742399019558/LP5025_10_master.jpg?width=768",
+            "uploadDate": "2025-03-19T11:46:18.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Set of 4 Chrome and Cord Chairs, 1970s For Sale 6",
+            "contentUrl": "https://a.1stdibscdn.com/set-of-4-chrome-and-cord-chairs-1970s-for-sale-picture-11/f_73982/f_441156921742399019681/LP5025_11_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/set-of-4-chrome-and-cord-chairs-1970s-for-sale-picture-11/f_73982/f_441156921742399019681/LP5025_11_master.jpg?width=768",
+            "uploadDate": "2025-03-19T11:46:18.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Set of 4 Chrome and Cord Chairs, 1970s For Sale 7",
+            "contentUrl": "https://a.1stdibscdn.com/set-of-4-chrome-and-cord-chairs-1970s-for-sale-picture-12/f_73982/f_441156921742399019552/LP5025_12_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/set-of-4-chrome-and-cord-chairs-1970s-for-sale-picture-12/f_73982/f_441156921742399019552/LP5025_12_master.jpg?width=768",
+            "uploadDate": "2025-03-19T11:46:18.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Set of 4 Chrome and Cord Chairs, 1970s For Sale 8",
+            "contentUrl": "https://a.1stdibscdn.com/set-of-4-chrome-and-cord-chairs-1970s-for-sale-picture-13/f_73982/f_441156921742399019644/LP5025_13_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/set-of-4-chrome-and-cord-chairs-1970s-for-sale-picture-13/f_73982/f_441156921742399019644/LP5025_13_master.jpg?width=768",
+            "uploadDate": "2025-03-19T11:46:18.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Set of 4 Chrome and Cord Chairs, 1970s For Sale 9",
+            "contentUrl": "https://a.1stdibscdn.com/set-of-4-chrome-and-cord-chairs-1970s-for-sale-picture-14/f_73982/f_441156921742399019874/LP5025_14_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/set-of-4-chrome-and-cord-chairs-1970s-for-sale-picture-14/f_73982/f_441156921742399019874/LP5025_14_master.jpg?width=768",
+            "uploadDate": "2025-03-19T11:46:18.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Set of 4 Chrome and Cord Chairs, 1970s For Sale 10",
+            "contentUrl": "https://a.1stdibscdn.com/set-of-4-chrome-and-cord-chairs-1970s-for-sale-picture-15/f_73982/f_441156921742399019886/LP5025_16_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/set-of-4-chrome-and-cord-chairs-1970s-for-sale-picture-15/f_73982/f_441156921742399019886/LP5025_16_master.jpg?width=768",
+            "uploadDate": "2025-03-19T11:46:18.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Set of 4 Chrome and Cord Chairs, 1970s For Sale 11",
+            "contentUrl": "https://a.1stdibscdn.com/set-of-4-chrome-and-cord-chairs-1970s-for-sale-picture-16/f_73982/f_441156921742399019949/LP5025_17_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/set-of-4-chrome-and-cord-chairs-1970s-for-sale-picture-16/f_73982/f_441156921742399019949/LP5025_17_master.jpg?width=768",
+            "uploadDate": "2025-03-19T11:46:18.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Set of 4 Chrome and Cord Chairs, 1970s For Sale 12",
+            "contentUrl": "https://a.1stdibscdn.com/set-of-4-chrome-and-cord-chairs-1970s-for-sale-picture-17/f_73982/f_441156921742399020065/LP5025_18_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/set-of-4-chrome-and-cord-chairs-1970s-for-sale-picture-17/f_73982/f_441156921742399020065/LP5025_18_master.jpg?width=768",
+            "uploadDate": "2025-03-19T11:46:18.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Set of 4 Chrome and Cord Chairs, 1970s For Sale 13",
+            "contentUrl": "https://a.1stdibscdn.com/set-of-4-chrome-and-cord-chairs-1970s-for-sale-picture-18/f_73982/f_441156921742399019682/LP5025_19_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/set-of-4-chrome-and-cord-chairs-1970s-for-sale-picture-18/f_73982/f_441156921742399019682/LP5025_19_master.jpg?width=768",
+            "uploadDate": "2025-03-19T11:46:18.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Set of 4 Chrome and Cord Chairs, 1970s For Sale 14",
+            "contentUrl": "https://a.1stdibscdn.com/set-of-4-chrome-and-cord-chairs-1970s-for-sale-picture-19/f_73982/f_441156921742399020248/LP5025_20_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/set-of-4-chrome-and-cord-chairs-1970s-for-sale-picture-19/f_73982/f_441156921742399020248/LP5025_20_master.jpg?width=768",
+            "uploadDate": "2025-03-19T11:46:18.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Set of 4 Chrome and Cord Chairs, 1970s For Sale 15",
+            "contentUrl": "https://a.1stdibscdn.com/set-of-4-chrome-and-cord-chairs-1970s-for-sale-picture-20/f_73982/f_441156921742399019854/LP5025_21_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/set-of-4-chrome-and-cord-chairs-1970s-for-sale-picture-20/f_73982/f_441156921742399019854/LP5025_21_master.jpg?width=768",
+            "uploadDate": "2025-03-19T11:46:18.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/UsedCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/dining-room-chairs/set-of-4-chrome-cord-chairs-1970s/id-f_44115692/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 2475.94,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1372.97,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 31435.26,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1400,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1202.25,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 10713.57,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1553.19,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 2240.24,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 15745.25,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 16419.27,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 5,
+          "reviewCount": 2
+        },
+        "productionDate": "Late 20th Century",
+        "category": "Dining Room Chairs"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Dining Room Chairs",
+              "@id": "/furniture/seating/dining-room-chairs/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

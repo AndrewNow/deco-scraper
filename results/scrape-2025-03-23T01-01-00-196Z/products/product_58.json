@@ -1,0 +1,271 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44101812",
+  "name": "Elegant   daybed by René Gabriel ca 1950, original patina in elmwood",
+  "slug": "f_44101812",
+  "price": "CA$15,681.67",
+  "description": "f_44101812",
+  "image_url": "https://a.1stdibscdn.com/archivesE/upload/f_25473/f_441018121742422004059/f_44101812_1742422004832_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/sofas/elegant-daybed-rene-gabriel-ca-1950-original-patina-elmwood/id-f_44101812/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 26.78 in (68 cm)",
+      "width": "Width: 31.5 in (80 cm)",
+      "depth": "Depth: 75.6 in (192 cm)",
+      "seatHeight": "Seat Height: 16.93 in (43 cm)"
+    },
+    "style": "Mid-Century Modern (Of the Period)",
+    "materials": [
+      "Elm",
+      "Elm"
+    ],
+    "origin": "France",
+    "period": "1940-1949",
+    "dateOfManufacture": "ca 1946",
+    "condition": {
+      "rating": "Good",
+      "details": "Wear consistent with age and use."
+    },
+    "sellerLocation": "Jesteburg, DE",
+    "referenceNumber": "1stDibs: LU2547344101812",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">A René Gabriel daybed of the reconstruction period in the original patina. Very elegant piece, very versatile. Upholstered in a beautiful Bouclé by Dedar Milano.</span></div></div>",
+    "rawSpecificationsText": "A René Gabriel daybed of the reconstruction period in the original patina. Very elegant piece, very versatile. Upholstered in a beautiful Bouclé by Dedar Milano."
+  },
+  "raw_data": {
+    "productId": "f_44101812",
+    "slug": "f_44101812",
+    "url": "https://www.1stdibs.com/furniture/seating/sofas/elegant-daybed-rene-gabriel-ca-1950-original-patina-elmwood/id-f_44101812/",
+    "name": "Elegant   daybed by René Gabriel ca 1950, original patina in elmwood",
+    "price": "CA$15,681.67",
+    "imageUrl": "https://a.1stdibscdn.com/archivesE/upload/f_25473/f_441018121742422004059/f_44101812_1742422004832_bg_processed.jpg",
+    "description": "f_44101812",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 26.78 in (68 cm)",
+        "width": "Width: 31.5 in (80 cm)",
+        "depth": "Depth: 75.6 in (192 cm)",
+        "seatHeight": "Seat Height: 16.93 in (43 cm)"
+      },
+      "style": "Mid-Century Modern (Of the Period)",
+      "materials": [
+        "Elm",
+        "Elm"
+      ],
+      "origin": "France",
+      "period": "1940-1949",
+      "dateOfManufacture": "ca 1946",
+      "condition": {
+        "rating": "Good",
+        "details": "Wear consistent with age and use."
+      },
+      "sellerLocation": "Jesteburg, DE",
+      "referenceNumber": "1stDibs: LU2547344101812",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">A René Gabriel daybed of the reconstruction period in the original patina. Very elegant piece, very versatile. Upholstered in a beautiful Bouclé by Dedar Milano.</span></div></div>",
+      "rawSpecificationsText": "A René Gabriel daybed of the reconstruction period in the original patina. Very elegant piece, very versatile. Upholstered in a beautiful Bouclé by Dedar Milano."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Elegant   daybed by René Gabriel ca 1950, original patina in elmwood",
+        "description": "A René Gabriel daybed of the reconstruction period in the original patina. Very elegant piece, very versatile. Upholstered in a beautiful Bouclé by Dedar Milano.\n",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Rene Gabriel",
+            "caption": "Elegant   daybed by René Gabriel ca 1950, original patina in elmwood For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/archivesE/upload/f_25473/f_441018121742422004059/f_44101812_1742422004832_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/archivesE/upload/f_25473/f_441018121742422004059/f_44101812_1742422004832_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-19T18:04:21.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Rene Gabriel",
+            "caption": "A René Gabriel daybed of the reconstruction period in the original patina. Very elegant piece, very versatile. Upholstered in a beautiful Bouclé by Dedar Milano.\n",
+            "contentUrl": "https://a.1stdibscdn.com/elegant-daybed-by-rene-gabriel-ca-1950-original-patina-in-elmwood-for-sale/f_25473/f_441018121742421279560/f_44101812_1742421280593_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/elegant-daybed-by-rene-gabriel-ca-1950-original-patina-in-elmwood-for-sale/f_25473/f_441018121742421279560/f_44101812_1742421280593_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-19T18:04:21.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Rene Gabriel",
+            "caption": "Mid-Century Modern Elegant   daybed by René Gabriel ca 1950, original patina in elmwood For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/elegant-daybed-by-rene-gabriel-ca-1950-original-patina-in-elmwood-for-sale-picture-2/f_25473/f_441018121742316948656/f_44101812_1742316949430_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/elegant-daybed-by-rene-gabriel-ca-1950-original-patina-in-elmwood-for-sale-picture-2/f_25473/f_441018121742316948656/f_44101812_1742316949430_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-19T18:04:21.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Rene Gabriel",
+            "caption": "French Elegant   daybed by René Gabriel ca 1950, original patina in elmwood For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/elegant-daybed-by-rene-gabriel-ca-1950-original-patina-in-elmwood-for-sale-picture-3/f_25473/f_441018121742316790953/Jestebg_6_Mrz2025_013_bearPerAus2900_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/elegant-daybed-by-rene-gabriel-ca-1950-original-patina-in-elmwood-for-sale-picture-3/f_25473/f_441018121742316790953/Jestebg_6_Mrz2025_013_bearPerAus2900_master.jpg?width=768",
+            "uploadDate": "2025-03-19T18:04:21.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Rene Gabriel",
+            "caption": "Elegant   daybed by René Gabriel ca 1950, original patina in elmwood In Good Condition For Sale In Jesteburg, DE",
+            "contentUrl": "https://a.1stdibscdn.com/elegant-daybed-by-rene-gabriel-ca-1950-original-patina-in-elmwood-for-sale-picture-4/f_25473/f_441018121742316824208/Jestebg_6_Mrz2025_024_bearAus2800_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/elegant-daybed-by-rene-gabriel-ca-1950-original-patina-in-elmwood-for-sale-picture-4/f_25473/f_441018121742316824208/Jestebg_6_Mrz2025_024_bearAus2800_master.jpg?width=768",
+            "uploadDate": "2025-03-19T18:04:21.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Rene Gabriel",
+            "caption": "Mid-20th Century Elegant   daybed by René Gabriel ca 1950, original patina in elmwood For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/elegant-daybed-by-rene-gabriel-ca-1950-original-patina-in-elmwood-for-sale-picture-6/f_25473/f_441018121742316877566/Jestebg_6_Mrz2025_053_bearPerAus3000_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/elegant-daybed-by-rene-gabriel-ca-1950-original-patina-in-elmwood-for-sale-picture-6/f_25473/f_441018121742316877566/Jestebg_6_Mrz2025_053_bearPerAus3000_master.jpg?width=768",
+            "uploadDate": "2025-03-19T18:04:21.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Rene Gabriel",
+            "caption": "Elm Elegant   daybed by René Gabriel ca 1950, original patina in elmwood For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/elegant-daybed-by-rene-gabriel-ca-1950-original-patina-in-elmwood-for-sale-picture-7/f_25473/f_441018121742316895180/Jestebg_6_Mrz2025_057_bearAus2800_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/elegant-daybed-by-rene-gabriel-ca-1950-original-patina-in-elmwood-for-sale-picture-7/f_25473/f_441018121742316895180/Jestebg_6_Mrz2025_057_bearAus2800_master.jpg?width=768",
+            "uploadDate": "2025-03-19T18:04:21.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Rene Gabriel",
+            "caption": "Elegant   daybed by René Gabriel ca 1950, original patina in elmwood For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/elegant-daybed-by-rene-gabriel-ca-1950-original-patina-in-elmwood-for-sale-picture-8/f_25473/f_441018121742316910276/Jestebg_6_Mrz2025_059_bearPerAus3000_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/elegant-daybed-by-rene-gabriel-ca-1950-original-patina-in-elmwood-for-sale-picture-8/f_25473/f_441018121742316910276/Jestebg_6_Mrz2025_059_bearPerAus3000_master.jpg?width=768",
+            "uploadDate": "2025-03-19T18:04:21.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/UsedCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/sofas/elegant-daybed-rene-gabriel-ca-1950-original-patina-elmwood/id-f_44101812/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 9610.78,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 17331.55,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 220046.82,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 9800,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 8415.75,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 74995.01,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 10872.31,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 15681.67,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 110216.77,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 114934.92,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 5,
+          "reviewCount": 14
+        },
+        "productionDate": "1940-1949",
+        "category": "Sofas",
+        "brand": {
+          "@type": "Brand",
+          "name": "Rene Gabriel"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Sofas",
+              "@id": "/furniture/seating/sofas/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

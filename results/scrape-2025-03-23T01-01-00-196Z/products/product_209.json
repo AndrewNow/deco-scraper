@@ -1,0 +1,413 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_19735632",
+  "name": "Minimal Style, Solid Wood Stool, Bar or Counter Height, Caning and Leather",
+  "slug": "f_19735632",
+  "price": "CA$1,324.08",
+  "description": "f_19735632",
+  "image_url": "https://a.1stdibscdn.com/minimal-style-solid-wood-stool-bar-or-counter-hight-caning-and-leather-for-sale/1121189/f_197356321593856493573/19735632_master.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/chairs/minimal-style-solid-wood-stool-bar-counter-height-caning-leather/id-f_19735632/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 38.59 in (98 cm)",
+      "width": "Width: 17.72 in (45 cm)",
+      "depth": "Depth: 20.08 in (51 cm)",
+      "seatHeight": "Seat Height: 29.14 in (74 cm)"
+    },
+    "style": "Modern (In the Style Of)",
+    "materials": [
+      "Cane",
+      "Hardwood",
+      "Textile",
+      "Wood",
+      "Cane",
+      "Hardwood",
+      "Textile",
+      "Wood"
+    ],
+    "origin": "Brazil",
+    "period": "2010-",
+    "dateOfManufacture": "2018",
+    "condition": {
+      "rating": "New",
+      "details": null
+    },
+    "sellerLocation": "Vila Cordeiro, BR",
+    "referenceNumber": "Seller: WING STOOL - LEATHER SEAT",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">The Wing chair solid wood collection, flexibility, modern aesthetics, comfort and softness are the keywords for this collection. The concept is inspired by the B-52 plane design, this inspiration gave us the freedom to create a collection where the design appropriate subtle elements, harmonic transitions and thin but resistant wood thicknesses, that gave life to a unique and contemporary collection. \n\nOur studio objective was to abstract most of the figurative elements and arrive in the very sweet spot in this design, driving the details in a three dimensional way. All our objects are drawn using the Da Vinci's \"golden section\", and the wing collection is not an exception, this assures pleasing proportions. \n\nThe Wing chair collection is crafted with passion using premium materials and the latest technologies, and a very precise quality control, on its beauty there is the subtle variations between the wood veins in a real living item without ethnic appeal. \n\nAll this qualities converge in and merge in a collection made to participate in the life of its users like a breeze, comfortably, pleasant and positive. \n\nWoods: Standard we offer three wood stains a black ebonized and we can also create custom nuances based in your physical sample to harmonize it and approximate it to another wood tonality. \n\nUpholstery: Natural and vegan leathers plus a selection of premium textiles to choose from. We can also source different materials on demand and or make COM. \n\nCanings / solid back: available in two meshes, the hexagonal Classic pattern and a frize closed patter. Available in Natural, Walnut or black tonalities. \n\nThis piece seat height may be customized for your needs of counter height or bar height.  The stool seating height is customizable in up to 29in (74cm) or bellow.\n\n*Our pieces are made with passion and attention, quality, comfort and design are our priorities, for the daily user, as we use ultra premium materials that are carefully manufactured with manual processes and solid wood sculpting, please consider up to 2in tolerance in the dimensions plus or minus. The seat height might impact the overall dimensions inside of this range, as we adjust from bellow.</span></div></div>",
+    "rawSpecificationsText": "The Wing chair solid wood collection, flexibility, modern aesthetics, comfort and softness are the keywords for this collection. The concept is inspired by the B-52 plane design, this inspiration gave us the freedom to create a collection where the design appropriate subtle elements, harmonic transitions and thin but resistant wood thicknesses, that gave life to a unique and contemporary collection. \n\nOur studio objective was to abstract most of the figurative elements and arrive in the very sweet spot in this design, driving the details in a three dimensional way. All our objects are drawn using the Da Vinci's \"golden section\", and the wing collection is not an exception, this assures pleasing proportions. \n\nThe Wing chair collection is crafted with passion using premium materials and the latest technologies, and a very precise quality control, on its beauty there is the subtle variations between the wood veins in a real living item without ethnic appeal. \n\nAll this qualities converge in and merge in a collection made to participate in the life of its users like a breeze, comfortably, pleasant and positive. \n\nWoods: Standard we offer three wood stains a black ebonized and we can also create custom nuances based in your physical sample to harmonize it and approximate it to another wood tonality. \n\nUpholstery: Natural and vegan leathers plus a selection of premium textiles to choose from. We can also source different materials on demand and or make COM. \n\nCanings / solid back: available in two meshes, the hexagonal Classic pattern and a frize closed patter. Available in Natural, Walnut or black tonalities. \n\nThis piece seat height may be customized for your needs of counter height or bar height.  The stool seating height is customizable in up to 29in (74cm) or bellow.\n\n*Our pieces are made with passion and attention, quality, comfort and design are our priorities, for the daily user, as we use ultra premium materials that are carefully manufactured with manual processes and solid wood sculpting, please consider up to 2in tolerance in the dimensions plus or minus. The seat height might impact the overall dimensions inside of this range, as we adjust from bellow."
+  },
+  "raw_data": {
+    "productId": "f_19735632",
+    "slug": "f_19735632",
+    "url": "https://www.1stdibs.com/furniture/seating/chairs/minimal-style-solid-wood-stool-bar-counter-height-caning-leather/id-f_19735632/",
+    "name": "Minimal Style, Solid Wood Stool, Bar or Counter Height, Caning and Leather",
+    "price": "CA$1,324.08",
+    "imageUrl": "https://a.1stdibscdn.com/minimal-style-solid-wood-stool-bar-or-counter-hight-caning-and-leather-for-sale/1121189/f_197356321593856493573/19735632_master.jpg",
+    "description": "f_19735632",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 38.59 in (98 cm)",
+        "width": "Width: 17.72 in (45 cm)",
+        "depth": "Depth: 20.08 in (51 cm)",
+        "seatHeight": "Seat Height: 29.14 in (74 cm)"
+      },
+      "style": "Modern (In the Style Of)",
+      "materials": [
+        "Cane",
+        "Hardwood",
+        "Textile",
+        "Wood",
+        "Cane",
+        "Hardwood",
+        "Textile",
+        "Wood"
+      ],
+      "origin": "Brazil",
+      "period": "2010-",
+      "dateOfManufacture": "2018",
+      "condition": {
+        "rating": "New",
+        "details": null
+      },
+      "sellerLocation": "Vila Cordeiro, BR",
+      "referenceNumber": "Seller: WING STOOL - LEATHER SEAT",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">The Wing chair solid wood collection, flexibility, modern aesthetics, comfort and softness are the keywords for this collection. The concept is inspired by the B-52 plane design, this inspiration gave us the freedom to create a collection where the design appropriate subtle elements, harmonic transitions and thin but resistant wood thicknesses, that gave life to a unique and contemporary collection. \n\nOur studio objective was to abstract most of the figurative elements and arrive in the very sweet spot in this design, driving the details in a three dimensional way. All our objects are drawn using the Da Vinci's \"golden section\", and the wing collection is not an exception, this assures pleasing proportions. \n\nThe Wing chair collection is crafted with passion using premium materials and the latest technologies, and a very precise quality control, on its beauty there is the subtle variations between the wood veins in a real living item without ethnic appeal. \n\nAll this qualities converge in and merge in a collection made to participate in the life of its users like a breeze, comfortably, pleasant and positive. \n\nWoods: Standard we offer three wood stains a black ebonized and we can also create custom nuances based in your physical sample to harmonize it and approximate it to another wood tonality. \n\nUpholstery: Natural and vegan leathers plus a selection of premium textiles to choose from. We can also source different materials on demand and or make COM. \n\nCanings / solid back: available in two meshes, the hexagonal Classic pattern and a frize closed patter. Available in Natural, Walnut or black tonalities. \n\nThis piece seat height may be customized for your needs of counter height or bar height.  The stool seating height is customizable in up to 29in (74cm) or bellow.\n\n*Our pieces are made with passion and attention, quality, comfort and design are our priorities, for the daily user, as we use ultra premium materials that are carefully manufactured with manual processes and solid wood sculpting, please consider up to 2in tolerance in the dimensions plus or minus. The seat height might impact the overall dimensions inside of this range, as we adjust from bellow.</span></div></div>",
+      "rawSpecificationsText": "The Wing chair solid wood collection, flexibility, modern aesthetics, comfort and softness are the keywords for this collection. The concept is inspired by the B-52 plane design, this inspiration gave us the freedom to create a collection where the design appropriate subtle elements, harmonic transitions and thin but resistant wood thicknesses, that gave life to a unique and contemporary collection. \n\nOur studio objective was to abstract most of the figurative elements and arrive in the very sweet spot in this design, driving the details in a three dimensional way. All our objects are drawn using the Da Vinci's \"golden section\", and the wing collection is not an exception, this assures pleasing proportions. \n\nThe Wing chair collection is crafted with passion using premium materials and the latest technologies, and a very precise quality control, on its beauty there is the subtle variations between the wood veins in a real living item without ethnic appeal. \n\nAll this qualities converge in and merge in a collection made to participate in the life of its users like a breeze, comfortably, pleasant and positive. \n\nWoods: Standard we offer three wood stains a black ebonized and we can also create custom nuances based in your physical sample to harmonize it and approximate it to another wood tonality. \n\nUpholstery: Natural and vegan leathers plus a selection of premium textiles to choose from. We can also source different materials on demand and or make COM. \n\nCanings / solid back: available in two meshes, the hexagonal Classic pattern and a frize closed patter. Available in Natural, Walnut or black tonalities. \n\nThis piece seat height may be customized for your needs of counter height or bar height.  The stool seating height is customizable in up to 29in (74cm) or bellow.\n\n*Our pieces are made with passion and attention, quality, comfort and design are our priorities, for the daily user, as we use ultra premium materials that are carefully manufactured with manual processes and solid wood sculpting, please consider up to 2in tolerance in the dimensions plus or minus. The seat height might impact the overall dimensions inside of this range, as we adjust from bellow."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Minimal Style, Solid Wood Stool, Bar or Counter Height, Caning and Leather",
+        "description": "The Wing chair solid wood collection, flexibility, modern aesthetics, comfort and softness are the keywords for this collection. The concept is inspired by the B-52 plane design, this inspiration gave us the freedom to create a collection where the design appropriate subtle elements, harmonic transitions and thin but resistant wood thicknesses, that gave life to a unique and contemporary collection. \n\nOur studio objective was to abstract most of the figurative elements and arrive in the very sweet spot in this design, driving the details in a three dimensional way. All our objects are drawn using the Da Vinci's \"golden section\", and the wing collection is not an exception, this assures pleasing proportions. \n\nThe Wing chair collection is crafted with passion using premium materials and the latest technologies, and a very precise quality control, on its beauty there is the subtle variations between the wood veins in a real living item without ethnic appeal. \n\nAll this qualities converge in and merge in a collection made to participate in the life of its users like a breeze, comfortably, pleasant and positive. \n\nWoods: Standard we offer three wood stains a black ebonized and we can also create custom nuances based in your physical sample to harmonize it and approximate it to another wood tonality. \n\nUpholstery: Natural and vegan leathers plus a selection of premium textiles to choose from. We can also source different materials on demand and or make COM. \n\nCanings / solid back: available in two meshes, the hexagonal Classic pattern and a frize closed patter. Available in Natural, Walnut or black tonalities. \n\nThis piece seat height may be customized for your needs of counter height or bar height.  The stool seating height is customizable in up to 29in (74cm) or bellow.\n\n*Our pieces are made with passion and attention, quality, comfort and design are our priorities, for the daily user, as we use ultra premium materials that are carefully manufactured with manual processes and solid wood sculpting, please consider up to 2in tolerance in the dimensions plus or minus. The seat height might impact the overall dimensions inside of this range, as we adjust from bellow. \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n ",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "SIMONINI",
+            "caption": "Minimal Style, Solid Wood Stool, Bar or Counter Height, Caning and Leather For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/minimal-style-solid-wood-stool-bar-or-counter-hight-caning-and-leather-for-sale/1121189/f_197356321593856493573/19735632_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/minimal-style-solid-wood-stool-bar-or-counter-hight-caning-and-leather-for-sale/1121189/f_197356321593856493573/19735632_master.jpg?width=768",
+            "uploadDate": "2020-07-03T16:38:50.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "SIMONINI",
+            "caption": "The Wing chair solid wood collection, flexibility, modern aesthetics, comfort and softness are the keywords for this collection. The concept is inspired by the B-52 plane design, this inspiration gave us the freedom to create a collection where the",
+            "contentUrl": "https://a.1stdibscdn.com/minimal-style-solid-wood-stool-bar-or-counter-hight-caning-and-leather-for-sale-picture-2/f_35593/f_197356321593808656132/2019_05_30_Emporio_DanielSimonini_0185_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/minimal-style-solid-wood-stool-bar-or-counter-hight-caning-and-leather-for-sale-picture-2/f_35593/f_197356321593808656132/2019_05_30_Emporio_DanielSimonini_0185_master.jpg?width=768",
+            "uploadDate": "2020-07-03T16:38:50.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "SIMONINI",
+            "caption": "caned counter stool",
+            "contentUrl": "https://a.1stdibscdn.com/minimal-style-solid-wood-stool-bar-or-counter-hight-caning-and-leather-for-sale-picture-3/f_35593/f_197356321593808702888/couro_distress_SAMBA_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/minimal-style-solid-wood-stool-bar-or-counter-hight-caning-and-leather-for-sale-picture-3/f_35593/f_197356321593808702888/couro_distress_SAMBA_master.jpg?width=768",
+            "uploadDate": "2020-07-03T16:38:50.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "SIMONINI",
+            "caption": "caned bar stools",
+            "contentUrl": "https://a.1stdibscdn.com/minimal-style-solid-wood-stool-bar-or-counter-hight-caning-and-leather-for-sale-picture-4/f_35593/f_197356321593808657823/2019_05_30_Emporio_DanielSimonini_0186_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/minimal-style-solid-wood-stool-bar-or-counter-hight-caning-and-leather-for-sale-picture-4/f_35593/f_197356321593808657823/2019_05_30_Emporio_DanielSimonini_0186_master.jpg?width=768",
+            "uploadDate": "2020-07-03T16:38:50.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "SIMONINI",
+            "caption": "caning stool",
+            "contentUrl": "https://a.1stdibscdn.com/minimal-style-solid-wood-stool-bar-or-counter-hight-caning-and-leather-for-sale-picture-5/f_35593/f_197356321593808015903/2019_05_30_Emporio_DanielSimonini_0183_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/minimal-style-solid-wood-stool-bar-or-counter-hight-caning-and-leather-for-sale-picture-5/f_35593/f_197356321593808015903/2019_05_30_Emporio_DanielSimonini_0183_master.jpg?width=768",
+            "uploadDate": "2020-07-03T16:38:50.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "SIMONINI",
+            "caption": "Modern Minimal Style, Solid Wood Stool, Bar or Counter Height, Caning and Leather For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/minimal-style-solid-wood-stool-bar-or-counter-hight-caning-and-leather-for-sale-picture-6/f_35593/f_197356321593808016304/2019_05_30_Emporio_DanielSimonini_0185_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/minimal-style-solid-wood-stool-bar-or-counter-hight-caning-and-leather-for-sale-picture-6/f_35593/f_197356321593808016304/2019_05_30_Emporio_DanielSimonini_0185_master.jpg?width=768",
+            "uploadDate": "2020-07-03T16:38:50.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "SIMONINI",
+            "caption": "Brazilian Minimal Style, Solid Wood Stool, Bar or Counter Height, Caning and Leather For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/minimal-style-solid-wood-stool-bar-or-counter-hight-caning-and-leather-for-sale-picture-7/f_35593/f_197356321593808016774/2019_05_30_Emporio_DanielSimonini_0186_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/minimal-style-solid-wood-stool-bar-or-counter-hight-caning-and-leather-for-sale-picture-7/f_35593/f_197356321593808016774/2019_05_30_Emporio_DanielSimonini_0186_master.jpg?width=768",
+            "uploadDate": "2020-07-03T16:38:50.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "SIMONINI",
+            "caption": "Minimal Style, Solid Wood Stool, Bar or Counter Height, Caning and Leather In New Condition For Sale In Vila Cordeiro, São Paulo",
+            "contentUrl": "https://a.1stdibscdn.com/minimal-style-solid-wood-stool-bar-or-counter-hight-caning-and-leather-for-sale-picture-8/f_35593/f_197356321593808017415/couro_distress_20363_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/minimal-style-solid-wood-stool-bar-or-counter-hight-caning-and-leather-for-sale-picture-8/f_35593/f_197356321593808017415/couro_distress_20363_master.jpg?width=768",
+            "uploadDate": "2020-07-03T16:38:50.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "SIMONINI",
+            "caption": "Contemporary Minimal Style, Solid Wood Stool, Bar or Counter Height, Caning and Leather For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/minimal-style-solid-wood-stool-bar-or-counter-hight-caning-and-leather-for-sale-picture-9/f_35593/f_197356321593808018599/2019_05_30_Emporio_DanielSimonini_0190_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/minimal-style-solid-wood-stool-bar-or-counter-hight-caning-and-leather-for-sale-picture-9/f_35593/f_197356321593808018599/2019_05_30_Emporio_DanielSimonini_0190_master.jpg?width=768",
+            "uploadDate": "2020-07-03T16:38:50.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "SIMONINI",
+            "caption": "Textile Minimal Style, Solid Wood Stool, Bar or Counter Height, Caning and Leather For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/minimal-style-solid-wood-stool-bar-or-counter-hight-caning-and-leather-for-sale-picture-10/f_35593/f_197356321593808019519/2019_05_30_Emporio_DanielSimonini_0191_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/minimal-style-solid-wood-stool-bar-or-counter-hight-caning-and-leather-for-sale-picture-10/f_35593/f_197356321593808019519/2019_05_30_Emporio_DanielSimonini_0191_master.jpg?width=768",
+            "uploadDate": "2020-07-03T16:38:50.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "SIMONINI",
+            "caption": "Minimal Style, Solid Wood Stool, Bar or Counter Height, Caning and Leather For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/minimal-style-solid-wood-stool-bar-or-counter-hight-caning-and-leather-for-sale-picture-11/f_35593/f_197356321593808020360/2019_05_30_Emporio_DanielSimonini_0192_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/minimal-style-solid-wood-stool-bar-or-counter-hight-caning-and-leather-for-sale-picture-11/f_35593/f_197356321593808020360/2019_05_30_Emporio_DanielSimonini_0192_master.jpg?width=768",
+            "uploadDate": "2020-07-03T16:38:50.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "SIMONINI",
+            "caption": "Minimal Style, Solid Wood Stool, Bar or Counter Height, Caning and Leather For Sale 2",
+            "contentUrl": "https://a.1stdibscdn.com/minimal-style-solid-wood-stool-bar-or-counter-hight-caning-and-leather-for-sale-picture-12/f_35593/f_197356321593808020961/2019_05_30_Emporio_DanielSimonini_0194_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/minimal-style-solid-wood-stool-bar-or-counter-hight-caning-and-leather-for-sale-picture-12/f_35593/f_197356321593808020961/2019_05_30_Emporio_DanielSimonini_0194_master.jpg?width=768",
+            "uploadDate": "2020-07-03T16:38:50.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "SIMONINI",
+            "caption": "Minimal Style, Solid Wood Stool, Bar or Counter Height, Caning and Leather For Sale 3",
+            "contentUrl": "https://a.1stdibscdn.com/minimal-style-solid-wood-stool-bar-or-counter-hight-caning-and-leather-for-sale-picture-13/f_35593/f_197356321593808021564/2019_05_30_Emporio_DanielSimonini_0196_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/minimal-style-solid-wood-stool-bar-or-counter-hight-caning-and-leather-for-sale-picture-13/f_35593/f_197356321593808021564/2019_05_30_Emporio_DanielSimonini_0196_master.jpg?width=768",
+            "uploadDate": "2020-07-03T16:38:50.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "SIMONINI",
+            "caption": "Minimal Style, Solid Wood Stool, Bar or Counter Height, Caning and Leather For Sale 4",
+            "contentUrl": "https://a.1stdibscdn.com/minimal-style-solid-wood-stool-bar-or-counter-hight-caning-and-leather-for-sale-picture-14/f_35593/f_197356321593808022191/2019_05_30_Emporio_DanielSimonini_0195_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/minimal-style-solid-wood-stool-bar-or-counter-hight-caning-and-leather-for-sale-picture-14/f_35593/f_197356321593808022191/2019_05_30_Emporio_DanielSimonini_0195_master.jpg?width=768",
+            "uploadDate": "2020-07-03T16:38:50.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "SIMONINI",
+            "caption": "Minimal Style, Solid Wood Stool, Bar or Counter Height, Caning and Leather For Sale 5",
+            "contentUrl": "https://a.1stdibscdn.com/minimal-style-solid-wood-stool-bar-or-counter-hight-caning-and-leather-for-sale-picture-15/f_35593/f_197356321593808023246/BQ_EB_SEXT_NAT_20363_SIDE_2019_05_30_Emporio_DanielSimonini_0174_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/minimal-style-solid-wood-stool-bar-or-counter-hight-caning-and-leather-for-sale-picture-15/f_35593/f_197356321593808023246/BQ_EB_SEXT_NAT_20363_SIDE_2019_05_30_Emporio_DanielSimonini_0174_master.jpg?width=768",
+            "uploadDate": "2020-07-03T16:38:50.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "SIMONINI",
+            "caption": "Minimal Style, Solid Wood Stool, Bar or Counter Height, Caning and Leather For Sale 6",
+            "contentUrl": "https://a.1stdibscdn.com/minimal-style-solid-wood-stool-bar-or-counter-hight-caning-and-leather-for-sale-picture-16/f_35593/f_197356321593808024149/FINISHES_EMP_2019_01_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/minimal-style-solid-wood-stool-bar-or-counter-hight-caning-and-leather-for-sale-picture-16/f_35593/f_197356321593808024149/FINISHES_EMP_2019_01_master.jpg?width=768",
+            "uploadDate": "2020-07-03T16:38:50.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "SIMONINI",
+            "caption": "Minimal Style, Solid Wood Stool, Bar or Counter Height, Caning and Leather For Sale 7",
+            "contentUrl": "https://a.1stdibscdn.com/minimal-style-solid-wood-stool-bar-or-counter-hight-caning-and-leather-for-sale-picture-17/f_35593/f_197356321593808024610/FINISHES_EMP_2019_02_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/minimal-style-solid-wood-stool-bar-or-counter-hight-caning-and-leather-for-sale-picture-17/f_35593/f_197356321593808024610/FINISHES_EMP_2019_02_master.jpg?width=768",
+            "uploadDate": "2020-07-03T16:38:50.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "SIMONINI",
+            "caption": "Minimal Style, Solid Wood Stool, Bar or Counter Height, Caning and Leather For Sale 8",
+            "contentUrl": "https://a.1stdibscdn.com/minimal-style-solid-wood-stool-bar-or-counter-hight-caning-and-leather-for-sale-picture-18/f_35593/f_197356321593808025118/FINISHES_EMP_2019_04_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/minimal-style-solid-wood-stool-bar-or-counter-hight-caning-and-leather-for-sale-picture-18/f_35593/f_197356321593808025118/FINISHES_EMP_2019_04_master.jpg?width=768",
+            "uploadDate": "2020-07-03T16:38:50.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "SIMONINI",
+            "caption": "Minimal Style, Solid Wood Stool, Bar or Counter Height, Caning and Leather For Sale 9",
+            "contentUrl": "https://a.1stdibscdn.com/minimal-style-solid-wood-stool-bar-or-counter-hight-caning-and-leather-for-sale-picture-19/f_35593/f_197356321593808025658/FINISHES_EMP_2019_06_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/minimal-style-solid-wood-stool-bar-or-counter-hight-caning-and-leather-for-sale-picture-19/f_35593/f_197356321593808025658/FINISHES_EMP_2019_06_master.jpg?width=768",
+            "uploadDate": "2020-07-03T16:38:50.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "SIMONINI",
+            "caption": "Minimal Style, Solid Wood Stool, Bar or Counter Height, Caning and Leather For Sale 10",
+            "contentUrl": "https://a.1stdibscdn.com/minimal-style-solid-wood-stool-bar-or-counter-hight-caning-and-leather-for-sale-picture-20/f_35593/f_197356321593808026033/FINISHES_EMP_2019_03_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/minimal-style-solid-wood-stool-bar-or-counter-hight-caning-and-leather-for-sale-picture-20/f_35593/f_197356321593808026033/FINISHES_EMP_2019_03_master.jpg?width=768",
+            "uploadDate": "2020-07-03T16:38:50.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/NewCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/chairs/minimal-style-solid-wood-stool-bar-counter-height-caning-leather/id-f_19735632/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 811.48,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1463.38,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 18579.59,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 844.01,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 710.58,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 6332.18,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 900,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1324.08,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 9306.12,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 9704.49,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 5,
+          "reviewCount": 59
+        },
+        "productionDate": "2010-",
+        "category": "Chairs",
+        "brand": {
+          "@type": "Brand",
+          "name": "SIMONINI"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Chairs",
+              "@id": "/furniture/seating/chairs/"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "VideoObject",
+        "name": "Minimal Style, Solid Wood Stool, Bar or Counter Height, Caning and Leather",
+        "description": "The Wing chair solid wood collection, flexibility, modern aesthetics, comfort and softness are the keywords for this collection. The concept is inspired by the B-52 plane design, this inspiration gave us the freedom to create a collection where the design appropriate subtle elements, harmonic transitions and thin but resistant wood thicknesses, that gave life to a unique and contemporary collection. \n\nOur studio objective was to abstract most of the figurative elements and arrive in the very sweet spot in this design, driving the details in a three dimensional way. All our objects are drawn using the Da Vinci's \"golden section\", and the wing collection is not an exception, this assures pleasing proportions. \n\nThe Wing chair collection is crafted with passion using premium materials and the latest technologies, and a very precise quality control, on its beauty there is the subtle variations between the wood veins in a real living item without ethnic appeal. \n\nAll this qualities converge in and merge in a collection made to participate in the life of its users like a breeze, comfortably, pleasant and positive. \n\nWoods: Standard we offer three wood stains a black ebonized and we can also create custom nuances based in your physical sample to harmonize it and approximate it to another wood tonality. \n\nUpholstery: Natural and vegan leathers plus a selection of premium textiles to choose from. We can also source different materials on demand and or make COM. \n\nCanings / solid back: available in two meshes, the hexagonal Classic pattern and a frize closed patter. Available in Natural, Walnut or black tonalities. \n\nThis piece seat height may be customized for your needs of counter height or bar height.  The stool seating height is customizable in up to 29in (74cm) or bellow.\n\n*Our pieces are made with passion and attention, quality, comfort and design are our priorities, for the daily user, as we use ultra premium materials that are carefully manufactured with manual processes and solid wood sculpting, please consider up to 2in tolerance in the dimensions plus or minus. The seat height might impact the overall dimensions inside of this range, as we adjust from bellow. \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n ",
+        "thumbnailUrl": "https://i.vimeocdn.com/video/1822583615-bd04f10f945275284189fd6334d0c8e3b5a97df96d25e889910916d978a6e11d-d_1920x1080?r=pad",
+        "uploadDate": "2024-03-26T16:11:13+00:00",
+        "duration": "PT0H0M45S",
+        "contentUrl": "https://player.vimeo.com/progressive_redirect/playback/927616011/rendition/720p/file.mp4?loc=external&oauth2_token_id=1438265637&signature=617d59c8580059ba63f8397cecd338e7af716788490aa8041eadd26608b76f54"
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44069742",
+  "name": "A Sculptural POSTMODERN MEMPHIS chair, in the style of PIERRE SALA, France 1980",
+  "slug": "f_44069742",
+  "price": "CA$3,840.41",
+  "description": "f_44069742",
+  "image_url": "https://a.1stdibscdn.com/a-sculptural-postmodern-memphis-chair-in-the-style-of-pierre-sala-france-1980-for-sale/f_66502/f_440697421742151374426/f_44069742_1742151375080_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/chairs/sculptural-postmodern-memphis-chair-style-pierre-sala-france-1980/id-f_44069742/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 35.44 in (90 cm)",
+      "width": "Width: 17.72 in (45 cm)",
+      "depth": "Depth: 15.75 in (40 cm)",
+      "seatHeight": "Seat Height: 17.72 in (45 cm)"
+    },
+    "style": "Post-Modern (Of the Period)",
+    "materials": [
+      "Wood",
+      "Wood"
+    ],
+    "origin": "France",
+    "period": "1980-1989",
+    "dateOfManufacture": "1980",
+    "condition": {
+      "rating": "Good",
+      "details": "Wear consistent with age and use."
+    },
+    "sellerLocation": "PARIS, FR",
+    "referenceNumber": "1stDibs: LU6650244069742",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">A sculptural postmodern chair, construction of geometrical pieces of wood based on 3 legs, straight grid black back, circular pink seat, red front leg, by anonymous artist, France 1980.\n\nThis piece remains radical postmodern designers as Andrea Branzi, Pierre Sala... Etc!</span></div></div>",
+    "rawSpecificationsText": "A sculptural postmodern chair, construction of geometrical pieces of wood based on 3 legs, straight grid black back, circular pink seat, red front leg, by anonymous artist, France 1980.\n\nThis piece remains radical postmodern designers as Andrea Branzi, Pierre Sala... Etc!"
+  },
+  "raw_data": {
+    "productId": "f_44069742",
+    "slug": "f_44069742",
+    "url": "https://www.1stdibs.com/furniture/seating/chairs/sculptural-postmodern-memphis-chair-style-pierre-sala-france-1980/id-f_44069742/",
+    "name": "A Sculptural POSTMODERN MEMPHIS chair, in the style of PIERRE SALA, France 1980",
+    "price": "CA$3,840.41",
+    "imageUrl": "https://a.1stdibscdn.com/a-sculptural-postmodern-memphis-chair-in-the-style-of-pierre-sala-france-1980-for-sale/f_66502/f_440697421742151374426/f_44069742_1742151375080_bg_processed.jpg",
+    "description": "f_44069742",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 35.44 in (90 cm)",
+        "width": "Width: 17.72 in (45 cm)",
+        "depth": "Depth: 15.75 in (40 cm)",
+        "seatHeight": "Seat Height: 17.72 in (45 cm)"
+      },
+      "style": "Post-Modern (Of the Period)",
+      "materials": [
+        "Wood",
+        "Wood"
+      ],
+      "origin": "France",
+      "period": "1980-1989",
+      "dateOfManufacture": "1980",
+      "condition": {
+        "rating": "Good",
+        "details": "Wear consistent with age and use."
+      },
+      "sellerLocation": "PARIS, FR",
+      "referenceNumber": "1stDibs: LU6650244069742",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">A sculptural postmodern chair, construction of geometrical pieces of wood based on 3 legs, straight grid black back, circular pink seat, red front leg, by anonymous artist, France 1980.\n\nThis piece remains radical postmodern designers as Andrea Branzi, Pierre Sala... Etc!</span></div></div>",
+      "rawSpecificationsText": "A sculptural postmodern chair, construction of geometrical pieces of wood based on 3 legs, straight grid black back, circular pink seat, red front leg, by anonymous artist, France 1980.\n\nThis piece remains radical postmodern designers as Andrea Branzi, Pierre Sala... Etc!"
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "A Sculptural POSTMODERN MEMPHIS chair, in the style of PIERRE SALA, France 1980",
+        "description": "A sculptural postmodern chair, construction of geometrical pieces of wood based on 3 legs, straight grid black back, circular pink seat, red front leg, by anonymous artist, France 1980.\n\nThis piece remains radical postmodern designers as Andrea Branzi, Pierre Sala... Etc!\n\n",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "A Sculptural POSTMODERN MEMPHIS chair, in the style of PIERRE SALA, France 1980 For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/a-sculptural-postmodern-memphis-chair-in-the-style-of-pierre-sala-france-1980-for-sale/f_66502/f_440697421742151374426/f_44069742_1742151375080_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/a-sculptural-postmodern-memphis-chair-in-the-style-of-pierre-sala-france-1980-for-sale/f_66502/f_440697421742151374426/f_44069742_1742151375080_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-18T06:32:38.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "A sculptural postmodern chair, construction of geometrical pieces of wood based on 3 legs, straight grid black back, circular pink seat, red front leg, by anonymous artist, France 1980.\n\nThis piece remains radical postmodern designers as Andrea",
+            "contentUrl": "https://a.1stdibscdn.com/a-sculptural-postmodern-memphis-chair-in-the-style-of-pierre-sala-france-1980-for-sale-picture-2/f_66502/f_440697421742151234673/IMG_7901_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/a-sculptural-postmodern-memphis-chair-in-the-style-of-pierre-sala-france-1980-for-sale-picture-2/f_66502/f_440697421742151234673/IMG_7901_master.jpg?width=768",
+            "uploadDate": "2025-03-18T06:32:38.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Post-Modern A Sculptural POSTMODERN MEMPHIS chair, in the style of PIERRE SALA, France 1980 For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/a-sculptural-postmodern-memphis-chair-in-the-style-of-pierre-sala-france-1980-for-sale-picture-3/f_66502/f_440697421742151231431/IMG_7888_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/a-sculptural-postmodern-memphis-chair-in-the-style-of-pierre-sala-france-1980-for-sale-picture-3/f_66502/f_440697421742151231431/IMG_7888_master.jpg?width=768",
+            "uploadDate": "2025-03-18T06:32:38.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "French A Sculptural POSTMODERN MEMPHIS chair, in the style of PIERRE SALA, France 1980 For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/a-sculptural-postmodern-memphis-chair-in-the-style-of-pierre-sala-france-1980-for-sale-picture-4/f_66502/f_440697421742151230960/IMG_7898_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/a-sculptural-postmodern-memphis-chair-in-the-style-of-pierre-sala-france-1980-for-sale-picture-4/f_66502/f_440697421742151230960/IMG_7898_master.jpg?width=768",
+            "uploadDate": "2025-03-18T06:32:38.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "A Sculptural POSTMODERN MEMPHIS chair, in the style of PIERRE SALA, France 1980 In Good Condition For Sale In PARIS, FR",
+            "contentUrl": "https://a.1stdibscdn.com/a-sculptural-postmodern-memphis-chair-in-the-style-of-pierre-sala-france-1980-for-sale-picture-5/f_66502/f_440697421742151230995/IMG_7892_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/a-sculptural-postmodern-memphis-chair-in-the-style-of-pierre-sala-france-1980-for-sale-picture-5/f_66502/f_440697421742151230995/IMG_7892_master.jpg?width=768",
+            "uploadDate": "2025-03-18T06:32:38.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Late 20th Century A Sculptural POSTMODERN MEMPHIS chair, in the style of PIERRE SALA, France 1980 For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/a-sculptural-postmodern-memphis-chair-in-the-style-of-pierre-sala-france-1980-for-sale-picture-6/f_66502/f_440697421742151230992/IMG_7895_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/a-sculptural-postmodern-memphis-chair-in-the-style-of-pierre-sala-france-1980-for-sale-picture-6/f_66502/f_440697421742151230992/IMG_7895_master.jpg?width=768",
+            "uploadDate": "2025-03-18T06:32:38.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Wood A Sculptural POSTMODERN MEMPHIS chair, in the style of PIERRE SALA, France 1980 For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/a-sculptural-postmodern-memphis-chair-in-the-style-of-pierre-sala-france-1980-for-sale-picture-7/f_66502/f_440697421742151234444/IMG_7925_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/a-sculptural-postmodern-memphis-chair-in-the-style-of-pierre-sala-france-1980-for-sale-picture-7/f_66502/f_440697421742151234444/IMG_7925_master.jpg?width=768",
+            "uploadDate": "2025-03-18T06:32:38.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "A Sculptural POSTMODERN MEMPHIS chair, in the style of PIERRE SALA, France 1980 For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/a-sculptural-postmodern-memphis-chair-in-the-style-of-pierre-sala-france-1980-for-sale-picture-8/f_66502/f_440697421742151234372/IMG_7899_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/a-sculptural-postmodern-memphis-chair-in-the-style-of-pierre-sala-france-1980-for-sale-picture-8/f_66502/f_440697421742151234372/IMG_7899_master.jpg?width=768",
+            "uploadDate": "2025-03-18T06:32:38.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "A Sculptural POSTMODERN MEMPHIS chair, in the style of PIERRE SALA, France 1980 For Sale 2",
+            "contentUrl": "https://a.1stdibscdn.com/a-sculptural-postmodern-memphis-chair-in-the-style-of-pierre-sala-france-1980-for-sale-picture-9/f_66502/f_440697421742151234758/IMG_7921_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/a-sculptural-postmodern-memphis-chair-in-the-style-of-pierre-sala-france-1980-for-sale-picture-9/f_66502/f_440697421742151234758/IMG_7921_master.jpg?width=768",
+            "uploadDate": "2025-03-18T06:32:38.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "A Sculptural POSTMODERN MEMPHIS chair, in the style of PIERRE SALA, France 1980 For Sale 3",
+            "contentUrl": "https://a.1stdibscdn.com/a-sculptural-postmodern-memphis-chair-in-the-style-of-pierre-sala-france-1980-for-sale-picture-10/f_66502/f_440697421742151230468/IMG_7890_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/a-sculptural-postmodern-memphis-chair-in-the-style-of-pierre-sala-france-1980-for-sale-picture-10/f_66502/f_440697421742151230468/IMG_7890_master.jpg?width=768",
+            "uploadDate": "2025-03-18T06:32:38.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "A Sculptural POSTMODERN MEMPHIS chair, in the style of PIERRE SALA, France 1980 For Sale 4",
+            "contentUrl": "https://a.1stdibscdn.com/a-sculptural-postmodern-memphis-chair-in-the-style-of-pierre-sala-france-1980-for-sale-picture-11/f_66502/f_440697421742151234717/IMG_7914_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/a-sculptural-postmodern-memphis-chair-in-the-style-of-pierre-sala-france-1980-for-sale-picture-11/f_66502/f_440697421742151234717/IMG_7914_master.jpg?width=768",
+            "uploadDate": "2025-03-18T06:32:38.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/UsedCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/chairs/sculptural-postmodern-memphis-chair-style-pierre-sala-france-1980/id-f_44069742/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 4244.46,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 2353.66,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 53889.02,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 2400,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 2061,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 18366.12,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3840.41,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 2662.61,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 26991.86,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 28147.33,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 5,
+          "reviewCount": 1
+        },
+        "productionDate": "1980-1989",
+        "category": "Chairs"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Chairs",
+              "@id": "/furniture/seating/chairs/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

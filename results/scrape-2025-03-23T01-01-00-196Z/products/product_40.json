@@ -1,0 +1,295 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44103952",
+  "name": "Italian Hamilton Sofa by Minotti",
+  "slug": "f_44103952",
+  "price": "CA$27,217.14",
+  "description": "f_44103952",
+  "image_url": "https://a.1stdibscdn.com/italian-hamilton-sofa-by-minotti-for-sale/f_8595/f_441039521742326221541/f_44103952_1742326221932_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/sofas/italian-hamilton-sofa-minotti/id-f_44103952/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 27.5 in (69.85 cm)",
+      "width": "Width: 110.5 in (280.67 cm)",
+      "depth": "Depth: 41 in (104.14 cm)",
+      "seatHeight": "Seat Height: 15 in (38.1 cm)"
+    },
+    "style": "Modern (Of the Period)",
+    "materials": [
+      "Leather",
+      "Metal",
+      "Leather",
+      "Metal"
+    ],
+    "origin": "Italy",
+    "period": "2010-",
+    "dateOfManufacture": "2010",
+    "condition": {
+      "rating": "Good",
+      "details": "Wear consistent with age and use. This piece is in very nice vintage condition with only minor surface wear consistent with age and use. The photos accurately depict the condition."
+    },
+    "sellerLocation": "Austin, TX",
+    "referenceNumber": "Seller: 25A138",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Sofa from Italy made by Minotti. Founded in 1948; Minotti is a world-renowned company based in Italy that designs and produces some of the most sought-after contemporary furniture. The Hamilton sofa was originally designed by Rodolfo Dordoni and features a linear design supported by a sleek; metal base. This sofa is upholstered in the original, supple taupe leather. This piece is in very nice condition with only minor surface wear consistent with age and use. The photos accurately depict the condition.</span></div></div>",
+    "rawSpecificationsText": "Sofa from Italy made by Minotti. Founded in 1948; Minotti is a world-renowned company based in Italy that designs and produces some of the most sought-after contemporary furniture. The Hamilton sofa was originally designed by Rodolfo Dordoni and features a linear design supported by a sleek; metal base. This sofa is upholstered in the original, supple taupe leather. This piece is in very nice condition with only minor surface wear consistent with age and use. The photos accurately depict the condition."
+  },
+  "raw_data": {
+    "productId": "f_44103952",
+    "slug": "f_44103952",
+    "url": "https://www.1stdibs.com/furniture/seating/sofas/italian-hamilton-sofa-minotti/id-f_44103952/",
+    "name": "Italian Hamilton Sofa by Minotti",
+    "price": "CA$27,217.14",
+    "imageUrl": "https://a.1stdibscdn.com/italian-hamilton-sofa-by-minotti-for-sale/f_8595/f_441039521742326221541/f_44103952_1742326221932_bg_processed.jpg",
+    "description": "f_44103952",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 27.5 in (69.85 cm)",
+        "width": "Width: 110.5 in (280.67 cm)",
+        "depth": "Depth: 41 in (104.14 cm)",
+        "seatHeight": "Seat Height: 15 in (38.1 cm)"
+      },
+      "style": "Modern (Of the Period)",
+      "materials": [
+        "Leather",
+        "Metal",
+        "Leather",
+        "Metal"
+      ],
+      "origin": "Italy",
+      "period": "2010-",
+      "dateOfManufacture": "2010",
+      "condition": {
+        "rating": "Good",
+        "details": "Wear consistent with age and use. This piece is in very nice vintage condition with only minor surface wear consistent with age and use. The photos accurately depict the condition."
+      },
+      "sellerLocation": "Austin, TX",
+      "referenceNumber": "Seller: 25A138",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Sofa from Italy made by Minotti. Founded in 1948; Minotti is a world-renowned company based in Italy that designs and produces some of the most sought-after contemporary furniture. The Hamilton sofa was originally designed by Rodolfo Dordoni and features a linear design supported by a sleek; metal base. This sofa is upholstered in the original, supple taupe leather. This piece is in very nice condition with only minor surface wear consistent with age and use. The photos accurately depict the condition.</span></div></div>",
+      "rawSpecificationsText": "Sofa from Italy made by Minotti. Founded in 1948; Minotti is a world-renowned company based in Italy that designs and produces some of the most sought-after contemporary furniture. The Hamilton sofa was originally designed by Rodolfo Dordoni and features a linear design supported by a sleek; metal base. This sofa is upholstered in the original, supple taupe leather. This piece is in very nice condition with only minor surface wear consistent with age and use. The photos accurately depict the condition."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Italian Hamilton Sofa by Minotti",
+        "description": "Sofa from Italy made by Minotti. Founded in 1948; Minotti is a world-renowned company based in Italy that designs and produces some of the most sought-after contemporary furniture. The Hamilton sofa was originally designed by Rodolfo Dordoni and features a linear design supported by a sleek; metal base. This sofa is upholstered in the original, supple taupe leather. This piece is in very nice condition with only minor surface wear consistent with age and use. The photos accurately depict the condition.",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Minotti",
+            "caption": "Italian Hamilton Sofa by Minotti For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/italian-hamilton-sofa-by-minotti-for-sale/f_8595/f_441039521742326221541/f_44103952_1742326221932_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/italian-hamilton-sofa-by-minotti-for-sale/f_8595/f_441039521742326221541/f_44103952_1742326221932_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-18T15:38:29.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Minotti",
+            "caption": "Sofa from Italy made by Minotti. Founded in 1948; Minotti is a world-renowned company based in Italy that designs and produces some of the most sought-after contemporary furniture. The Hamilton sofa was originally designed by Rodolfo Dordoni and",
+            "contentUrl": "https://a.1stdibscdn.com/italian-hamilton-sofa-by-minotti-for-sale-picture-2/f_8595/f_441039521742326552779/2025_03_13_160857_DSC2207_SRT_JMF_W431_25A138_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/italian-hamilton-sofa-by-minotti-for-sale-picture-2/f_8595/f_441039521742326552779/2025_03_13_160857_DSC2207_SRT_JMF_W431_25A138_master.jpg?width=768",
+            "uploadDate": "2025-03-18T15:38:29.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Minotti",
+            "caption": "Modern Italian Hamilton Sofa by Minotti For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/italian-hamilton-sofa-by-minotti-for-sale-picture-3/f_8595/f_441039521742326552705/2025_03_13_161005_DSC2211_SRT_JMF_W431_25A138_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/italian-hamilton-sofa-by-minotti-for-sale-picture-3/f_8595/f_441039521742326552705/2025_03_13_161005_DSC2211_SRT_JMF_W431_25A138_master.jpg?width=768",
+            "uploadDate": "2025-03-18T15:38:29.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Minotti",
+            "caption": "Italian Hamilton Sofa by Minotti In Good Condition For Sale In Austin, TX",
+            "contentUrl": "https://a.1stdibscdn.com/italian-hamilton-sofa-by-minotti-for-sale-picture-4/f_8595/f_441039521742326553706/2025_03_13_161113_DSC2213_SRT_JMF_W431_25A138_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/italian-hamilton-sofa-by-minotti-for-sale-picture-4/f_8595/f_441039521742326553706/2025_03_13_161113_DSC2213_SRT_JMF_W431_25A138_master.jpg?width=768",
+            "uploadDate": "2025-03-18T15:38:29.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Minotti",
+            "caption": "Contemporary Italian Hamilton Sofa by Minotti For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/italian-hamilton-sofa-by-minotti-for-sale-picture-5/f_8595/f_441039521742326553598/2025_03_13_161512_DSC2219_SRT_JMF_W431_25A138_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/italian-hamilton-sofa-by-minotti-for-sale-picture-5/f_8595/f_441039521742326553598/2025_03_13_161512_DSC2219_SRT_JMF_W431_25A138_master.jpg?width=768",
+            "uploadDate": "2025-03-18T15:38:29.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Minotti",
+            "caption": "Metal Italian Hamilton Sofa by Minotti For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/italian-hamilton-sofa-by-minotti-for-sale-picture-6/f_8595/f_441039521742326552867/2025_03_13_162232_DSC2230_SRT_JMF_W431_25A138_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/italian-hamilton-sofa-by-minotti-for-sale-picture-6/f_8595/f_441039521742326552867/2025_03_13_162232_DSC2230_SRT_JMF_W431_25A138_master.jpg?width=768",
+            "uploadDate": "2025-03-18T15:38:29.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Minotti",
+            "caption": "Italian Hamilton Sofa by Minotti For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/italian-hamilton-sofa-by-minotti-for-sale-picture-7/f_8595/f_441039521742326554718/2025_03_13_162321_DSC2231_SRT_JMF_W431_25A138_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/italian-hamilton-sofa-by-minotti-for-sale-picture-7/f_8595/f_441039521742326554718/2025_03_13_162321_DSC2231_SRT_JMF_W431_25A138_master.jpg?width=768",
+            "uploadDate": "2025-03-18T15:38:29.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Minotti",
+            "caption": "Italian Hamilton Sofa by Minotti For Sale 2",
+            "contentUrl": "https://a.1stdibscdn.com/italian-hamilton-sofa-by-minotti-for-sale-picture-8/f_8595/f_441039521742326554578/2025_03_13_162412_DSC2235_SRT_JMF_W431_25A138_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/italian-hamilton-sofa-by-minotti-for-sale-picture-8/f_8595/f_441039521742326554578/2025_03_13_162412_DSC2235_SRT_JMF_W431_25A138_master.jpg?width=768",
+            "uploadDate": "2025-03-18T15:38:29.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Minotti",
+            "caption": "Italian Hamilton Sofa by Minotti For Sale 3",
+            "contentUrl": "https://a.1stdibscdn.com/italian-hamilton-sofa-by-minotti-for-sale-picture-9/f_8595/f_441039521742326554461/2025_03_13_162629_DSC2239_SRT_JMF_W431_25A138_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/italian-hamilton-sofa-by-minotti-for-sale-picture-9/f_8595/f_441039521742326554461/2025_03_13_162629_DSC2239_SRT_JMF_W431_25A138_master.jpg?width=768",
+            "uploadDate": "2025-03-18T15:38:29.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Minotti",
+            "caption": "Italian Hamilton Sofa by Minotti For Sale 4",
+            "contentUrl": "https://a.1stdibscdn.com/italian-hamilton-sofa-by-minotti-for-sale-picture-10/f_8595/f_441039521742326553650/2025_03_13_163538_DSC2258_SRT_JMF_W431_25A138_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/italian-hamilton-sofa-by-minotti-for-sale-picture-10/f_8595/f_441039521742326553650/2025_03_13_163538_DSC2258_SRT_JMF_W431_25A138_master.jpg?width=768",
+            "uploadDate": "2025-03-18T15:38:29.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/UsedCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/sofas/italian-hamilton-sofa-minotti/id-f_44103952/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 16680.5,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 30080.67,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 381913.7,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 17349.08,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 14606.4,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 130161.49,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 18500,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 27217.14,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 191292.45,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 199481.28,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 5,
+          "reviewCount": 58
+        },
+        "productionDate": "2010-",
+        "category": "Sofas",
+        "brand": {
+          "@type": "Brand",
+          "name": "Minotti"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Sofas",
+              "@id": "/furniture/seating/sofas/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

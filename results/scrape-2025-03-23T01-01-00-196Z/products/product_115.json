@@ -1,0 +1,388 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44121402",
+  "name": "Fine Set of 6 Dining Side Chairs By H.W. Klein for Bramin, Denmark",
+  "slug": "f_44121402",
+  "price": "CA$5,245.76",
+  "description": "f_44121402",
+  "image_url": "https://a.1stdibscdn.com/fine-set-of-6-dining-side-chairs-by-hw-klein-for-bramin-denmark-for-sale/f_97032/f_441214021742501857569/f_44121402_1742501858914_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/dining-room-chairs/fine-set-of-6-dining-side-chairs-hw-klein-bramin-denmark/id-f_44121402/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 29.93 in (76 cm)",
+      "width": "Width: 17.33 in (44 cm)",
+      "depth": "Depth: 19.3 in (49 cm)"
+    },
+    "style": "Mid-Century Modern (Of the Period)",
+    "materials": [
+      "Oak",
+      "Velvet",
+      "Oak",
+      "Velvet"
+    ],
+    "origin": "Denmark",
+    "period": "Mid-20th Century",
+    "dateOfManufacture": "Circa 1960s",
+    "condition": {
+      "rating": "Good",
+      "details": "Wear consistent with age and use. Minor fading."
+    },
+    "sellerLocation": "Tonbridge, GB",
+    "referenceNumber": "1stDibs: LU9703244121402",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Set of Six Mid-Century Modern H.W. Klein for Bramin Dining Side Chairs in Oak and Blush Pink Velvet, Denmark, 1960s\n\nAdd a touch of Scandinavian elegance to your dining space with this exquisite set of six side dining chairs, designed by H.W. Klein for Bramin Møbler in Denmark during the 1960s. A perfect embodiment of Danish Modern design, these chairs showcase Klein’s signature style—combining fluid, minimalist forms with exceptional craftsmanship. Crafted from solid oak, the frames feature a warm, rich grain that highlights the natural beauty of the wood, while the slender, angled legs create a light, airy silhouette.\n\nThe seats have been reupholstered in a luxurious blush pink velvet, adding a soft, contemporary contrast to the timeless oak frames. This delicate hue brings a modern flair to the classic mid-century design, making these chairs a versatile addition to both vintage and modern interiors. The chairs are in great vintage condition, showing signs of age and use through light scuffs and slight wear to the finish, which only enhance their character and authenticity.\n\nH.W. Klein, a Norwegian-born designer who trained under Finn Juhl, is renowned for his contributions to Danish Modern design, including the iconic Ønskestolen lounge chair. Bramin Møbler, a leading Danish manufacturer, collaborated with Klein to produce some of the most coveted furniture of the mid-20th century, known for their quality and simplicity. This set of chairs is a testament to their shared legacy, offering both style and functionality for the discerning collector.\n\nDesigner: H.W. Klein  \nManufacturer: Bramin Møbler  \nPeriod: 1960s  \nMaterial: Oak, blush pink velvet upholstery  \nCondition: Great vintage condition, with light scuffs and slight wear to the finish  \nQuantity: Set of six</span></div></div>",
+    "rawSpecificationsText": "Set of Six Mid-Century Modern H.W. Klein for Bramin Dining Side Chairs in Oak and Blush Pink Velvet, Denmark, 1960s\n\nAdd a touch of Scandinavian elegance to your dining space with this exquisite set of six side dining chairs, designed by H.W. Klein for Bramin Møbler in Denmark during the 1960s. A perfect embodiment of Danish Modern design, these chairs showcase Klein’s signature style—combining fluid, minimalist forms with exceptional craftsmanship. Crafted from solid oak, the frames feature a warm, rich grain that highlights the natural beauty of the wood, while the slender, angled legs create a light, airy silhouette.\n\nThe seats have been reupholstered in a luxurious blush pink velvet, adding a soft, contemporary contrast to the timeless oak frames. This delicate hue brings a modern flair to the classic mid-century design, making these chairs a versatile addition to both vintage and modern interiors. The chairs are in great vintage condition, showing signs of age and use through light scuffs and slight wear to the finish, which only enhance their character and authenticity.\n\nH.W. Klein, a Norwegian-born designer who trained under Finn Juhl, is renowned for his contributions to Danish Modern design, including the iconic Ønskestolen lounge chair. Bramin Møbler, a leading Danish manufacturer, collaborated with Klein to produce some of the most coveted furniture of the mid-20th century, known for their quality and simplicity. This set of chairs is a testament to their shared legacy, offering both style and functionality for the discerning collector.\n\nDesigner: H.W. Klein  \nManufacturer: Bramin Møbler  \nPeriod: 1960s  \nMaterial: Oak, blush pink velvet upholstery  \nCondition: Great vintage condition, with light scuffs and slight wear to the finish  \nQuantity: Set of six"
+  },
+  "raw_data": {
+    "productId": "f_44121402",
+    "slug": "f_44121402",
+    "url": "https://www.1stdibs.com/furniture/seating/dining-room-chairs/fine-set-of-6-dining-side-chairs-hw-klein-bramin-denmark/id-f_44121402/",
+    "name": "Fine Set of 6 Dining Side Chairs By H.W. Klein for Bramin, Denmark",
+    "price": "CA$5,245.76",
+    "imageUrl": "https://a.1stdibscdn.com/fine-set-of-6-dining-side-chairs-by-hw-klein-for-bramin-denmark-for-sale/f_97032/f_441214021742501857569/f_44121402_1742501858914_bg_processed.jpg",
+    "description": "f_44121402",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 29.93 in (76 cm)",
+        "width": "Width: 17.33 in (44 cm)",
+        "depth": "Depth: 19.3 in (49 cm)"
+      },
+      "style": "Mid-Century Modern (Of the Period)",
+      "materials": [
+        "Oak",
+        "Velvet",
+        "Oak",
+        "Velvet"
+      ],
+      "origin": "Denmark",
+      "period": "Mid-20th Century",
+      "dateOfManufacture": "Circa 1960s",
+      "condition": {
+        "rating": "Good",
+        "details": "Wear consistent with age and use. Minor fading."
+      },
+      "sellerLocation": "Tonbridge, GB",
+      "referenceNumber": "1stDibs: LU9703244121402",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Set of Six Mid-Century Modern H.W. Klein for Bramin Dining Side Chairs in Oak and Blush Pink Velvet, Denmark, 1960s\n\nAdd a touch of Scandinavian elegance to your dining space with this exquisite set of six side dining chairs, designed by H.W. Klein for Bramin Møbler in Denmark during the 1960s. A perfect embodiment of Danish Modern design, these chairs showcase Klein’s signature style—combining fluid, minimalist forms with exceptional craftsmanship. Crafted from solid oak, the frames feature a warm, rich grain that highlights the natural beauty of the wood, while the slender, angled legs create a light, airy silhouette.\n\nThe seats have been reupholstered in a luxurious blush pink velvet, adding a soft, contemporary contrast to the timeless oak frames. This delicate hue brings a modern flair to the classic mid-century design, making these chairs a versatile addition to both vintage and modern interiors. The chairs are in great vintage condition, showing signs of age and use through light scuffs and slight wear to the finish, which only enhance their character and authenticity.\n\nH.W. Klein, a Norwegian-born designer who trained under Finn Juhl, is renowned for his contributions to Danish Modern design, including the iconic Ønskestolen lounge chair. Bramin Møbler, a leading Danish manufacturer, collaborated with Klein to produce some of the most coveted furniture of the mid-20th century, known for their quality and simplicity. This set of chairs is a testament to their shared legacy, offering both style and functionality for the discerning collector.\n\nDesigner: H.W. Klein  \nManufacturer: Bramin Møbler  \nPeriod: 1960s  \nMaterial: Oak, blush pink velvet upholstery  \nCondition: Great vintage condition, with light scuffs and slight wear to the finish  \nQuantity: Set of six</span></div></div>",
+      "rawSpecificationsText": "Set of Six Mid-Century Modern H.W. Klein for Bramin Dining Side Chairs in Oak and Blush Pink Velvet, Denmark, 1960s\n\nAdd a touch of Scandinavian elegance to your dining space with this exquisite set of six side dining chairs, designed by H.W. Klein for Bramin Møbler in Denmark during the 1960s. A perfect embodiment of Danish Modern design, these chairs showcase Klein’s signature style—combining fluid, minimalist forms with exceptional craftsmanship. Crafted from solid oak, the frames feature a warm, rich grain that highlights the natural beauty of the wood, while the slender, angled legs create a light, airy silhouette.\n\nThe seats have been reupholstered in a luxurious blush pink velvet, adding a soft, contemporary contrast to the timeless oak frames. This delicate hue brings a modern flair to the classic mid-century design, making these chairs a versatile addition to both vintage and modern interiors. The chairs are in great vintage condition, showing signs of age and use through light scuffs and slight wear to the finish, which only enhance their character and authenticity.\n\nH.W. Klein, a Norwegian-born designer who trained under Finn Juhl, is renowned for his contributions to Danish Modern design, including the iconic Ønskestolen lounge chair. Bramin Møbler, a leading Danish manufacturer, collaborated with Klein to produce some of the most coveted furniture of the mid-20th century, known for their quality and simplicity. This set of chairs is a testament to their shared legacy, offering both style and functionality for the discerning collector.\n\nDesigner: H.W. Klein  \nManufacturer: Bramin Møbler  \nPeriod: 1960s  \nMaterial: Oak, blush pink velvet upholstery  \nCondition: Great vintage condition, with light scuffs and slight wear to the finish  \nQuantity: Set of six"
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Fine Set of 6 Dining Side Chairs By H.W. Klein for Bramin, Denmark",
+        "description": "Set of Six Mid-Century Modern H.W. Klein for Bramin Dining Side Chairs in Oak and Blush Pink Velvet, Denmark, 1960s\n\nAdd a touch of Scandinavian elegance to your dining space with this exquisite set of six side dining chairs, designed by H.W. Klein for Bramin Møbler in Denmark during the 1960s. A perfect embodiment of Danish Modern design, these chairs showcase Klein’s signature style—combining fluid, minimalist forms with exceptional craftsmanship. Crafted from solid oak, the frames feature a warm, rich grain that highlights the natural beauty of the wood, while the slender, angled legs create a light, airy silhouette.\n\nThe seats have been reupholstered in a luxurious blush pink velvet, adding a soft, contemporary contrast to the timeless oak frames. This delicate hue brings a modern flair to the classic mid-century design, making these chairs a versatile addition to both vintage and modern interiors. The chairs are in great vintage condition, showing signs of age and use through light scuffs and slight wear to the finish, which only enhance their character and authenticity.\n\nH.W. Klein, a Norwegian-born designer who trained under Finn Juhl, is renowned for his contributions to Danish Modern design, including the iconic Ønskestolen lounge chair. Bramin Møbler, a leading Danish manufacturer, collaborated with Klein to produce some of the most coveted furniture of the mid-20th century, known for their quality and simplicity. This set of chairs is a testament to their shared legacy, offering both style and functionality for the discerning collector.\n\nDesigner: H.W. Klein  \nManufacturer: Bramin Møbler  \nPeriod: 1960s  \nMaterial: Oak, blush pink velvet upholstery  \nCondition: Great vintage condition, with light scuffs and slight wear to the finish  \nQuantity: Set of six  ",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Bramin Mobler, Henry Walter Klein",
+            "caption": "Fine Set of 6 Dining Side Chairs By H.W. Klein for Bramin, Denmark For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/fine-set-of-6-dining-side-chairs-by-hw-klein-for-bramin-denmark-for-sale/f_97032/f_441214021742501857569/f_44121402_1742501858914_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/fine-set-of-6-dining-side-chairs-by-hw-klein-for-bramin-denmark-for-sale/f_97032/f_441214021742501857569/f_44121402_1742501858914_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-20T16:20:46.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Bramin Mobler, Henry Walter Klein",
+            "caption": "Set of Six Mid-Century Modern H.W. Klein for Bramin Dining Side Chairs in Oak and Blush Pink Velvet, Denmark, 1960s\n\nAdd a touch of Scandinavian elegance to your dining space with this exquisite set of six side dining chairs, designed by H.W. Klein",
+            "contentUrl": "https://a.1stdibscdn.com/fine-set-of-6-dining-side-chairs-by-hw-klein-for-bramin-denmark-for-sale-picture-2/f_97032/f_441214021742501967314/IMG_0894_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/fine-set-of-6-dining-side-chairs-by-hw-klein-for-bramin-denmark-for-sale-picture-2/f_97032/f_441214021742501967314/IMG_0894_master.jpeg?width=768",
+            "uploadDate": "2025-03-20T16:20:46.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Bramin Mobler, Henry Walter Klein",
+            "caption": "Mid-Century Modern Fine Set of 6 Dining Side Chairs By H.W. Klein for Bramin, Denmark For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/fine-set-of-6-dining-side-chairs-by-hw-klein-for-bramin-denmark-for-sale-picture-3/f_97032/f_441214021742501967697/IMG_0895_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/fine-set-of-6-dining-side-chairs-by-hw-klein-for-bramin-denmark-for-sale-picture-3/f_97032/f_441214021742501967697/IMG_0895_master.jpeg?width=768",
+            "uploadDate": "2025-03-20T16:20:46.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Bramin Mobler, Henry Walter Klein",
+            "caption": "Danish Fine Set of 6 Dining Side Chairs By H.W. Klein for Bramin, Denmark For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/fine-set-of-6-dining-side-chairs-by-hw-klein-for-bramin-denmark-for-sale-picture-4/f_97032/f_441214021742501967618/IMG_0896_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/fine-set-of-6-dining-side-chairs-by-hw-klein-for-bramin-denmark-for-sale-picture-4/f_97032/f_441214021742501967618/IMG_0896_master.jpeg?width=768",
+            "uploadDate": "2025-03-20T16:20:46.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Bramin Mobler, Henry Walter Klein",
+            "caption": "Carved Fine Set of 6 Dining Side Chairs By H.W. Klein for Bramin, Denmark For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/fine-set-of-6-dining-side-chairs-by-hw-klein-for-bramin-denmark-for-sale-picture-5/f_97032/f_441214021742501967477/IMG_0905_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/fine-set-of-6-dining-side-chairs-by-hw-klein-for-bramin-denmark-for-sale-picture-5/f_97032/f_441214021742501967477/IMG_0905_master.jpeg?width=768",
+            "uploadDate": "2025-03-20T16:20:46.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Bramin Mobler, Henry Walter Klein",
+            "caption": "Fine Set of 6 Dining Side Chairs By H.W. Klein for Bramin, Denmark In Good Condition For Sale In Tonbridge, Kent",
+            "contentUrl": "https://a.1stdibscdn.com/fine-set-of-6-dining-side-chairs-by-hw-klein-for-bramin-denmark-for-sale-picture-6/f_97032/f_441214021742501967492/IMG_0904_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/fine-set-of-6-dining-side-chairs-by-hw-klein-for-bramin-denmark-for-sale-picture-6/f_97032/f_441214021742501967492/IMG_0904_master.jpeg?width=768",
+            "uploadDate": "2025-03-20T16:20:46.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Bramin Mobler, Henry Walter Klein",
+            "caption": "20th Century Fine Set of 6 Dining Side Chairs By H.W. Klein for Bramin, Denmark For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/fine-set-of-6-dining-side-chairs-by-hw-klein-for-bramin-denmark-for-sale-picture-7/f_97032/f_441214021742501967758/IMG_0907_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/fine-set-of-6-dining-side-chairs-by-hw-klein-for-bramin-denmark-for-sale-picture-7/f_97032/f_441214021742501967758/IMG_0907_master.jpeg?width=768",
+            "uploadDate": "2025-03-20T16:20:46.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Bramin Mobler, Henry Walter Klein",
+            "caption": "Velvet Fine Set of 6 Dining Side Chairs By H.W. Klein for Bramin, Denmark For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/fine-set-of-6-dining-side-chairs-by-hw-klein-for-bramin-denmark-for-sale-picture-8/f_97032/f_441214021742501971572/IMG_0909_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/fine-set-of-6-dining-side-chairs-by-hw-klein-for-bramin-denmark-for-sale-picture-8/f_97032/f_441214021742501971572/IMG_0909_master.jpeg?width=768",
+            "uploadDate": "2025-03-20T16:20:46.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Bramin Mobler, Henry Walter Klein",
+            "caption": "Fine Set of 6 Dining Side Chairs By H.W. Klein for Bramin, Denmark For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/fine-set-of-6-dining-side-chairs-by-hw-klein-for-bramin-denmark-for-sale-picture-9/f_97032/f_441214021742501971510/IMG_0918_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/fine-set-of-6-dining-side-chairs-by-hw-klein-for-bramin-denmark-for-sale-picture-9/f_97032/f_441214021742501971510/IMG_0918_master.jpeg?width=768",
+            "uploadDate": "2025-03-20T16:20:46.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Bramin Mobler, Henry Walter Klein",
+            "caption": "Fine Set of 6 Dining Side Chairs By H.W. Klein for Bramin, Denmark For Sale 2",
+            "contentUrl": "https://a.1stdibscdn.com/fine-set-of-6-dining-side-chairs-by-hw-klein-for-bramin-denmark-for-sale-picture-10/f_97032/f_441214021742501971410/IMG_0919_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/fine-set-of-6-dining-side-chairs-by-hw-klein-for-bramin-denmark-for-sale-picture-10/f_97032/f_441214021742501971410/IMG_0919_master.jpeg?width=768",
+            "uploadDate": "2025-03-20T16:20:46.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Bramin Mobler, Henry Walter Klein",
+            "caption": "Fine Set of 6 Dining Side Chairs By H.W. Klein for Bramin, Denmark For Sale 3",
+            "contentUrl": "https://a.1stdibscdn.com/fine-set-of-6-dining-side-chairs-by-hw-klein-for-bramin-denmark-for-sale-picture-11/f_97032/f_441214021742501971726/IMG_0925_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/fine-set-of-6-dining-side-chairs-by-hw-klein-for-bramin-denmark-for-sale-picture-11/f_97032/f_441214021742501971726/IMG_0925_master.jpeg?width=768",
+            "uploadDate": "2025-03-20T16:20:46.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Bramin Mobler, Henry Walter Klein",
+            "caption": "Fine Set of 6 Dining Side Chairs By H.W. Klein for Bramin, Denmark For Sale 4",
+            "contentUrl": "https://a.1stdibscdn.com/fine-set-of-6-dining-side-chairs-by-hw-klein-for-bramin-denmark-for-sale-picture-12/f_97032/f_441214021742501971729/IMG_0931_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/fine-set-of-6-dining-side-chairs-by-hw-klein-for-bramin-denmark-for-sale-picture-12/f_97032/f_441214021742501971729/IMG_0931_master.jpeg?width=768",
+            "uploadDate": "2025-03-20T16:20:46.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Bramin Mobler, Henry Walter Klein",
+            "caption": "Fine Set of 6 Dining Side Chairs By H.W. Klein for Bramin, Denmark For Sale 5",
+            "contentUrl": "https://a.1stdibscdn.com/fine-set-of-6-dining-side-chairs-by-hw-klein-for-bramin-denmark-for-sale-picture-13/f_97032/f_441214021742501971623/IMG_0941_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/fine-set-of-6-dining-side-chairs-by-hw-klein-for-bramin-denmark-for-sale-picture-13/f_97032/f_441214021742501971623/IMG_0941_master.jpeg?width=768",
+            "uploadDate": "2025-03-20T16:20:46.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Bramin Mobler, Henry Walter Klein",
+            "caption": "Fine Set of 6 Dining Side Chairs By H.W. Klein for Bramin, Denmark For Sale 6",
+            "contentUrl": "https://a.1stdibscdn.com/fine-set-of-6-dining-side-chairs-by-hw-klein-for-bramin-denmark-for-sale-picture-14/f_97032/f_441214021742501975795/IMG_0942_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/fine-set-of-6-dining-side-chairs-by-hw-klein-for-bramin-denmark-for-sale-picture-14/f_97032/f_441214021742501975795/IMG_0942_master.jpeg?width=768",
+            "uploadDate": "2025-03-20T16:20:46.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Bramin Mobler, Henry Walter Klein",
+            "caption": "Fine Set of 6 Dining Side Chairs By H.W. Klein for Bramin, Denmark For Sale 7",
+            "contentUrl": "https://a.1stdibscdn.com/fine-set-of-6-dining-side-chairs-by-hw-klein-for-bramin-denmark-for-sale-picture-15/f_97032/f_441214021742501975814/IMG_0943_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/fine-set-of-6-dining-side-chairs-by-hw-klein-for-bramin-denmark-for-sale-picture-15/f_97032/f_441214021742501975814/IMG_0943_master.jpeg?width=768",
+            "uploadDate": "2025-03-20T16:20:46.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Bramin Mobler, Henry Walter Klein",
+            "caption": "Fine Set of 6 Dining Side Chairs By H.W. Klein for Bramin, Denmark For Sale 8",
+            "contentUrl": "https://a.1stdibscdn.com/fine-set-of-6-dining-side-chairs-by-hw-klein-for-bramin-denmark-for-sale-picture-16/f_97032/f_441214021742501975888/IMG_0945_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/fine-set-of-6-dining-side-chairs-by-hw-klein-for-bramin-denmark-for-sale-picture-16/f_97032/f_441214021742501975888/IMG_0945_master.jpeg?width=768",
+            "uploadDate": "2025-03-20T16:20:46.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Bramin Mobler, Henry Walter Klein",
+            "caption": "Fine Set of 6 Dining Side Chairs By H.W. Klein for Bramin, Denmark For Sale 9",
+            "contentUrl": "https://a.1stdibscdn.com/fine-set-of-6-dining-side-chairs-by-hw-klein-for-bramin-denmark-for-sale-picture-17/f_97032/f_441214021742501975906/IMG_0946_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/fine-set-of-6-dining-side-chairs-by-hw-klein-for-bramin-denmark-for-sale-picture-17/f_97032/f_441214021742501975906/IMG_0946_master.jpeg?width=768",
+            "uploadDate": "2025-03-20T16:20:46.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Bramin Mobler, Henry Walter Klein",
+            "caption": "Fine Set of 6 Dining Side Chairs By H.W. Klein for Bramin, Denmark For Sale 10",
+            "contentUrl": "https://a.1stdibscdn.com/fine-set-of-6-dining-side-chairs-by-hw-klein-for-bramin-denmark-for-sale-picture-18/f_97032/f_441214021742501975923/IMG_0949_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/fine-set-of-6-dining-side-chairs-by-hw-klein-for-bramin-denmark-for-sale-picture-18/f_97032/f_441214021742501975923/IMG_0949_master.jpeg?width=768",
+            "uploadDate": "2025-03-20T16:20:46.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Bramin Mobler, Henry Walter Klein",
+            "caption": "Fine Set of 6 Dining Side Chairs By H.W. Klein for Bramin, Denmark For Sale 11",
+            "contentUrl": "https://a.1stdibscdn.com/fine-set-of-6-dining-side-chairs-by-hw-klein-for-bramin-denmark-for-sale-picture-19/f_97032/f_441214021742501976008/IMG_0916_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/fine-set-of-6-dining-side-chairs-by-hw-klein-for-bramin-denmark-for-sale-picture-19/f_97032/f_441214021742501976008/IMG_0916_master.jpeg?width=768",
+            "uploadDate": "2025-03-20T16:20:46.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Bramin Mobler, Henry Walter Klein",
+            "caption": "Fine Set of 6 Dining Side Chairs By H.W. Klein for Bramin, Denmark For Sale 12",
+            "contentUrl": "https://a.1stdibscdn.com/fine-set-of-6-dining-side-chairs-by-hw-klein-for-bramin-denmark-for-sale-picture-20/f_97032/f_441214021742501978398/IMG_0912_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/fine-set-of-6-dining-side-chairs-by-hw-klein-for-bramin-denmark-for-sale-picture-20/f_97032/f_441214021742501978398/IMG_0912_master.jpeg?width=768",
+            "uploadDate": "2025-03-20T16:20:46.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/UsedCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/dining-room-chairs/fine-set-of-6-dining-side-chairs-hw-klein-bramin-denmark/id-f_44121402/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3214.96,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 5797.67,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 73609.07,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3343.82,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 2760,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 25086.99,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3636.96,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 5245.76,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 36869.22,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 38447.51,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "productionDate": "Mid-20th Century",
+        "category": "Dining Room Chairs",
+        "brand": {
+          "@type": "Brand",
+          "name": "Bramin Mobler, Henry Walter Klein"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Dining Room Chairs",
+              "@id": "/furniture/seating/dining-room-chairs/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44095432",
+  "name": "Pair of wrought iron birds armchairs, 1960s",
+  "slug": "f_44095432",
+  "price": "CA$5,552.59",
+  "description": "f_44095432",
+  "image_url": "https://a.1stdibscdn.com/pair-of-wrought-iron-birds-armchairs-1960s-for-sale/f_79132/f_440954321742292131906/f_44095432_1742292132193_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/armchairs/pair-of-wrought-iron-birds-armchairs-1960s/id-f_44095432/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 42.92 in (109 cm)",
+      "width": "Width: 25.6 in (65 cm)",
+      "depth": "Depth: 22.84 in (58 cm)",
+      "seatHeight": "Seat Height: 19.69 in (50 cm)"
+    },
+    "materials": [
+      "Wrought Iron",
+      "Wrought Iron"
+    ],
+    "origin": "France",
+    "period": "1960-1969",
+    "dateOfManufacture": "1960",
+    "condition": {
+      "rating": "Excellent",
+      "details": "Refinished. Reupholstered."
+    },
+    "sellerLocation": "Lisboa, PT",
+    "referenceNumber": "1stDibs: LU7913244095432",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Pair of wrought iron birds chairs with arms making a spiral and the back representing a bird in a cage, 1960s.</span></div></div>",
+    "rawSpecificationsText": "Pair of wrought iron birds chairs with arms making a spiral and the back representing a bird in a cage, 1960s."
+  },
+  "raw_data": {
+    "productId": "f_44095432",
+    "slug": "f_44095432",
+    "url": "https://www.1stdibs.com/furniture/seating/armchairs/pair-of-wrought-iron-birds-armchairs-1960s/id-f_44095432/",
+    "name": "Pair of wrought iron birds armchairs, 1960s",
+    "price": "CA$5,552.59",
+    "imageUrl": "https://a.1stdibscdn.com/pair-of-wrought-iron-birds-armchairs-1960s-for-sale/f_79132/f_440954321742292131906/f_44095432_1742292132193_bg_processed.jpg",
+    "description": "f_44095432",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 42.92 in (109 cm)",
+        "width": "Width: 25.6 in (65 cm)",
+        "depth": "Depth: 22.84 in (58 cm)",
+        "seatHeight": "Seat Height: 19.69 in (50 cm)"
+      },
+      "materials": [
+        "Wrought Iron",
+        "Wrought Iron"
+      ],
+      "origin": "France",
+      "period": "1960-1969",
+      "dateOfManufacture": "1960",
+      "condition": {
+        "rating": "Excellent",
+        "details": "Refinished. Reupholstered."
+      },
+      "sellerLocation": "Lisboa, PT",
+      "referenceNumber": "1stDibs: LU7913244095432",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Pair of wrought iron birds chairs with arms making a spiral and the back representing a bird in a cage, 1960s.</span></div></div>",
+      "rawSpecificationsText": "Pair of wrought iron birds chairs with arms making a spiral and the back representing a bird in a cage, 1960s."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Pair of wrought iron birds armchairs, 1960s",
+        "description": "Pair of wrought iron birds chairs with arms making a spiral and the back representing a bird in a cage, 1960s.",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Pair of wrought iron birds armchairs, 1960s For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/pair-of-wrought-iron-birds-armchairs-1960s-for-sale/f_79132/f_440954321742292131906/f_44095432_1742292132193_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/pair-of-wrought-iron-birds-armchairs-1960s-for-sale/f_79132/f_440954321742292131906/f_44095432_1742292132193_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-18T06:08:09.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Pair of wrought iron birds chairs with arms making a spiral and the back representing a bird in a cage, 1960s.",
+            "contentUrl": "https://a.1stdibscdn.com/pair-of-wrought-iron-birds-armchairs-1960s-for-sale-picture-2/f_79132/f_440954321742292149915/DSC_0383_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/pair-of-wrought-iron-birds-armchairs-1960s-for-sale-picture-2/f_79132/f_440954321742292149915/DSC_0383_master.jpg?width=768",
+            "uploadDate": "2025-03-18T06:08:09.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "French Pair of wrought iron birds armchairs, 1960s For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/pair-of-wrought-iron-birds-armchairs-1960s-for-sale-picture-3/f_79132/f_440954321742292150077/DSC_0390_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/pair-of-wrought-iron-birds-armchairs-1960s-for-sale-picture-3/f_79132/f_440954321742292150077/DSC_0390_master.jpg?width=768",
+            "uploadDate": "2025-03-18T06:08:09.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Pair of wrought iron birds armchairs, 1960s In Excellent Condition For Sale In Lisboa, PT",
+            "contentUrl": "https://a.1stdibscdn.com/pair-of-wrought-iron-birds-armchairs-1960s-for-sale-picture-4/f_79132/f_440954321742292150013/DSC_0373_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/pair-of-wrought-iron-birds-armchairs-1960s-for-sale-picture-4/f_79132/f_440954321742292150013/DSC_0373_master.jpg?width=768",
+            "uploadDate": "2025-03-18T06:08:09.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/UsedCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/armchairs/pair-of-wrought-iron-birds-armchairs-1960s/id-f_44095432/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3403,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 6136.78,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 77914.54,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3470,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 2979.86,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 26554.35,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3849.68,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 5552.59,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 39025.73,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 40696.34,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "productionDate": "1960-1969",
+        "category": "Armchairs"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Armchairs",
+              "@id": "/furniture/seating/armchairs/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

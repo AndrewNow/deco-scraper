@@ -1,0 +1,287 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_39820142",
+  "name": "The Slat Bench - Vertical Grain Douglas Fir Wooden Bench",
+  "slug": "f_39820142",
+  "price": "CA$2,795.27",
+  "description": "f_39820142",
+  "image_url": "https://a.1stdibscdn.com/the-slat-bench-vertical-grain-douglas-fir-wooden-bench-for-sale/f_28533/f_398201421716318271411/f_39820142_1716318271859_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/benches/slat-bench-vertical-grain-douglas-fir-wooden-bench/id-f_39820142/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 16 in (40.64 cm)",
+      "width": "Width: 48 in (121.92 cm)",
+      "depth": "Depth: 9.75 in (24.77 cm)",
+      "seatHeight": "Seat Height: 16 in (40.64 cm)"
+    },
+    "style": "Modern (In the Style Of)",
+    "materials": [
+      "Fir",
+      "Fir"
+    ],
+    "origin": "United States",
+    "period": "2010-",
+    "dateOfManufacture": "Contemporary",
+    "condition": {
+      "rating": "New",
+      "details": null
+    },
+    "sellerLocation": "Los Angeles, CA",
+    "referenceNumber": "1stDibs: LU2853339820142",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">First designed and tested for Tokyobike’s flagship store that opened in Los Angeles in 2021, our Slat Bench is now part of Volume III. \n\nThe simplicity of single boards and their woven engagement is the sole focus of this bench. We selected vertical grain Douglas fir slats to further expose this wood species’ gorgeous minimal grain and have the wood selection work in our favor, making this furniture piece light and easy to move around.\n\nOpen for customization in size, species and finish. Made to order locally in Los Angeles.</span></div></div>",
+    "rawSpecificationsText": "First designed and tested for Tokyobike’s flagship store that opened in Los Angeles in 2021, our Slat Bench is now part of Volume III. \n\nThe simplicity of single boards and their woven engagement is the sole focus of this bench. We selected vertical grain Douglas fir slats to further expose this wood species’ gorgeous minimal grain and have the wood selection work in our favor, making this furniture piece light and easy to move around.\n\nOpen for customization in size, species and finish. Made to order locally in Los Angeles."
+  },
+  "raw_data": {
+    "productId": "f_39820142",
+    "slug": "f_39820142",
+    "url": "https://www.1stdibs.com/furniture/seating/benches/slat-bench-vertical-grain-douglas-fir-wooden-bench/id-f_39820142/",
+    "name": "The Slat Bench - Vertical Grain Douglas Fir Wooden Bench",
+    "price": "CA$2,795.27",
+    "imageUrl": "https://a.1stdibscdn.com/the-slat-bench-vertical-grain-douglas-fir-wooden-bench-for-sale/f_28533/f_398201421716318271411/f_39820142_1716318271859_bg_processed.jpg",
+    "description": "f_39820142",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 16 in (40.64 cm)",
+        "width": "Width: 48 in (121.92 cm)",
+        "depth": "Depth: 9.75 in (24.77 cm)",
+        "seatHeight": "Seat Height: 16 in (40.64 cm)"
+      },
+      "style": "Modern (In the Style Of)",
+      "materials": [
+        "Fir",
+        "Fir"
+      ],
+      "origin": "United States",
+      "period": "2010-",
+      "dateOfManufacture": "Contemporary",
+      "condition": {
+        "rating": "New",
+        "details": null
+      },
+      "sellerLocation": "Los Angeles, CA",
+      "referenceNumber": "1stDibs: LU2853339820142",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">First designed and tested for Tokyobike’s flagship store that opened in Los Angeles in 2021, our Slat Bench is now part of Volume III. \n\nThe simplicity of single boards and their woven engagement is the sole focus of this bench. We selected vertical grain Douglas fir slats to further expose this wood species’ gorgeous minimal grain and have the wood selection work in our favor, making this furniture piece light and easy to move around.\n\nOpen for customization in size, species and finish. Made to order locally in Los Angeles.</span></div></div>",
+      "rawSpecificationsText": "First designed and tested for Tokyobike’s flagship store that opened in Los Angeles in 2021, our Slat Bench is now part of Volume III. \n\nThe simplicity of single boards and their woven engagement is the sole focus of this bench. We selected vertical grain Douglas fir slats to further expose this wood species’ gorgeous minimal grain and have the wood selection work in our favor, making this furniture piece light and easy to move around.\n\nOpen for customization in size, species and finish. Made to order locally in Los Angeles."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "The Slat Bench - Vertical Grain Douglas Fir Wooden Bench",
+        "description": "First designed and tested for Tokyobike’s flagship store that opened in Los Angeles in 2021, our Slat Bench is now part of Volume III. \n\nThe simplicity of single boards and their woven engagement is the sole focus of this bench. We selected vertical grain Douglas fir slats to further expose this wood species’ gorgeous minimal grain and have the wood selection work in our favor, making this furniture piece light and easy to move around.\n\nOpen for customization in size, species and finish. Made to order locally in Los Angeles.",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "The Slat Bench - Vertical Grain Douglas Fir Wooden Bench  For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/the-slat-bench-vertical-grain-douglas-fir-wooden-bench-for-sale/f_28533/f_398201421716318271411/f_39820142_1716318271859_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/the-slat-bench-vertical-grain-douglas-fir-wooden-bench-for-sale/f_28533/f_398201421716318271411/f_39820142_1716318271859_bg_processed.jpg?width=768",
+            "uploadDate": "2024-05-23T14:37:02.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "First designed and tested for Tokyobike’s flagship store that opened in Los Angeles in 2021, our Slat Bench is now part of Volume III. \n\nThe simplicity of single boards and their woven engagement is the sole focus of this bench. We selected vertical",
+            "contentUrl": "https://a.1stdibscdn.com/the-slat-bench-vertical-grain-douglas-fir-wooden-bench-for-sale-picture-2/f_28533/f_398201421716318348226/Pro_Capture_One_0115_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/the-slat-bench-vertical-grain-douglas-fir-wooden-bench-for-sale-picture-2/f_28533/f_398201421716318348226/Pro_Capture_One_0115_master.jpg?width=768",
+            "uploadDate": "2024-05-23T14:37:02.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Modern The Slat Bench - Vertical Grain Douglas Fir Wooden Bench  For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/the-slat-bench-vertical-grain-douglas-fir-wooden-bench-for-sale-picture-3/f_28533/f_398201421716318347316/Pro_Capture_One_0117_1_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/the-slat-bench-vertical-grain-douglas-fir-wooden-bench-for-sale-picture-3/f_28533/f_398201421716318347316/Pro_Capture_One_0117_1_master.jpg?width=768",
+            "uploadDate": "2024-05-23T14:37:02.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "American The Slat Bench - Vertical Grain Douglas Fir Wooden Bench  For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/the-slat-bench-vertical-grain-douglas-fir-wooden-bench-for-sale-picture-4/f_28533/f_398201421716318347332/Pro_Capture_One_0117_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/the-slat-bench-vertical-grain-douglas-fir-wooden-bench-for-sale-picture-4/f_28533/f_398201421716318347332/Pro_Capture_One_0117_master.jpg?width=768",
+            "uploadDate": "2024-05-23T14:37:02.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "The Slat Bench - Vertical Grain Douglas Fir Wooden Bench  In New Condition For Sale In Los Angeles, CA",
+            "contentUrl": "https://a.1stdibscdn.com/the-slat-bench-vertical-grain-douglas-fir-wooden-bench-for-sale-picture-5/f_28533/f_398201421716318348217/Pro_Capture_One_0118_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/the-slat-bench-vertical-grain-douglas-fir-wooden-bench-for-sale-picture-5/f_28533/f_398201421716318348217/Pro_Capture_One_0118_master.jpg?width=768",
+            "uploadDate": "2024-05-23T14:37:02.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Contemporary The Slat Bench - Vertical Grain Douglas Fir Wooden Bench  For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/the-slat-bench-vertical-grain-douglas-fir-wooden-bench-for-sale-picture-6/f_28533/f_398201421716318352563/Pro_Capture_One_0124_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/the-slat-bench-vertical-grain-douglas-fir-wooden-bench-for-sale-picture-6/f_28533/f_398201421716318352563/Pro_Capture_One_0124_master.jpg?width=768",
+            "uploadDate": "2024-05-23T14:37:02.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "The Slat Bench - Vertical Grain Douglas Fir Wooden Bench  For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/the-slat-bench-vertical-grain-douglas-fir-wooden-bench-for-sale-picture-7/f_28533/f_398201421716318352036/Pro_Capture_One_0126_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/the-slat-bench-vertical-grain-douglas-fir-wooden-bench-for-sale-picture-7/f_28533/f_398201421716318352036/Pro_Capture_One_0126_master.jpg?width=768",
+            "uploadDate": "2024-05-23T14:37:02.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "The Slat Bench - Vertical Grain Douglas Fir Wooden Bench  For Sale 2",
+            "contentUrl": "https://a.1stdibscdn.com/the-slat-bench-vertical-grain-douglas-fir-wooden-bench-for-sale-picture-8/f_28533/f_398201421716499337726/LOWRY4202_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/the-slat-bench-vertical-grain-douglas-fir-wooden-bench-for-sale-picture-8/f_28533/f_398201421716499337726/LOWRY4202_master.jpg?width=768",
+            "uploadDate": "2024-05-23T14:37:02.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "The Slat Bench - Vertical Grain Douglas Fir Wooden Bench  For Sale 3",
+            "contentUrl": "https://a.1stdibscdn.com/the-slat-bench-vertical-grain-douglas-fir-wooden-bench-for-sale-picture-9/f_28533/f_398201421716499338175/LOWRY4203_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/the-slat-bench-vertical-grain-douglas-fir-wooden-bench-for-sale-picture-9/f_28533/f_398201421716499338175/LOWRY4203_master.jpg?width=768",
+            "uploadDate": "2024-05-23T14:37:02.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/NewCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/benches/slat-bench-vertical-grain-douglas-fir-wooden-bench/id-f_39820142/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1713.13,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3089.37,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 39223.57,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1781.8,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1500.12,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 13367.94,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1900,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 2795.27,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 19646.25,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 20487.27,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 5,
+          "reviewCount": 3
+        },
+        "productionDate": "2010-",
+        "category": "Benches"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Benches",
+              "@id": "/furniture/seating/benches/"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "VideoObject",
+        "name": "The Slat Bench - Vertical Grain Douglas Fir Wooden Bench",
+        "description": "First designed and tested for Tokyobike’s flagship store that opened in Los Angeles in 2021, our Slat Bench is now part of Volume III. \n\nThe simplicity of single boards and their woven engagement is the sole focus of this bench. We selected vertical grain Douglas fir slats to further expose this wood species’ gorgeous minimal grain and have the wood selection work in our favor, making this furniture piece light and easy to move around.\n\nOpen for customization in size, species and finish. Made to order locally in Los Angeles.",
+        "thumbnailUrl": "https://i.vimeocdn.com/video/1856243828-a048d399abb64f7dab9af5f018cf0e3cc941dda2c96b9e5199f11997aacfa57d-d_1920x1080?r=pad",
+        "uploadDate": "2024-05-21T19:11:31+00:00",
+        "duration": "PT0H0M23S",
+        "contentUrl": "https://player.vimeo.com/progressive_redirect/playback/948859930/rendition/360p/file.mp4?loc=external&oauth2_token_id=1438265637&signature=a8e1fd720782e50347de38c9112e7121dd6aeb329363f080146634025a6ffad8"
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

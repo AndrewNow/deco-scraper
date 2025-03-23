@@ -1,0 +1,261 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_15218192",
+  "name": "Bar Stool in Blackened Laser-Cut Steel Frame and Veg Tan Leather Sling",
+  "slug": "f_15218192",
+  "price": "CA$3,972.23",
+  "description": "f_15218192",
+  "image_url": "https://a.1stdibscdn.com/bar-stool-in-blackened-laser-cut-steel-frame-and-veg-tan-leather-sling-for-sale/1121189/f_152181921561616836265/15218192_master.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/stools/bar-stool-blackened-laser-cut-steel-frame-veg-tan-leather-sling/id-f_15218192/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 40.5 in (102.87 cm)",
+      "width": "Width: 22 in (55.88 cm)",
+      "depth": "Depth: 16.25 in (41.28 cm)",
+      "seatHeight": "Seat Height: 28.75 in (73.03 cm)"
+    },
+    "style": "Modern (In the Style Of)",
+    "materials": [
+      "Cut Steel",
+      "Leather",
+      "Cut Steel",
+      "Leather"
+    ],
+    "origin": "United States",
+    "period": "2010-",
+    "dateOfManufacture": "Contemporary",
+    "condition": {
+      "rating": "New",
+      "details": null
+    },
+    "sellerLocation": "Los Angeles, CA",
+    "referenceNumber": "1stDibs: LU2853315218192",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Focused on stripping down and building with simple singular materials, the new addition to the Klein Home collection, bar stool GH, follows fabrication footsteps of the rest of the collection pieces and builds on engagement of lasercut steel profiles with a supple sling leather material. Designed and fabricated initially for the bar at Auburn in Los Angeles.</span></div></div>",
+    "rawSpecificationsText": "Focused on stripping down and building with simple singular materials, the new addition to the Klein Home collection, bar stool GH, follows fabrication footsteps of the rest of the collection pieces and builds on engagement of lasercut steel profiles with a supple sling leather material. Designed and fabricated initially for the bar at Auburn in Los Angeles."
+  },
+  "raw_data": {
+    "productId": "f_15218192",
+    "slug": "f_15218192",
+    "url": "https://www.1stdibs.com/furniture/seating/stools/bar-stool-blackened-laser-cut-steel-frame-veg-tan-leather-sling/id-f_15218192/",
+    "name": "Bar Stool in Blackened Laser-Cut Steel Frame and Veg Tan Leather Sling",
+    "price": "CA$3,972.23",
+    "imageUrl": "https://a.1stdibscdn.com/bar-stool-in-blackened-laser-cut-steel-frame-and-veg-tan-leather-sling-for-sale/1121189/f_152181921561616836265/15218192_master.jpg",
+    "description": "f_15218192",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 40.5 in (102.87 cm)",
+        "width": "Width: 22 in (55.88 cm)",
+        "depth": "Depth: 16.25 in (41.28 cm)",
+        "seatHeight": "Seat Height: 28.75 in (73.03 cm)"
+      },
+      "style": "Modern (In the Style Of)",
+      "materials": [
+        "Cut Steel",
+        "Leather",
+        "Cut Steel",
+        "Leather"
+      ],
+      "origin": "United States",
+      "period": "2010-",
+      "dateOfManufacture": "Contemporary",
+      "condition": {
+        "rating": "New",
+        "details": null
+      },
+      "sellerLocation": "Los Angeles, CA",
+      "referenceNumber": "1stDibs: LU2853315218192",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Focused on stripping down and building with simple singular materials, the new addition to the Klein Home collection, bar stool GH, follows fabrication footsteps of the rest of the collection pieces and builds on engagement of lasercut steel profiles with a supple sling leather material. Designed and fabricated initially for the bar at Auburn in Los Angeles.</span></div></div>",
+      "rawSpecificationsText": "Focused on stripping down and building with simple singular materials, the new addition to the Klein Home collection, bar stool GH, follows fabrication footsteps of the rest of the collection pieces and builds on engagement of lasercut steel profiles with a supple sling leather material. Designed and fabricated initially for the bar at Auburn in Los Angeles."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Bar Stool in Blackened Laser-Cut Steel Frame and Veg Tan Leather Sling",
+        "description": "Focused on stripping down and building with simple singular materials, the new addition to the Klein Home collection, bar stool GH, follows fabrication footsteps of the rest of the collection pieces and builds on engagement of lasercut steel profiles with a supple sling leather material. Designed and fabricated initially for the bar at Auburn in Los Angeles.",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Bar Stool in Blackened Laser-Cut Steel Frame and Veg Tan Leather Sling For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/bar-stool-in-blackened-laser-cut-steel-frame-and-veg-tan-leather-sling-for-sale/1121189/f_152181921561616836265/15218192_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/bar-stool-in-blackened-laser-cut-steel-frame-and-veg-tan-leather-sling-for-sale/1121189/f_152181921561616836265/15218192_master.jpg?width=768",
+            "uploadDate": "2019-06-26T14:08:51.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Focused on stripping down and building with simple singular materials, the new addition to the Klein Home collection, bar stool GH, follows fabrication footsteps of the rest of the collection pieces and builds on engagement of lasercut steel",
+            "contentUrl": "https://a.1stdibscdn.com/bar-stool-in-blackened-laser-cut-steel-frame-and-veg-tan-leather-sling-for-sale-picture-2/f_28533/f_152181921561423632158/Klein_Home_Bar_Stool_GH_4_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/bar-stool-in-blackened-laser-cut-steel-frame-and-veg-tan-leather-sling-for-sale-picture-2/f_28533/f_152181921561423632158/Klein_Home_Bar_Stool_GH_4_master.jpg?width=768",
+            "uploadDate": "2019-06-26T14:08:51.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "leather sling counter stool",
+            "contentUrl": "https://a.1stdibscdn.com/bar-stool-in-blackened-laser-cut-steel-frame-and-veg-tan-leather-sling-for-sale-picture-3/f_28533/f_152181921561423642043/Klein_Home_Bar_Stool_GH_5_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/bar-stool-in-blackened-laser-cut-steel-frame-and-veg-tan-leather-sling-for-sale-picture-3/f_28533/f_152181921561423642043/Klein_Home_Bar_Stool_GH_5_master.jpg?width=768",
+            "uploadDate": "2019-06-26T14:08:51.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "leather sling bar stools",
+            "contentUrl": "https://a.1stdibscdn.com/bar-stool-in-blackened-laser-cut-steel-frame-and-veg-tan-leather-sling-for-sale-picture-4/f_28533/f_152181921561423655311/Klein_Home_Bar_Stool_GH_6_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/bar-stool-in-blackened-laser-cut-steel-frame-and-veg-tan-leather-sling-for-sale-picture-4/f_28533/f_152181921561423655311/Klein_Home_Bar_Stool_GH_6_master.jpg?width=768",
+            "uploadDate": "2019-06-26T14:08:51.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "leather sling stool",
+            "contentUrl": "https://a.1stdibscdn.com/bar-stool-in-blackened-laser-cut-steel-frame-and-veg-tan-leather-sling-for-sale-picture-5/f_28533/f_152181921561423665053/Klein_Home_Bar_Stool_GH_7_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/bar-stool-in-blackened-laser-cut-steel-frame-and-veg-tan-leather-sling-for-sale-picture-5/f_28533/f_152181921561423665053/Klein_Home_Bar_Stool_GH_7_master.jpg?width=768",
+            "uploadDate": "2019-06-26T14:08:51.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Modern Bar Stool in Blackened Laser-Cut Steel Frame and Veg Tan Leather Sling For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/bar-stool-in-blackened-laser-cut-steel-frame-and-veg-tan-leather-sling-for-sale-picture-6/f_28533/f_152181921561423673646/Klein_Home_Bar_Stool_GH_8_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/bar-stool-in-blackened-laser-cut-steel-frame-and-veg-tan-leather-sling-for-sale-picture-6/f_28533/f_152181921561423673646/Klein_Home_Bar_Stool_GH_8_master.jpg?width=768",
+            "uploadDate": "2019-06-26T14:08:51.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "American Bar Stool in Blackened Laser-Cut Steel Frame and Veg Tan Leather Sling For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/bar-stool-in-blackened-laser-cut-steel-frame-and-veg-tan-leather-sling-for-sale-picture-7/f_28533/f_152181921561423613976/Klein_Home_Bar_Stool_GH_1_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/bar-stool-in-blackened-laser-cut-steel-frame-and-veg-tan-leather-sling-for-sale-picture-7/f_28533/f_152181921561423613976/Klein_Home_Bar_Stool_GH_1_master.jpg?width=768",
+            "uploadDate": "2019-06-26T14:08:51.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/NewCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/stools/bar-stool-blackened-laser-cut-steel-frame-veg-tan-leather-sling/id-f_15218192/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 2434.45,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 4390.15,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 55738.76,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 2532.03,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 2131.74,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 18996.54,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 2700,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3972.23,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 27918.36,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 29113.48,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 5,
+          "reviewCount": 3
+        },
+        "productionDate": "2010-",
+        "category": "Stools"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Stools",
+              "@id": "/furniture/seating/stools/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

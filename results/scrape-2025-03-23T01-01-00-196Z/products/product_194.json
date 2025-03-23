@@ -1,0 +1,233 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_10839931",
+  "name": "Contemporary Minimalist Rustic Wood and Steel Bench by Scott Gordon",
+  "slug": "f_10839931",
+  "price": "CA$1,883.13",
+  "description": "f_10839931",
+  "image_url": "https://a.1stdibscdn.com/contemporary-minimalist-rustic-wood-and-steel-bench-by-scott-gordon-for-sale/1121189/f_108399311526967652845/10839931_master.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/benches/contemporary-minimalist-rustic-wood-steel-bench-scott-gordon/id-f_10839931/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 16 in (40.64 cm)",
+      "width": "Width: 72 in (182.88 cm)",
+      "depth": "Depth: 18 in (45.72 cm)"
+    },
+    "style": "Minimalist (In the Style Of)",
+    "materials": [
+      "Steel",
+      "Wood",
+      "Steel",
+      "Wood"
+    ],
+    "origin": "United States",
+    "period": "21st Century",
+    "dateOfManufacture": "2016",
+    "condition": {
+      "rating": "New",
+      "details": null
+    },
+    "sellerLocation": "Sharon, VT",
+    "referenceNumber": "1stDibs: LU3405310839931",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">The Duncan Bench, an original design offered exclusively by Vermontica, is a contemporary Minimalist bench designed and produced in Vermont by Scott Gordon. A popular piece for any Vermont mudroom, the Duncan bench is comprised of a wood seat supported by steel legs. Shown here with a live edge antique hemlock plank, dimensions 3\" thick, 18\" wide, and 72\" long. The bench seat could be made with a variety of wood species and dimensions. These are custom-made pieces, please let us know what wood species, dimensions, and finishes you require. Exact dimensions and look will vary from board to board.</span></div></div>",
+    "rawSpecificationsText": "The Duncan Bench, an original design offered exclusively by Vermontica, is a contemporary Minimalist bench designed and produced in Vermont by Scott Gordon. A popular piece for any Vermont mudroom, the Duncan bench is comprised of a wood seat supported by steel legs. Shown here with a live edge antique hemlock plank, dimensions 3\" thick, 18\" wide, and 72\" long. The bench seat could be made with a variety of wood species and dimensions. These are custom-made pieces, please let us know what wood species, dimensions, and finishes you require. Exact dimensions and look will vary from board to board."
+  },
+  "raw_data": {
+    "productId": "f_10839931",
+    "slug": "f_10839931",
+    "url": "https://www.1stdibs.com/furniture/seating/benches/contemporary-minimalist-rustic-wood-steel-bench-scott-gordon/id-f_10839931/",
+    "name": "Contemporary Minimalist Rustic Wood and Steel Bench by Scott Gordon",
+    "price": "CA$1,883.13",
+    "imageUrl": "https://a.1stdibscdn.com/contemporary-minimalist-rustic-wood-and-steel-bench-by-scott-gordon-for-sale/1121189/f_108399311526967652845/10839931_master.jpg",
+    "description": "f_10839931",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 16 in (40.64 cm)",
+        "width": "Width: 72 in (182.88 cm)",
+        "depth": "Depth: 18 in (45.72 cm)"
+      },
+      "style": "Minimalist (In the Style Of)",
+      "materials": [
+        "Steel",
+        "Wood",
+        "Steel",
+        "Wood"
+      ],
+      "origin": "United States",
+      "period": "21st Century",
+      "dateOfManufacture": "2016",
+      "condition": {
+        "rating": "New",
+        "details": null
+      },
+      "sellerLocation": "Sharon, VT",
+      "referenceNumber": "1stDibs: LU3405310839931",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">The Duncan Bench, an original design offered exclusively by Vermontica, is a contemporary Minimalist bench designed and produced in Vermont by Scott Gordon. A popular piece for any Vermont mudroom, the Duncan bench is comprised of a wood seat supported by steel legs. Shown here with a live edge antique hemlock plank, dimensions 3\" thick, 18\" wide, and 72\" long. The bench seat could be made with a variety of wood species and dimensions. These are custom-made pieces, please let us know what wood species, dimensions, and finishes you require. Exact dimensions and look will vary from board to board.</span></div></div>",
+      "rawSpecificationsText": "The Duncan Bench, an original design offered exclusively by Vermontica, is a contemporary Minimalist bench designed and produced in Vermont by Scott Gordon. A popular piece for any Vermont mudroom, the Duncan bench is comprised of a wood seat supported by steel legs. Shown here with a live edge antique hemlock plank, dimensions 3\" thick, 18\" wide, and 72\" long. The bench seat could be made with a variety of wood species and dimensions. These are custom-made pieces, please let us know what wood species, dimensions, and finishes you require. Exact dimensions and look will vary from board to board."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Contemporary Minimalist Rustic Wood and Steel Bench by Scott Gordon",
+        "description": "The Duncan Bench, an original design offered exclusively by Vermontica, is a contemporary Minimalist bench designed and produced in Vermont by Scott Gordon. A popular piece for any Vermont mudroom, the Duncan bench is comprised of a wood seat supported by steel legs. Shown here with a live edge antique hemlock plank, dimensions 3\" thick, 18\" wide, and 72\" long. The bench seat could be made with a variety of wood species and dimensions. These are custom-made pieces, please let us know what wood species, dimensions, and finishes you require. Exact dimensions and look will vary from board to board.",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Scott Gordon",
+            "caption": "Contemporary Minimalist Rustic Wood and Steel Bench by Scott Gordon For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/contemporary-minimalist-rustic-wood-and-steel-bench-by-scott-gordon-for-sale/1121189/f_108399311526967652845/10839931_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/contemporary-minimalist-rustic-wood-and-steel-bench-by-scott-gordon-for-sale/1121189/f_108399311526967652845/10839931_master.jpg?width=768",
+            "uploadDate": "2018-05-20T19:46:57.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Scott Gordon",
+            "caption": "The Duncan Bench, an original design offered exclusively by Vermontica, is a contemporary Minimalist bench designed and produced in Vermont by Scott Gordon. A popular piece for any Vermont mudroom, the Duncan bench is comprised of a wood seat",
+            "contentUrl": "https://a.1stdibscdn.com/contemporary-minimalist-rustic-wood-and-steel-bench-by-scott-gordon-for-sale-picture-2/f_34053/f_108399311526859828070/thumb_DSC_0821_1024_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/contemporary-minimalist-rustic-wood-and-steel-bench-by-scott-gordon-for-sale-picture-2/f_34053/f_108399311526859828070/thumb_DSC_0821_1024_master.jpg?width=768",
+            "uploadDate": "2018-05-20T19:46:57.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Scott Gordon",
+            "caption": "modern minimalist bench",
+            "contentUrl": "https://a.1stdibscdn.com/contemporary-minimalist-rustic-wood-and-steel-bench-by-scott-gordon-for-sale-picture-3/f_34053/f_108399311551730174700/IMG_4673_master.JPG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/contemporary-minimalist-rustic-wood-and-steel-bench-by-scott-gordon-for-sale-picture-3/f_34053/f_108399311551730174700/IMG_4673_master.JPG?width=768",
+            "uploadDate": "2018-05-20T19:46:57.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Scott Gordon",
+            "caption": "minimalist benches",
+            "contentUrl": "https://a.1stdibscdn.com/contemporary-minimalist-rustic-wood-and-steel-bench-by-scott-gordon-for-sale-picture-4/f_34053/f_108399311551730175325/IMG_4674_master.JPG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/contemporary-minimalist-rustic-wood-and-steel-bench-by-scott-gordon-for-sale-picture-4/f_34053/f_108399311551730175325/IMG_4674_master.JPG?width=768",
+            "uploadDate": "2018-05-20T19:46:57.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/NewCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/benches/contemporary-minimalist-rustic-wood-steel-bench-scott-gordon/id-f_10839931/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1154.11,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 2081.26,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 26424.3,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1200.37,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1010.6,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 9005.77,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1280,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1883.13,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 13235.37,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 13801.95,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 5,
+          "reviewCount": 1
+        },
+        "productionDate": "21st Century",
+        "category": "Benches",
+        "brand": {
+          "@type": "Brand",
+          "name": "Scott Gordon"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Benches",
+              "@id": "/furniture/seating/benches/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

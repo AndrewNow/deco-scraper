@@ -1,0 +1,391 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44136292",
+  "name": "Unique Art Nouveau Pinewood Artist´s Chair by Siegfried Wagner 1910s, Denmark",
+  "slug": "f_44136292",
+  "price": "CA$15,681.67",
+  "description": "f_44136292",
+  "image_url": "https://a.1stdibscdn.com/unique-art-nouveau-pinewood-artist-s-chair-by-siegfried-wagner-1910s-denmark-for-sale/f_37931/f_441362921742507246381/f_44136292_1742507247203_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/armchairs/unique-art-nouveau-pinewood-artist-s-chair-siegfried-wagner-1910s-denmark/id-f_44136292/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 40.56 in (103 cm)",
+      "width": "Width: 26.38 in (67 cm)",
+      "depth": "Depth: 25.6 in (65 cm)",
+      "seatHeight": "Seat Height: 17.72 in (45 cm)"
+    },
+    "style": "Art Nouveau (Of the Period)",
+    "materials": [
+      "Leather",
+      "Pine",
+      "Leather",
+      "Pine"
+    ],
+    "origin": "Denmark",
+    "period": "1910-1919",
+    "dateOfManufacture": "circa 1910",
+    "condition": {
+      "rating": "Good",
+      "details": "Reupholstered. Wear consistent with age and use. Minor losses. Minor fading. Reupholstered in vintage woven fabric."
+    },
+    "sellerLocation": "Odense, DK",
+    "referenceNumber": "1stDibs: LU3793144136292",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Monumental and important pinewood artist´s chair by Danish sculptor Siegfried Wagner. Made in the 1910s by Wagner and fellow artist and trained cabinetmaker Jens Peter Dahl-Jensen. The large armchair is richly decorated in Art Nouveau style. Plaquettes with makers signatures.\n\nSiegfried Wagner (13 April 1874 – 1 August 1952) was a Danish sculptor. Wagner attended the Royal Danish Academy of Fine Arts in 1889–96. He worked for some time in Vilhelm Bissen's studio and under J.F. Willumsen at Bing &amp; Grøndahl. Wagner worked as a teacher at Tegne- og Kunstindustriskolen for Kvinder in 1898–1900. He married Olga Wagner in 1899. Wagner and Mogens Ballin created a metal workshop in Copenhagen in 1900. In May 1902, Wagner created approximately 65 designs before leaving the workshop in 1902 to assume a position as artistic director of Tvermoes &amp; Abrahamsen's Chandelier Factory.\nWagner was represented at Den Frie Udstilling from 1905. He won the Grand Prix at the World Expo in Paris in 1906.\nWagner's most well-known work is the \"Lur Blowers\" on the City Hall Square in Copenhagen. He has also created the \"Swan Fountain\" in Varde and a bronze cast of his 1914 bust of Tyge Brahe was installed at the \"Round Tower\" in Copenhagen in 1932.\nHis works for Bing &amp; Grøndahl include the \"Fleurs de Lotus\" and \"Polichinelle\" vases, both of which were created for the 1900 Exposition Universelle in Paris and later gifted to Copenhagen City Hall where they are now on display in the Banquet Hall.</span></div></div>",
+    "rawSpecificationsText": "Monumental and important pinewood artist´s chair by Danish sculptor Siegfried Wagner. Made in the 1910s by Wagner and fellow artist and trained cabinetmaker Jens Peter Dahl-Jensen. The large armchair is richly decorated in Art Nouveau style. Plaquettes with makers signatures.\n\nSiegfried Wagner (13 April 1874 – 1 August 1952) was a Danish sculptor. Wagner attended the Royal Danish Academy of Fine Arts in 1889–96. He worked for some time in Vilhelm Bissen's studio and under J.F. Willumsen at Bing & Grøndahl. Wagner worked as a teacher at Tegne- og Kunstindustriskolen for Kvinder in 1898–1900. He married Olga Wagner in 1899. Wagner and Mogens Ballin created a metal workshop in Copenhagen in 1900. In May 1902, Wagner created approximately 65 designs before leaving the workshop in 1902 to assume a position as artistic director of Tvermoes & Abrahamsen's Chandelier Factory.\nWagner was represented at Den Frie Udstilling from 1905. He won the Grand Prix at the World Expo in Paris in 1906.\nWagner's most well-known work is the \"Lur Blowers\" on the City Hall Square in Copenhagen. He has also created the \"Swan Fountain\" in Varde and a bronze cast of his 1914 bust of Tyge Brahe was installed at the \"Round Tower\" in Copenhagen in 1932.\nHis works for Bing & Grøndahl include the \"Fleurs de Lotus\" and \"Polichinelle\" vases, both of which were created for the 1900 Exposition Universelle in Paris and later gifted to Copenhagen City Hall where they are now on display in the Banquet Hall."
+  },
+  "raw_data": {
+    "productId": "f_44136292",
+    "slug": "f_44136292",
+    "url": "https://www.1stdibs.com/furniture/seating/armchairs/unique-art-nouveau-pinewood-artist-s-chair-siegfried-wagner-1910s-denmark/id-f_44136292/",
+    "name": "Unique Art Nouveau Pinewood Artist´s Chair by Siegfried Wagner 1910s, Denmark",
+    "price": "CA$15,681.67",
+    "imageUrl": "https://a.1stdibscdn.com/unique-art-nouveau-pinewood-artist-s-chair-by-siegfried-wagner-1910s-denmark-for-sale/f_37931/f_441362921742507246381/f_44136292_1742507247203_bg_processed.jpg",
+    "description": "f_44136292",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 40.56 in (103 cm)",
+        "width": "Width: 26.38 in (67 cm)",
+        "depth": "Depth: 25.6 in (65 cm)",
+        "seatHeight": "Seat Height: 17.72 in (45 cm)"
+      },
+      "style": "Art Nouveau (Of the Period)",
+      "materials": [
+        "Leather",
+        "Pine",
+        "Leather",
+        "Pine"
+      ],
+      "origin": "Denmark",
+      "period": "1910-1919",
+      "dateOfManufacture": "circa 1910",
+      "condition": {
+        "rating": "Good",
+        "details": "Reupholstered. Wear consistent with age and use. Minor losses. Minor fading. Reupholstered in vintage woven fabric."
+      },
+      "sellerLocation": "Odense, DK",
+      "referenceNumber": "1stDibs: LU3793144136292",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Monumental and important pinewood artist´s chair by Danish sculptor Siegfried Wagner. Made in the 1910s by Wagner and fellow artist and trained cabinetmaker Jens Peter Dahl-Jensen. The large armchair is richly decorated in Art Nouveau style. Plaquettes with makers signatures.\n\nSiegfried Wagner (13 April 1874 – 1 August 1952) was a Danish sculptor. Wagner attended the Royal Danish Academy of Fine Arts in 1889–96. He worked for some time in Vilhelm Bissen's studio and under J.F. Willumsen at Bing &amp; Grøndahl. Wagner worked as a teacher at Tegne- og Kunstindustriskolen for Kvinder in 1898–1900. He married Olga Wagner in 1899. Wagner and Mogens Ballin created a metal workshop in Copenhagen in 1900. In May 1902, Wagner created approximately 65 designs before leaving the workshop in 1902 to assume a position as artistic director of Tvermoes &amp; Abrahamsen's Chandelier Factory.\nWagner was represented at Den Frie Udstilling from 1905. He won the Grand Prix at the World Expo in Paris in 1906.\nWagner's most well-known work is the \"Lur Blowers\" on the City Hall Square in Copenhagen. He has also created the \"Swan Fountain\" in Varde and a bronze cast of his 1914 bust of Tyge Brahe was installed at the \"Round Tower\" in Copenhagen in 1932.\nHis works for Bing &amp; Grøndahl include the \"Fleurs de Lotus\" and \"Polichinelle\" vases, both of which were created for the 1900 Exposition Universelle in Paris and later gifted to Copenhagen City Hall where they are now on display in the Banquet Hall.</span></div></div>",
+      "rawSpecificationsText": "Monumental and important pinewood artist´s chair by Danish sculptor Siegfried Wagner. Made in the 1910s by Wagner and fellow artist and trained cabinetmaker Jens Peter Dahl-Jensen. The large armchair is richly decorated in Art Nouveau style. Plaquettes with makers signatures.\n\nSiegfried Wagner (13 April 1874 – 1 August 1952) was a Danish sculptor. Wagner attended the Royal Danish Academy of Fine Arts in 1889–96. He worked for some time in Vilhelm Bissen's studio and under J.F. Willumsen at Bing & Grøndahl. Wagner worked as a teacher at Tegne- og Kunstindustriskolen for Kvinder in 1898–1900. He married Olga Wagner in 1899. Wagner and Mogens Ballin created a metal workshop in Copenhagen in 1900. In May 1902, Wagner created approximately 65 designs before leaving the workshop in 1902 to assume a position as artistic director of Tvermoes & Abrahamsen's Chandelier Factory.\nWagner was represented at Den Frie Udstilling from 1905. He won the Grand Prix at the World Expo in Paris in 1906.\nWagner's most well-known work is the \"Lur Blowers\" on the City Hall Square in Copenhagen. He has also created the \"Swan Fountain\" in Varde and a bronze cast of his 1914 bust of Tyge Brahe was installed at the \"Round Tower\" in Copenhagen in 1932.\nHis works for Bing & Grøndahl include the \"Fleurs de Lotus\" and \"Polichinelle\" vases, both of which were created for the 1900 Exposition Universelle in Paris and later gifted to Copenhagen City Hall where they are now on display in the Banquet Hall."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Unique Art Nouveau Pinewood Artist´s Chair by Siegfried Wagner 1910s, Denmark",
+        "description": "Monumental and important pinewood artist´s chair by Danish sculptor Siegfried Wagner. Made in the 1910s by Wagner and fellow artist and trained cabinetmaker Jens Peter Dahl-Jensen. The large armchair is richly decorated in Art Nouveau style. Plaquettes with makers signatures.\n\nSiegfried Wagner (13 April 1874 – 1 August 1952) was a Danish sculptor. Wagner attended the Royal Danish Academy of Fine Arts in 1889–96. He worked for some time in Vilhelm Bissen's studio and under J.F. Willumsen at Bing & Grøndahl. Wagner worked as a teacher at Tegne- og Kunstindustriskolen for Kvinder in 1898–1900. He married Olga Wagner in 1899. Wagner and Mogens Ballin created a metal workshop in Copenhagen in 1900. In May 1902, Wagner created approximately 65 designs before leaving the workshop in 1902 to assume a position as artistic director of Tvermoes & Abrahamsen's Chandelier Factory.\nWagner was represented at Den Frie Udstilling from 1905. He won the Grand Prix at the World Expo in Paris in 1906.\nWagner's most well-known work is the \"Lur Blowers\" on the City Hall Square in Copenhagen. He has also created the \"Swan Fountain\" in Varde and a bronze cast of his 1914 bust of Tyge Brahe was installed at the \"Round Tower\" in Copenhagen in 1932.\nHis works for Bing & Grøndahl include the \"Fleurs de Lotus\" and \"Polichinelle\" vases, both of which were created for the 1900 Exposition Universelle in Paris and later gifted to Copenhagen City Hall where they are now on display in the Banquet Hall.",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Unique Art Nouveau Pinewood Artist´s Chair by Siegfried Wagner 1910s, Denmark For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/unique-art-nouveau-pinewood-artist-s-chair-by-siegfried-wagner-1910s-denmark-for-sale/f_37931/f_441362921742507246381/f_44136292_1742507247203_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/unique-art-nouveau-pinewood-artist-s-chair-by-siegfried-wagner-1910s-denmark-for-sale/f_37931/f_441362921742507246381/f_44136292_1742507247203_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-20T18:21:55.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Monumental and important pinewood artist´s chair by Danish sculptor Siegfried Wagner. Made in the 1910s by Wagner and fellow artist and trained cabinetmaker Jens Peter Dahl-Jensen. The large armchair is richly decorated in Art Nouveau style.",
+            "contentUrl": "https://a.1stdibscdn.com/unique-art-nouveau-pinewood-artist-s-chair-by-siegfried-wagner-1910s-denmark-for-sale-picture-2/f_37931/f_441362921742508813141/SIEGFRIEDwagner_90_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/unique-art-nouveau-pinewood-artist-s-chair-by-siegfried-wagner-1910s-denmark-for-sale-picture-2/f_37931/f_441362921742508813141/SIEGFRIEDwagner_90_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:21:55.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Danish Unique Art Nouveau Pinewood Artist´s Chair by Siegfried Wagner 1910s, Denmark For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/unique-art-nouveau-pinewood-artist-s-chair-by-siegfried-wagner-1910s-denmark-for-sale-picture-3/f_37931/f_441362921742508493731/SIEGFRIEDwagner_27_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/unique-art-nouveau-pinewood-artist-s-chair-by-siegfried-wagner-1910s-denmark-for-sale-picture-3/f_37931/f_441362921742508493731/SIEGFRIEDwagner_27_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:21:55.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Unique Art Nouveau Pinewood Artist´s Chair by Siegfried Wagner 1910s, Denmark In Good Condition For Sale In Odense, DK",
+            "contentUrl": "https://a.1stdibscdn.com/unique-art-nouveau-pinewood-artist-s-chair-by-siegfried-wagner-1910s-denmark-for-sale-picture-4/f_37931/f_441362921742508919799/SIEGFRIEDwagner_33_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/unique-art-nouveau-pinewood-artist-s-chair-by-siegfried-wagner-1910s-denmark-for-sale-picture-4/f_37931/f_441362921742508919799/SIEGFRIEDwagner_33_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:21:55.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Early 20th Century Unique Art Nouveau Pinewood Artist´s Chair by Siegfried Wagner 1910s, Denmark For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/unique-art-nouveau-pinewood-artist-s-chair-by-siegfried-wagner-1910s-denmark-for-sale-picture-5/f_37931/f_441362921742508436161/SIEGFRIEDwagner_41_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/unique-art-nouveau-pinewood-artist-s-chair-by-siegfried-wagner-1910s-denmark-for-sale-picture-5/f_37931/f_441362921742508436161/SIEGFRIEDwagner_41_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:21:55.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Leather Unique Art Nouveau Pinewood Artist´s Chair by Siegfried Wagner 1910s, Denmark For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/unique-art-nouveau-pinewood-artist-s-chair-by-siegfried-wagner-1910s-denmark-for-sale-picture-6/f_37931/f_441362921742507941195/SIEGFRIEDwagner_81_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/unique-art-nouveau-pinewood-artist-s-chair-by-siegfried-wagner-1910s-denmark-for-sale-picture-6/f_37931/f_441362921742507941195/SIEGFRIEDwagner_81_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:21:55.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Unique Art Nouveau Pinewood Artist´s Chair by Siegfried Wagner 1910s, Denmark For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/unique-art-nouveau-pinewood-artist-s-chair-by-siegfried-wagner-1910s-denmark-for-sale-picture-7/f_37931/f_441362921742508591176/SIEGFRIEDwagner_21_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/unique-art-nouveau-pinewood-artist-s-chair-by-siegfried-wagner-1910s-denmark-for-sale-picture-7/f_37931/f_441362921742508591176/SIEGFRIEDwagner_21_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:21:55.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Unique Art Nouveau Pinewood Artist´s Chair by Siegfried Wagner 1910s, Denmark For Sale 2",
+            "contentUrl": "https://a.1stdibscdn.com/unique-art-nouveau-pinewood-artist-s-chair-by-siegfried-wagner-1910s-denmark-for-sale-picture-8/f_37931/f_441362921742507910580/SIEGFRIEDwagner_83_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/unique-art-nouveau-pinewood-artist-s-chair-by-siegfried-wagner-1910s-denmark-for-sale-picture-8/f_37931/f_441362921742507910580/SIEGFRIEDwagner_83_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:21:55.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Unique Art Nouveau Pinewood Artist´s Chair by Siegfried Wagner 1910s, Denmark For Sale 3",
+            "contentUrl": "https://a.1stdibscdn.com/unique-art-nouveau-pinewood-artist-s-chair-by-siegfried-wagner-1910s-denmark-for-sale-picture-9/f_37931/f_441362921742507970207/SIEGFRIEDwagner_75_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/unique-art-nouveau-pinewood-artist-s-chair-by-siegfried-wagner-1910s-denmark-for-sale-picture-9/f_37931/f_441362921742507970207/SIEGFRIEDwagner_75_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:21:55.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Unique Art Nouveau Pinewood Artist´s Chair by Siegfried Wagner 1910s, Denmark For Sale 4",
+            "contentUrl": "https://a.1stdibscdn.com/unique-art-nouveau-pinewood-artist-s-chair-by-siegfried-wagner-1910s-denmark-for-sale-picture-10/f_37931/f_441362921742509189194/SIEGFRIEDwagner_61_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/unique-art-nouveau-pinewood-artist-s-chair-by-siegfried-wagner-1910s-denmark-for-sale-picture-10/f_37931/f_441362921742509189194/SIEGFRIEDwagner_61_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:21:55.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Unique Art Nouveau Pinewood Artist´s Chair by Siegfried Wagner 1910s, Denmark For Sale 5",
+            "contentUrl": "https://a.1stdibscdn.com/unique-art-nouveau-pinewood-artist-s-chair-by-siegfried-wagner-1910s-denmark-for-sale-picture-11/f_37931/f_441362921742508689101/SIEGFRIEDwagner_54_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/unique-art-nouveau-pinewood-artist-s-chair-by-siegfried-wagner-1910s-denmark-for-sale-picture-11/f_37931/f_441362921742508689101/SIEGFRIEDwagner_54_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:21:55.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Unique Art Nouveau Pinewood Artist´s Chair by Siegfried Wagner 1910s, Denmark For Sale 6",
+            "contentUrl": "https://a.1stdibscdn.com/unique-art-nouveau-pinewood-artist-s-chair-by-siegfried-wagner-1910s-denmark-for-sale-picture-12/f_37931/f_441362921742508136442/SIEGFRIEDwagner_66_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/unique-art-nouveau-pinewood-artist-s-chair-by-siegfried-wagner-1910s-denmark-for-sale-picture-12/f_37931/f_441362921742508136442/SIEGFRIEDwagner_66_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:21:55.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Unique Art Nouveau Pinewood Artist´s Chair by Siegfried Wagner 1910s, Denmark For Sale 7",
+            "contentUrl": "https://a.1stdibscdn.com/unique-art-nouveau-pinewood-artist-s-chair-by-siegfried-wagner-1910s-denmark-for-sale-picture-13/f_37931/f_441362921742508520784/SIEGFRIEDwagner_31_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/unique-art-nouveau-pinewood-artist-s-chair-by-siegfried-wagner-1910s-denmark-for-sale-picture-13/f_37931/f_441362921742508520784/SIEGFRIEDwagner_31_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:21:55.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Unique Art Nouveau Pinewood Artist´s Chair by Siegfried Wagner 1910s, Denmark For Sale 8",
+            "contentUrl": "https://a.1stdibscdn.com/unique-art-nouveau-pinewood-artist-s-chair-by-siegfried-wagner-1910s-denmark-for-sale-picture-14/f_37931/f_441362921742508521026/SIEGFRIEDwagner_32_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/unique-art-nouveau-pinewood-artist-s-chair-by-siegfried-wagner-1910s-denmark-for-sale-picture-14/f_37931/f_441362921742508521026/SIEGFRIEDwagner_32_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:21:55.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Unique Art Nouveau Pinewood Artist´s Chair by Siegfried Wagner 1910s, Denmark For Sale 9",
+            "contentUrl": "https://a.1stdibscdn.com/unique-art-nouveau-pinewood-artist-s-chair-by-siegfried-wagner-1910s-denmark-for-sale-picture-15/f_37931/f_441362921742508546462/SIEGFRIEDwagner_5_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/unique-art-nouveau-pinewood-artist-s-chair-by-siegfried-wagner-1910s-denmark-for-sale-picture-15/f_37931/f_441362921742508546462/SIEGFRIEDwagner_5_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:21:55.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Unique Art Nouveau Pinewood Artist´s Chair by Siegfried Wagner 1910s, Denmark For Sale 10",
+            "contentUrl": "https://a.1stdibscdn.com/unique-art-nouveau-pinewood-artist-s-chair-by-siegfried-wagner-1910s-denmark-for-sale-picture-16/f_37931/f_441362921742509271456/SIEGFRIEDwagner_67_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/unique-art-nouveau-pinewood-artist-s-chair-by-siegfried-wagner-1910s-denmark-for-sale-picture-16/f_37931/f_441362921742509271456/SIEGFRIEDwagner_67_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:21:55.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Unique Art Nouveau Pinewood Artist´s Chair by Siegfried Wagner 1910s, Denmark For Sale 11",
+            "contentUrl": "https://a.1stdibscdn.com/unique-art-nouveau-pinewood-artist-s-chair-by-siegfried-wagner-1910s-denmark-for-sale-picture-17/f_37931/f_441362921742508591461/SIEGFRIEDwagner_20_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/unique-art-nouveau-pinewood-artist-s-chair-by-siegfried-wagner-1910s-denmark-for-sale-picture-17/f_37931/f_441362921742508591461/SIEGFRIEDwagner_20_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:21:55.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Unique Art Nouveau Pinewood Artist´s Chair by Siegfried Wagner 1910s, Denmark For Sale 12",
+            "contentUrl": "https://a.1stdibscdn.com/unique-art-nouveau-pinewood-artist-s-chair-by-siegfried-wagner-1910s-denmark-for-sale-picture-18/f_37931/f_441362921742508657111/SIEGFRIEDwagner_55_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/unique-art-nouveau-pinewood-artist-s-chair-by-siegfried-wagner-1910s-denmark-for-sale-picture-18/f_37931/f_441362921742508657111/SIEGFRIEDwagner_55_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:21:55.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Unique Art Nouveau Pinewood Artist´s Chair by Siegfried Wagner 1910s, Denmark For Sale 13",
+            "contentUrl": "https://a.1stdibscdn.com/unique-art-nouveau-pinewood-artist-s-chair-by-siegfried-wagner-1910s-denmark-for-sale-picture-19/f_37931/f_441362921742508166495/SIEGFRIEDwagner_4_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/unique-art-nouveau-pinewood-artist-s-chair-by-siegfried-wagner-1910s-denmark-for-sale-picture-19/f_37931/f_441362921742508166495/SIEGFRIEDwagner_4_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:21:55.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Unique Art Nouveau Pinewood Artist´s Chair by Siegfried Wagner 1910s, Denmark For Sale 14",
+            "contentUrl": "https://a.1stdibscdn.com/unique-art-nouveau-pinewood-artist-s-chair-by-siegfried-wagner-1910s-denmark-for-sale-picture-20/f_37931/f_441362921742508398307/Bissens_atelier_1893_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/unique-art-nouveau-pinewood-artist-s-chair-by-siegfried-wagner-1910s-denmark-for-sale-picture-20/f_37931/f_441362921742508398307/Bissens_atelier_1893_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:21:55.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/UsedCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/armchairs/unique-art-nouveau-pinewood-artist-s-chair-siegfried-wagner-1910s-denmark/id-f_44136292/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 9610.78,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 17331.55,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 220046.82,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 9800,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 8415.75,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 74995.01,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 10872.31,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 15681.67,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 110216.77,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 114934.92,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 5,
+          "reviewCount": 20
+        },
+        "productionDate": "1910-1919",
+        "category": "Armchairs"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Armchairs",
+              "@id": "/furniture/seating/armchairs/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

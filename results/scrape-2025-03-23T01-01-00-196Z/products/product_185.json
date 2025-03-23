@@ -1,0 +1,375 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44101932",
+  "name": "Vintage Pace Collection Argenta Lucite Chair and ottoman in Smokey Leather",
+  "slug": "f_44101932",
+  "price": "CA$19,861.16",
+  "description": "f_44101932",
+  "image_url": "https://a.1stdibscdn.com/vintage-pace-collection-argenta-lucite-chair-and-ottoman-in-smokey-leather-for-sale/f_73682/f_441019321742316904050/f_44101932_1742316904365_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/lounge-chairs/vintage-pace-collection-argenta-lucite-chair-ottoman-smokey-leather/id-f_44101932/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 33 in (83.82 cm)",
+      "width": "Width: 34 in (86.36 cm)",
+      "depth": "Depth: 30 in (76.2 cm)",
+      "seatHeight": "Seat Height: 6 in (15.24 cm)"
+    },
+    "style": "Mid-Century Modern (Of the Period)",
+    "materials": [
+      "Leather",
+      "Lucite",
+      "Leather",
+      "Lucite"
+    ],
+    "origin": "United States",
+    "period": "1970-1979",
+    "dateOfManufacture": "1970's",
+    "condition": {
+      "rating": "Good",
+      "details": "Reupholstered."
+    },
+    "sellerLocation": "Saint Louis, US",
+    "referenceNumber": "1stDibs: LU7368244101932",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Step into a world of timeless luxury with these stunning 1970s Pace Collection lounge chairs. Featuring bold Lucite panels, chrome accents, and distressed smokey Italian leather cushions, these chairs blend modern elegance with vintage allure.13500 A true statement of sophisticated design and unparalleled craftsmanship.</span></div></div>",
+    "rawSpecificationsText": "Step into a world of timeless luxury with these stunning 1970s Pace Collection lounge chairs. Featuring bold Lucite panels, chrome accents, and distressed smokey Italian leather cushions, these chairs blend modern elegance with vintage allure.13500 A true statement of sophisticated design and unparalleled craftsmanship."
+  },
+  "raw_data": {
+    "productId": "f_44101932",
+    "slug": "f_44101932",
+    "url": "https://www.1stdibs.com/furniture/seating/lounge-chairs/vintage-pace-collection-argenta-lucite-chair-ottoman-smokey-leather/id-f_44101932/",
+    "name": "Vintage Pace Collection Argenta Lucite Chair and ottoman in Smokey Leather",
+    "price": "CA$19,861.16",
+    "imageUrl": "https://a.1stdibscdn.com/vintage-pace-collection-argenta-lucite-chair-and-ottoman-in-smokey-leather-for-sale/f_73682/f_441019321742316904050/f_44101932_1742316904365_bg_processed.jpg",
+    "description": "f_44101932",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 33 in (83.82 cm)",
+        "width": "Width: 34 in (86.36 cm)",
+        "depth": "Depth: 30 in (76.2 cm)",
+        "seatHeight": "Seat Height: 6 in (15.24 cm)"
+      },
+      "style": "Mid-Century Modern (Of the Period)",
+      "materials": [
+        "Leather",
+        "Lucite",
+        "Leather",
+        "Lucite"
+      ],
+      "origin": "United States",
+      "period": "1970-1979",
+      "dateOfManufacture": "1970's",
+      "condition": {
+        "rating": "Good",
+        "details": "Reupholstered."
+      },
+      "sellerLocation": "Saint Louis, US",
+      "referenceNumber": "1stDibs: LU7368244101932",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Step into a world of timeless luxury with these stunning 1970s Pace Collection lounge chairs. Featuring bold Lucite panels, chrome accents, and distressed smokey Italian leather cushions, these chairs blend modern elegance with vintage allure.13500 A true statement of sophisticated design and unparalleled craftsmanship.</span></div></div>",
+      "rawSpecificationsText": "Step into a world of timeless luxury with these stunning 1970s Pace Collection lounge chairs. Featuring bold Lucite panels, chrome accents, and distressed smokey Italian leather cushions, these chairs blend modern elegance with vintage allure.13500 A true statement of sophisticated design and unparalleled craftsmanship."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Vintage Pace Collection Argenta Lucite Chair and ottoman in Smokey Leather",
+        "description": "Step into a world of timeless luxury with these stunning 1970s Pace Collection lounge chairs. Featuring bold Lucite panels, chrome accents, and distressed smokey Italian leather cushions, these chairs blend modern elegance with vintage allure.13500 A true statement of sophisticated design and unparalleled craftsmanship. ",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Pace Collection",
+            "caption": "Vintage Pace Collection Argenta Lucite Chair and ottoman in Smokey Leather For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/vintage-pace-collection-argenta-lucite-chair-and-ottoman-in-smokey-leather-for-sale/f_73682/f_441019321742316904050/f_44101932_1742316904365_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/vintage-pace-collection-argenta-lucite-chair-and-ottoman-in-smokey-leather-for-sale/f_73682/f_441019321742316904050/f_44101932_1742316904365_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-18T13:21:17.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Pace Collection",
+            "caption": "Step into a world of timeless luxury with these stunning 1970s Pace Collection lounge chairs. Featuring bold Lucite panels, chrome accents, and distressed smokey Italian leather cushions, these chairs blend modern elegance with vintage allure.13500",
+            "contentUrl": "https://a.1stdibscdn.com/vintage-pace-collection-argenta-lucite-chair-and-ottoman-in-smokey-leather-for-sale-picture-2/f_73682/f_441019321742317452547/Photoroom_20250318_111949_1__master.JPEG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/vintage-pace-collection-argenta-lucite-chair-and-ottoman-in-smokey-leather-for-sale-picture-2/f_73682/f_441019321742317452547/Photoroom_20250318_111949_1__master.JPEG?width=768",
+            "uploadDate": "2025-03-18T13:21:17.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Pace Collection",
+            "caption": "Mid-Century Modern Vintage Pace Collection Argenta Lucite Chair and ottoman in Smokey Leather For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/vintage-pace-collection-argenta-lucite-chair-and-ottoman-in-smokey-leather-for-sale-picture-3/f_73682/f_441019321742317141274/IMG_4739_1__master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/vintage-pace-collection-argenta-lucite-chair-and-ottoman-in-smokey-leather-for-sale-picture-3/f_73682/f_441019321742317141274/IMG_4739_1__master.jpg?width=768",
+            "uploadDate": "2025-03-18T13:21:17.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Pace Collection",
+            "caption": "American Vintage Pace Collection Argenta Lucite Chair and ottoman in Smokey Leather For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/vintage-pace-collection-argenta-lucite-chair-and-ottoman-in-smokey-leather-for-sale-picture-4/f_73682/f_441019321742317154821/IMG_4740_1__master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/vintage-pace-collection-argenta-lucite-chair-and-ottoman-in-smokey-leather-for-sale-picture-4/f_73682/f_441019321742317154821/IMG_4740_1__master.jpg?width=768",
+            "uploadDate": "2025-03-18T13:21:17.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Pace Collection",
+            "caption": "Vintage Pace Collection Argenta Lucite Chair and ottoman in Smokey Leather In Good Condition For Sale In Saint Louis, US",
+            "contentUrl": "https://a.1stdibscdn.com/vintage-pace-collection-argenta-lucite-chair-and-ottoman-in-smokey-leather-for-sale-picture-5/f_73682/f_441019321742317166002/IMG_4741_1__master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/vintage-pace-collection-argenta-lucite-chair-and-ottoman-in-smokey-leather-for-sale-picture-5/f_73682/f_441019321742317166002/IMG_4741_1__master.jpg?width=768",
+            "uploadDate": "2025-03-18T13:21:17.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Pace Collection",
+            "caption": "Late 20th Century Vintage Pace Collection Argenta Lucite Chair and ottoman in Smokey Leather For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/vintage-pace-collection-argenta-lucite-chair-and-ottoman-in-smokey-leather-for-sale-picture-6/f_73682/f_441019321742317180185/IMG_4742_1__master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/vintage-pace-collection-argenta-lucite-chair-and-ottoman-in-smokey-leather-for-sale-picture-6/f_73682/f_441019321742317180185/IMG_4742_1__master.jpg?width=768",
+            "uploadDate": "2025-03-18T13:21:17.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Pace Collection",
+            "caption": "Vintage Pace Collection Argenta Lucite Chair and ottoman in Smokey Leather For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/vintage-pace-collection-argenta-lucite-chair-and-ottoman-in-smokey-leather-for-sale-picture-7/f_73682/f_441019321742317437045/Photoroom_20250318_111914_1__master.JPEG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/vintage-pace-collection-argenta-lucite-chair-and-ottoman-in-smokey-leather-for-sale-picture-7/f_73682/f_441019321742317437045/Photoroom_20250318_111914_1__master.JPEG?width=768",
+            "uploadDate": "2025-03-18T13:21:17.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Pace Collection",
+            "caption": "Vintage Pace Collection Argenta Lucite Chair and ottoman in Smokey Leather For Sale 2",
+            "contentUrl": "https://a.1stdibscdn.com/vintage-pace-collection-argenta-lucite-chair-and-ottoman-in-smokey-leather-for-sale-picture-8/f_73682/f_44101932/IMG_4743_1_1742317633491_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/vintage-pace-collection-argenta-lucite-chair-and-ottoman-in-smokey-leather-for-sale-picture-8/f_73682/f_44101932/IMG_4743_1_1742317633491_master.jpg?width=768",
+            "uploadDate": "2025-03-18T13:21:17.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Pace Collection",
+            "caption": "Vintage Pace Collection Argenta Lucite Chair and ottoman in Smokey Leather For Sale 3",
+            "contentUrl": "https://a.1stdibscdn.com/vintage-pace-collection-argenta-lucite-chair-and-ottoman-in-smokey-leather-for-sale-picture-9/f_73682/f_44101932/IMG_4744_1_1742317701407_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/vintage-pace-collection-argenta-lucite-chair-and-ottoman-in-smokey-leather-for-sale-picture-9/f_73682/f_44101932/IMG_4744_1_1742317701407_master.jpg?width=768",
+            "uploadDate": "2025-03-18T13:21:17.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Pace Collection",
+            "caption": "Vintage Pace Collection Argenta Lucite Chair and ottoman in Smokey Leather For Sale 4",
+            "contentUrl": "https://a.1stdibscdn.com/vintage-pace-collection-argenta-lucite-chair-and-ottoman-in-smokey-leather-for-sale-picture-10/f_73682/f_44101932/IMG_4745_1_1742317711281_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/vintage-pace-collection-argenta-lucite-chair-and-ottoman-in-smokey-leather-for-sale-picture-10/f_73682/f_44101932/IMG_4745_1_1742317711281_master.jpg?width=768",
+            "uploadDate": "2025-03-18T13:21:17.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Pace Collection",
+            "caption": "Vintage Pace Collection Argenta Lucite Chair and ottoman in Smokey Leather For Sale 5",
+            "contentUrl": "https://a.1stdibscdn.com/vintage-pace-collection-argenta-lucite-chair-and-ottoman-in-smokey-leather-for-sale-picture-11/f_73682/f_44101932/IMG_4746_1_1742317719205_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/vintage-pace-collection-argenta-lucite-chair-and-ottoman-in-smokey-leather-for-sale-picture-11/f_73682/f_44101932/IMG_4746_1_1742317719205_master.jpg?width=768",
+            "uploadDate": "2025-03-18T13:21:17.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Pace Collection",
+            "caption": "Vintage Pace Collection Argenta Lucite Chair and ottoman in Smokey Leather For Sale 6",
+            "contentUrl": "https://a.1stdibscdn.com/vintage-pace-collection-argenta-lucite-chair-and-ottoman-in-smokey-leather-for-sale-picture-12/f_73682/f_44101932/IMG_4747_1_1742317753353_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/vintage-pace-collection-argenta-lucite-chair-and-ottoman-in-smokey-leather-for-sale-picture-12/f_73682/f_44101932/IMG_4747_1_1742317753353_master.jpg?width=768",
+            "uploadDate": "2025-03-18T13:21:17.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Pace Collection",
+            "caption": "Vintage Pace Collection Argenta Lucite Chair and ottoman in Smokey Leather For Sale 7",
+            "contentUrl": "https://a.1stdibscdn.com/vintage-pace-collection-argenta-lucite-chair-and-ottoman-in-smokey-leather-for-sale-picture-13/f_73682/f_441019321742317362098/IMG_4749_1__master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/vintage-pace-collection-argenta-lucite-chair-and-ottoman-in-smokey-leather-for-sale-picture-13/f_73682/f_441019321742317362098/IMG_4749_1__master.jpg?width=768",
+            "uploadDate": "2025-03-18T13:21:17.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Pace Collection",
+            "caption": "Vintage Pace Collection Argenta Lucite Chair and ottoman in Smokey Leather For Sale 8",
+            "contentUrl": "https://a.1stdibscdn.com/vintage-pace-collection-argenta-lucite-chair-and-ottoman-in-smokey-leather-for-sale-picture-14/f_73682/f_44101932/IMG_4751_1_1742317764483_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/vintage-pace-collection-argenta-lucite-chair-and-ottoman-in-smokey-leather-for-sale-picture-14/f_73682/f_44101932/IMG_4751_1_1742317764483_master.jpg?width=768",
+            "uploadDate": "2025-03-18T13:21:17.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Pace Collection",
+            "caption": "Vintage Pace Collection Argenta Lucite Chair and ottoman in Smokey Leather For Sale 9",
+            "contentUrl": "https://a.1stdibscdn.com/vintage-pace-collection-argenta-lucite-chair-and-ottoman-in-smokey-leather-for-sale-picture-15/f_73682/f_44101932/IMG_1742317774639_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/vintage-pace-collection-argenta-lucite-chair-and-ottoman-in-smokey-leather-for-sale-picture-15/f_73682/f_44101932/IMG_1742317774639_master.jpg?width=768",
+            "uploadDate": "2025-03-18T13:21:17.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Pace Collection",
+            "caption": "Vintage Pace Collection Argenta Lucite Chair and ottoman in Smokey Leather For Sale 10",
+            "contentUrl": "https://a.1stdibscdn.com/vintage-pace-collection-argenta-lucite-chair-and-ottoman-in-smokey-leather-for-sale-picture-16/f_73682/f_44101932/IMG_4753_1_1742317791082_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/vintage-pace-collection-argenta-lucite-chair-and-ottoman-in-smokey-leather-for-sale-picture-16/f_73682/f_44101932/IMG_4753_1_1742317791082_master.jpg?width=768",
+            "uploadDate": "2025-03-18T13:21:17.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Pace Collection",
+            "caption": "Vintage Pace Collection Argenta Lucite Chair and ottoman in Smokey Leather For Sale 11",
+            "contentUrl": "https://a.1stdibscdn.com/vintage-pace-collection-argenta-lucite-chair-and-ottoman-in-smokey-leather-for-sale-picture-17/f_73682/f_441019321742317583076/IMG_5063_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/vintage-pace-collection-argenta-lucite-chair-and-ottoman-in-smokey-leather-for-sale-picture-17/f_73682/f_441019321742317583076/IMG_5063_master.jpg?width=768",
+            "uploadDate": "2025-03-18T13:21:17.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/UsedCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/lounge-chairs/vintage-pace-collection-argenta-lucite-chair-ottoman-smokey-leather/id-f_44101932/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 12172.25,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 21950.76,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 278693.78,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 12660.14,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 10658.72,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 94982.71,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 13500,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 19861.16,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 139591.79,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 145567.42,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 5,
+          "reviewCount": 2
+        },
+        "productionDate": "1970-1979",
+        "category": "Lounge Chairs",
+        "brand": {
+          "@type": "Brand",
+          "name": "Pace Collection"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Lounge Chairs",
+              "@id": "/furniture/seating/lounge-chairs/"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "VideoObject",
+        "name": "Vintage Pace Collection Argenta Lucite Chair and ottoman in Smokey Leather",
+        "description": "Step into a world of timeless luxury with these stunning 1970s Pace Collection lounge chairs. Featuring bold Lucite panels, chrome accents, and distressed smokey Italian leather cushions, these chairs blend modern elegance with vintage allure.13500 A true statement of sophisticated design and unparalleled craftsmanship. ",
+        "thumbnailUrl": "https://i.vimeocdn.com/video/1994863474-f99efbe91986f0fa1aea80355aab5930d038c3ac02a2d6d3bc658b3990044079-d_1920x1080?&r=pad",
+        "uploadDate": "2025-03-18T17:13:08+00:00",
+        "duration": "PT0H0M36S",
+        "contentUrl": "https://player.vimeo.com/progressive_redirect/playback/1067030070/rendition/360p/file.mp4?loc=external&oauth2_token_id=1438265637&signature=9696ded97bccc5f547b1520caf562e78f00317a011ef30155d154d12e63be902&user_id=95659418"
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

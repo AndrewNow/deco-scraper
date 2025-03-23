@@ -1,0 +1,319 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44099932",
+  "name": "Papa Bear Chair and Footstool",
+  "slug": "f_44099932",
+  "price": "CA$51,491.90",
+  "description": "f_44099932",
+  "image_url": "https://a.1stdibscdn.com/papa-bear-chair-and-footstool-for-sale/f_73682/f_440999321742327603215/f_44099932_1742327603832_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/lounge-chairs/papa-bear-chair-footstool/id-f_44099932/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 39 in (99.06 cm)",
+      "width": "Width: 36 in (91.44 cm)",
+      "depth": "Depth: 25 in (63.5 cm)",
+      "seatHeight": "Seat Height: 4 in (10.16 cm)"
+    },
+    "style": "Mid-Century Modern (Of the Period)",
+    "materials": [
+      "Foam",
+      "Leather",
+      "Wood",
+      "Foam",
+      "Leather",
+      "Wood"
+    ],
+    "origin": "Denmark",
+    "period": "1950-1959",
+    "dateOfManufacture": "1951",
+    "condition": {
+      "rating": "Excellent",
+      "details": "Reupholstered. Both the chair and footstool are reupholstered in Italian leather."
+    },
+    "sellerLocation": "Saint Louis, US",
+    "referenceNumber": "1stDibs: LU7368244099932",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">This Papa Bear Chair is a sculpture for comfort. It is a fine example of one the more exclusive products of the Danish Modern period. It is considered a masterpiece of the design period and is highly sought after.  Hans Wegner, was a prominent Danish designer that immortalized the Pape Bear chair.</span></div></div>",
+    "rawSpecificationsText": "This Papa Bear Chair is a sculpture for comfort. It is a fine example of one the more exclusive products of the Danish Modern period. It is considered a masterpiece of the design period and is highly sought after.  Hans Wegner, was a prominent Danish designer that immortalized the Pape Bear chair."
+  },
+  "raw_data": {
+    "productId": "f_44099932",
+    "slug": "f_44099932",
+    "url": "https://www.1stdibs.com/furniture/seating/lounge-chairs/papa-bear-chair-footstool/id-f_44099932/",
+    "name": "Papa Bear Chair and Footstool",
+    "price": "CA$51,491.90",
+    "imageUrl": "https://a.1stdibscdn.com/papa-bear-chair-and-footstool-for-sale/f_73682/f_440999321742327603215/f_44099932_1742327603832_bg_processed.jpg",
+    "description": "f_44099932",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 39 in (99.06 cm)",
+        "width": "Width: 36 in (91.44 cm)",
+        "depth": "Depth: 25 in (63.5 cm)",
+        "seatHeight": "Seat Height: 4 in (10.16 cm)"
+      },
+      "style": "Mid-Century Modern (Of the Period)",
+      "materials": [
+        "Foam",
+        "Leather",
+        "Wood",
+        "Foam",
+        "Leather",
+        "Wood"
+      ],
+      "origin": "Denmark",
+      "period": "1950-1959",
+      "dateOfManufacture": "1951",
+      "condition": {
+        "rating": "Excellent",
+        "details": "Reupholstered. Both the chair and footstool are reupholstered in Italian leather."
+      },
+      "sellerLocation": "Saint Louis, US",
+      "referenceNumber": "1stDibs: LU7368244099932",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">This Papa Bear Chair is a sculpture for comfort. It is a fine example of one the more exclusive products of the Danish Modern period. It is considered a masterpiece of the design period and is highly sought after.  Hans Wegner, was a prominent Danish designer that immortalized the Pape Bear chair.</span></div></div>",
+      "rawSpecificationsText": "This Papa Bear Chair is a sculpture for comfort. It is a fine example of one the more exclusive products of the Danish Modern period. It is considered a masterpiece of the design period and is highly sought after.  Hans Wegner, was a prominent Danish designer that immortalized the Pape Bear chair."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Papa Bear Chair and Footstool",
+        "description": "This Papa Bear Chair is a sculpture for comfort. It is a fine example of one the more exclusive products of the Danish Modern period. It is considered a masterpiece of the design period and is highly sought after.  Hans Wegner, was a prominent Danish designer that immortalized the Pape Bear chair. ",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Hans J. Wegner",
+            "caption": "Papa Bear Chair and Footstool  For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/papa-bear-chair-and-footstool-for-sale/f_73682/f_440999321742327603215/f_44099932_1742327603832_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/papa-bear-chair-and-footstool-for-sale/f_73682/f_440999321742327603215/f_44099932_1742327603832_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-18T17:29:23.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Hans J. Wegner",
+            "caption": "This Papa Bear Chair is a sculpture for comfort. It is a fine example of one the more exclusive products of the Danish Modern period. It is considered a masterpiece of the design period and is highly sought after.  Hans Wegner, was a prominent",
+            "contentUrl": "https://a.1stdibscdn.com/papa-bear-chair-and-footstool-for-sale-picture-2/f_73682/f_440999321742327605903/Photoroom_20250318_144711_master.JPEG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/papa-bear-chair-and-footstool-for-sale-picture-2/f_73682/f_440999321742327605903/Photoroom_20250318_144711_master.JPEG?width=768",
+            "uploadDate": "2025-03-18T17:29:23.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Hans J. Wegner",
+            "caption": "Mid-Century Modern Papa Bear Chair and Footstool  For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/papa-bear-chair-and-footstool-for-sale-picture-3/f_73682/f_440999321742327628267/Photoroom_20250318_144322_master.JPEG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/papa-bear-chair-and-footstool-for-sale-picture-3/f_73682/f_440999321742327628267/Photoroom_20250318_144322_master.JPEG?width=768",
+            "uploadDate": "2025-03-18T17:29:23.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Hans J. Wegner",
+            "caption": "Danish Papa Bear Chair and Footstool  For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/papa-bear-chair-and-footstool-for-sale-picture-4/f_73682/f_440999321742327671630/IMG_4771_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/papa-bear-chair-and-footstool-for-sale-picture-4/f_73682/f_440999321742327671630/IMG_4771_master.jpg?width=768",
+            "uploadDate": "2025-03-18T17:29:23.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Hans J. Wegner",
+            "caption": "Papa Bear Chair and Footstool  In Excellent Condition For Sale In Saint Louis, US",
+            "contentUrl": "https://a.1stdibscdn.com/papa-bear-chair-and-footstool-for-sale-picture-5/f_73682/f_440999321742327682861/IMG_4772_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/papa-bear-chair-and-footstool-for-sale-picture-5/f_73682/f_440999321742327682861/IMG_4772_master.jpg?width=768",
+            "uploadDate": "2025-03-18T17:29:23.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Hans J. Wegner",
+            "caption": "Mid-20th Century Papa Bear Chair and Footstool  For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/papa-bear-chair-and-footstool-for-sale-picture-6/f_73682/f_440999321742327712186/IMG_4774_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/papa-bear-chair-and-footstool-for-sale-picture-6/f_73682/f_440999321742327712186/IMG_4774_master.jpg?width=768",
+            "uploadDate": "2025-03-18T17:29:23.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Hans J. Wegner",
+            "caption": "Leather Papa Bear Chair and Footstool  For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/papa-bear-chair-and-footstool-for-sale-picture-7/f_73682/f_440999321742327741138/IMG_4778_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/papa-bear-chair-and-footstool-for-sale-picture-7/f_73682/f_440999321742327741138/IMG_4778_master.jpg?width=768",
+            "uploadDate": "2025-03-18T17:29:23.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Hans J. Wegner",
+            "caption": "Papa Bear Chair and Footstool  For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/papa-bear-chair-and-footstool-for-sale-picture-8/f_73682/f_440999321742327752103/IMG_4779_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/papa-bear-chair-and-footstool-for-sale-picture-8/f_73682/f_440999321742327752103/IMG_4779_master.jpg?width=768",
+            "uploadDate": "2025-03-18T17:29:23.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Hans J. Wegner",
+            "caption": "Papa Bear Chair and Footstool  For Sale 2",
+            "contentUrl": "https://a.1stdibscdn.com/papa-bear-chair-and-footstool-for-sale-picture-9/f_73682/f_440999321742327763364/IMG_4780_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/papa-bear-chair-and-footstool-for-sale-picture-9/f_73682/f_440999321742327763364/IMG_4780_master.jpg?width=768",
+            "uploadDate": "2025-03-18T17:29:23.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Hans J. Wegner",
+            "caption": "Papa Bear Chair and Footstool  For Sale 3",
+            "contentUrl": "https://a.1stdibscdn.com/papa-bear-chair-and-footstool-for-sale-picture-10/f_73682/f_44099932/IMG_1742327912073_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/papa-bear-chair-and-footstool-for-sale-picture-10/f_73682/f_44099932/IMG_1742327912073_master.jpg?width=768",
+            "uploadDate": "2025-03-18T17:29:23.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Hans J. Wegner",
+            "caption": "Papa Bear Chair and Footstool  For Sale 4",
+            "contentUrl": "https://a.1stdibscdn.com/papa-bear-chair-and-footstool-for-sale-picture-11/f_73682/f_440999321742327817874/IMG_4785_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/papa-bear-chair-and-footstool-for-sale-picture-11/f_73682/f_440999321742327817874/IMG_4785_master.jpg?width=768",
+            "uploadDate": "2025-03-18T17:29:23.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/UsedCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/lounge-chairs/papa-bear-chair-footstool/id-f_44099932/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 31557.69,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 56909.37,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 722539.44,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 32822.58,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 27633.73,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 246251.46,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 35000,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 51491.9,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 361904.64,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 377397.02,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 5,
+          "reviewCount": 2
+        },
+        "productionDate": "1950-1959",
+        "category": "Lounge Chairs",
+        "brand": {
+          "@type": "Brand",
+          "name": "Hans J. Wegner"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Lounge Chairs",
+              "@id": "/furniture/seating/lounge-chairs/"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "VideoObject",
+        "name": "Papa Bear Chair and Footstool",
+        "description": "This Papa Bear Chair is a sculpture for comfort. It is a fine example of one the more exclusive products of the Danish Modern period. It is considered a masterpiece of the design period and is highly sought after.  Hans Wegner, was a prominent Danish designer that immortalized the Pape Bear chair. ",
+        "thumbnailUrl": "https://i.vimeocdn.com/video/1994941656-c84e9c98f4efcbbebc6bbab1e41f29d288b358768568a01aa9b538d0e238ed94-d_1920x1080?&r=pad",
+        "uploadDate": "2025-03-18T20:03:31+00:00",
+        "duration": "PT0H0M28S",
+        "contentUrl": "https://player.vimeo.com/progressive_redirect/playback/1067096647/rendition/240p/file.mp4?loc=external&oauth2_token_id=1438265637&signature=bf1350390c52ae36245064132feab892e86aa922143cbcf30377fb42aa728a88&user_id=95659418"
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

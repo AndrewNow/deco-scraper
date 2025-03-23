@@ -1,0 +1,330 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44132782",
+  "name": "\"Admiral\" lounge chairs by Eric Merthen for Ire Mobler",
+  "slug": "f_44132782",
+  "price": "CA$5,440.58",
+  "description": "f_44132782",
+  "image_url": "https://a.1stdibscdn.com/admiral-lounge-chairs-by-eric-merthen-for-ire-mobler-for-sale/f_94242/f_441327821742491907276/f_44132782_1742491908143_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/lounge-chairs/admiral-lounge-chairs-eric-merthen-ire-mobler/id-f_44132782/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 31.5 in (80 cm)",
+      "width": "Width: 33.86 in (86 cm)",
+      "depth": "Depth: 35.44 in (90 cm)",
+      "seatHeight": "Seat Height: 14.18 in (36 cm)"
+    },
+    "style": "Scandinavian Modern (Of the Period)",
+    "materials": [
+      "Leather",
+      "Wood",
+      "Leather",
+      "Wood"
+    ],
+    "origin": "Sweden",
+    "period": "Mid-20th Century",
+    "dateOfManufacture": "1960",
+    "condition": {
+      "rating": "Good",
+      "details": "Wear consistent with age and use."
+    },
+    "sellerLocation": "Paris, FR",
+    "referenceNumber": "1stDibs: LU9424244132782",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Beautiful lounge chair in very good vintage condition. The leather is very nice and in very good shape. The color of the leather is Brown with a touch of red in it. It is an extremely comfortable Armchair with a very high personality.\n\nIt is an iconic design of the 1960's in Sweden.</span></div></div>",
+    "rawSpecificationsText": "Beautiful lounge chair in very good vintage condition. The leather is very nice and in very good shape. The color of the leather is Brown with a touch of red in it. It is an extremely comfortable Armchair with a very high personality.\n\nIt is an iconic design of the 1960's in Sweden."
+  },
+  "raw_data": {
+    "productId": "f_44132782",
+    "slug": "f_44132782",
+    "url": "https://www.1stdibs.com/furniture/seating/lounge-chairs/admiral-lounge-chairs-eric-merthen-ire-mobler/id-f_44132782/",
+    "name": "\"Admiral\" lounge chairs by Eric Merthen for Ire Mobler",
+    "price": "CA$5,440.58",
+    "imageUrl": "https://a.1stdibscdn.com/admiral-lounge-chairs-by-eric-merthen-for-ire-mobler-for-sale/f_94242/f_441327821742491907276/f_44132782_1742491908143_bg_processed.jpg",
+    "description": "f_44132782",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 31.5 in (80 cm)",
+        "width": "Width: 33.86 in (86 cm)",
+        "depth": "Depth: 35.44 in (90 cm)",
+        "seatHeight": "Seat Height: 14.18 in (36 cm)"
+      },
+      "style": "Scandinavian Modern (Of the Period)",
+      "materials": [
+        "Leather",
+        "Wood",
+        "Leather",
+        "Wood"
+      ],
+      "origin": "Sweden",
+      "period": "Mid-20th Century",
+      "dateOfManufacture": "1960",
+      "condition": {
+        "rating": "Good",
+        "details": "Wear consistent with age and use."
+      },
+      "sellerLocation": "Paris, FR",
+      "referenceNumber": "1stDibs: LU9424244132782",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Beautiful lounge chair in very good vintage condition. The leather is very nice and in very good shape. The color of the leather is Brown with a touch of red in it. It is an extremely comfortable Armchair with a very high personality.\n\nIt is an iconic design of the 1960's in Sweden.</span></div></div>",
+      "rawSpecificationsText": "Beautiful lounge chair in very good vintage condition. The leather is very nice and in very good shape. The color of the leather is Brown with a touch of red in it. It is an extremely comfortable Armchair with a very high personality.\n\nIt is an iconic design of the 1960's in Sweden."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "\"Admiral\" lounge chairs by Eric Merthen for Ire Mobler",
+        "description": "Beautiful lounge chair in very good vintage condition. The leather is very nice and in very good shape. The color of the leather is Brown with a touch of red in it. It is an extremely comfortable Armchair with a very high personality.\n\nIt is an iconic design of the 1960's in Sweden.",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Eric Merthen",
+            "caption": "\"Admiral\" lounge chairs by Eric Merthen for Ire Mobler For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/admiral-lounge-chairs-by-eric-merthen-for-ire-mobler-for-sale/f_94242/f_441327821742491907276/f_44132782_1742491908143_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/admiral-lounge-chairs-by-eric-merthen-for-ire-mobler-for-sale/f_94242/f_441327821742491907276/f_44132782_1742491908143_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-20T13:38:44.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Eric Merthen",
+            "caption": "Beautiful lounge chair in very good vintage condition. The leather is very nice and in very good shape. The color of the leather is Brown with a touch of red in it. It is an extremely comfortable Armchair with a very high personality.\n\nIt is an",
+            "contentUrl": "https://a.1stdibscdn.com/admiral-lounge-chairs-by-eric-merthen-for-ire-mobler-for-sale-picture-2/f_94242/f_441327821742491952966/tempImagexbxhPz_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/admiral-lounge-chairs-by-eric-merthen-for-ire-mobler-for-sale-picture-2/f_94242/f_441327821742491952966/tempImagexbxhPz_master.jpg?width=768",
+            "uploadDate": "2025-03-20T13:38:44.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Eric Merthen",
+            "caption": "Scandinavian Modern \"Admiral\" lounge chairs by Eric Merthen for Ire Mobler For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/admiral-lounge-chairs-by-eric-merthen-for-ire-mobler-for-sale-picture-3/f_94242/f_441327821742491952931/tempImageymMhZ7_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/admiral-lounge-chairs-by-eric-merthen-for-ire-mobler-for-sale-picture-3/f_94242/f_441327821742491952931/tempImageymMhZ7_master.jpg?width=768",
+            "uploadDate": "2025-03-20T13:38:44.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Eric Merthen",
+            "caption": "Swedish \"Admiral\" lounge chairs by Eric Merthen for Ire Mobler For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/admiral-lounge-chairs-by-eric-merthen-for-ire-mobler-for-sale-picture-4/f_94242/f_441327821742491953262/tempImageiWZBFk_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/admiral-lounge-chairs-by-eric-merthen-for-ire-mobler-for-sale-picture-4/f_94242/f_441327821742491953262/tempImageiWZBFk_master.jpg?width=768",
+            "uploadDate": "2025-03-20T13:38:44.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Eric Merthen",
+            "caption": "\"Admiral\" lounge chairs by Eric Merthen for Ire Mobler In Good Condition For Sale In Paris, FR",
+            "contentUrl": "https://a.1stdibscdn.com/admiral-lounge-chairs-by-eric-merthen-for-ire-mobler-for-sale-picture-5/f_94242/f_441327821742491953242/tempImagekTWUcL_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/admiral-lounge-chairs-by-eric-merthen-for-ire-mobler-for-sale-picture-5/f_94242/f_441327821742491953242/tempImagekTWUcL_master.jpg?width=768",
+            "uploadDate": "2025-03-20T13:38:44.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Eric Merthen",
+            "caption": "20th Century \"Admiral\" lounge chairs by Eric Merthen for Ire Mobler For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/admiral-lounge-chairs-by-eric-merthen-for-ire-mobler-for-sale-picture-6/f_94242/f_441327821742491953254/tempImageQg0Eez_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/admiral-lounge-chairs-by-eric-merthen-for-ire-mobler-for-sale-picture-6/f_94242/f_441327821742491953254/tempImageQg0Eez_master.jpg?width=768",
+            "uploadDate": "2025-03-20T13:38:44.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Eric Merthen",
+            "caption": "Leather \"Admiral\" lounge chairs by Eric Merthen for Ire Mobler For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/admiral-lounge-chairs-by-eric-merthen-for-ire-mobler-for-sale-picture-7/f_94242/f_441327821742491953246/tempImageFDJ22P_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/admiral-lounge-chairs-by-eric-merthen-for-ire-mobler-for-sale-picture-7/f_94242/f_441327821742491953246/tempImageFDJ22P_master.jpg?width=768",
+            "uploadDate": "2025-03-20T13:38:44.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Eric Merthen",
+            "caption": "\"Admiral\" lounge chairs by Eric Merthen for Ire Mobler For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/admiral-lounge-chairs-by-eric-merthen-for-ire-mobler-for-sale-picture-8/f_94242/f_441327821742491955557/tempImagewBEup4_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/admiral-lounge-chairs-by-eric-merthen-for-ire-mobler-for-sale-picture-8/f_94242/f_441327821742491955557/tempImagewBEup4_master.jpg?width=768",
+            "uploadDate": "2025-03-20T13:38:44.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Eric Merthen",
+            "caption": "\"Admiral\" lounge chairs by Eric Merthen for Ire Mobler For Sale 2",
+            "contentUrl": "https://a.1stdibscdn.com/admiral-lounge-chairs-by-eric-merthen-for-ire-mobler-for-sale-picture-9/f_94242/f_441327821742491955693/tempImageXak5K3_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/admiral-lounge-chairs-by-eric-merthen-for-ire-mobler-for-sale-picture-9/f_94242/f_441327821742491955693/tempImageXak5K3_master.jpg?width=768",
+            "uploadDate": "2025-03-20T13:38:44.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Eric Merthen",
+            "caption": "\"Admiral\" lounge chairs by Eric Merthen for Ire Mobler For Sale 3",
+            "contentUrl": "https://a.1stdibscdn.com/admiral-lounge-chairs-by-eric-merthen-for-ire-mobler-for-sale-picture-10/f_94242/f_441327821742491955552/tempImage6J0m7i_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/admiral-lounge-chairs-by-eric-merthen-for-ire-mobler-for-sale-picture-10/f_94242/f_441327821742491955552/tempImage6J0m7i_master.jpg?width=768",
+            "uploadDate": "2025-03-20T13:38:44.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Eric Merthen",
+            "caption": "\"Admiral\" lounge chairs by Eric Merthen for Ire Mobler For Sale 4",
+            "contentUrl": "https://a.1stdibscdn.com/admiral-lounge-chairs-by-eric-merthen-for-ire-mobler-for-sale-picture-11/f_94242/f_441327821742491955549/tempImage3ByAAW_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/admiral-lounge-chairs-by-eric-merthen-for-ire-mobler-for-sale-picture-11/f_94242/f_441327821742491955549/tempImage3ByAAW_master.jpg?width=768",
+            "uploadDate": "2025-03-20T13:38:44.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Eric Merthen",
+            "caption": "\"Admiral\" lounge chairs by Eric Merthen for Ire Mobler For Sale 5",
+            "contentUrl": "https://a.1stdibscdn.com/admiral-lounge-chairs-by-eric-merthen-for-ire-mobler-for-sale-picture-12/f_94242/f_441327821742491957108/tempImageqcUlj7_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/admiral-lounge-chairs-by-eric-merthen-for-ire-mobler-for-sale-picture-12/f_94242/f_441327821742491957108/tempImageqcUlj7_master.jpg?width=768",
+            "uploadDate": "2025-03-20T13:38:44.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Eric Merthen",
+            "caption": "\"Admiral\" lounge chairs by Eric Merthen for Ire Mobler For Sale 6",
+            "contentUrl": "https://a.1stdibscdn.com/admiral-lounge-chairs-by-eric-merthen-for-ire-mobler-for-sale-picture-13/f_94242/f_441327821742491955309/tempImageiQ9gLb_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/admiral-lounge-chairs-by-eric-merthen-for-ire-mobler-for-sale-picture-13/f_94242/f_441327821742491955309/tempImageiQ9gLb_master.jpg?width=768",
+            "uploadDate": "2025-03-20T13:38:44.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Eric Merthen",
+            "caption": "\"Admiral\" lounge chairs by Eric Merthen for Ire Mobler For Sale 7",
+            "contentUrl": "https://a.1stdibscdn.com/admiral-lounge-chairs-by-eric-merthen-for-ire-mobler-for-sale-picture-14/f_94242/f_441327821742491955552/tempImage4Is8Q2_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/admiral-lounge-chairs-by-eric-merthen-for-ire-mobler-for-sale-picture-14/f_94242/f_441327821742491955552/tempImage4Is8Q2_master.jpg?width=768",
+            "uploadDate": "2025-03-20T13:38:44.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/UsedCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/lounge-chairs/admiral-lounge-chairs-eric-merthen-ire-mobler/id-f_44132782/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3334.35,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 6012.99,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 76342.77,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3400,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 2919.75,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 26018.68,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3772.03,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 5440.58,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 38238.47,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 39875.38,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "productionDate": "Mid-20th Century",
+        "category": "Lounge Chairs",
+        "brand": {
+          "@type": "Brand",
+          "name": "Eric Merthen"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Lounge Chairs",
+              "@id": "/furniture/seating/lounge-chairs/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

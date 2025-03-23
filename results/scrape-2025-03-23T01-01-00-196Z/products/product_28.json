@@ -1,0 +1,247 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44113992",
+  "name": "Ghost Chair designed by Cini Boeri for Fiam, 1987 Italy.",
+  "slug": "f_44113992",
+  "price": "CA$9,601.02",
+  "description": "f_44113992",
+  "image_url": "https://a.1stdibscdn.com/ghost-chair-designed-by-cini-boeri-for-fiam-1987-italy-for-sale/f_65962/f_441139921742394660933/f_44113992_1742394661266_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/armchairs/ghost-chair-designed-cini-boeri-fiam-1987-italy/id-f_44113992/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 25.6 in (65 cm)",
+      "width": "Width: 37.01 in (94 cm)",
+      "depth": "Depth: 30.32 in (77 cm)",
+      "seatHeight": "Seat Height: 12.21 in (31 cm)"
+    },
+    "style": "Post-Modern (Of the Period)",
+    "materials": [
+      "Glass",
+      "Glass"
+    ],
+    "origin": "Italy",
+    "period": "1980-1989",
+    "dateOfManufacture": "1987",
+    "condition": {
+      "rating": "Excellent",
+      "details": null
+    },
+    "sellerLocation": "Athens, GR",
+    "referenceNumber": "1stDibs: LU6596244113992",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Monolithic Ghost Chair designed by Cini Boeri for Fiam, 1987 Italy.\nGhost was presented for the first time at the Salone del Mobile of Milan in 1987 and it immediately won a prize in a competition held by the magazine “Interni” inviting visitors to choose the most innovative product.\nA perfect synthesis of technological experimentation and formal research, the Ghost armchair, designed by Cini Boeri and Tomu Katayanagi, represents the desire to dematerialise the perception of function in favour of the user, who thus becomes the absolute protagonist of the room.</span></div></div>",
+    "rawSpecificationsText": "Monolithic Ghost Chair designed by Cini Boeri for Fiam, 1987 Italy.\nGhost was presented for the first time at the Salone del Mobile of Milan in 1987 and it immediately won a prize in a competition held by the magazine “Interni” inviting visitors to choose the most innovative product.\nA perfect synthesis of technological experimentation and formal research, the Ghost armchair, designed by Cini Boeri and Tomu Katayanagi, represents the desire to dematerialise the perception of function in favour of the user, who thus becomes the absolute protagonist of the room."
+  },
+  "raw_data": {
+    "productId": "f_44113992",
+    "slug": "f_44113992",
+    "url": "https://www.1stdibs.com/furniture/seating/armchairs/ghost-chair-designed-cini-boeri-fiam-1987-italy/id-f_44113992/",
+    "name": "Ghost Chair designed by Cini Boeri for Fiam, 1987 Italy.",
+    "price": "CA$9,601.02",
+    "imageUrl": "https://a.1stdibscdn.com/ghost-chair-designed-by-cini-boeri-for-fiam-1987-italy-for-sale/f_65962/f_441139921742394660933/f_44113992_1742394661266_bg_processed.jpg",
+    "description": "f_44113992",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 25.6 in (65 cm)",
+        "width": "Width: 37.01 in (94 cm)",
+        "depth": "Depth: 30.32 in (77 cm)",
+        "seatHeight": "Seat Height: 12.21 in (31 cm)"
+      },
+      "style": "Post-Modern (Of the Period)",
+      "materials": [
+        "Glass",
+        "Glass"
+      ],
+      "origin": "Italy",
+      "period": "1980-1989",
+      "dateOfManufacture": "1987",
+      "condition": {
+        "rating": "Excellent",
+        "details": null
+      },
+      "sellerLocation": "Athens, GR",
+      "referenceNumber": "1stDibs: LU6596244113992",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Monolithic Ghost Chair designed by Cini Boeri for Fiam, 1987 Italy.\nGhost was presented for the first time at the Salone del Mobile of Milan in 1987 and it immediately won a prize in a competition held by the magazine “Interni” inviting visitors to choose the most innovative product.\nA perfect synthesis of technological experimentation and formal research, the Ghost armchair, designed by Cini Boeri and Tomu Katayanagi, represents the desire to dematerialise the perception of function in favour of the user, who thus becomes the absolute protagonist of the room.</span></div></div>",
+      "rawSpecificationsText": "Monolithic Ghost Chair designed by Cini Boeri for Fiam, 1987 Italy.\nGhost was presented for the first time at the Salone del Mobile of Milan in 1987 and it immediately won a prize in a competition held by the magazine “Interni” inviting visitors to choose the most innovative product.\nA perfect synthesis of technological experimentation and formal research, the Ghost armchair, designed by Cini Boeri and Tomu Katayanagi, represents the desire to dematerialise the perception of function in favour of the user, who thus becomes the absolute protagonist of the room."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Ghost Chair designed by Cini Boeri for Fiam, 1987 Italy.",
+        "description": "Monolithic Ghost Chair designed by Cini Boeri for Fiam, 1987 Italy.\nGhost was presented for the first time at the Salone del Mobile of Milan in 1987 and it immediately won a prize in a competition held by the magazine “Interni” inviting visitors to choose the most innovative product.\nA perfect synthesis of technological experimentation and formal research, the Ghost armchair, designed by Cini Boeri and Tomu Katayanagi, represents the desire to dematerialise the perception of function in favour of the user, who thus becomes the absolute protagonist of the room.",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Ghost Chair designed by Cini Boeri for Fiam, 1987 Italy. For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/ghost-chair-designed-by-cini-boeri-for-fiam-1987-italy-for-sale/f_65962/f_441139921742394660933/f_44113992_1742394661266_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/ghost-chair-designed-by-cini-boeri-for-fiam-1987-italy-for-sale/f_65962/f_441139921742394660933/f_44113992_1742394661266_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-19T10:38:40.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Monolithic Ghost Chair designed by Cini Boeri for Fiam, 1987 Italy.\nGhost was presented for the first time at the Salone del Mobile of Milan in 1987 and it immediately won a prize in a competition held by the magazine “Interni” inviting visitors to",
+            "contentUrl": "https://a.1stdibscdn.com/ghost-chair-designed-by-cini-boeri-for-fiam-1987-italy-for-sale-picture-2/f_65962/f_441139921742394767806/bttff_37189_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/ghost-chair-designed-by-cini-boeri-for-fiam-1987-italy-for-sale-picture-2/f_65962/f_441139921742394767806/bttff_37189_master.jpg?width=768",
+            "uploadDate": "2025-03-19T10:38:40.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Post-Modern Ghost Chair designed by Cini Boeri for Fiam, 1987 Italy. For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/ghost-chair-designed-by-cini-boeri-for-fiam-1987-italy-for-sale-picture-3/f_65962/f_441139921742394781862/bttff_37192_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/ghost-chair-designed-by-cini-boeri-for-fiam-1987-italy-for-sale-picture-3/f_65962/f_441139921742394781862/bttff_37192_master.jpg?width=768",
+            "uploadDate": "2025-03-19T10:38:40.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Italian Ghost Chair designed by Cini Boeri for Fiam, 1987 Italy. For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/ghost-chair-designed-by-cini-boeri-for-fiam-1987-italy-for-sale-picture-4/f_65962/f_441139921742394781873/bttff_37193_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/ghost-chair-designed-by-cini-boeri-for-fiam-1987-italy-for-sale-picture-4/f_65962/f_441139921742394781873/bttff_37193_master.jpg?width=768",
+            "uploadDate": "2025-03-19T10:38:40.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Ghost Chair designed by Cini Boeri for Fiam, 1987 Italy. In Excellent Condition For Sale In Athens, Attiki",
+            "contentUrl": "https://a.1stdibscdn.com/ghost-chair-designed-by-cini-boeri-for-fiam-1987-italy-for-sale-picture-5/f_65962/f_441139921742394781869/bttff_37194_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/ghost-chair-designed-by-cini-boeri-for-fiam-1987-italy-for-sale-picture-5/f_65962/f_441139921742394781869/bttff_37194_master.jpg?width=768",
+            "uploadDate": "2025-03-19T10:38:40.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Late 20th Century Ghost Chair designed by Cini Boeri for Fiam, 1987 Italy. For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/ghost-chair-designed-by-cini-boeri-for-fiam-1987-italy-for-sale-picture-6/f_65962/f_441139921742394779321/IMG_8696_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/ghost-chair-designed-by-cini-boeri-for-fiam-1987-italy-for-sale-picture-6/f_65962/f_441139921742394779321/IMG_8696_master.jpg?width=768",
+            "uploadDate": "2025-03-19T10:38:40.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/UsedCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/armchairs/ghost-chair-designed-cini-boeri-fiam-1987-italy/id-f_44113992/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 10611.15,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 5884.15,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 134722.54,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 6000,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 5152.5,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 45915.31,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 6656.52,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 9601.02,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 67479.66,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 70368.32,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 5,
+          "reviewCount": 2
+        },
+        "productionDate": "1980-1989",
+        "category": "Armchairs"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Armchairs",
+              "@id": "/furniture/seating/armchairs/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

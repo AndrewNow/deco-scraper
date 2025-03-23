@@ -1,0 +1,321 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44041892",
+  "name": "Post-Modern Italian Set of Ten Dining Chairs in Leather and Wood",
+  "slug": "f_44041892",
+  "price": "CA$17,213",
+  "description": "f_44041892",
+  "image_url": "https://a.1stdibscdn.com/post-modern-italian-set-of-ten-dining-chairs-in-leather-and-wood-for-sale/f_9331/f_440418921742052447246/f_44041892_1742052447583_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/dining-room-chairs/post-modern-italian-set-of-ten-dining-chairs-leather-wood/id-f_44041892/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 31.89 in (81 cm)",
+      "width": "Width: 20.67 in (52.5 cm)",
+      "depth": "Depth: 21.26 in (54 cm)",
+      "seatHeight": "Seat Height: 16.54 in (42 cm)"
+    },
+    "style": "Post-Modern (Of the Period)",
+    "materials": [
+      "Beech",
+      "Leather",
+      "Beech",
+      "Leather"
+    ],
+    "origin": "Italy",
+    "period": "1980-1989",
+    "dateOfManufacture": "1980s",
+    "condition": {
+      "rating": "Good",
+      "details": "Wear consistent with age and use. Every item Morentz offers is checked by our team of 30 craftspeople in our in-house workshop. Special restoration or reupholstery requests can be done. Check ‘About the item’ or ask our design specialists for detailed information on the condition."
+    },
+    "sellerLocation": "Waalwijk, NL",
+    "referenceNumber": "Seller: 50116748",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Set of ten dining chairs, leather, beech, Italy, 1980s\n\nSturdy and elegant Postmodern dining chairs made in Italy. A strong characteristic of this design are the smooth constructed armrests and round contours visible in the leather seats. The brown leather complements the blond beech wood seamlessly. This set of chairs comes across effortlessly and comfortable, while also possessing elegance due to the choice of material\n\nKindly note that these chairs are in good, used condition.</span></div></div>",
+    "rawSpecificationsText": "Set of ten dining chairs, leather, beech, Italy, 1980s\n\nSturdy and elegant Postmodern dining chairs made in Italy. A strong characteristic of this design are the smooth constructed armrests and round contours visible in the leather seats. The brown leather complements the blond beech wood seamlessly. This set of chairs comes across effortlessly and comfortable, while also possessing elegance due to the choice of material\n\nKindly note that these chairs are in good, used condition."
+  },
+  "raw_data": {
+    "productId": "f_44041892",
+    "slug": "f_44041892",
+    "url": "https://www.1stdibs.com/furniture/seating/dining-room-chairs/post-modern-italian-set-of-ten-dining-chairs-leather-wood/id-f_44041892/",
+    "name": "Post-Modern Italian Set of Ten Dining Chairs in Leather and Wood",
+    "price": "CA$17,213",
+    "imageUrl": "https://a.1stdibscdn.com/post-modern-italian-set-of-ten-dining-chairs-in-leather-and-wood-for-sale/f_9331/f_440418921742052447246/f_44041892_1742052447583_bg_processed.jpg",
+    "description": "f_44041892",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 31.89 in (81 cm)",
+        "width": "Width: 20.67 in (52.5 cm)",
+        "depth": "Depth: 21.26 in (54 cm)",
+        "seatHeight": "Seat Height: 16.54 in (42 cm)"
+      },
+      "style": "Post-Modern (Of the Period)",
+      "materials": [
+        "Beech",
+        "Leather",
+        "Beech",
+        "Leather"
+      ],
+      "origin": "Italy",
+      "period": "1980-1989",
+      "dateOfManufacture": "1980s",
+      "condition": {
+        "rating": "Good",
+        "details": "Wear consistent with age and use. Every item Morentz offers is checked by our team of 30 craftspeople in our in-house workshop. Special restoration or reupholstery requests can be done. Check ‘About the item’ or ask our design specialists for detailed information on the condition."
+      },
+      "sellerLocation": "Waalwijk, NL",
+      "referenceNumber": "Seller: 50116748",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Set of ten dining chairs, leather, beech, Italy, 1980s\n\nSturdy and elegant Postmodern dining chairs made in Italy. A strong characteristic of this design are the smooth constructed armrests and round contours visible in the leather seats. The brown leather complements the blond beech wood seamlessly. This set of chairs comes across effortlessly and comfortable, while also possessing elegance due to the choice of material\n\nKindly note that these chairs are in good, used condition.</span></div></div>",
+      "rawSpecificationsText": "Set of ten dining chairs, leather, beech, Italy, 1980s\n\nSturdy and elegant Postmodern dining chairs made in Italy. A strong characteristic of this design are the smooth constructed armrests and round contours visible in the leather seats. The brown leather complements the blond beech wood seamlessly. This set of chairs comes across effortlessly and comfortable, while also possessing elegance due to the choice of material\n\nKindly note that these chairs are in good, used condition."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Post-Modern Italian Set of Ten Dining Chairs in Leather and Wood",
+        "description": "Set of ten dining chairs, leather, beech, Italy, 1980s\n\nSturdy and elegant Postmodern dining chairs made in Italy. A strong characteristic of this design are the smooth constructed armrests and round contours visible in the leather seats. The brown leather complements the blond beech wood seamlessly. This set of chairs comes across effortlessly and comfortable, while also possessing elegance due to the choice of material\n\nKindly note that these chairs are in good, used condition. ",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Post-Modern Italian Set of Ten Dining Chairs in Leather and Wood For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/post-modern-italian-set-of-ten-dining-chairs-in-leather-and-wood-for-sale/f_9331/f_440418921742052447246/f_44041892_1742052447583_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/post-modern-italian-set-of-ten-dining-chairs-in-leather-and-wood-for-sale/f_9331/f_440418921742052447246/f_44041892_1742052447583_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-20T06:39:00.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Set of ten dining chairs, leather, beech, Italy, 1980s\n\nSturdy and elegant Postmodern dining chairs made in Italy. A strong characteristic of this design are the smooth constructed armrests and round contours visible in the leather seats. The brown",
+            "contentUrl": "https://a.1stdibscdn.com/post-modern-italian-set-of-ten-dining-chairs-in-leather-and-wood-for-sale-picture-2/f_9331/f_440418921742052455588/tmp_image_master.JPEG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/post-modern-italian-set-of-ten-dining-chairs-in-leather-and-wood-for-sale-picture-2/f_9331/f_440418921742052455588/tmp_image_master.JPEG?width=768",
+            "uploadDate": "2025-03-20T06:39:00.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Post-Modern Italian Set of Ten Dining Chairs in Leather and Wood In Good Condition For Sale In Waalwijk, NL",
+            "contentUrl": "https://a.1stdibscdn.com/post-modern-italian-set-of-ten-dining-chairs-in-leather-and-wood-for-sale-picture-3/f_9331/f_440418921742052464240/tmp_image_master.JPEG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/post-modern-italian-set-of-ten-dining-chairs-in-leather-and-wood-for-sale-picture-3/f_9331/f_440418921742052464240/tmp_image_master.JPEG?width=768",
+            "uploadDate": "2025-03-20T06:39:00.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Late 20th Century Post-Modern Italian Set of Ten Dining Chairs in Leather and Wood For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/post-modern-italian-set-of-ten-dining-chairs-in-leather-and-wood-for-sale-picture-4/f_9331/f_440418921742052493172/tmp_image_master.JPEG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/post-modern-italian-set-of-ten-dining-chairs-in-leather-and-wood-for-sale-picture-4/f_9331/f_440418921742052493172/tmp_image_master.JPEG?width=768",
+            "uploadDate": "2025-03-20T06:39:00.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Post-Modern Italian Set of Ten Dining Chairs in Leather and Wood For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/post-modern-italian-set-of-ten-dining-chairs-in-leather-and-wood-for-sale-picture-5/f_9331/f_440418921742052500798/tmp_image_master.JPEG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/post-modern-italian-set-of-ten-dining-chairs-in-leather-and-wood-for-sale-picture-5/f_9331/f_440418921742052500798/tmp_image_master.JPEG?width=768",
+            "uploadDate": "2025-03-20T06:39:00.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Post-Modern Italian Set of Ten Dining Chairs in Leather and Wood For Sale 2",
+            "contentUrl": "https://a.1stdibscdn.com/post-modern-italian-set-of-ten-dining-chairs-in-leather-and-wood-for-sale-picture-6/f_9331/f_440418921742052511327/tmp_image_master.JPEG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/post-modern-italian-set-of-ten-dining-chairs-in-leather-and-wood-for-sale-picture-6/f_9331/f_440418921742052511327/tmp_image_master.JPEG?width=768",
+            "uploadDate": "2025-03-20T06:39:00.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Post-Modern Italian Set of Ten Dining Chairs in Leather and Wood For Sale 3",
+            "contentUrl": "https://a.1stdibscdn.com/post-modern-italian-set-of-ten-dining-chairs-in-leather-and-wood-for-sale-picture-7/f_9331/f_440418921742052529519/tmp_image_master.JPEG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/post-modern-italian-set-of-ten-dining-chairs-in-leather-and-wood-for-sale-picture-7/f_9331/f_440418921742052529519/tmp_image_master.JPEG?width=768",
+            "uploadDate": "2025-03-20T06:39:00.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Post-Modern Italian Set of Ten Dining Chairs in Leather and Wood For Sale 4",
+            "contentUrl": "https://a.1stdibscdn.com/post-modern-italian-set-of-ten-dining-chairs-in-leather-and-wood-for-sale-picture-8/f_9331/f_440418921742052537501/tmp_image_master.JPEG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/post-modern-italian-set-of-ten-dining-chairs-in-leather-and-wood-for-sale-picture-8/f_9331/f_440418921742052537501/tmp_image_master.JPEG?width=768",
+            "uploadDate": "2025-03-20T06:39:00.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Post-Modern Italian Set of Ten Dining Chairs in Leather and Wood For Sale 5",
+            "contentUrl": "https://a.1stdibscdn.com/post-modern-italian-set-of-ten-dining-chairs-in-leather-and-wood-for-sale-picture-9/f_9331/f_440418921742052546175/tmp_image_master.JPEG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/post-modern-italian-set-of-ten-dining-chairs-in-leather-and-wood-for-sale-picture-9/f_9331/f_440418921742052546175/tmp_image_master.JPEG?width=768",
+            "uploadDate": "2025-03-20T06:39:00.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Post-Modern Italian Set of Ten Dining Chairs in Leather and Wood For Sale 6",
+            "contentUrl": "https://a.1stdibscdn.com/post-modern-italian-set-of-ten-dining-chairs-in-leather-and-wood-for-sale-picture-10/f_9331/f_440418921742052554032/tmp_image_master.JPEG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/post-modern-italian-set-of-ten-dining-chairs-in-leather-and-wood-for-sale-picture-10/f_9331/f_440418921742052554032/tmp_image_master.JPEG?width=768",
+            "uploadDate": "2025-03-20T06:39:00.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Post-Modern Italian Set of Ten Dining Chairs in Leather and Wood For Sale 7",
+            "contentUrl": "https://a.1stdibscdn.com/post-modern-italian-set-of-ten-dining-chairs-in-leather-and-wood-for-sale-picture-11/f_9331/f_440418921742052563343/tmp_image_master.JPEG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/post-modern-italian-set-of-ten-dining-chairs-in-leather-and-wood-for-sale-picture-11/f_9331/f_440418921742052563343/tmp_image_master.JPEG?width=768",
+            "uploadDate": "2025-03-20T06:39:00.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Post-Modern Italian Set of Ten Dining Chairs in Leather and Wood For Sale 8",
+            "contentUrl": "https://a.1stdibscdn.com/post-modern-italian-set-of-ten-dining-chairs-in-leather-and-wood-for-sale-picture-12/f_9331/f_440418921742052573476/tmp_image_master.JPEG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/post-modern-italian-set-of-ten-dining-chairs-in-leather-and-wood-for-sale-picture-12/f_9331/f_440418921742052573476/tmp_image_master.JPEG?width=768",
+            "uploadDate": "2025-03-20T06:39:00.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Post-Modern Italian Set of Ten Dining Chairs in Leather and Wood For Sale 9",
+            "contentUrl": "https://a.1stdibscdn.com/post-modern-italian-set-of-ten-dining-chairs-in-leather-and-wood-for-sale-picture-13/f_9331/f_440418921742052582815/tmp_image_master.JPEG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/post-modern-italian-set-of-ten-dining-chairs-in-leather-and-wood-for-sale-picture-13/f_9331/f_440418921742052582815/tmp_image_master.JPEG?width=768",
+            "uploadDate": "2025-03-20T06:39:00.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/UsedCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/dining-room-chairs/post-modern-italian-set-of-ten-dining-chairs-leather-wood/id-f_44041892/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 19023.99,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 10549.29,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 241534.61,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 10972.12,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 9237.56,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 82318.35,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 11700,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 17213,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 120979.55,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 126158.43,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 4.9,
+          "reviewCount": 170
+        },
+        "productionDate": "1980-1989",
+        "category": "Dining Room Chairs"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Dining Room Chairs",
+              "@id": "/furniture/seating/dining-room-chairs/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

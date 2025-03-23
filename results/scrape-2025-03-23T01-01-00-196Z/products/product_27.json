@@ -1,0 +1,305 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44116222",
+  "name": "Butterfly chair F675 by Pierre Paulin for Artifort, Netherlands 1963",
+  "slug": "f_44116222",
+  "price": "CA$8,800.94",
+  "description": "f_44116222",
+  "image_url": "https://a.1stdibscdn.com/butterfly-chair-f675-by-pierre-paulin-for-artifort-netherlands-1963-for-sale/f_65962/f_441162221742400407861/f_44116222_1742400408150_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/lounge-chairs/butterfly-chair-f675-pierre-paulin-artifort-netherlands-1963/id-f_44116222/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 25.2 in (64 cm)",
+      "width": "Width: 31.89 in (81 cm)",
+      "depth": "Depth: 25.6 in (65 cm)",
+      "seatHeight": "Seat Height: 12.21 in (31 cm)"
+    },
+    "style": "Mid-Century Modern (Of the Period)",
+    "materials": [
+      "Leather",
+      "Metal",
+      "Leather",
+      "Metal"
+    ],
+    "origin": "Netherlands",
+    "period": "1960-1969",
+    "dateOfManufacture": "1963",
+    "condition": {
+      "rating": "Good",
+      "details": "Wear consistent with age and use."
+    },
+    "sellerLocation": "Athens, GR",
+    "referenceNumber": "1stDibs: LU6596244116222",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">The butterfly F675 lounge chair was designed by Pierre Paulin for Artifort, Netherlands 1963.\nThe lounge chair has steel geometric frame and sturdy, natural leather, in cognac colour, with beautiful patina.\nThe chair belonged to the daughter of Dutch architect Van Loghem and has been around the family for generations.</span></div></div>",
+    "rawSpecificationsText": "The butterfly F675 lounge chair was designed by Pierre Paulin for Artifort, Netherlands 1963.\nThe lounge chair has steel geometric frame and sturdy, natural leather, in cognac colour, with beautiful patina.\nThe chair belonged to the daughter of Dutch architect Van Loghem and has been around the family for generations."
+  },
+  "raw_data": {
+    "productId": "f_44116222",
+    "slug": "f_44116222",
+    "url": "https://www.1stdibs.com/furniture/seating/lounge-chairs/butterfly-chair-f675-pierre-paulin-artifort-netherlands-1963/id-f_44116222/",
+    "name": "Butterfly chair F675 by Pierre Paulin for Artifort, Netherlands 1963",
+    "price": "CA$8,800.94",
+    "imageUrl": "https://a.1stdibscdn.com/butterfly-chair-f675-by-pierre-paulin-for-artifort-netherlands-1963-for-sale/f_65962/f_441162221742400407861/f_44116222_1742400408150_bg_processed.jpg",
+    "description": "f_44116222",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 25.2 in (64 cm)",
+        "width": "Width: 31.89 in (81 cm)",
+        "depth": "Depth: 25.6 in (65 cm)",
+        "seatHeight": "Seat Height: 12.21 in (31 cm)"
+      },
+      "style": "Mid-Century Modern (Of the Period)",
+      "materials": [
+        "Leather",
+        "Metal",
+        "Leather",
+        "Metal"
+      ],
+      "origin": "Netherlands",
+      "period": "1960-1969",
+      "dateOfManufacture": "1963",
+      "condition": {
+        "rating": "Good",
+        "details": "Wear consistent with age and use."
+      },
+      "sellerLocation": "Athens, GR",
+      "referenceNumber": "1stDibs: LU6596244116222",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">The butterfly F675 lounge chair was designed by Pierre Paulin for Artifort, Netherlands 1963.\nThe lounge chair has steel geometric frame and sturdy, natural leather, in cognac colour, with beautiful patina.\nThe chair belonged to the daughter of Dutch architect Van Loghem and has been around the family for generations.</span></div></div>",
+      "rawSpecificationsText": "The butterfly F675 lounge chair was designed by Pierre Paulin for Artifort, Netherlands 1963.\nThe lounge chair has steel geometric frame and sturdy, natural leather, in cognac colour, with beautiful patina.\nThe chair belonged to the daughter of Dutch architect Van Loghem and has been around the family for generations."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Butterfly chair F675 by Pierre Paulin for Artifort, Netherlands 1963",
+        "description": "The butterfly F675 lounge chair was designed by Pierre Paulin for Artifort, Netherlands 1963.\nThe lounge chair has steel geometric frame and sturdy, natural leather, in cognac colour, with beautiful patina.\nThe chair belonged to the daughter of Dutch architect Van Loghem and has been around the family for generations.",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Artifort, Pierre Paulin",
+            "caption": "Butterfly chair F675 by Pierre Paulin for Artifort, Netherlands 1963 For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/butterfly-chair-f675-by-pierre-paulin-for-artifort-netherlands-1963-for-sale/f_65962/f_441162221742400407861/f_44116222_1742400408150_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/butterfly-chair-f675-by-pierre-paulin-for-artifort-netherlands-1963-for-sale/f_65962/f_441162221742400407861/f_44116222_1742400408150_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-19T12:18:21.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Artifort, Pierre Paulin",
+            "caption": "The butterfly F675 lounge chair was designed by Pierre Paulin for Artifort, Netherlands 1963.\nThe lounge chair has steel geometric frame and sturdy, natural leather, in cognac colour, with beautiful patina.\nThe chair belonged to the daughter of",
+            "contentUrl": "https://a.1stdibscdn.com/butterfly-chair-f675-by-pierre-paulin-for-artifort-netherlands-1963-for-sale-picture-2/f_65962/f_441162221742400440269/bttff_37227_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/butterfly-chair-f675-by-pierre-paulin-for-artifort-netherlands-1963-for-sale-picture-2/f_65962/f_441162221742400440269/bttff_37227_master.jpg?width=768",
+            "uploadDate": "2025-03-19T12:18:21.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Artifort, Pierre Paulin",
+            "caption": "Mid-Century Modern Butterfly chair F675 by Pierre Paulin for Artifort, Netherlands 1963 For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/butterfly-chair-f675-by-pierre-paulin-for-artifort-netherlands-1963-for-sale-picture-3/f_65962/f_441162221742400446096/bttff_37230_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/butterfly-chair-f675-by-pierre-paulin-for-artifort-netherlands-1963-for-sale-picture-3/f_65962/f_441162221742400446096/bttff_37230_master.jpg?width=768",
+            "uploadDate": "2025-03-19T12:18:21.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Artifort, Pierre Paulin",
+            "caption": "Dutch Butterfly chair F675 by Pierre Paulin for Artifort, Netherlands 1963 For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/butterfly-chair-f675-by-pierre-paulin-for-artifort-netherlands-1963-for-sale-picture-4/f_65962/f_441162221742400453887/bttff_37231_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/butterfly-chair-f675-by-pierre-paulin-for-artifort-netherlands-1963-for-sale-picture-4/f_65962/f_441162221742400453887/bttff_37231_master.jpg?width=768",
+            "uploadDate": "2025-03-19T12:18:21.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Artifort, Pierre Paulin",
+            "caption": "Butterfly chair F675 by Pierre Paulin for Artifort, Netherlands 1963 In Good Condition For Sale In Athens, Attiki",
+            "contentUrl": "https://a.1stdibscdn.com/butterfly-chair-f675-by-pierre-paulin-for-artifort-netherlands-1963-for-sale-picture-5/f_65962/f_441162221742400453894/bttff_37232_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/butterfly-chair-f675-by-pierre-paulin-for-artifort-netherlands-1963-for-sale-picture-5/f_65962/f_441162221742400453894/bttff_37232_master.jpg?width=768",
+            "uploadDate": "2025-03-19T12:18:21.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Artifort, Pierre Paulin",
+            "caption": "Mid-20th Century Butterfly chair F675 by Pierre Paulin for Artifort, Netherlands 1963 For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/butterfly-chair-f675-by-pierre-paulin-for-artifort-netherlands-1963-for-sale-picture-6/f_65962/f_441162221742400455826/bttff_37234_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/butterfly-chair-f675-by-pierre-paulin-for-artifort-netherlands-1963-for-sale-picture-6/f_65962/f_441162221742400455826/bttff_37234_master.jpg?width=768",
+            "uploadDate": "2025-03-19T12:18:21.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Artifort, Pierre Paulin",
+            "caption": "Metal Butterfly chair F675 by Pierre Paulin for Artifort, Netherlands 1963 For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/butterfly-chair-f675-by-pierre-paulin-for-artifort-netherlands-1963-for-sale-picture-7/f_65962/f_441162221742400455843/bttff_37240_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/butterfly-chair-f675-by-pierre-paulin-for-artifort-netherlands-1963-for-sale-picture-7/f_65962/f_441162221742400455843/bttff_37240_master.jpg?width=768",
+            "uploadDate": "2025-03-19T12:18:21.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Artifort, Pierre Paulin",
+            "caption": "Butterfly chair F675 by Pierre Paulin for Artifort, Netherlands 1963 For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/butterfly-chair-f675-by-pierre-paulin-for-artifort-netherlands-1963-for-sale-picture-8/f_65962/f_441162221742400456434/bttff_37241_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/butterfly-chair-f675-by-pierre-paulin-for-artifort-netherlands-1963-for-sale-picture-8/f_65962/f_441162221742400456434/bttff_37241_master.jpg?width=768",
+            "uploadDate": "2025-03-19T12:18:21.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Artifort, Pierre Paulin",
+            "caption": "Butterfly chair F675 by Pierre Paulin for Artifort, Netherlands 1963 For Sale 2",
+            "contentUrl": "https://a.1stdibscdn.com/butterfly-chair-f675-by-pierre-paulin-for-artifort-netherlands-1963-for-sale-picture-9/f_65962/f_441162221742400464236/bttff_37242_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/butterfly-chair-f675-by-pierre-paulin-for-artifort-netherlands-1963-for-sale-picture-9/f_65962/f_441162221742400464236/bttff_37242_master.jpg?width=768",
+            "uploadDate": "2025-03-19T12:18:21.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Artifort, Pierre Paulin",
+            "caption": "Butterfly chair F675 by Pierre Paulin for Artifort, Netherlands 1963 For Sale 3",
+            "contentUrl": "https://a.1stdibscdn.com/butterfly-chair-f675-by-pierre-paulin-for-artifort-netherlands-1963-for-sale-picture-10/f_65962/f_441162221742400464883/bttff_37243_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/butterfly-chair-f675-by-pierre-paulin-for-artifort-netherlands-1963-for-sale-picture-10/f_65962/f_441162221742400464883/bttff_37243_master.jpg?width=768",
+            "uploadDate": "2025-03-19T12:18:21.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Artifort, Pierre Paulin",
+            "caption": "Butterfly chair F675 by Pierre Paulin for Artifort, Netherlands 1963 For Sale 4",
+            "contentUrl": "https://a.1stdibscdn.com/butterfly-chair-f675-by-pierre-paulin-for-artifort-netherlands-1963-for-sale-picture-11/f_65962/f_441162221742400464239/bttff_37244_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/butterfly-chair-f675-by-pierre-paulin-for-artifort-netherlands-1963-for-sale-picture-11/f_65962/f_441162221742400464239/bttff_37244_master.jpg?width=768",
+            "uploadDate": "2025-03-19T12:18:21.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/UsedCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/lounge-chairs/butterfly-chair-f675-pierre-paulin-artifort-netherlands-1963/id-f_44116222/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 5393.81,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 9726.89,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 123495.66,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 5500,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 4723.13,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 42089.03,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 6101.81,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 8800.94,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 61856.35,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 64504.29,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 5,
+          "reviewCount": 2
+        },
+        "productionDate": "1960-1969",
+        "category": "Lounge Chairs",
+        "brand": {
+          "@type": "Brand",
+          "name": "Artifort, Pierre Paulin"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Lounge Chairs",
+              "@id": "/furniture/seating/lounge-chairs/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

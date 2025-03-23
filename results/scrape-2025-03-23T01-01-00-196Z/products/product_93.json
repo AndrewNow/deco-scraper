@@ -1,0 +1,311 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44027432",
+  "name": "'Gościcino' Lounge Chair in Solid Oak, Webbing and Wool Poland 1930s",
+  "slug": "f_44027432",
+  "price": "CA$5,112.41",
+  "description": "f_44027432",
+  "image_url": "https://a.1stdibscdn.com/goscicino-lounge-chair-in-solid-oak-webbing-and-wool-poland-1930s-for-sale/f_99522/f_440274321741879044017/f_44027432_1741879044624_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/lounge-chairs/goscicino-lounge-chair-solid-oak-webbing-wool-poland-1930s/id-f_44027432/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 32.29 in (82 cm)",
+      "width": "Width: 24.02 in (61 cm)",
+      "depth": "Depth: 27.17 in (69 cm)",
+      "seatHeight": "Seat Height: 12.6 in (32 cm)"
+    },
+    "style": "Art Deco (In the Style Of)",
+    "materials": [
+      "Oak",
+      "Wool",
+      "Oak",
+      "Wool"
+    ],
+    "origin": "Poland",
+    "period": "Early 20th Century",
+    "dateOfManufacture": "1920-1950",
+    "condition": {
+      "rating": "Good",
+      "details": "Wear consistent with age and use."
+    },
+    "sellerLocation": "Meer, BE",
+    "referenceNumber": "1stDibs: LU9952244027432",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">'Gościcino' Lounge Chair in Solid Oak, Webbing and Wool Poland 1930s\n\nThis is a lovely and comfortable lounge chair in solid oak by the Polish furniture maker 'Gościcino' from the city with the same name. 1930s.\n\nGreat design with the rounded backrest and the decoratively applied webbing in ‘sun ray’ shape. We’ve added a new round cushion in wool. \n\nA great chair for a cozy corner or the bedroom. \n\nComes in a very good condition.</span></div></div>",
+    "rawSpecificationsText": "'Gościcino' Lounge Chair in Solid Oak, Webbing and Wool Poland 1930s\n\nThis is a lovely and comfortable lounge chair in solid oak by the Polish furniture maker 'Gościcino' from the city with the same name. 1930s.\n\nGreat design with the rounded backrest and the decoratively applied webbing in ‘sun ray’ shape. We’ve added a new round cushion in wool. \n\nA great chair for a cozy corner or the bedroom. \n\nComes in a very good condition."
+  },
+  "raw_data": {
+    "productId": "f_44027432",
+    "slug": "f_44027432",
+    "url": "https://www.1stdibs.com/furniture/seating/lounge-chairs/goscicino-lounge-chair-solid-oak-webbing-wool-poland-1930s/id-f_44027432/",
+    "name": "'Gościcino' Lounge Chair in Solid Oak, Webbing and Wool Poland 1930s",
+    "price": "CA$5,112.41",
+    "imageUrl": "https://a.1stdibscdn.com/goscicino-lounge-chair-in-solid-oak-webbing-and-wool-poland-1930s-for-sale/f_99522/f_440274321741879044017/f_44027432_1741879044624_bg_processed.jpg",
+    "description": "f_44027432",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 32.29 in (82 cm)",
+        "width": "Width: 24.02 in (61 cm)",
+        "depth": "Depth: 27.17 in (69 cm)",
+        "seatHeight": "Seat Height: 12.6 in (32 cm)"
+      },
+      "style": "Art Deco (In the Style Of)",
+      "materials": [
+        "Oak",
+        "Wool",
+        "Oak",
+        "Wool"
+      ],
+      "origin": "Poland",
+      "period": "Early 20th Century",
+      "dateOfManufacture": "1920-1950",
+      "condition": {
+        "rating": "Good",
+        "details": "Wear consistent with age and use."
+      },
+      "sellerLocation": "Meer, BE",
+      "referenceNumber": "1stDibs: LU9952244027432",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">'Gościcino' Lounge Chair in Solid Oak, Webbing and Wool Poland 1930s\n\nThis is a lovely and comfortable lounge chair in solid oak by the Polish furniture maker 'Gościcino' from the city with the same name. 1930s.\n\nGreat design with the rounded backrest and the decoratively applied webbing in ‘sun ray’ shape. We’ve added a new round cushion in wool. \n\nA great chair for a cozy corner or the bedroom. \n\nComes in a very good condition.</span></div></div>",
+      "rawSpecificationsText": "'Gościcino' Lounge Chair in Solid Oak, Webbing and Wool Poland 1930s\n\nThis is a lovely and comfortable lounge chair in solid oak by the Polish furniture maker 'Gościcino' from the city with the same name. 1930s.\n\nGreat design with the rounded backrest and the decoratively applied webbing in ‘sun ray’ shape. We’ve added a new round cushion in wool. \n\nA great chair for a cozy corner or the bedroom. \n\nComes in a very good condition."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "'Gościcino' Lounge Chair in Solid Oak, Webbing and Wool Poland 1930s",
+        "description": "'Gościcino' Lounge Chair in Solid Oak, Webbing and Wool Poland 1930s\n\nThis is a lovely and comfortable lounge chair in solid oak by the Polish furniture maker 'Gościcino' from the city with the same name. 1930s.\n\nGreat design with the rounded backrest and the decoratively applied webbing in ‘sun ray’ shape. We’ve added a new round cushion in wool. \n\nA great chair for a cozy corner or the bedroom. \n\nComes in a very good condition.",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "'Gościcino' Lounge Chair in Solid Oak, Webbing and Wool Poland 1930s For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/goscicino-lounge-chair-in-solid-oak-webbing-and-wool-poland-1930s-for-sale/f_99522/f_440274321741879044017/f_44027432_1741879044624_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/goscicino-lounge-chair-in-solid-oak-webbing-and-wool-poland-1930s-for-sale/f_99522/f_440274321741879044017/f_44027432_1741879044624_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-21T07:09:57.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "'Gościcino' Lounge Chair in Solid Oak, Webbing and Wool Poland 1930s\n\nThis is a lovely and comfortable lounge chair in solid oak by the Polish furniture maker 'Gościcino' from the city with the same name. 1930s.\n\nGreat design with the rounded",
+            "contentUrl": "https://a.1stdibscdn.com/goscicino-lounge-chair-in-solid-oak-webbing-and-wool-poland-1930s-for-sale-picture-2/f_99522/f_440274321741878310239/Poolse_Stoel_1_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/goscicino-lounge-chair-in-solid-oak-webbing-and-wool-poland-1930s-for-sale-picture-2/f_99522/f_440274321741878310239/Poolse_Stoel_1_master.jpg?width=768",
+            "uploadDate": "2025-03-21T07:09:57.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Art Deco 'Gościcino' Lounge Chair in Solid Oak, Webbing and Wool Poland 1930s For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/goscicino-lounge-chair-in-solid-oak-webbing-and-wool-poland-1930s-for-sale-picture-3/f_99522/f_440274321741878310312/Poolse_Stoel_2_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/goscicino-lounge-chair-in-solid-oak-webbing-and-wool-poland-1930s-for-sale-picture-3/f_99522/f_440274321741878310312/Poolse_Stoel_2_master.jpg?width=768",
+            "uploadDate": "2025-03-21T07:09:57.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Polish 'Gościcino' Lounge Chair in Solid Oak, Webbing and Wool Poland 1930s For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/goscicino-lounge-chair-in-solid-oak-webbing-and-wool-poland-1930s-for-sale-picture-4/f_99522/f_440274321741878310578/Poolse_Stoel_4_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/goscicino-lounge-chair-in-solid-oak-webbing-and-wool-poland-1930s-for-sale-picture-4/f_99522/f_440274321741878310578/Poolse_Stoel_4_master.jpg?width=768",
+            "uploadDate": "2025-03-21T07:09:57.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Hand-Crafted 'Gościcino' Lounge Chair in Solid Oak, Webbing and Wool Poland 1930s For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/goscicino-lounge-chair-in-solid-oak-webbing-and-wool-poland-1930s-for-sale-picture-5/f_99522/f_440274321741878310543/Poolse_Stoel_5_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/goscicino-lounge-chair-in-solid-oak-webbing-and-wool-poland-1930s-for-sale-picture-5/f_99522/f_440274321741878310543/Poolse_Stoel_5_master.jpg?width=768",
+            "uploadDate": "2025-03-21T07:09:57.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "'Gościcino' Lounge Chair in Solid Oak, Webbing and Wool Poland 1930s In Good Condition For Sale In Meer, VAN",
+            "contentUrl": "https://a.1stdibscdn.com/goscicino-lounge-chair-in-solid-oak-webbing-and-wool-poland-1930s-for-sale-picture-6/f_99522/f_440274321741878310613/Poolse_Stoel_6_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/goscicino-lounge-chair-in-solid-oak-webbing-and-wool-poland-1930s-for-sale-picture-6/f_99522/f_440274321741878310613/Poolse_Stoel_6_master.jpg?width=768",
+            "uploadDate": "2025-03-21T07:09:57.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "20th Century 'Gościcino' Lounge Chair in Solid Oak, Webbing and Wool Poland 1930s For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/goscicino-lounge-chair-in-solid-oak-webbing-and-wool-poland-1930s-for-sale-picture-7/f_99522/f_440274321741878313146/Poolse_Stoel_7_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/goscicino-lounge-chair-in-solid-oak-webbing-and-wool-poland-1930s-for-sale-picture-7/f_99522/f_440274321741878313146/Poolse_Stoel_7_master.jpg?width=768",
+            "uploadDate": "2025-03-21T07:09:57.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "'Gościcino' Lounge Chair in Solid Oak, Webbing and Wool Poland 1930s For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/goscicino-lounge-chair-in-solid-oak-webbing-and-wool-poland-1930s-for-sale-picture-8/f_99522/f_440274321741878313309/Poolse_Stoel_8_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/goscicino-lounge-chair-in-solid-oak-webbing-and-wool-poland-1930s-for-sale-picture-8/f_99522/f_440274321741878313309/Poolse_Stoel_8_master.jpg?width=768",
+            "uploadDate": "2025-03-21T07:09:57.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "'Gościcino' Lounge Chair in Solid Oak, Webbing and Wool Poland 1930s For Sale 2",
+            "contentUrl": "https://a.1stdibscdn.com/goscicino-lounge-chair-in-solid-oak-webbing-and-wool-poland-1930s-for-sale-picture-9/f_99522/f_440274321741878312876/Poolse_Stoel_9_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/goscicino-lounge-chair-in-solid-oak-webbing-and-wool-poland-1930s-for-sale-picture-9/f_99522/f_440274321741878312876/Poolse_Stoel_9_master.jpg?width=768",
+            "uploadDate": "2025-03-21T07:09:57.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "'Gościcino' Lounge Chair in Solid Oak, Webbing and Wool Poland 1930s For Sale 3",
+            "contentUrl": "https://a.1stdibscdn.com/goscicino-lounge-chair-in-solid-oak-webbing-and-wool-poland-1930s-for-sale-picture-10/f_99522/f_440274321741878312896/Poolse_Stoel_10_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/goscicino-lounge-chair-in-solid-oak-webbing-and-wool-poland-1930s-for-sale-picture-10/f_99522/f_440274321741878312896/Poolse_Stoel_10_master.jpg?width=768",
+            "uploadDate": "2025-03-21T07:09:57.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "'Gościcino' Lounge Chair in Solid Oak, Webbing and Wool Poland 1930s For Sale 4",
+            "contentUrl": "https://a.1stdibscdn.com/goscicino-lounge-chair-in-solid-oak-webbing-and-wool-poland-1930s-for-sale-picture-11/f_99522/f_440274321741878312984/Poolse_Stoel_11_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/goscicino-lounge-chair-in-solid-oak-webbing-and-wool-poland-1930s-for-sale-picture-11/f_99522/f_440274321741878312984/Poolse_Stoel_11_master.jpg?width=768",
+            "uploadDate": "2025-03-21T07:09:57.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "'Gościcino' Lounge Chair in Solid Oak, Webbing and Wool Poland 1930s For Sale 5",
+            "contentUrl": "https://a.1stdibscdn.com/goscicino-lounge-chair-in-solid-oak-webbing-and-wool-poland-1930s-for-sale-picture-12/f_99522/f_440274321741878313103/Poolse_Stoel_12_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/goscicino-lounge-chair-in-solid-oak-webbing-and-wool-poland-1930s-for-sale-picture-12/f_99522/f_440274321741878313103/Poolse_Stoel_12_master.jpg?width=768",
+            "uploadDate": "2025-03-21T07:09:57.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/UsedCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/lounge-chairs/goscicino-lounge-chair-solid-oak-webbing-wool-poland-1930s/id-f_44027432/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 5650.29,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3133.23,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 71737.84,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3258.81,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 2743.63,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 24449.25,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3475,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 5112.41,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 35931.96,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 37470.13,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 5,
+          "reviewCount": 1
+        },
+        "productionDate": "Early 20th Century",
+        "category": "Lounge Chairs"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Lounge Chairs",
+              "@id": "/furniture/seating/lounge-chairs/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

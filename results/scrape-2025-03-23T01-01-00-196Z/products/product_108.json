@@ -1,0 +1,372 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44099682",
+  "name": "Mid-20th Century Restored Coastal Brighton Pavilion Bamboo Cane Side Chairs-Pair",
+  "slug": "f_44099682",
+  "price": "CA$5,296.31",
+  "description": "f_44099682",
+  "image_url": "https://a.1stdibscdn.com/archivesE/upload/1121189/f_440996821742565570052/44099682_datamatics.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/side-chairs/mid-20th-century-restored-coastal-brighton-pavilion-bamboo-cane-side-chairs-pair/id-f_44099682/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 34.25 in (87 cm)",
+      "width": "Width: 21 in (53.34 cm)",
+      "depth": "Depth: 18 in (45.72 cm)",
+      "seatHeight": "Seat Height: 15.5 in (39.37 cm)"
+    },
+    "style": "British Colonial (In the Style Of)",
+    "materials": [
+      "Bamboo",
+      "Bamboo"
+    ],
+    "origin": "Unknown",
+    "period": "Mid-20th Century",
+    "dateOfManufacture": "unknown",
+    "condition": {
+      "rating": "Good",
+      "details": "Refinished. Wear consistent with age and use. Minimal wear most to the underlying finish before restoration. Real bamboo will always split considering hand made, use and age. Overall excellent restored vintage condition."
+    },
+    "sellerLocation": "North Fort Myers, FL",
+    "referenceNumber": "1stDibs: LU9847244099682",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">This exquisite pair of Brighton Pavilion-style armchairs showcases intricate bamboo fretwork, gracefully curved arms, and a warm tortoise finish.\nThe caned seats add texture and craftsmanship, making these chairs a perfect blend of elegance and organic charm.\nFully restored to highlight their natural beauty, they offer both style and comfort for any coastal, chinoiserie, or bohemian-inspired space.\n\nCondition: Beautifully restored with a rich tortoise finish; cane seats in excellent condition.\n\nPlease zoom in on all photos and reach out with any questions happy to help.</span></div></div>",
+    "rawSpecificationsText": "This exquisite pair of Brighton Pavilion-style armchairs showcases intricate bamboo fretwork, gracefully curved arms, and a warm tortoise finish.\nThe caned seats add texture and craftsmanship, making these chairs a perfect blend of elegance and organic charm.\nFully restored to highlight their natural beauty, they offer both style and comfort for any coastal, chinoiserie, or bohemian-inspired space.\n\nCondition: Beautifully restored with a rich tortoise finish; cane seats in excellent condition.\n\nPlease zoom in on all photos and reach out with any questions happy to help."
+  },
+  "raw_data": {
+    "productId": "f_44099682",
+    "slug": "f_44099682",
+    "url": "https://www.1stdibs.com/furniture/seating/side-chairs/mid-20th-century-restored-coastal-brighton-pavilion-bamboo-cane-side-chairs-pair/id-f_44099682/",
+    "name": "Mid-20th Century Restored Coastal Brighton Pavilion Bamboo Cane Side Chairs-Pair",
+    "price": "CA$5,296.31",
+    "imageUrl": "https://a.1stdibscdn.com/archivesE/upload/1121189/f_440996821742565570052/44099682_datamatics.jpg",
+    "description": "f_44099682",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 34.25 in (87 cm)",
+        "width": "Width: 21 in (53.34 cm)",
+        "depth": "Depth: 18 in (45.72 cm)",
+        "seatHeight": "Seat Height: 15.5 in (39.37 cm)"
+      },
+      "style": "British Colonial (In the Style Of)",
+      "materials": [
+        "Bamboo",
+        "Bamboo"
+      ],
+      "origin": "Unknown",
+      "period": "Mid-20th Century",
+      "dateOfManufacture": "unknown",
+      "condition": {
+        "rating": "Good",
+        "details": "Refinished. Wear consistent with age and use. Minimal wear most to the underlying finish before restoration. Real bamboo will always split considering hand made, use and age. Overall excellent restored vintage condition."
+      },
+      "sellerLocation": "North Fort Myers, FL",
+      "referenceNumber": "1stDibs: LU9847244099682",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">This exquisite pair of Brighton Pavilion-style armchairs showcases intricate bamboo fretwork, gracefully curved arms, and a warm tortoise finish.\nThe caned seats add texture and craftsmanship, making these chairs a perfect blend of elegance and organic charm.\nFully restored to highlight their natural beauty, they offer both style and comfort for any coastal, chinoiserie, or bohemian-inspired space.\n\nCondition: Beautifully restored with a rich tortoise finish; cane seats in excellent condition.\n\nPlease zoom in on all photos and reach out with any questions happy to help.</span></div></div>",
+      "rawSpecificationsText": "This exquisite pair of Brighton Pavilion-style armchairs showcases intricate bamboo fretwork, gracefully curved arms, and a warm tortoise finish.\nThe caned seats add texture and craftsmanship, making these chairs a perfect blend of elegance and organic charm.\nFully restored to highlight their natural beauty, they offer both style and comfort for any coastal, chinoiserie, or bohemian-inspired space.\n\nCondition: Beautifully restored with a rich tortoise finish; cane seats in excellent condition.\n\nPlease zoom in on all photos and reach out with any questions happy to help."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Mid-20th Century Restored Coastal Brighton Pavilion Bamboo Cane Side Chairs-Pair",
+        "description": "This exquisite pair of Brighton Pavilion-style armchairs showcases intricate bamboo fretwork, gracefully curved arms, and a warm tortoise finish.\nThe caned seats add texture and craftsmanship, making these chairs a perfect blend of elegance and organic charm.\nFully restored to highlight their natural beauty, they offer both style and comfort for any coastal, chinoiserie, or bohemian-inspired space.\n\nCondition: Beautifully restored with a rich tortoise finish; cane seats in excellent condition.\n\nPlease zoom in on all photos and reach out with any questions happy to help.",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Mid-20th Century Restored Coastal Brighton Pavilion Bamboo Cane Side Chairs-Pair For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/archivesE/upload/1121189/f_440996821742565570052/44099682_datamatics.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/archivesE/upload/1121189/f_440996821742565570052/44099682_datamatics.jpg?width=768",
+            "uploadDate": "2025-03-20T18:40:37.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "This exquisite pair of Brighton Pavilion-style armchairs showcases intricate bamboo fretwork, gracefully curved arms, and a warm tortoise finish.\nThe caned seats add texture and craftsmanship, making these chairs a perfect blend of elegance and",
+            "contentUrl": "https://a.1stdibscdn.com/mid-20th-century-restored-coastal-brighton-pavilion-bamboo-cane-side-chairs-pair-for-sale-picture-2/f_98472/1742311556216/mobilejpegupload_9DC9C179BE314D9F9F735EE1B37C6BEE_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mid-20th-century-restored-coastal-brighton-pavilion-bamboo-cane-side-chairs-pair-for-sale-picture-2/f_98472/1742311556216/mobilejpegupload_9DC9C179BE314D9F9F735EE1B37C6BEE_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:40:37.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "British Colonial Mid-20th Century Restored Coastal Brighton Pavilion Bamboo Cane Side Chairs-Pair For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/mid-20th-century-restored-coastal-brighton-pavilion-bamboo-cane-side-chairs-pair-for-sale-picture-3/f_98472/1742311535580/mobilejpegupload_EBD1AE862C804FC4B979E4DF2A63F078_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mid-20th-century-restored-coastal-brighton-pavilion-bamboo-cane-side-chairs-pair-for-sale-picture-3/f_98472/1742311535580/mobilejpegupload_EBD1AE862C804FC4B979E4DF2A63F078_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:40:37.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Unknown Mid-20th Century Restored Coastal Brighton Pavilion Bamboo Cane Side Chairs-Pair For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/mid-20th-century-restored-coastal-brighton-pavilion-bamboo-cane-side-chairs-pair-for-sale-picture-4/f_98472/1742311540048/mobilejpegupload_107A575A2CF14563B078BD878E5FF9AE_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mid-20th-century-restored-coastal-brighton-pavilion-bamboo-cane-side-chairs-pair-for-sale-picture-4/f_98472/1742311540048/mobilejpegupload_107A575A2CF14563B078BD878E5FF9AE_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:40:37.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Hand-Crafted Mid-20th Century Restored Coastal Brighton Pavilion Bamboo Cane Side Chairs-Pair For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/mid-20th-century-restored-coastal-brighton-pavilion-bamboo-cane-side-chairs-pair-for-sale-picture-5/f_98472/1742311524580/mobilejpegupload_C18597487CE2452F930DE7F455B274C9_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mid-20th-century-restored-coastal-brighton-pavilion-bamboo-cane-side-chairs-pair-for-sale-picture-5/f_98472/1742311524580/mobilejpegupload_C18597487CE2452F930DE7F455B274C9_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:40:37.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Mid-20th Century Restored Coastal Brighton Pavilion Bamboo Cane Side Chairs-Pair In Good Condition For Sale In North Fort Myers, FL",
+            "contentUrl": "https://a.1stdibscdn.com/mid-20th-century-restored-coastal-brighton-pavilion-bamboo-cane-side-chairs-pair-for-sale-picture-6/f_98472/1742311523085/mobilejpegupload_5490B3873C864C5C818BDBB21064C79F_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mid-20th-century-restored-coastal-brighton-pavilion-bamboo-cane-side-chairs-pair-for-sale-picture-6/f_98472/1742311523085/mobilejpegupload_5490B3873C864C5C818BDBB21064C79F_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:40:37.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Mid-20th Century Restored Coastal Brighton Pavilion Bamboo Cane Side Chairs-Pair For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/mid-20th-century-restored-coastal-brighton-pavilion-bamboo-cane-side-chairs-pair-for-sale-picture-7/f_98472/1742311526833/mobilejpegupload_71E2B76C2C704DA1A0A22CFBA7A6FA72_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mid-20th-century-restored-coastal-brighton-pavilion-bamboo-cane-side-chairs-pair-for-sale-picture-7/f_98472/1742311526833/mobilejpegupload_71E2B76C2C704DA1A0A22CFBA7A6FA72_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:40:37.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Mid-20th Century Restored Coastal Brighton Pavilion Bamboo Cane Side Chairs-Pair For Sale 2",
+            "contentUrl": "https://a.1stdibscdn.com/mid-20th-century-restored-coastal-brighton-pavilion-bamboo-cane-side-chairs-pair-for-sale-picture-8/f_98472/1742311531802/mobilejpegupload_00B50EEA1DAE488DBC38FB947E5BC900_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mid-20th-century-restored-coastal-brighton-pavilion-bamboo-cane-side-chairs-pair-for-sale-picture-8/f_98472/1742311531802/mobilejpegupload_00B50EEA1DAE488DBC38FB947E5BC900_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:40:37.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Mid-20th Century Restored Coastal Brighton Pavilion Bamboo Cane Side Chairs-Pair For Sale 3",
+            "contentUrl": "https://a.1stdibscdn.com/mid-20th-century-restored-coastal-brighton-pavilion-bamboo-cane-side-chairs-pair-for-sale-picture-9/f_98472/1742311548259/mobilejpegupload_3BE7E7934953499396F371F5AD4486DA_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mid-20th-century-restored-coastal-brighton-pavilion-bamboo-cane-side-chairs-pair-for-sale-picture-9/f_98472/1742311548259/mobilejpegupload_3BE7E7934953499396F371F5AD4486DA_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:40:37.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Mid-20th Century Restored Coastal Brighton Pavilion Bamboo Cane Side Chairs-Pair For Sale 4",
+            "contentUrl": "https://a.1stdibscdn.com/mid-20th-century-restored-coastal-brighton-pavilion-bamboo-cane-side-chairs-pair-for-sale-picture-10/f_98472/1742311536633/mobilejpegupload_4C4BF2E5510C44CF9DC26C11F0832A1F_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mid-20th-century-restored-coastal-brighton-pavilion-bamboo-cane-side-chairs-pair-for-sale-picture-10/f_98472/1742311536633/mobilejpegupload_4C4BF2E5510C44CF9DC26C11F0832A1F_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:40:37.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Mid-20th Century Restored Coastal Brighton Pavilion Bamboo Cane Side Chairs-Pair For Sale 5",
+            "contentUrl": "https://a.1stdibscdn.com/mid-20th-century-restored-coastal-brighton-pavilion-bamboo-cane-side-chairs-pair-for-sale-picture-11/f_98472/1742311543754/mobilejpegupload_03DCAC19E5AC4197B8148F188CCFDAA4_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mid-20th-century-restored-coastal-brighton-pavilion-bamboo-cane-side-chairs-pair-for-sale-picture-11/f_98472/1742311543754/mobilejpegupload_03DCAC19E5AC4197B8148F188CCFDAA4_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:40:37.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Mid-20th Century Restored Coastal Brighton Pavilion Bamboo Cane Side Chairs-Pair For Sale 6",
+            "contentUrl": "https://a.1stdibscdn.com/mid-20th-century-restored-coastal-brighton-pavilion-bamboo-cane-side-chairs-pair-for-sale-picture-12/f_98472/1742311549874/mobilejpegupload_45BF49FC691F4E218844DFD820B7388B_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mid-20th-century-restored-coastal-brighton-pavilion-bamboo-cane-side-chairs-pair-for-sale-picture-12/f_98472/1742311549874/mobilejpegupload_45BF49FC691F4E218844DFD820B7388B_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:40:37.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Mid-20th Century Restored Coastal Brighton Pavilion Bamboo Cane Side Chairs-Pair For Sale 7",
+            "contentUrl": "https://a.1stdibscdn.com/mid-20th-century-restored-coastal-brighton-pavilion-bamboo-cane-side-chairs-pair-for-sale-picture-13/f_98472/1742311553934/mobilejpegupload_E80827F5659E4A64BED2F9610C74ACB2_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mid-20th-century-restored-coastal-brighton-pavilion-bamboo-cane-side-chairs-pair-for-sale-picture-13/f_98472/1742311553934/mobilejpegupload_E80827F5659E4A64BED2F9610C74ACB2_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:40:37.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Mid-20th Century Restored Coastal Brighton Pavilion Bamboo Cane Side Chairs-Pair For Sale 8",
+            "contentUrl": "https://a.1stdibscdn.com/mid-20th-century-restored-coastal-brighton-pavilion-bamboo-cane-side-chairs-pair-for-sale-picture-14/f_98472/1742311559307/mobilejpegupload_63A8D8341D344507AA7D318DE3AC176E_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mid-20th-century-restored-coastal-brighton-pavilion-bamboo-cane-side-chairs-pair-for-sale-picture-14/f_98472/1742311559307/mobilejpegupload_63A8D8341D344507AA7D318DE3AC176E_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:40:37.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Mid-20th Century Restored Coastal Brighton Pavilion Bamboo Cane Side Chairs-Pair For Sale 9",
+            "contentUrl": "https://a.1stdibscdn.com/mid-20th-century-restored-coastal-brighton-pavilion-bamboo-cane-side-chairs-pair-for-sale-picture-15/f_98472/1742311561531/mobilejpegupload_4105CE9299354170AEE392249FEB1404_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mid-20th-century-restored-coastal-brighton-pavilion-bamboo-cane-side-chairs-pair-for-sale-picture-15/f_98472/1742311561531/mobilejpegupload_4105CE9299354170AEE392249FEB1404_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:40:37.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Mid-20th Century Restored Coastal Brighton Pavilion Bamboo Cane Side Chairs-Pair For Sale 10",
+            "contentUrl": "https://a.1stdibscdn.com/mid-20th-century-restored-coastal-brighton-pavilion-bamboo-cane-side-chairs-pair-for-sale-picture-16/f_98472/1742311529377/mobilejpegupload_CFA5C8F095514BB3A035E923D7648295_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mid-20th-century-restored-coastal-brighton-pavilion-bamboo-cane-side-chairs-pair-for-sale-picture-16/f_98472/1742311529377/mobilejpegupload_CFA5C8F095514BB3A035E923D7648295_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:40:37.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Mid-20th Century Restored Coastal Brighton Pavilion Bamboo Cane Side Chairs-Pair For Sale 11",
+            "contentUrl": "https://a.1stdibscdn.com/mid-20th-century-restored-coastal-brighton-pavilion-bamboo-cane-side-chairs-pair-for-sale-picture-17/f_98472/1742311564361/mobilejpegupload_EAB2E5DD4B634C1B862B47A96D740354_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mid-20th-century-restored-coastal-brighton-pavilion-bamboo-cane-side-chairs-pair-for-sale-picture-17/f_98472/1742311564361/mobilejpegupload_EAB2E5DD4B634C1B862B47A96D740354_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:40:37.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Mid-20th Century Restored Coastal Brighton Pavilion Bamboo Cane Side Chairs-Pair For Sale 12",
+            "contentUrl": "https://a.1stdibscdn.com/mid-20th-century-restored-coastal-brighton-pavilion-bamboo-cane-side-chairs-pair-for-sale-picture-18/f_98472/1742311543844/mobilejpegupload_0735A61FF5494DA2BBB91CD9FBE198D7_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mid-20th-century-restored-coastal-brighton-pavilion-bamboo-cane-side-chairs-pair-for-sale-picture-18/f_98472/1742311543844/mobilejpegupload_0735A61FF5494DA2BBB91CD9FBE198D7_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:40:37.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/UsedCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/side-chairs/mid-20th-century-restored-coastal-brighton-pavilion-bamboo-cane-side-chairs-pair/id-f_44099682/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3245.93,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 5853.54,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 74318.34,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3376.04,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 2842.33,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 25328.72,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3600,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 5296.31,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 37224.48,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 38817.98,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "productionDate": "Mid-20th Century",
+        "category": "Side Chairs"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Side Chairs",
+              "@id": "/furniture/seating/side-chairs/"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "VideoObject",
+        "name": "Mid-20th Century Restored Coastal Brighton Pavilion Bamboo Cane Side Chairs-Pair",
+        "description": "This exquisite pair of Brighton Pavilion-style armchairs showcases intricate bamboo fretwork, gracefully curved arms, and a warm tortoise finish.\nThe caned seats add texture and craftsmanship, making these chairs a perfect blend of elegance and organic charm.\nFully restored to highlight their natural beauty, they offer both style and comfort for any coastal, chinoiserie, or bohemian-inspired space.\n\nCondition: Beautifully restored with a rich tortoise finish; cane seats in excellent condition.\n\nPlease zoom in on all photos and reach out with any questions happy to help.",
+        "thumbnailUrl": "https://i.vimeocdn.com/video/1994812645-1ab9862ce29e91d86e0bfc7429f685247a436bf5d862e33a4c3459b32ab7ee1c-d_1920x1080?&r=pad",
+        "uploadDate": "2025-03-18T15:29:48+00:00",
+        "duration": "PT0H0M31S",
+        "contentUrl": "https://player.vimeo.com/progressive_redirect/playback/1066986495/rendition/240p/file.mp4?loc=external&oauth2_token_id=1438265637&signature=4ba9789211340b1059d2f09171766ac8c5175f653dff8d63cfaf48cd13c4a141&user_id=95659418"
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

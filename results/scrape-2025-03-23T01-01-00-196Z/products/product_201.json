@@ -1,0 +1,283 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44048922",
+  "name": "Mushroom Ottoman in Grass Wool",
+  "slug": "f_44048922",
+  "price": "CA$662.04",
+  "description": "f_44048922",
+  "image_url": "https://a.1stdibscdn.com/mushroom-ottoman-in-grass-wool-for-sale/f_59412/f_440489221741972649249/f_44048922_1741972649842_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/ottomans-poufs/mushroom-ottoman-grass-wool/id-f_44048922/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 18 in (45.72 cm)",
+      "seatHeight": "Seat Height: 18 in (45.72 cm)"
+    },
+    "style": "Mid-Century Modern (In the Style Of)",
+    "materials": [
+      "Wool",
+      "Wool"
+    ],
+    "origin": "United States",
+    "period": "2010-",
+    "dateOfManufacture": "2025",
+    "condition": {
+      "rating": "New",
+      "details": null
+    },
+    "sellerLocation": "Fairfield, CA",
+    "referenceNumber": "1stDibs: LU5941244048922",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">A handmade mushroom shaped ottoman, upholstered in \"Grass\" green wool fabric. Perfect for using as a footstool or extra occasional seating. A comfortable cushioned seat and sculptural accent piece. Earth friendly OEKO-TEX 100% boiled wool fabric.\nPLEASE NOTE:\nColor variations may occur due to different monitor settings. Colors shown on screen may be a close match, but please do not rely on them to be an exact match. Please feel free to send a message with your address to request a fabric sample prior to purchasing if you need to verify the color.</span></div></div>",
+    "rawSpecificationsText": "A handmade mushroom shaped ottoman, upholstered in \"Grass\" green wool fabric. Perfect for using as a footstool or extra occasional seating. A comfortable cushioned seat and sculptural accent piece. Earth friendly OEKO-TEX 100% boiled wool fabric.\nPLEASE NOTE:\nColor variations may occur due to different monitor settings. Colors shown on screen may be a close match, but please do not rely on them to be an exact match. Please feel free to send a message with your address to request a fabric sample prior to purchasing if you need to verify the color."
+  },
+  "raw_data": {
+    "productId": "f_44048922",
+    "slug": "f_44048922",
+    "url": "https://www.1stdibs.com/furniture/seating/ottomans-poufs/mushroom-ottoman-grass-wool/id-f_44048922/",
+    "name": "Mushroom Ottoman in Grass Wool",
+    "price": "CA$662.04",
+    "imageUrl": "https://a.1stdibscdn.com/mushroom-ottoman-in-grass-wool-for-sale/f_59412/f_440489221741972649249/f_44048922_1741972649842_bg_processed.jpg",
+    "description": "f_44048922",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 18 in (45.72 cm)",
+        "seatHeight": "Seat Height: 18 in (45.72 cm)"
+      },
+      "style": "Mid-Century Modern (In the Style Of)",
+      "materials": [
+        "Wool",
+        "Wool"
+      ],
+      "origin": "United States",
+      "period": "2010-",
+      "dateOfManufacture": "2025",
+      "condition": {
+        "rating": "New",
+        "details": null
+      },
+      "sellerLocation": "Fairfield, CA",
+      "referenceNumber": "1stDibs: LU5941244048922",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">A handmade mushroom shaped ottoman, upholstered in \"Grass\" green wool fabric. Perfect for using as a footstool or extra occasional seating. A comfortable cushioned seat and sculptural accent piece. Earth friendly OEKO-TEX 100% boiled wool fabric.\nPLEASE NOTE:\nColor variations may occur due to different monitor settings. Colors shown on screen may be a close match, but please do not rely on them to be an exact match. Please feel free to send a message with your address to request a fabric sample prior to purchasing if you need to verify the color.</span></div></div>",
+      "rawSpecificationsText": "A handmade mushroom shaped ottoman, upholstered in \"Grass\" green wool fabric. Perfect for using as a footstool or extra occasional seating. A comfortable cushioned seat and sculptural accent piece. Earth friendly OEKO-TEX 100% boiled wool fabric.\nPLEASE NOTE:\nColor variations may occur due to different monitor settings. Colors shown on screen may be a close match, but please do not rely on them to be an exact match. Please feel free to send a message with your address to request a fabric sample prior to purchasing if you need to verify the color."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Mushroom Ottoman in Grass Wool",
+        "description": "A handmade mushroom shaped ottoman, upholstered in \"Grass\" green wool fabric. Perfect for using as a footstool or extra occasional seating. A comfortable cushioned seat and sculptural accent piece. Earth friendly OEKO-TEX 100% boiled wool fabric.\nPLEASE NOTE:\nColor variations may occur due to different monitor settings. Colors shown on screen may be a close match, but please do not rely on them to be an exact match. Please feel free to send a message with your address to request a fabric sample prior to purchasing if you need to verify the color.",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Mushroom Ottoman in Grass Wool For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/mushroom-ottoman-in-grass-wool-for-sale/f_59412/f_440489221741972649249/f_44048922_1741972649842_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mushroom-ottoman-in-grass-wool-for-sale/f_59412/f_440489221741972649249/f_44048922_1741972649842_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-17T09:51:28.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "A handmade mushroom shaped ottoman, upholstered in \"Grass\" green wool fabric. Perfect for using as a footstool or extra occasional seating. A comfortable cushioned seat and sculptural accent piece. Earth friendly OEKO-TEX 100% boiled wool",
+            "contentUrl": "https://a.1stdibscdn.com/mushroom-ottoman-in-grass-wool-for-sale-picture-2/f_59412/f_440489221741972666765/IMG_0945_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mushroom-ottoman-in-grass-wool-for-sale-picture-2/f_59412/f_440489221741972666765/IMG_0945_master.jpeg?width=768",
+            "uploadDate": "2025-03-17T09:51:28.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Mid-Century Modern Mushroom Ottoman in Grass Wool For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/mushroom-ottoman-in-grass-wool-for-sale-picture-3/f_59412/f_440489221741972682978/IMG_0948_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mushroom-ottoman-in-grass-wool-for-sale-picture-3/f_59412/f_440489221741972682978/IMG_0948_master.jpeg?width=768",
+            "uploadDate": "2025-03-17T09:51:28.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "American Mushroom Ottoman in Grass Wool For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/mushroom-ottoman-in-grass-wool-for-sale-picture-4/f_59412/f_440489221741972689671/IMG_0950_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mushroom-ottoman-in-grass-wool-for-sale-picture-4/f_59412/f_440489221741972689671/IMG_0950_master.jpeg?width=768",
+            "uploadDate": "2025-03-17T09:51:28.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Mushroom Ottoman in Grass Wool In New Condition For Sale In Fairfield, CA",
+            "contentUrl": "https://a.1stdibscdn.com/mushroom-ottoman-in-grass-wool-for-sale-picture-5/f_59412/f_440489221741972688451/IMG_0952_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mushroom-ottoman-in-grass-wool-for-sale-picture-5/f_59412/f_440489221741972688451/IMG_0952_master.jpeg?width=768",
+            "uploadDate": "2025-03-17T09:51:28.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Contemporary Mushroom Ottoman in Grass Wool For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/mushroom-ottoman-in-grass-wool-for-sale-picture-6/f_59412/f_440489221741972690541/IMG_0954_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mushroom-ottoman-in-grass-wool-for-sale-picture-6/f_59412/f_440489221741972690541/IMG_0954_master.jpeg?width=768",
+            "uploadDate": "2025-03-17T09:51:28.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Mushroom Ottoman in Grass Wool For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/mushroom-ottoman-in-grass-wool-for-sale-picture-7/f_59412/f_440489221741972689197/IMG_0956_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mushroom-ottoman-in-grass-wool-for-sale-picture-7/f_59412/f_440489221741972689197/IMG_0956_master.jpeg?width=768",
+            "uploadDate": "2025-03-17T09:51:28.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Mushroom Ottoman in Grass Wool For Sale 2",
+            "contentUrl": "https://a.1stdibscdn.com/mushroom-ottoman-in-grass-wool-for-sale-picture-8/f_59412/f_440489221741972710883/Small_Groups_2_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mushroom-ottoman-in-grass-wool-for-sale-picture-8/f_59412/f_440489221741972710883/Small_Groups_2_master.jpeg?width=768",
+            "uploadDate": "2025-03-17T09:51:28.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Mushroom Ottoman in Grass Wool For Sale 3",
+            "contentUrl": "https://a.1stdibscdn.com/mushroom-ottoman-in-grass-wool-for-sale-picture-9/f_59412/f_440489221741972733486/handmade_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mushroom-ottoman-in-grass-wool-for-sale-picture-9/f_59412/f_440489221741972733486/handmade_master.jpg?width=768",
+            "uploadDate": "2025-03-17T09:51:28.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/NewCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/ottomans-poufs/mushroom-ottoman-grass-wool/id-f_44048922/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 405.74,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 731.69,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 9289.79,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 422,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 355.29,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3166.09,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 450,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 662.04,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 4653.06,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 4852.25,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 5,
+          "reviewCount": 23
+        },
+        "productionDate": "2010-",
+        "category": "Ottomans and Poufs"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Ottomans and Poufs",
+              "@id": "/furniture/seating/ottomans-poufs/"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "VideoObject",
+        "name": "Mushroom Ottoman in Grass Wool",
+        "description": "A handmade mushroom shaped ottoman, upholstered in \"Grass\" green wool fabric. Perfect for using as a footstool or extra occasional seating. A comfortable cushioned seat and sculptural accent piece. Earth friendly OEKO-TEX 100% boiled wool fabric.\nPLEASE NOTE:\nColor variations may occur due to different monitor settings. Colors shown on screen may be a close match, but please do not rely on them to be an exact match. Please feel free to send a message with your address to request a fabric sample prior to purchasing if you need to verify the color.",
+        "thumbnailUrl": "https://i.vimeocdn.com/video/1993550238-db747ea51bc9c7e3de7faaeaae9e10d12c0b9e5437cfa4b285b7123e1de21644-d_1920x1080?&r=pad",
+        "uploadDate": "2025-03-14T17:18:25+00:00",
+        "duration": "PT0H0M17S",
+        "contentUrl": "https://player.vimeo.com/progressive_redirect/playback/1065943272/rendition/540p/file.mp4?loc=external&oauth2_token_id=1438265637&signature=e9704ad9c90fcb65a300d22119dcc04e1e065cf7ddd48bb55196864f4869e917&user_id=95659418"
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_42501342",
+  "name": "2023 Sacha Lakic for Roche Bobois Bubble Lounge Arm Chair in Blue Fabric",
+  "slug": "f_42501342",
+  "price": "CA$5,811.23",
+  "description": "f_42501342",
+  "image_url": "https://a.1stdibscdn.com/archivesE/upload/1121189/f_425013421732881900217/42501342_datamatics.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/lounge-chairs/2023-sacha-lakic-roche-bobois-bubble-lounge-arm-chair-blue-fabric/id-f_42501342/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 29.92 in (76 cm)",
+      "width": "Width: 47.24 in (119.99 cm)",
+      "depth": "Depth: 44.88 in (114 cm)"
+    },
+    "style": "Modern (In the Style Of)",
+    "materials": [
+      "Fabric",
+      "Foam",
+      "Wood",
+      "Fabric",
+      "Foam",
+      "Wood"
+    ],
+    "origin": "Italy",
+    "period": "2010-",
+    "dateOfManufacture": "2023",
+    "condition": {
+      "rating": "Excellent",
+      "details": "Wear consistent with age and use."
+    },
+    "sellerLocation": "Philadelphia, PA",
+    "referenceNumber": "Seller: 24101406",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">This is a Bubble Arm Chair, originally designed by Sacha Lakic in 2014. This particular example was produced by Roche Bobois in Italy in 2023. This piece is comprised of a wooden frame and is upholstered in blue fabric.\n \n\n The chair measures 47.24 inches wide, 44.88 inches deep, and 29.92 inches high with a seat height of 15.75 inches. This piece shows minimal wear from previous use and overall is in very good to excellent condition. Please see photos.</span></div></div>",
+    "rawSpecificationsText": "This is a Bubble Arm Chair, originally designed by Sacha Lakic in 2014. This particular example was produced by Roche Bobois in Italy in 2023. This piece is comprised of a wooden frame and is upholstered in blue fabric.\n \n\n The chair measures 47.24 inches wide, 44.88 inches deep, and 29.92 inches high with a seat height of 15.75 inches. This piece shows minimal wear from previous use and overall is in very good to excellent condition. Please see photos."
+  },
+  "raw_data": {
+    "productId": "f_42501342",
+    "slug": "f_42501342",
+    "url": "https://www.1stdibs.com/furniture/seating/lounge-chairs/2023-sacha-lakic-roche-bobois-bubble-lounge-arm-chair-blue-fabric/id-f_42501342/",
+    "name": "2023 Sacha Lakic for Roche Bobois Bubble Lounge Arm Chair in Blue Fabric",
+    "price": "CA$5,811.23",
+    "imageUrl": "https://a.1stdibscdn.com/archivesE/upload/1121189/f_425013421732881900217/42501342_datamatics.jpg",
+    "description": "f_42501342",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 29.92 in (76 cm)",
+        "width": "Width: 47.24 in (119.99 cm)",
+        "depth": "Depth: 44.88 in (114 cm)"
+      },
+      "style": "Modern (In the Style Of)",
+      "materials": [
+        "Fabric",
+        "Foam",
+        "Wood",
+        "Fabric",
+        "Foam",
+        "Wood"
+      ],
+      "origin": "Italy",
+      "period": "2010-",
+      "dateOfManufacture": "2023",
+      "condition": {
+        "rating": "Excellent",
+        "details": "Wear consistent with age and use."
+      },
+      "sellerLocation": "Philadelphia, PA",
+      "referenceNumber": "Seller: 24101406",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">This is a Bubble Arm Chair, originally designed by Sacha Lakic in 2014. This particular example was produced by Roche Bobois in Italy in 2023. This piece is comprised of a wooden frame and is upholstered in blue fabric.\n \n\n The chair measures 47.24 inches wide, 44.88 inches deep, and 29.92 inches high with a seat height of 15.75 inches. This piece shows minimal wear from previous use and overall is in very good to excellent condition. Please see photos.</span></div></div>",
+      "rawSpecificationsText": "This is a Bubble Arm Chair, originally designed by Sacha Lakic in 2014. This particular example was produced by Roche Bobois in Italy in 2023. This piece is comprised of a wooden frame and is upholstered in blue fabric.\n \n\n The chair measures 47.24 inches wide, 44.88 inches deep, and 29.92 inches high with a seat height of 15.75 inches. This piece shows minimal wear from previous use and overall is in very good to excellent condition. Please see photos."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "2023 Sacha Lakic for Roche Bobois Bubble Lounge Arm Chair in Blue Fabric",
+        "description": "This is a Bubble Arm Chair, originally designed by Sacha Lakic in 2014. This particular example was produced by Roche Bobois in Italy in 2023. This piece is comprised of a wooden frame and is upholstered in blue fabric.\n \n\n The chair measures 47.24 inches wide, 44.88 inches deep, and 29.92 inches high with a seat height of 15.75 inches. This piece shows minimal wear from previous use and overall is in very good to excellent condition. Please see photos.",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Roche Bobois, Sacha Lakic",
+            "caption": "2023 Sacha Lakic for Roche Bobois Bubble Lounge Arm Chair in Blue Fabric For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/archivesE/upload/1121189/f_425013421732881900217/42501342_datamatics.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/archivesE/upload/1121189/f_425013421732881900217/42501342_datamatics.jpg?width=768",
+            "uploadDate": "2024-11-28T10:34:03.000-05:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Roche Bobois, Sacha Lakic",
+            "caption": "This is a Bubble Arm Chair, originally designed by Sacha Lakic in 2014. This particular example was produced by Roche Bobois in Italy in 2023. This piece is comprised of a wooden frame and is upholstered in blue fabric.\n \n\n The chair measures 47.24",
+            "contentUrl": "https://a.1stdibscdn.com/2023-sacha-lakic-for-roche-bobois-bubble-lounge-arm-chair-in-blue-fabric-for-sale-picture-2/0/f_425013421732739622717/11e7125e_d0dc_4d42_99ab_c7b91bc4f66b_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/2023-sacha-lakic-for-roche-bobois-bubble-lounge-arm-chair-in-blue-fabric-for-sale-picture-2/0/f_425013421732739622717/11e7125e_d0dc_4d42_99ab_c7b91bc4f66b_master.jpg?width=768",
+            "uploadDate": "2024-11-28T10:34:03.000-05:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Roche Bobois, Sacha Lakic",
+            "caption": "Modern 2023 Sacha Lakic for Roche Bobois Bubble Lounge Arm Chair in Blue Fabric For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/2023-sacha-lakic-for-roche-bobois-bubble-lounge-arm-chair-in-blue-fabric-for-sale-picture-3/0/f_425013421732739623407/ee351a11_2db6_4006_8d7a_d9e69bcf7122_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/2023-sacha-lakic-for-roche-bobois-bubble-lounge-arm-chair-in-blue-fabric-for-sale-picture-3/0/f_425013421732739623407/ee351a11_2db6_4006_8d7a_d9e69bcf7122_master.jpg?width=768",
+            "uploadDate": "2024-11-28T10:34:03.000-05:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Roche Bobois, Sacha Lakic",
+            "caption": "Italian 2023 Sacha Lakic for Roche Bobois Bubble Lounge Arm Chair in Blue Fabric For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/2023-sacha-lakic-for-roche-bobois-bubble-lounge-arm-chair-in-blue-fabric-for-sale-picture-4/0/f_425013421732739624057/8d45a2ab_1da5_424f_95f7_6529be876dc8_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/2023-sacha-lakic-for-roche-bobois-bubble-lounge-arm-chair-in-blue-fabric-for-sale-picture-4/0/f_425013421732739624057/8d45a2ab_1da5_424f_95f7_6529be876dc8_master.jpg?width=768",
+            "uploadDate": "2024-11-28T10:34:03.000-05:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Roche Bobois, Sacha Lakic",
+            "caption": "2023 Sacha Lakic for Roche Bobois Bubble Lounge Arm Chair in Blue Fabric In Excellent Condition For Sale In Philadelphia, PA",
+            "contentUrl": "https://a.1stdibscdn.com/2023-sacha-lakic-for-roche-bobois-bubble-lounge-arm-chair-in-blue-fabric-for-sale-picture-5/0/f_425013421732739624801/4a9000dc_de28_4dd9_8783_263a1eb3d3c0_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/2023-sacha-lakic-for-roche-bobois-bubble-lounge-arm-chair-in-blue-fabric-for-sale-picture-5/0/f_425013421732739624801/4a9000dc_de28_4dd9_8783_263a1eb3d3c0_master.jpg?width=768",
+            "uploadDate": "2024-11-28T10:34:03.000-05:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Roche Bobois, Sacha Lakic",
+            "caption": "Contemporary 2023 Sacha Lakic for Roche Bobois Bubble Lounge Arm Chair in Blue Fabric For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/2023-sacha-lakic-for-roche-bobois-bubble-lounge-arm-chair-in-blue-fabric-for-sale-picture-6/0/f_425013421732739625433/f7a0fd51_9d9c_43e3_8863_cae1f9f1501a_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/2023-sacha-lakic-for-roche-bobois-bubble-lounge-arm-chair-in-blue-fabric-for-sale-picture-6/0/f_425013421732739625433/f7a0fd51_9d9c_43e3_8863_cae1f9f1501a_master.jpg?width=768",
+            "uploadDate": "2024-11-28T10:34:03.000-05:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Roche Bobois, Sacha Lakic",
+            "caption": "Wood 2023 Sacha Lakic for Roche Bobois Bubble Lounge Arm Chair in Blue Fabric For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/2023-sacha-lakic-for-roche-bobois-bubble-lounge-arm-chair-in-blue-fabric-for-sale-picture-7/0/f_425013421732739626449/d9c9aaa7_6780_478a_ab94_97f696a9024b_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/2023-sacha-lakic-for-roche-bobois-bubble-lounge-arm-chair-in-blue-fabric-for-sale-picture-7/0/f_425013421732739626449/d9c9aaa7_6780_478a_ab94_97f696a9024b_master.jpg?width=768",
+            "uploadDate": "2024-11-28T10:34:03.000-05:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Roche Bobois, Sacha Lakic",
+            "caption": "2023 Sacha Lakic for Roche Bobois Bubble Lounge Arm Chair in Blue Fabric For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/2023-sacha-lakic-for-roche-bobois-bubble-lounge-arm-chair-in-blue-fabric-for-sale-picture-8/0/f_425013421732739627401/19bf01d0_74f2_4fbc_9b97_76985ab99782_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/2023-sacha-lakic-for-roche-bobois-bubble-lounge-arm-chair-in-blue-fabric-for-sale-picture-8/0/f_425013421732739627401/19bf01d0_74f2_4fbc_9b97_76985ab99782_master.jpg?width=768",
+            "uploadDate": "2024-11-28T10:34:03.000-05:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Roche Bobois, Sacha Lakic",
+            "caption": "2023 Sacha Lakic for Roche Bobois Bubble Lounge Arm Chair in Blue Fabric For Sale 2",
+            "contentUrl": "https://a.1stdibscdn.com/2023-sacha-lakic-for-roche-bobois-bubble-lounge-arm-chair-in-blue-fabric-for-sale-picture-9/0/f_425013421732739628153/2e73e234_462c_4ba7_8872_3b426f296e20_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/2023-sacha-lakic-for-roche-bobois-bubble-lounge-arm-chair-in-blue-fabric-for-sale-picture-9/0/f_425013421732739628153/2e73e234_462c_4ba7_8872_3b426f296e20_master.jpg?width=768",
+            "uploadDate": "2024-11-28T10:34:03.000-05:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Roche Bobois, Sacha Lakic",
+            "caption": "2023 Sacha Lakic for Roche Bobois Bubble Lounge Arm Chair in Blue Fabric For Sale 3",
+            "contentUrl": "https://a.1stdibscdn.com/2023-sacha-lakic-for-roche-bobois-bubble-lounge-arm-chair-in-blue-fabric-for-sale-picture-10/0/f_425013421732739628753/34f620fa_0cae_4c90_95f9_17a63bb334ef_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/2023-sacha-lakic-for-roche-bobois-bubble-lounge-arm-chair-in-blue-fabric-for-sale-picture-10/0/f_425013421732739628753/34f620fa_0cae_4c90_95f9_17a63bb334ef_master.jpg?width=768",
+            "uploadDate": "2024-11-28T10:34:03.000-05:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Roche Bobois, Sacha Lakic",
+            "caption": "2023 Sacha Lakic for Roche Bobois Bubble Lounge Arm Chair in Blue Fabric For Sale 4",
+            "contentUrl": "https://a.1stdibscdn.com/2023-sacha-lakic-for-roche-bobois-bubble-lounge-arm-chair-in-blue-fabric-for-sale-picture-11/0/f_425013421732739629524/9ba808c1_6107_4ad2_8eaf_66cca97452f4_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/2023-sacha-lakic-for-roche-bobois-bubble-lounge-arm-chair-in-blue-fabric-for-sale-picture-11/0/f_425013421732739629524/9ba808c1_6107_4ad2_8eaf_66cca97452f4_master.jpg?width=768",
+            "uploadDate": "2024-11-28T10:34:03.000-05:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Roche Bobois, Sacha Lakic",
+            "caption": "2023 Sacha Lakic for Roche Bobois Bubble Lounge Arm Chair in Blue Fabric For Sale 5",
+            "contentUrl": "https://a.1stdibscdn.com/2023-sacha-lakic-for-roche-bobois-bubble-lounge-arm-chair-in-blue-fabric-for-sale-picture-12/56838172/f_425013421732801068668/d2da5cfe_03d2_44d6_8ed9_1dae783eb032_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/2023-sacha-lakic-for-roche-bobois-bubble-lounge-arm-chair-in-blue-fabric-for-sale-picture-12/56838172/f_425013421732801068668/d2da5cfe_03d2_44d6_8ed9_1dae783eb032_master.jpg?width=768",
+            "uploadDate": "2024-11-28T10:34:03.000-05:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/UsedCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/lounge-chairs/2023-sacha-lakic-roche-bobois-bubble-lounge-arm-chair-blue-fabric/id-f_42501342/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3561.51,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 6422.63,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 81543.74,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3704.26,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3118.66,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 27791.24,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3950,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 5811.23,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 40843.52,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 42591.95,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 5,
+          "reviewCount": 14
+        },
+        "productionDate": "2010-",
+        "category": "Lounge Chairs",
+        "brand": {
+          "@type": "Brand",
+          "name": "Roche Bobois, Sacha Lakic"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Lounge Chairs",
+              "@id": "/furniture/seating/lounge-chairs/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

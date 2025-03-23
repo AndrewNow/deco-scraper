@@ -1,0 +1,277 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44126802",
+  "name": "Set of Six 19th Century Gustavian Chairs",
+  "slug": "f_44126802",
+  "price": "CA$22,067.96",
+  "description": "f_44126802",
+  "image_url": "https://a.1stdibscdn.com/set-of-six-19th-century-gustavian-chairs-for-sale/f_10672/f_441268021742468410059/f_44126802_1742468411286_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/dining-room-chairs/set-of-six-19th-century-gustavian-chairs/id-f_44126802/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 37.01 in (94 cm)",
+      "width": "Width: 18.51 in (47 cm)",
+      "depth": "Depth: 18.51 in (47 cm)",
+      "seatHeight": "Seat Height: 18.12 in (46 cm)"
+    },
+    "style": "Gustavian (Of the Period)",
+    "materials": [
+      "Pine",
+      "Pine"
+    ],
+    "origin": "Sweden",
+    "period": "Early 19th Century",
+    "dateOfManufacture": "ca 1800",
+    "condition": {
+      "rating": "Good",
+      "details": "Refinished. Wear consistent with age and use. Dry scraped to reveal the original finish."
+    },
+    "sellerLocation": "Allerum, SE",
+    "referenceNumber": "1stDibs: LU1067244126802",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Fine set of six 19th century Gustavian laughing chairs in their original condition. Ca 1800, Sweden.</span></div></div>",
+    "rawSpecificationsText": "Fine set of six 19th century Gustavian laughing chairs in their original condition. Ca 1800, Sweden."
+  },
+  "raw_data": {
+    "productId": "f_44126802",
+    "slug": "f_44126802",
+    "url": "https://www.1stdibs.com/furniture/seating/dining-room-chairs/set-of-six-19th-century-gustavian-chairs/id-f_44126802/",
+    "name": "Set of Six 19th Century Gustavian Chairs",
+    "price": "CA$22,067.96",
+    "imageUrl": "https://a.1stdibscdn.com/set-of-six-19th-century-gustavian-chairs-for-sale/f_10672/f_441268021742468410059/f_44126802_1742468411286_bg_processed.jpg",
+    "description": "f_44126802",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 37.01 in (94 cm)",
+        "width": "Width: 18.51 in (47 cm)",
+        "depth": "Depth: 18.51 in (47 cm)",
+        "seatHeight": "Seat Height: 18.12 in (46 cm)"
+      },
+      "style": "Gustavian (Of the Period)",
+      "materials": [
+        "Pine",
+        "Pine"
+      ],
+      "origin": "Sweden",
+      "period": "Early 19th Century",
+      "dateOfManufacture": "ca 1800",
+      "condition": {
+        "rating": "Good",
+        "details": "Refinished. Wear consistent with age and use. Dry scraped to reveal the original finish."
+      },
+      "sellerLocation": "Allerum, SE",
+      "referenceNumber": "1stDibs: LU1067244126802",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Fine set of six 19th century Gustavian laughing chairs in their original condition. Ca 1800, Sweden.</span></div></div>",
+      "rawSpecificationsText": "Fine set of six 19th century Gustavian laughing chairs in their original condition. Ca 1800, Sweden."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Set of Six 19th Century Gustavian Chairs",
+        "description": "Fine set of six 19th century Gustavian laughing chairs in their original condition. Ca 1800, Sweden.",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Set of Six 19th Century Gustavian Chairs For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/set-of-six-19th-century-gustavian-chairs-for-sale/f_10672/f_441268021742468410059/f_44126802_1742468411286_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/set-of-six-19th-century-gustavian-chairs-for-sale/f_10672/f_441268021742468410059/f_44126802_1742468411286_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-20T07:14:01.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Fine set of six 19th century Gustavian laughing chairs in their original condition. Ca 1800, Sweden.",
+            "contentUrl": "https://a.1stdibscdn.com/set-of-six-19th-century-gustavian-chairs-for-sale-picture-2/f_10672/f_441268021742468574168/Laughing_Chairs_co_3_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/set-of-six-19th-century-gustavian-chairs-for-sale-picture-2/f_10672/f_441268021742468574168/Laughing_Chairs_co_3_master.jpg?width=768",
+            "uploadDate": "2025-03-20T07:14:01.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Swedish Set of Six 19th Century Gustavian Chairs For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/set-of-six-19th-century-gustavian-chairs-for-sale-picture-3/f_10672/f_441268021742468460367/Laughing_Chairs_1_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/set-of-six-19th-century-gustavian-chairs-for-sale-picture-3/f_10672/f_441268021742468460367/Laughing_Chairs_1_master.jpg?width=768",
+            "uploadDate": "2025-03-20T07:14:01.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Hand-Crafted Set of Six 19th Century Gustavian Chairs For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/set-of-six-19th-century-gustavian-chairs-for-sale-picture-4/f_10672/f_441268021742468460375/Laughing_Chairs_2_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/set-of-six-19th-century-gustavian-chairs-for-sale-picture-4/f_10672/f_441268021742468460375/Laughing_Chairs_2_master.jpg?width=768",
+            "uploadDate": "2025-03-20T07:14:01.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Set of Six 19th Century Gustavian Chairs In Good Condition For Sale In Allerum, SE",
+            "contentUrl": "https://a.1stdibscdn.com/set-of-six-19th-century-gustavian-chairs-for-sale-picture-5/f_10672/f_441268021742468574166/Laughing_Chairs_4_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/set-of-six-19th-century-gustavian-chairs-for-sale-picture-5/f_10672/f_441268021742468574166/Laughing_Chairs_4_master.jpg?width=768",
+            "uploadDate": "2025-03-20T07:14:01.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Pine Set of Six 19th Century Gustavian Chairs For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/set-of-six-19th-century-gustavian-chairs-for-sale-picture-6/f_10672/f_441268021742468460056/Laughing_Chairs_5_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/set-of-six-19th-century-gustavian-chairs-for-sale-picture-6/f_10672/f_441268021742468460056/Laughing_Chairs_5_master.jpg?width=768",
+            "uploadDate": "2025-03-20T07:14:01.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Set of Six 19th Century Gustavian Chairs For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/set-of-six-19th-century-gustavian-chairs-for-sale-picture-7/f_10672/f_441268021742468463792/Laughing_Chairs_6_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/set-of-six-19th-century-gustavian-chairs-for-sale-picture-7/f_10672/f_441268021742468463792/Laughing_Chairs_6_master.jpg?width=768",
+            "uploadDate": "2025-03-20T07:14:01.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Set of Six 19th Century Gustavian Chairs For Sale 2",
+            "contentUrl": "https://a.1stdibscdn.com/set-of-six-19th-century-gustavian-chairs-for-sale-picture-8/f_10672/f_441268021742468460299/Laughing_Chairs_9_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/set-of-six-19th-century-gustavian-chairs-for-sale-picture-8/f_10672/f_441268021742468460299/Laughing_Chairs_9_master.jpg?width=768",
+            "uploadDate": "2025-03-20T07:14:01.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Set of Six 19th Century Gustavian Chairs For Sale 3",
+            "contentUrl": "https://a.1stdibscdn.com/set-of-six-19th-century-gustavian-chairs-for-sale-picture-9/f_10672/f_441268021742468461003/Laughing_Chairs_7_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/set-of-six-19th-century-gustavian-chairs-for-sale-picture-9/f_10672/f_441268021742468461003/Laughing_Chairs_7_master.jpg?width=768",
+            "uploadDate": "2025-03-20T07:14:01.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/UsedCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/dining-room-chairs/set-of-six-19th-century-gustavian-chairs/id-f_44126802/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 24389.73,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 13524.73,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 309659.76,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 14066.82,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 11843.03,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 105536.34,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 15000,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 22067.96,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 155101.99,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 161741.58,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 3.9,
+          "reviewCount": 8
+        },
+        "productionDate": "Early 19th Century",
+        "category": "Dining Room Chairs"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Dining Room Chairs",
+              "@id": "/furniture/seating/dining-room-chairs/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

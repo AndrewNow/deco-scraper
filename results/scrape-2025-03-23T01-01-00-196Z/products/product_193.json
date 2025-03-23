@@ -1,0 +1,375 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44000772",
+  "name": "Pair of Soren Lund Lounge Chairs / Arm chairs in Wicker / Cane and leather",
+  "slug": "f_44000772",
+  "price": "CA$3,530.87",
+  "description": "f_44000772",
+  "image_url": "https://a.1stdibscdn.com/archivesE/upload/f_75242/f_440007721742575202617/f_44000772_1742575203480_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/lounge-chairs/pair-of-soren-lund-lounge-chairs-arm-chairs-wicker-cane-leather/id-f_44000772/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 35.04 in (89 cm)",
+      "width": "Width: 29.14 in (74 cm)",
+      "depth": "Depth: 25.6 in (65 cm)",
+      "seatHeight": "Seat Height: 17.33 in (44 cm)"
+    },
+    "style": "British Colonial (In the Style Of)",
+    "materials": [
+      "Leather",
+      "Rattan",
+      "Wicker",
+      "Leather",
+      "Rattan",
+      "Wicker"
+    ],
+    "origin": "Denmark",
+    "period": "1960-1969",
+    "dateOfManufacture": "Ca. 1960s",
+    "condition": {
+      "rating": "Good",
+      "details": "Wear consistent with age and use."
+    },
+    "sellerLocation": "Copenhagen, DK",
+    "referenceNumber": "1stDibs: LU7524244000772",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Set of two Danish Søren Lund armchairs from the 1960s.\n\nBoth chairs are in great condition and made of wicker and leather. The chairs themselves are in wicker while the armrests and cushions are in braided leather.\n\nThe large, soft cushion provides really nice sitting comfort.\n\nBoth chairs have a few age-related traces of use and are similar in appearance and patina.\n\nH: 89 cm.\nW: 74 cm.\nD: 65 cm.\nSeat height: 44 cm.</span></div></div>",
+    "rawSpecificationsText": "Set of two Danish Søren Lund armchairs from the 1960s.\n\nBoth chairs are in great condition and made of wicker and leather. The chairs themselves are in wicker while the armrests and cushions are in braided leather.\n\nThe large, soft cushion provides really nice sitting comfort.\n\nBoth chairs have a few age-related traces of use and are similar in appearance and patina.\n\nH: 89 cm.\nW: 74 cm.\nD: 65 cm.\nSeat height: 44 cm."
+  },
+  "raw_data": {
+    "productId": "f_44000772",
+    "slug": "f_44000772",
+    "url": "https://www.1stdibs.com/furniture/seating/lounge-chairs/pair-of-soren-lund-lounge-chairs-arm-chairs-wicker-cane-leather/id-f_44000772/",
+    "name": "Pair of Soren Lund Lounge Chairs / Arm chairs in Wicker / Cane and leather",
+    "price": "CA$3,530.87",
+    "imageUrl": "https://a.1stdibscdn.com/archivesE/upload/f_75242/f_440007721742575202617/f_44000772_1742575203480_bg_processed.jpg",
+    "description": "f_44000772",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 35.04 in (89 cm)",
+        "width": "Width: 29.14 in (74 cm)",
+        "depth": "Depth: 25.6 in (65 cm)",
+        "seatHeight": "Seat Height: 17.33 in (44 cm)"
+      },
+      "style": "British Colonial (In the Style Of)",
+      "materials": [
+        "Leather",
+        "Rattan",
+        "Wicker",
+        "Leather",
+        "Rattan",
+        "Wicker"
+      ],
+      "origin": "Denmark",
+      "period": "1960-1969",
+      "dateOfManufacture": "Ca. 1960s",
+      "condition": {
+        "rating": "Good",
+        "details": "Wear consistent with age and use."
+      },
+      "sellerLocation": "Copenhagen, DK",
+      "referenceNumber": "1stDibs: LU7524244000772",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Set of two Danish Søren Lund armchairs from the 1960s.\n\nBoth chairs are in great condition and made of wicker and leather. The chairs themselves are in wicker while the armrests and cushions are in braided leather.\n\nThe large, soft cushion provides really nice sitting comfort.\n\nBoth chairs have a few age-related traces of use and are similar in appearance and patina.\n\nH: 89 cm.\nW: 74 cm.\nD: 65 cm.\nSeat height: 44 cm.</span></div></div>",
+      "rawSpecificationsText": "Set of two Danish Søren Lund armchairs from the 1960s.\n\nBoth chairs are in great condition and made of wicker and leather. The chairs themselves are in wicker while the armrests and cushions are in braided leather.\n\nThe large, soft cushion provides really nice sitting comfort.\n\nBoth chairs have a few age-related traces of use and are similar in appearance and patina.\n\nH: 89 cm.\nW: 74 cm.\nD: 65 cm.\nSeat height: 44 cm."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Pair of Soren Lund Lounge Chairs / Arm chairs in Wicker / Cane and leather",
+        "description": "Set of two Danish Søren Lund armchairs from the 1960s.\n\nBoth chairs are in great condition and made of wicker and leather. The chairs themselves are in wicker while the armrests and cushions are in braided leather.\n\nThe large, soft cushion provides really nice sitting comfort.\n\nBoth chairs have a few age-related traces of use and are similar in appearance and patina.\n\nH: 89 cm.\nW: 74 cm.\nD: 65 cm.\nSeat height: 44 cm.",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Pair of Soren Lund Lounge Chairs / Arm chairs in Wicker / Cane and leather For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/archivesE/upload/f_75242/f_440007721742575202617/f_44000772_1742575203480_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/archivesE/upload/f_75242/f_440007721742575202617/f_44000772_1742575203480_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-12T13:46:12.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Set of two Danish Søren Lund armchairs from the 1960s.\n\nBoth chairs are in great condition and made of wicker and leather. The chairs themselves are in wicker while the armrests and cushions are in braided leather.\n\nThe large, soft cushion provides",
+            "contentUrl": "https://a.1stdibscdn.com/archivesE/upload/f_75242/f_440007721742575073934/f_44000772_1742575074852_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/archivesE/upload/f_75242/f_440007721742575073934/f_44000772_1742575074852_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-12T13:46:12.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "British Colonial Pair of Soren Lund Lounge Chairs / Arm chairs in Wicker / Cane and leather For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/two-danish-soren-lund-lounge-chairs-arm-chairs-for-sale/f_75242/f_440007721741792523157/f_44000772_1741792524051_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/two-danish-soren-lund-lounge-chairs-arm-chairs-for-sale/f_75242/f_440007721741792523157/f_44000772_1741792524051_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-12T13:46:12.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Danish Pair of Soren Lund Lounge Chairs / Arm chairs in Wicker / Cane and leather For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/two-danish-soren-lund-lounge-chairs-arm-chairs-for-sale-picture-3/f_75242/1741783210990/mobilejpegupload_A22A5F4A5EC3432A853D8F39E6C07920_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/two-danish-soren-lund-lounge-chairs-arm-chairs-for-sale-picture-3/f_75242/1741783210990/mobilejpegupload_A22A5F4A5EC3432A853D8F39E6C07920_master.jpg?width=768",
+            "uploadDate": "2025-03-12T13:46:12.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Hand-Crafted Pair of Soren Lund Lounge Chairs / Arm chairs in Wicker / Cane and leather For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/two-danish-soren-lund-lounge-chairs-arm-chairs-for-sale-picture-4/f_75242/1741783202559/mobilejpegupload_4F95C19093464CA7956FCF3EBD698BD5_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/two-danish-soren-lund-lounge-chairs-arm-chairs-for-sale-picture-4/f_75242/1741783202559/mobilejpegupload_4F95C19093464CA7956FCF3EBD698BD5_master.jpg?width=768",
+            "uploadDate": "2025-03-12T13:46:12.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Pair of Soren Lund Lounge Chairs / Arm chairs in Wicker / Cane and leather In Good Condition For Sale In Copenhagen, DK",
+            "contentUrl": "https://a.1stdibscdn.com/two-danish-soren-lund-lounge-chairs-arm-chairs-for-sale-picture-5/f_75242/1741783205316/mobilejpegupload_EB5021B11A564BAFA28E68003C7A5A52_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/two-danish-soren-lund-lounge-chairs-arm-chairs-for-sale-picture-5/f_75242/1741783205316/mobilejpegupload_EB5021B11A564BAFA28E68003C7A5A52_master.jpg?width=768",
+            "uploadDate": "2025-03-12T13:46:12.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Mid-20th Century Pair of Soren Lund Lounge Chairs / Arm chairs in Wicker / Cane and leather For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/two-danish-soren-lund-lounge-chairs-arm-chairs-for-sale-picture-6/f_75242/1741783206648/mobilejpegupload_6695A6E8334C4A859555C8120996838A_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/two-danish-soren-lund-lounge-chairs-arm-chairs-for-sale-picture-6/f_75242/1741783206648/mobilejpegupload_6695A6E8334C4A859555C8120996838A_master.jpg?width=768",
+            "uploadDate": "2025-03-12T13:46:12.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Leather Pair of Soren Lund Lounge Chairs / Arm chairs in Wicker / Cane and leather For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/two-danish-soren-lund-lounge-chairs-arm-chairs-for-sale-picture-7/f_75242/1741783209703/mobilejpegupload_C4486A94B39D4A908187594900EEB6FB_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/two-danish-soren-lund-lounge-chairs-arm-chairs-for-sale-picture-7/f_75242/1741783209703/mobilejpegupload_C4486A94B39D4A908187594900EEB6FB_master.jpg?width=768",
+            "uploadDate": "2025-03-12T13:46:12.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Pair of Soren Lund Lounge Chairs / Arm chairs in Wicker / Cane and leather For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/two-danish-soren-lund-lounge-chairs-arm-chairs-for-sale-picture-8/f_75242/1741783212281/mobilejpegupload_53DE07C2ACDD4B14B2A507004F1B530A_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/two-danish-soren-lund-lounge-chairs-arm-chairs-for-sale-picture-8/f_75242/1741783212281/mobilejpegupload_53DE07C2ACDD4B14B2A507004F1B530A_master.jpg?width=768",
+            "uploadDate": "2025-03-12T13:46:12.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Pair of Soren Lund Lounge Chairs / Arm chairs in Wicker / Cane and leather For Sale 2",
+            "contentUrl": "https://a.1stdibscdn.com/two-danish-soren-lund-lounge-chairs-arm-chairs-for-sale-picture-9/f_75242/1741783214083/mobilejpegupload_66446EC5465040DBA048A8B547D95A21_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/two-danish-soren-lund-lounge-chairs-arm-chairs-for-sale-picture-9/f_75242/1741783214083/mobilejpegupload_66446EC5465040DBA048A8B547D95A21_master.jpg?width=768",
+            "uploadDate": "2025-03-12T13:46:12.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Pair of Soren Lund Lounge Chairs / Arm chairs in Wicker / Cane and leather For Sale 3",
+            "contentUrl": "https://a.1stdibscdn.com/two-danish-soren-lund-lounge-chairs-arm-chairs-for-sale-picture-10/f_75242/1741783215354/mobilejpegupload_BC143D26C68C44AF9804752C54EA7CC6_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/two-danish-soren-lund-lounge-chairs-arm-chairs-for-sale-picture-10/f_75242/1741783215354/mobilejpegupload_BC143D26C68C44AF9804752C54EA7CC6_master.jpg?width=768",
+            "uploadDate": "2025-03-12T13:46:12.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Pair of Soren Lund Lounge Chairs / Arm chairs in Wicker / Cane and leather For Sale 4",
+            "contentUrl": "https://a.1stdibscdn.com/archivesE/upload/f_75242/1742574850366/mobilejpegupload_A1B3AE7A0A054B1680723920F4D3DED3_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/archivesE/upload/f_75242/1742574850366/mobilejpegupload_A1B3AE7A0A054B1680723920F4D3DED3_master.jpg?width=768",
+            "uploadDate": "2025-03-12T13:46:12.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Pair of Soren Lund Lounge Chairs / Arm chairs in Wicker / Cane and leather For Sale 5",
+            "contentUrl": "https://a.1stdibscdn.com/archivesE/upload/f_75242/1742574854325/mobilejpegupload_5F1418B3187B4663BA7E1AC8F9C6EEFF_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/archivesE/upload/f_75242/1742574854325/mobilejpegupload_5F1418B3187B4663BA7E1AC8F9C6EEFF_master.jpg?width=768",
+            "uploadDate": "2025-03-12T13:46:12.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Pair of Soren Lund Lounge Chairs / Arm chairs in Wicker / Cane and leather For Sale 6",
+            "contentUrl": "https://a.1stdibscdn.com/archivesE/upload/f_75242/1742574858318/mobilejpegupload_8569947C18F84043A4FE894688E887D1_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/archivesE/upload/f_75242/1742574858318/mobilejpegupload_8569947C18F84043A4FE894688E887D1_master.jpg?width=768",
+            "uploadDate": "2025-03-12T13:46:12.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Pair of Soren Lund Lounge Chairs / Arm chairs in Wicker / Cane and leather For Sale 7",
+            "contentUrl": "https://a.1stdibscdn.com/archivesE/upload/f_75242/1742574858243/mobilejpegupload_7A836B99C95E4CC28EDD8103717F760F_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/archivesE/upload/f_75242/1742574858243/mobilejpegupload_7A836B99C95E4CC28EDD8103717F760F_master.jpg?width=768",
+            "uploadDate": "2025-03-12T13:46:12.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Pair of Soren Lund Lounge Chairs / Arm chairs in Wicker / Cane and leather For Sale 8",
+            "contentUrl": "https://a.1stdibscdn.com/archivesE/upload/f_75242/1742574862232/mobilejpegupload_AC3519691DF042B3B7DF90DFCE043EDB_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/archivesE/upload/f_75242/1742574862232/mobilejpegupload_AC3519691DF042B3B7DF90DFCE043EDB_master.jpg?width=768",
+            "uploadDate": "2025-03-12T13:46:12.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Pair of Soren Lund Lounge Chairs / Arm chairs in Wicker / Cane and leather For Sale 9",
+            "contentUrl": "https://a.1stdibscdn.com/archivesE/upload/f_75242/1742574865736/mobilejpegupload_36D846639F89473B98EEAAB5612C0FFF_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/archivesE/upload/f_75242/1742574865736/mobilejpegupload_36D846639F89473B98EEAAB5612C0FFF_master.jpg?width=768",
+            "uploadDate": "2025-03-12T13:46:12.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/UsedCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/lounge-chairs/pair-of-soren-lund-lounge-chairs-arm-chairs-wicker-cane-leather/id-f_44000772/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 2163.96,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3902.36,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 49545.56,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 2250.69,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1894.88,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 16885.81,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 2400,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3530.87,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 24816.32,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 25878.65,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 5,
+          "reviewCount": 1
+        },
+        "productionDate": "1960-1969",
+        "category": "Lounge Chairs"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Lounge Chairs",
+              "@id": "/furniture/seating/lounge-chairs/"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "VideoObject",
+        "name": "Pair of Soren Lund Lounge Chairs / Arm chairs in Wicker / Cane and leather",
+        "description": "Set of two Danish Søren Lund armchairs from the 1960s.\n\nBoth chairs are in great condition and made of wicker and leather. The chairs themselves are in wicker while the armrests and cushions are in braided leather.\n\nThe large, soft cushion provides really nice sitting comfort.\n\nBoth chairs have a few age-related traces of use and are similar in appearance and patina.\n\nH: 89 cm.\nW: 74 cm.\nD: 65 cm.\nSeat height: 44 cm.",
+        "thumbnailUrl": "https://i.vimeocdn.com/video/1996244939-474244de50f2938f136964d8af1238b2185fff67616139e743a34cea86998ceb-d_1920x1080?&r=pad",
+        "uploadDate": "2025-03-21T16:27:10+00:00",
+        "duration": "PT0H0M15S",
+        "contentUrl": "https://player.vimeo.com/progressive_redirect/playback/1068187761/rendition/360p/file.mp4?loc=external&oauth2_token_id=1438265637&signature=f3f3da74de96aaee54ae381ceddf759a2621c84b081a321c0fe530fad860e80a"
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

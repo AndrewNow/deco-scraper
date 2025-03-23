@@ -1,0 +1,337 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44022952",
+  "name": "19th Century Swedish antique Gustavian chair \" Swedish model\" original paint",
+  "slug": "f_44022952",
+  "price": "CA$3,120.33",
+  "description": "f_44022952",
+  "image_url": "https://a.1stdibscdn.com/19th-century-swedish-antique-gustavian-chair-swedish-model-original-paint-for-sale/f_58612/f_440229521741862419704/f_44022952_1741862420982_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/chairs/19th-century-swedish-antique-gustavian-chair-swedish-model-original-paint/id-f_44022952/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 37.41 in (95 cm)",
+      "width": "Width: 18.51 in (47 cm)",
+      "depth": "Depth: 14.97 in (38 cm)",
+      "seatHeight": "Seat Height: 17.72 in (45 cm)"
+    },
+    "style": "Gustavian (Of the Period)",
+    "materials": [
+      "Pine",
+      "Pine"
+    ],
+    "origin": "Sweden",
+    "period": "Early 19th Century",
+    "dateOfManufacture": "1800-1820",
+    "condition": {
+      "rating": "Good",
+      "details": "Wear consistent with age and use."
+    },
+    "sellerLocation": "Boden, SE",
+    "referenceNumber": "1stDibs: LU5861244022952",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Fine antique 19th century Gustavian chair in great original condition.  From Umeå Västerbotten Northern Sweden.This type of chair is called the Swedish model. This particular example is with original colour and fantastic patination, circa 1800 Lovely details with carved flowers.\nMade in painted pine.\nStable in condition.</span></div></div>",
+    "rawSpecificationsText": "Fine antique 19th century Gustavian chair in great original condition.  From Umeå Västerbotten Northern Sweden.This type of chair is called the Swedish model. This particular example is with original colour and fantastic patination, circa 1800 Lovely details with carved flowers.\nMade in painted pine.\nStable in condition."
+  },
+  "raw_data": {
+    "productId": "f_44022952",
+    "slug": "f_44022952",
+    "url": "https://www.1stdibs.com/furniture/seating/chairs/19th-century-swedish-antique-gustavian-chair-swedish-model-original-paint/id-f_44022952/",
+    "name": "19th Century Swedish antique Gustavian chair \" Swedish model\" original paint",
+    "price": "CA$3,120.33",
+    "imageUrl": "https://a.1stdibscdn.com/19th-century-swedish-antique-gustavian-chair-swedish-model-original-paint-for-sale/f_58612/f_440229521741862419704/f_44022952_1741862420982_bg_processed.jpg",
+    "description": "f_44022952",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 37.41 in (95 cm)",
+        "width": "Width: 18.51 in (47 cm)",
+        "depth": "Depth: 14.97 in (38 cm)",
+        "seatHeight": "Seat Height: 17.72 in (45 cm)"
+      },
+      "style": "Gustavian (Of the Period)",
+      "materials": [
+        "Pine",
+        "Pine"
+      ],
+      "origin": "Sweden",
+      "period": "Early 19th Century",
+      "dateOfManufacture": "1800-1820",
+      "condition": {
+        "rating": "Good",
+        "details": "Wear consistent with age and use."
+      },
+      "sellerLocation": "Boden, SE",
+      "referenceNumber": "1stDibs: LU5861244022952",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Fine antique 19th century Gustavian chair in great original condition.  From Umeå Västerbotten Northern Sweden.This type of chair is called the Swedish model. This particular example is with original colour and fantastic patination, circa 1800 Lovely details with carved flowers.\nMade in painted pine.\nStable in condition.</span></div></div>",
+      "rawSpecificationsText": "Fine antique 19th century Gustavian chair in great original condition.  From Umeå Västerbotten Northern Sweden.This type of chair is called the Swedish model. This particular example is with original colour and fantastic patination, circa 1800 Lovely details with carved flowers.\nMade in painted pine.\nStable in condition."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "19th Century Swedish antique Gustavian chair \" Swedish model\" original paint",
+        "description": "Fine antique 19th century Gustavian chair in great original condition.  From Umeå Västerbotten Northern Sweden.This type of chair is called the Swedish model. This particular example is with original colour and fantastic patination, circa 1800 Lovely details with carved flowers.\nMade in painted pine.\nStable in condition.",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "19th Century Swedish antique Gustavian chair \" Swedish model\" original paint For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/19th-century-swedish-antique-gustavian-chair-swedish-model-original-paint-for-sale/f_58612/f_440229521741862419704/f_44022952_1741862420982_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/19th-century-swedish-antique-gustavian-chair-swedish-model-original-paint-for-sale/f_58612/f_440229521741862419704/f_44022952_1741862420982_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-19T09:07:40.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Fine antique 19th century Gustavian chair in great original condition.  From Umeå Västerbotten Northern Sweden.This type of chair is called the Swedish model. This particular example is with original colour and fantastic patination, circa 1800",
+            "contentUrl": "https://a.1stdibscdn.com/19th-century-swedish-antique-gustavian-chair-swedish-model-original-paint-for-sale-picture-2/f_58612/f_44022952/1000022261_1741862496174_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/19th-century-swedish-antique-gustavian-chair-swedish-model-original-paint-for-sale-picture-2/f_58612/f_44022952/1000022261_1741862496174_master.jpg?width=768",
+            "uploadDate": "2025-03-19T09:07:40.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Hand-Carved 19th Century Swedish antique Gustavian chair \" Swedish model\" original paint For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/19th-century-swedish-antique-gustavian-chair-swedish-model-original-paint-for-sale-picture-3/f_58612/f_44022952/1000022262_1741862508405_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/19th-century-swedish-antique-gustavian-chair-swedish-model-original-paint-for-sale-picture-3/f_58612/f_44022952/1000022262_1741862508405_master.jpg?width=768",
+            "uploadDate": "2025-03-19T09:07:40.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "19th Century Swedish antique Gustavian chair \" Swedish model\" original paint In Good Condition For Sale In Boden, SE",
+            "contentUrl": "https://a.1stdibscdn.com/19th-century-swedish-antique-gustavian-chair-swedish-model-original-paint-for-sale-picture-4/f_58612/f_44022952/1000022263_1741862515841_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/19th-century-swedish-antique-gustavian-chair-swedish-model-original-paint-for-sale-picture-4/f_58612/f_44022952/1000022263_1741862515841_master.jpg?width=768",
+            "uploadDate": "2025-03-19T09:07:40.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Pine 19th Century Swedish antique Gustavian chair \" Swedish model\" original paint For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/19th-century-swedish-antique-gustavian-chair-swedish-model-original-paint-for-sale-picture-5/f_58612/f_44022952/1000022264_1741862528969_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/19th-century-swedish-antique-gustavian-chair-swedish-model-original-paint-for-sale-picture-5/f_58612/f_44022952/1000022264_1741862528969_master.jpg?width=768",
+            "uploadDate": "2025-03-19T09:07:40.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "19th Century Swedish antique Gustavian chair \" Swedish model\" original paint For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/19th-century-swedish-antique-gustavian-chair-swedish-model-original-paint-for-sale-picture-6/f_58612/f_44022952/1000022265_1741862538296_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/19th-century-swedish-antique-gustavian-chair-swedish-model-original-paint-for-sale-picture-6/f_58612/f_44022952/1000022265_1741862538296_master.jpg?width=768",
+            "uploadDate": "2025-03-19T09:07:40.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "19th Century Swedish antique Gustavian chair \" Swedish model\" original paint For Sale 2",
+            "contentUrl": "https://a.1stdibscdn.com/19th-century-swedish-antique-gustavian-chair-swedish-model-original-paint-for-sale-picture-7/f_58612/f_44022952/1000022266_1741862546947_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/19th-century-swedish-antique-gustavian-chair-swedish-model-original-paint-for-sale-picture-7/f_58612/f_44022952/1000022266_1741862546947_master.jpg?width=768",
+            "uploadDate": "2025-03-19T09:07:40.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "19th Century Swedish antique Gustavian chair \" Swedish model\" original paint For Sale 3",
+            "contentUrl": "https://a.1stdibscdn.com/19th-century-swedish-antique-gustavian-chair-swedish-model-original-paint-for-sale-picture-8/f_58612/f_44022952/1000022267_1741862555319_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/19th-century-swedish-antique-gustavian-chair-swedish-model-original-paint-for-sale-picture-8/f_58612/f_44022952/1000022267_1741862555319_master.jpg?width=768",
+            "uploadDate": "2025-03-19T09:07:40.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "19th Century Swedish antique Gustavian chair \" Swedish model\" original paint For Sale 4",
+            "contentUrl": "https://a.1stdibscdn.com/19th-century-swedish-antique-gustavian-chair-swedish-model-original-paint-for-sale-picture-9/f_58612/f_44022952/1000022268_1741862563007_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/19th-century-swedish-antique-gustavian-chair-swedish-model-original-paint-for-sale-picture-9/f_58612/f_44022952/1000022268_1741862563007_master.jpg?width=768",
+            "uploadDate": "2025-03-19T09:07:40.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "19th Century Swedish antique Gustavian chair \" Swedish model\" original paint For Sale 5",
+            "contentUrl": "https://a.1stdibscdn.com/19th-century-swedish-antique-gustavian-chair-swedish-model-original-paint-for-sale-picture-10/f_58612/f_44022952/1000022269_1741862598320_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/19th-century-swedish-antique-gustavian-chair-swedish-model-original-paint-for-sale-picture-10/f_58612/f_44022952/1000022269_1741862598320_master.jpg?width=768",
+            "uploadDate": "2025-03-19T09:07:40.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "19th Century Swedish antique Gustavian chair \" Swedish model\" original paint For Sale 6",
+            "contentUrl": "https://a.1stdibscdn.com/19th-century-swedish-antique-gustavian-chair-swedish-model-original-paint-for-sale-picture-11/f_58612/f_44022952/1000022270_1741862608600_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/19th-century-swedish-antique-gustavian-chair-swedish-model-original-paint-for-sale-picture-11/f_58612/f_44022952/1000022270_1741862608600_master.jpg?width=768",
+            "uploadDate": "2025-03-19T09:07:40.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "19th Century Swedish antique Gustavian chair \" Swedish model\" original paint For Sale 7",
+            "contentUrl": "https://a.1stdibscdn.com/19th-century-swedish-antique-gustavian-chair-swedish-model-original-paint-for-sale-picture-12/f_58612/f_44022952/1000022271_1741862622191_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/19th-century-swedish-antique-gustavian-chair-swedish-model-original-paint-for-sale-picture-12/f_58612/f_44022952/1000022271_1741862622191_master.jpg?width=768",
+            "uploadDate": "2025-03-19T09:07:40.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "19th Century Swedish antique Gustavian chair \" Swedish model\" original paint For Sale 8",
+            "contentUrl": "https://a.1stdibscdn.com/19th-century-swedish-antique-gustavian-chair-swedish-model-original-paint-for-sale-picture-13/f_58612/f_44022952/1000022272_1741862630975_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/19th-century-swedish-antique-gustavian-chair-swedish-model-original-paint-for-sale-picture-13/f_58612/f_44022952/1000022272_1741862630975_master.jpg?width=768",
+            "uploadDate": "2025-03-19T09:07:40.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "19th Century Swedish antique Gustavian chair \" Swedish model\" original paint For Sale 9",
+            "contentUrl": "https://a.1stdibscdn.com/19th-century-swedish-antique-gustavian-chair-swedish-model-original-paint-for-sale-picture-14/f_58612/f_44022952/1000022273_1741862638791_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/19th-century-swedish-antique-gustavian-chair-swedish-model-original-paint-for-sale-picture-14/f_58612/f_44022952/1000022273_1741862638791_master.jpg?width=768",
+            "uploadDate": "2025-03-19T09:07:40.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/UsedCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/chairs/19th-century-swedish-antique-gustavian-chair-swedish-model-original-paint/id-f_44022952/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1912.35,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3448.62,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 43784.83,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1950,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1674.56,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 14922.48,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 2163.37,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3120.33,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 21930.89,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 22869.7,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 5,
+          "reviewCount": 15
+        },
+        "productionDate": "Early 19th Century",
+        "category": "Chairs"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Chairs",
+              "@id": "/furniture/seating/chairs/"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "VideoObject",
+        "name": "19th Century Swedish antique Gustavian chair \" Swedish model\" original paint",
+        "description": "Fine antique 19th century Gustavian chair in great original condition.  From Umeå Västerbotten Northern Sweden.This type of chair is called the Swedish model. This particular example is with original colour and fantastic patination, circa 1800 Lovely details with carved flowers.\nMade in painted pine.\nStable in condition.",
+        "thumbnailUrl": "https://i.vimeocdn.com/video/1994819643-b9a84235409018704a19b792b62284c711e5961137a592930d53246314997e5c-d_1920x1080?&r=pad",
+        "uploadDate": "2025-03-18T15:44:19+00:00",
+        "duration": "PT0H0M26S",
+        "contentUrl": "https://player.vimeo.com/progressive_redirect/playback/1066992500/rendition/240p/file.mp4?loc=external&oauth2_token_id=1438265637&signature=9322f1f1a746b7972c65285d848ae35ede2acc0b03373730724fa327c39add1d&user_id=95659418"
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

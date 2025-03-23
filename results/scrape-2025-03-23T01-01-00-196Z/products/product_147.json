@@ -1,0 +1,307 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44018522",
+  "name": "Bent Beech Stackable Armchairs",
+  "slug": "f_44018522",
+  "price": "CA$728.24",
+  "description": "f_44018522",
+  "image_url": "https://a.1stdibscdn.com/bent-beech-stackable-armchairs-for-sale/f_9314/f_440185221741814680799/f_44018522_1741814681354_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/dining-room-chairs/bent-beech-stackable-armchairs/id-f_44018522/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 28.35 in (72 cm)",
+      "width": "Width: 22.84 in (58 cm)",
+      "depth": "Depth: 18.12 in (46 cm)",
+      "seatHeight": "Seat Height: 18.12 in (46 cm)"
+    },
+    "style": "Scandinavian Modern (In the Style Of)",
+    "materials": [
+      "Beech",
+      "Beech"
+    ],
+    "origin": "Denmark",
+    "period": "1980-1989",
+    "dateOfManufacture": "1985",
+    "condition": {
+      "rating": "Good",
+      "details": "Wear consistent with age and use."
+    },
+    "sellerLocation": "Dronten, NL",
+    "referenceNumber": "1stDibs: LU931444018522",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Simple, elegant solid bent beech armchairs. Functional, comfortable and smart design. \nStackable in stacks of up to 5 chairs, large quantity of 35 chairs available.\nExcellent sustainable choice for a modern restaurant or conference room.\nThese chairs are made in Denmark and built to last for a very long time.\n\nDanish design is renowned for its simplicity, functionality, and timeless elegance. It emerged in the mid-20th century, with designers such as Arne Jacobsen, Hans Wegner, and Finn Juhl at the forefront of the movement. Danish design is characterized by clean lines, natural materials, and an emphasis on craftsmanship. It is often associated with the concept of \"hygge,\" which refers to the feeling of coziness and contentment.</span></div></div>",
+    "rawSpecificationsText": "Simple, elegant solid bent beech armchairs. Functional, comfortable and smart design. \nStackable in stacks of up to 5 chairs, large quantity of 35 chairs available.\nExcellent sustainable choice for a modern restaurant or conference room.\nThese chairs are made in Denmark and built to last for a very long time.\n\nDanish design is renowned for its simplicity, functionality, and timeless elegance. It emerged in the mid-20th century, with designers such as Arne Jacobsen, Hans Wegner, and Finn Juhl at the forefront of the movement. Danish design is characterized by clean lines, natural materials, and an emphasis on craftsmanship. It is often associated with the concept of \"hygge,\" which refers to the feeling of coziness and contentment."
+  },
+  "raw_data": {
+    "productId": "f_44018522",
+    "slug": "f_44018522",
+    "url": "https://www.1stdibs.com/furniture/seating/dining-room-chairs/bent-beech-stackable-armchairs/id-f_44018522/",
+    "name": "Bent Beech Stackable Armchairs",
+    "price": "CA$728.24",
+    "imageUrl": "https://a.1stdibscdn.com/bent-beech-stackable-armchairs-for-sale/f_9314/f_440185221741814680799/f_44018522_1741814681354_bg_processed.jpg",
+    "description": "f_44018522",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 28.35 in (72 cm)",
+        "width": "Width: 22.84 in (58 cm)",
+        "depth": "Depth: 18.12 in (46 cm)",
+        "seatHeight": "Seat Height: 18.12 in (46 cm)"
+      },
+      "style": "Scandinavian Modern (In the Style Of)",
+      "materials": [
+        "Beech",
+        "Beech"
+      ],
+      "origin": "Denmark",
+      "period": "1980-1989",
+      "dateOfManufacture": "1985",
+      "condition": {
+        "rating": "Good",
+        "details": "Wear consistent with age and use."
+      },
+      "sellerLocation": "Dronten, NL",
+      "referenceNumber": "1stDibs: LU931444018522",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Simple, elegant solid bent beech armchairs. Functional, comfortable and smart design. \nStackable in stacks of up to 5 chairs, large quantity of 35 chairs available.\nExcellent sustainable choice for a modern restaurant or conference room.\nThese chairs are made in Denmark and built to last for a very long time.\n\nDanish design is renowned for its simplicity, functionality, and timeless elegance. It emerged in the mid-20th century, with designers such as Arne Jacobsen, Hans Wegner, and Finn Juhl at the forefront of the movement. Danish design is characterized by clean lines, natural materials, and an emphasis on craftsmanship. It is often associated with the concept of \"hygge,\" which refers to the feeling of coziness and contentment.</span></div></div>",
+      "rawSpecificationsText": "Simple, elegant solid bent beech armchairs. Functional, comfortable and smart design. \nStackable in stacks of up to 5 chairs, large quantity of 35 chairs available.\nExcellent sustainable choice for a modern restaurant or conference room.\nThese chairs are made in Denmark and built to last for a very long time.\n\nDanish design is renowned for its simplicity, functionality, and timeless elegance. It emerged in the mid-20th century, with designers such as Arne Jacobsen, Hans Wegner, and Finn Juhl at the forefront of the movement. Danish design is characterized by clean lines, natural materials, and an emphasis on craftsmanship. It is often associated with the concept of \"hygge,\" which refers to the feeling of coziness and contentment."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Bent Beech Stackable Armchairs",
+        "description": "Simple, elegant solid bent beech armchairs. Functional, comfortable and smart design. \nStackable in stacks of up to 5 chairs, large quantity of 35 chairs available.\nExcellent sustainable choice for a modern restaurant or conference room.\nThese chairs are made in Denmark and built to last for a very long time.\n\nDanish design is renowned for its simplicity, functionality, and timeless elegance. It emerged in the mid-20th century, with designers such as Arne Jacobsen, Hans Wegner, and Finn Juhl at the forefront of the movement. Danish design is characterized by clean lines, natural materials, and an emphasis on craftsmanship. It is often associated with the concept of \"hygge,\" which refers to the feeling of coziness and contentment. ",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Bent Beech Stackable Armchairs For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/bent-beech-stackable-armchairs-for-sale/f_9314/f_440185221741814680799/f_44018522_1741814681354_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/bent-beech-stackable-armchairs-for-sale/f_9314/f_440185221741814680799/f_44018522_1741814681354_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-12T17:27:54.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Simple, elegant solid bent beech armchairs. Functional, comfortable and smart design. \nStackable in stacks of up to 5 chairs, large quantity of 35 chairs available.\nExcellent sustainable choice for a modern restaurant or conference room.\nThese",
+            "contentUrl": "https://a.1stdibscdn.com/bent-beech-stackable-armchairs-for-sale-picture-2/f_9314/f_440185221741814721872/IMG_7697_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/bent-beech-stackable-armchairs-for-sale-picture-2/f_9314/f_440185221741814721872/IMG_7697_master.jpg?width=768",
+            "uploadDate": "2025-03-12T17:27:54.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Scandinavian Modern Bent Beech Stackable Armchairs For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/bent-beech-stackable-armchairs-for-sale-picture-3/f_9314/f_440185221741814720582/IMG_7696_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/bent-beech-stackable-armchairs-for-sale-picture-3/f_9314/f_440185221741814720582/IMG_7696_master.jpg?width=768",
+            "uploadDate": "2025-03-12T17:27:54.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Danish Bent Beech Stackable Armchairs For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/bent-beech-stackable-armchairs-for-sale-picture-4/f_9314/f_440185221741814735402/IMG_7702_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/bent-beech-stackable-armchairs-for-sale-picture-4/f_9314/f_440185221741814735402/IMG_7702_master.jpg?width=768",
+            "uploadDate": "2025-03-12T17:27:54.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Bent Beech Stackable Armchairs In Good Condition For Sale In Dronten, NL",
+            "contentUrl": "https://a.1stdibscdn.com/bent-beech-stackable-armchairs-for-sale-picture-5/f_9314/f_440185221741814721557/IMG_7698_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/bent-beech-stackable-armchairs-for-sale-picture-5/f_9314/f_440185221741814721557/IMG_7698_master.jpg?width=768",
+            "uploadDate": "2025-03-12T17:27:54.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Late 20th Century Bent Beech Stackable Armchairs For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/bent-beech-stackable-armchairs-for-sale-picture-6/f_9314/f_440185221741814722078/IMG_7699_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/bent-beech-stackable-armchairs-for-sale-picture-6/f_9314/f_440185221741814722078/IMG_7699_master.jpg?width=768",
+            "uploadDate": "2025-03-12T17:27:54.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Bent Beech Stackable Armchairs For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/bent-beech-stackable-armchairs-for-sale-picture-7/f_9314/f_440185221741814722007/IMG_7700_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/bent-beech-stackable-armchairs-for-sale-picture-7/f_9314/f_440185221741814722007/IMG_7700_master.jpg?width=768",
+            "uploadDate": "2025-03-12T17:27:54.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Bent Beech Stackable Armchairs For Sale 2",
+            "contentUrl": "https://a.1stdibscdn.com/bent-beech-stackable-armchairs-for-sale-picture-8/f_9314/f_440185221741814735807/IMG_7703_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/bent-beech-stackable-armchairs-for-sale-picture-8/f_9314/f_440185221741814735807/IMG_7703_master.jpg?width=768",
+            "uploadDate": "2025-03-12T17:27:54.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Bent Beech Stackable Armchairs For Sale 3",
+            "contentUrl": "https://a.1stdibscdn.com/bent-beech-stackable-armchairs-for-sale-picture-9/f_9314/f_440185221741814736565/IMG_7704_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/bent-beech-stackable-armchairs-for-sale-picture-9/f_9314/f_440185221741814736565/IMG_7704_master.jpg?width=768",
+            "uploadDate": "2025-03-12T17:27:54.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Bent Beech Stackable Armchairs For Sale 4",
+            "contentUrl": "https://a.1stdibscdn.com/bent-beech-stackable-armchairs-for-sale-picture-10/f_9314/f_440185221741814736579/IMG_7705_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/bent-beech-stackable-armchairs-for-sale-picture-10/f_9314/f_440185221741814736579/IMG_7705_master.jpg?width=768",
+            "uploadDate": "2025-03-12T17:27:54.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Bent Beech Stackable Armchairs For Sale 5",
+            "contentUrl": "https://a.1stdibscdn.com/bent-beech-stackable-armchairs-for-sale-picture-11/f_9314/f_440185221741814737333/IMG_7706_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/bent-beech-stackable-armchairs-for-sale-picture-11/f_9314/f_440185221741814737333/IMG_7706_master.jpg?width=768",
+            "uploadDate": "2025-03-12T17:27:54.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Bent Beech Stackable Armchairs For Sale 6",
+            "contentUrl": "https://a.1stdibscdn.com/bent-beech-stackable-armchairs-for-sale-picture-12/f_9314/f_440185221741814722021/IMG_7701_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/bent-beech-stackable-armchairs-for-sale-picture-12/f_9314/f_440185221741814722021/IMG_7701_master.jpg?width=768",
+            "uploadDate": "2025-03-12T17:27:54.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/UsedCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/dining-room-chairs/bent-beech-stackable-armchairs/id-f_44018522/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 446.32,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 804.86,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 10218.77,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 464.21,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 390.82,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3482.7,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 495,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 728.24,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 5118.37,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 5337.47,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 4.9,
+          "reviewCount": 50
+        },
+        "productionDate": "1980-1989",
+        "category": "Dining Room Chairs"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Dining Room Chairs",
+              "@id": "/furniture/seating/dining-room-chairs/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

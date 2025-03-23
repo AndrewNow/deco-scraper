@@ -1,0 +1,267 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44109042",
+  "name": "Moby Dick Beige Fabric-Covered Armchair by Libero Rutilo",
+  "slug": "f_44109042",
+  "price": "CA$4,994.71",
+  "description": "f_44109042",
+  "image_url": "https://a.1stdibscdn.com/moby-dick-beige-fabric-covered-armchair-by-libero-rutilo-for-sale/f_17062/f_441090421742373108663/f_44109042_1742373109091_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/armchairs/moby-dick-beige-fabric-covered-armchair-libero-rutilo/id-f_44109042/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 27.96 in (71 cm)",
+      "width": "Width: 29.53 in (75 cm)",
+      "depth": "Depth: 27.56 in (70 cm)"
+    },
+    "materials": [
+      "Textile",
+      "Textile"
+    ],
+    "origin": "Italy",
+    "period": "2010-",
+    "dateOfManufacture": "contemporary",
+    "condition": {
+      "rating": "New",
+      "details": null
+    },
+    "sellerLocation": "Milan, IT",
+    "referenceNumber": "Seller: MOREVR-135",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Sartorial refinement and playful inspiration coexist in this exquisite armchair by Libero Rutilo. Offered in a dark stain standing in rich chromatic contrast with the seat's beige-toned fabric upholstery, the ash frame captures the eye with its shape reminiscent of a whale's tail. Multiple variants and finishing options are available in the Artemest catalog.</span></div></div>",
+    "rawSpecificationsText": "Sartorial refinement and playful inspiration coexist in this exquisite armchair by Libero Rutilo. Offered in a dark stain standing in rich chromatic contrast with the seat's beige-toned fabric upholstery, the ash frame captures the eye with its shape reminiscent of a whale's tail. Multiple variants and finishing options are available in the Artemest catalog."
+  },
+  "raw_data": {
+    "productId": "f_44109042",
+    "slug": "f_44109042",
+    "url": "https://www.1stdibs.com/furniture/seating/armchairs/moby-dick-beige-fabric-covered-armchair-libero-rutilo/id-f_44109042/",
+    "name": "Moby Dick Beige Fabric-Covered Armchair by Libero Rutilo",
+    "price": "CA$4,994.71",
+    "imageUrl": "https://a.1stdibscdn.com/moby-dick-beige-fabric-covered-armchair-by-libero-rutilo-for-sale/f_17062/f_441090421742373108663/f_44109042_1742373109091_bg_processed.jpg",
+    "description": "f_44109042",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 27.96 in (71 cm)",
+        "width": "Width: 29.53 in (75 cm)",
+        "depth": "Depth: 27.56 in (70 cm)"
+      },
+      "materials": [
+        "Textile",
+        "Textile"
+      ],
+      "origin": "Italy",
+      "period": "2010-",
+      "dateOfManufacture": "contemporary",
+      "condition": {
+        "rating": "New",
+        "details": null
+      },
+      "sellerLocation": "Milan, IT",
+      "referenceNumber": "Seller: MOREVR-135",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Sartorial refinement and playful inspiration coexist in this exquisite armchair by Libero Rutilo. Offered in a dark stain standing in rich chromatic contrast with the seat's beige-toned fabric upholstery, the ash frame captures the eye with its shape reminiscent of a whale's tail. Multiple variants and finishing options are available in the Artemest catalog.</span></div></div>",
+      "rawSpecificationsText": "Sartorial refinement and playful inspiration coexist in this exquisite armchair by Libero Rutilo. Offered in a dark stain standing in rich chromatic contrast with the seat's beige-toned fabric upholstery, the ash frame captures the eye with its shape reminiscent of a whale's tail. Multiple variants and finishing options are available in the Artemest catalog."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Moby Dick Beige Fabric-Covered Armchair by Libero Rutilo",
+        "description": "Sartorial refinement and playful inspiration coexist in this exquisite armchair by Libero Rutilo. Offered in a dark stain standing in rich chromatic contrast with the seat's beige-toned fabric upholstery, the ash frame captures the eye with its shape reminiscent of a whale's tail. Multiple variants and finishing options are available in the Artemest catalog.",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Morelato",
+            "caption": "Moby Dick Beige Fabric-Covered Armchair by Libero Rutilo For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/moby-dick-beige-fabric-covered-armchair-by-libero-rutilo-for-sale/f_17062/f_441090421742373108663/f_44109042_1742373109091_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/moby-dick-beige-fabric-covered-armchair-by-libero-rutilo-for-sale/f_17062/f_441090421742373108663/f_44109042_1742373109091_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-19T04:36:02.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Morelato",
+            "caption": "Sartorial refinement and playful inspiration coexist in this exquisite armchair by Libero Rutilo. Offered in a dark stain standing in rich chromatic contrast with the seat's beige-toned fabric upholstery, the ash frame captures the eye with its",
+            "contentUrl": "https://a.1stdibscdn.com/moby-dick-beige-fabric-covered-armchair-by-libero-rutilo-for-sale-picture-2/f_17062/f_441090421742373163729/1710943019771_MMAANY_0011_Moby_20Dick_203820F_20_285_29_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/moby-dick-beige-fabric-covered-armchair-by-libero-rutilo-for-sale-picture-2/f_17062/f_441090421742373163729/1710943019771_MMAANY_0011_Moby_20Dick_203820F_20_285_29_master.jpg?width=768",
+            "uploadDate": "2025-03-19T04:36:02.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Morelato",
+            "caption": "Italian Moby Dick Beige Fabric-Covered Armchair by Libero Rutilo For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/moby-dick-beige-fabric-covered-armchair-by-libero-rutilo-for-sale-picture-3/f_17062/f_441090421742373164088/1710943014963_MMAANY_0010_Moby_20Dick_203820F_20_286_29_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/moby-dick-beige-fabric-covered-armchair-by-libero-rutilo-for-sale-picture-3/f_17062/f_441090421742373164088/1710943014963_MMAANY_0010_Moby_20Dick_203820F_20_286_29_master.jpg?width=768",
+            "uploadDate": "2025-03-19T04:36:02.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Morelato",
+            "caption": "Moby Dick Beige Fabric-Covered Armchair by Libero Rutilo In New Condition For Sale In Milan, IT",
+            "contentUrl": "https://a.1stdibscdn.com/moby-dick-beige-fabric-covered-armchair-by-libero-rutilo-for-sale-picture-4/f_17062/f_441090421742373163984/1710943009605_MMAANY_0009_Moby_20Dick_203820F_20_287_29_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/moby-dick-beige-fabric-covered-armchair-by-libero-rutilo-for-sale-picture-4/f_17062/f_441090421742373163984/1710943009605_MMAANY_0009_Moby_20Dick_203820F_20_287_29_master.jpg?width=768",
+            "uploadDate": "2025-03-19T04:36:02.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Morelato",
+            "caption": "Contemporary Moby Dick Beige Fabric-Covered Armchair by Libero Rutilo For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/moby-dick-beige-fabric-covered-armchair-by-libero-rutilo-for-sale-picture-5/f_17062/f_441090421742373163955/1710943005040_MMAANY_0009_0009_Moby_20Dick_203820F_20_282_29_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/moby-dick-beige-fabric-covered-armchair-by-libero-rutilo-for-sale-picture-5/f_17062/f_441090421742373163955/1710943005040_MMAANY_0009_0009_Moby_20Dick_203820F_20_282_29_master.jpg?width=768",
+            "uploadDate": "2025-03-19T04:36:02.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Morelato",
+            "caption": "Textile Moby Dick Beige Fabric-Covered Armchair by Libero Rutilo For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/moby-dick-beige-fabric-covered-armchair-by-libero-rutilo-for-sale-picture-6/f_17062/f_441090421742373188371/1710943019771_MMAANY_0011_Moby_20Dick_203820F_20_285_29_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/moby-dick-beige-fabric-covered-armchair-by-libero-rutilo-for-sale-picture-6/f_17062/f_441090421742373188371/1710943019771_MMAANY_0011_Moby_20Dick_203820F_20_285_29_master.jpg?width=768",
+            "uploadDate": "2025-03-19T04:36:02.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Morelato",
+            "caption": "Moby Dick Beige Fabric-Covered Armchair by Libero Rutilo For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/moby-dick-beige-fabric-covered-armchair-by-libero-rutilo-for-sale-picture-7/f_17062/f_441090421742373188534/1710943014963_MMAANY_0010_Moby_20Dick_203820F_20_286_29_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/moby-dick-beige-fabric-covered-armchair-by-libero-rutilo-for-sale-picture-7/f_17062/f_441090421742373188534/1710943014963_MMAANY_0010_Moby_20Dick_203820F_20_286_29_master.jpg?width=768",
+            "uploadDate": "2025-03-19T04:36:02.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Morelato",
+            "caption": "Moby Dick Beige Fabric-Covered Armchair by Libero Rutilo For Sale 2",
+            "contentUrl": "https://a.1stdibscdn.com/moby-dick-beige-fabric-covered-armchair-by-libero-rutilo-for-sale-picture-8/f_17062/f_441090421742373188539/1710943009605_MMAANY_0009_Moby_20Dick_203820F_20_287_29_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/moby-dick-beige-fabric-covered-armchair-by-libero-rutilo-for-sale-picture-8/f_17062/f_441090421742373188539/1710943009605_MMAANY_0009_Moby_20Dick_203820F_20_287_29_master.jpg?width=768",
+            "uploadDate": "2025-03-19T04:36:02.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/NewCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/armchairs/moby-dick-beige-fabric-covered-armchair-libero-rutilo/id-f_44109042/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 5520.21,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3061.1,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 70086.33,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3183.79,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 2680.47,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 23886.39,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3395,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 4994.71,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 35104.75,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 36607.51,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 4.8,
+          "reviewCount": 105
+        },
+        "productionDate": "2010-",
+        "category": "Armchairs",
+        "brand": {
+          "@type": "Brand",
+          "name": "Morelato"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Armchairs",
+              "@id": "/furniture/seating/armchairs/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

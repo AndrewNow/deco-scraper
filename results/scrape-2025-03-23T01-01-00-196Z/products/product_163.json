@@ -1,0 +1,256 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_39499082",
+  "name": "Large Conversation Settee - Canapé à confident - Sofa",
+  "slug": "f_39499082",
+  "price": "CA$25,334.63",
+  "description": "f_39499082",
+  "image_url": "https://a.1stdibscdn.com/large-conversation-settee-canape-a-confident-sofa-for-sale/f_58042/f_394990821714477983743/f_39499082_1714477984964_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/canapes/large-conversation-settee-canape-confident-sofa/id-f_39499082/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 39.38 in (100 cm)",
+      "width": "Width: 116.15 in (295 cm)",
+      "depth": "Depth: 26.38 in (67 cm)",
+      "seatHeight": "Seat Height: 17.72 in (45 cm)"
+    },
+    "style": "Louis XVI (In the Style Of)",
+    "materials": [
+      "Velvet",
+      "Wood",
+      "Velvet",
+      "Wood"
+    ],
+    "origin": "France",
+    "period": "Late 19th Century",
+    "dateOfManufacture": "1880",
+    "condition": {
+      "rating": "Good",
+      "details": "Wear consistent with age and use."
+    },
+    "sellerLocation": "Paris, FR",
+    "referenceNumber": "1stDibs: LU5804239499082",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Very unusual and large conversation settee - canapé à confident.\nCarved gilt-wood and velvet fabric, circa 1880.</span></div></div>",
+    "rawSpecificationsText": "Very unusual and large conversation settee - canapé à confident.\nCarved gilt-wood and velvet fabric, circa 1880."
+  },
+  "raw_data": {
+    "productId": "f_39499082",
+    "slug": "f_39499082",
+    "url": "https://www.1stdibs.com/furniture/seating/canapes/large-conversation-settee-canape-confident-sofa/id-f_39499082/",
+    "name": "Large Conversation Settee - Canapé à confident - Sofa",
+    "price": "CA$25,334.63",
+    "imageUrl": "https://a.1stdibscdn.com/large-conversation-settee-canape-a-confident-sofa-for-sale/f_58042/f_394990821714477983743/f_39499082_1714477984964_bg_processed.jpg",
+    "description": "f_39499082",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 39.38 in (100 cm)",
+        "width": "Width: 116.15 in (295 cm)",
+        "depth": "Depth: 26.38 in (67 cm)",
+        "seatHeight": "Seat Height: 17.72 in (45 cm)"
+      },
+      "style": "Louis XVI (In the Style Of)",
+      "materials": [
+        "Velvet",
+        "Wood",
+        "Velvet",
+        "Wood"
+      ],
+      "origin": "France",
+      "period": "Late 19th Century",
+      "dateOfManufacture": "1880",
+      "condition": {
+        "rating": "Good",
+        "details": "Wear consistent with age and use."
+      },
+      "sellerLocation": "Paris, FR",
+      "referenceNumber": "1stDibs: LU5804239499082",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Very unusual and large conversation settee - canapé à confident.\nCarved gilt-wood and velvet fabric, circa 1880.</span></div></div>",
+      "rawSpecificationsText": "Very unusual and large conversation settee - canapé à confident.\nCarved gilt-wood and velvet fabric, circa 1880."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Large Conversation Settee - Canapé à confident - Sofa",
+        "description": "Very unusual and large conversation settee - canapé à confident.\nCarved gilt-wood and velvet fabric, circa 1880.\n",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Large Conversation Settee - Canapé à confident - Sofa For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/large-conversation-settee-canape-a-confident-sofa-for-sale/f_58042/f_394990821714477983743/f_39499082_1714477984964_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/large-conversation-settee-canape-a-confident-sofa-for-sale/f_58042/f_394990821714477983743/f_39499082_1714477984964_bg_processed.jpg?width=768",
+            "uploadDate": "2024-04-30T07:55:08.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Very unusual and large conversation settee - canapé à confident.\nCarved gilt-wood and velvet fabric, circa 1880.\n",
+            "contentUrl": "https://a.1stdibscdn.com/large-conversation-settee-canape-a-confident-sofa-for-sale-picture-3/f_58042/f_394990821714477871226/IMG_9679_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/large-conversation-settee-canape-a-confident-sofa-for-sale-picture-3/f_58042/f_394990821714477871226/IMG_9679_master.jpeg?width=768",
+            "uploadDate": "2024-04-30T07:55:08.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "confident canape",
+            "contentUrl": "https://a.1stdibscdn.com/large-conversation-settee-canape-a-confident-sofa-for-sale-picture-4/f_58042/f_394990821714477881726/6_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/large-conversation-settee-canape-a-confident-sofa-for-sale-picture-4/f_58042/f_394990821714477881726/6_master.jpeg?width=768",
+            "uploadDate": "2024-04-30T07:55:08.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "conversation couch vintage",
+            "contentUrl": "https://a.1stdibscdn.com/large-conversation-settee-canape-a-confident-sofa-for-sale-picture-5/f_58042/f_394990821714477891336/3_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/large-conversation-settee-canape-a-confident-sofa-for-sale-picture-5/f_58042/f_394990821714477891336/3_master.jpeg?width=768",
+            "uploadDate": "2024-04-30T07:55:08.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "mary berry canapes",
+            "contentUrl": "https://a.1stdibscdn.com/large-conversation-settee-canape-a-confident-sofa-for-sale-picture-6/f_58042/f_394990821714477910062/11_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/large-conversation-settee-canape-a-confident-sofa-for-sale-picture-6/f_58042/f_394990821714477910062/11_master.jpeg?width=768",
+            "uploadDate": "2024-04-30T07:55:08.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Louis XVI Large Conversation Settee - Canapé à confident - Sofa For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/large-conversation-settee-canape-a-confident-sofa-for-sale-picture-7/f_58042/f_394990821714477923762/IMG_9694_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/large-conversation-settee-canape-a-confident-sofa-for-sale-picture-7/f_58042/f_394990821714477923762/IMG_9694_master.jpeg?width=768",
+            "uploadDate": "2024-04-30T07:55:08.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "French Large Conversation Settee - Canapé à confident - Sofa For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/large-conversation-settee-canape-a-confident-sofa-for-sale-picture-8/f_58042/f_394990821714477948698/2_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/large-conversation-settee-canape-a-confident-sofa-for-sale-picture-8/f_58042/f_394990821714477948698/2_master.jpeg?width=768",
+            "uploadDate": "2024-04-30T07:55:08.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/UsedCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/canapes/large-conversation-settee-canape-confident-sofa/id-f_39499082/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 15621.74,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 28103.72,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 356406.09,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 16000,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 13658.68,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 121732.52,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 17682.47,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 25334.63,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 179497.4,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 186838.81,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "productionDate": "Late 19th Century",
+        "category": "Canapes"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Canapes",
+              "@id": "/furniture/seating/canapes/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

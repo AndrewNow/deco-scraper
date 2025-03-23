@@ -1,0 +1,267 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44092672",
+  "name": "Brutalist French oak rough Side Chair",
+  "slug": "f_44092672",
+  "price": "CA$1,774.59",
+  "description": "f_44092672",
+  "image_url": "https://a.1stdibscdn.com/brutalist-french-oak-rough-side-chair-for-sale/f_72762/f_440926721742268095533/f_44092672_1742268095861_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/side-chairs/brutalist-french-oak-rough-side-chair/id-f_44092672/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 44.49 in (113 cm)",
+      "width": "Width: 14.57 in (37 cm)",
+      "depth": "Depth: 15.36 in (39 cm)",
+      "seatHeight": "Seat Height: 16.15 in (41 cm)"
+    },
+    "style": "Mid-Century Modern (In the Style Of)",
+    "materials": [
+      "Oak",
+      "Oak"
+    ],
+    "origin": "France",
+    "period": "1960-1969",
+    "dateOfManufacture": "1965",
+    "condition": {
+      "rating": "Fair",
+      "details": "Wear consistent with age and use."
+    },
+    "sellerLocation": "Waasmunster, BE",
+    "referenceNumber": "1stDibs: LU7276244092672",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Brutalist French oak rough Side Chair</span></div></div>",
+    "rawSpecificationsText": "Brutalist French oak rough Side Chair"
+  },
+  "raw_data": {
+    "productId": "f_44092672",
+    "slug": "f_44092672",
+    "url": "https://www.1stdibs.com/furniture/seating/side-chairs/brutalist-french-oak-rough-side-chair/id-f_44092672/",
+    "name": "Brutalist French oak rough Side Chair",
+    "price": "CA$1,774.59",
+    "imageUrl": "https://a.1stdibscdn.com/brutalist-french-oak-rough-side-chair-for-sale/f_72762/f_440926721742268095533/f_44092672_1742268095861_bg_processed.jpg",
+    "description": "f_44092672",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 44.49 in (113 cm)",
+        "width": "Width: 14.57 in (37 cm)",
+        "depth": "Depth: 15.36 in (39 cm)",
+        "seatHeight": "Seat Height: 16.15 in (41 cm)"
+      },
+      "style": "Mid-Century Modern (In the Style Of)",
+      "materials": [
+        "Oak",
+        "Oak"
+      ],
+      "origin": "France",
+      "period": "1960-1969",
+      "dateOfManufacture": "1965",
+      "condition": {
+        "rating": "Fair",
+        "details": "Wear consistent with age and use."
+      },
+      "sellerLocation": "Waasmunster, BE",
+      "referenceNumber": "1stDibs: LU7276244092672",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Brutalist French oak rough Side Chair</span></div></div>",
+      "rawSpecificationsText": "Brutalist French oak rough Side Chair"
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Brutalist French oak rough Side Chair",
+        "description": "Brutalist French oak rough Side Chair",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Brutalist French oak rough Side Chair For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/brutalist-french-oak-rough-side-chair-for-sale/f_72762/f_440926721742268095533/f_44092672_1742268095861_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/brutalist-french-oak-rough-side-chair-for-sale/f_72762/f_440926721742268095533/f_44092672_1742268095861_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-20T14:46:03.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Mid-Century Modern Brutalist French oak rough Side Chair For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/brutalist-french-oak-rough-side-chair-for-sale-picture-2/f_72762/f_440926721742268163696/1000046792_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/brutalist-french-oak-rough-side-chair-for-sale-picture-2/f_72762/f_440926721742268163696/1000046792_master.jpg?width=768",
+            "uploadDate": "2025-03-20T14:46:03.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Brutalist French oak rough Side Chair In Fair Condition For Sale In Waasmunster, BE",
+            "contentUrl": "https://a.1stdibscdn.com/brutalist-french-oak-rough-side-chair-for-sale-picture-3/f_72762/f_440926721742268163884/1000046790_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/brutalist-french-oak-rough-side-chair-for-sale-picture-3/f_72762/f_440926721742268163884/1000046790_master.jpg?width=768",
+            "uploadDate": "2025-03-20T14:46:03.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Mid-20th Century Brutalist French oak rough Side Chair For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/brutalist-french-oak-rough-side-chair-for-sale-picture-4/f_72762/f_440926721742268164056/1000046787_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/brutalist-french-oak-rough-side-chair-for-sale-picture-4/f_72762/f_440926721742268164056/1000046787_master.jpg?width=768",
+            "uploadDate": "2025-03-20T14:46:03.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Oak Brutalist French oak rough Side Chair For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/brutalist-french-oak-rough-side-chair-for-sale-picture-5/f_72762/f_440926721742268164277/1000046798_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/brutalist-french-oak-rough-side-chair-for-sale-picture-5/f_72762/f_440926721742268164277/1000046798_master.jpg?width=768",
+            "uploadDate": "2025-03-20T14:46:03.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Brutalist French oak rough Side Chair For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/brutalist-french-oak-rough-side-chair-for-sale-picture-6/f_72762/f_440926721742268164411/1000046797_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/brutalist-french-oak-rough-side-chair-for-sale-picture-6/f_72762/f_440926721742268164411/1000046797_master.jpg?width=768",
+            "uploadDate": "2025-03-20T14:46:03.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Brutalist French oak rough Side Chair For Sale 2",
+            "contentUrl": "https://a.1stdibscdn.com/brutalist-french-oak-rough-side-chair-for-sale-picture-7/f_72762/f_440926721742268164498/1000046794_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/brutalist-french-oak-rough-side-chair-for-sale-picture-7/f_72762/f_440926721742268164498/1000046794_master.jpg?width=768",
+            "uploadDate": "2025-03-20T14:46:03.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Brutalist French oak rough Side Chair For Sale 3",
+            "contentUrl": "https://a.1stdibscdn.com/brutalist-french-oak-rough-side-chair-for-sale-picture-8/f_72762/f_440926721742268165597/1000046796_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/brutalist-french-oak-rough-side-chair-for-sale-picture-8/f_72762/f_440926721742268165597/1000046796_master.jpg?width=768",
+            "uploadDate": "2025-03-20T14:46:03.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/UsedCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/side-chairs/brutalist-french-oak-rough-side-chair/id-f_44092672/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1087.59,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1961.29,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 24901.22,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1109,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 952.35,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 8486.68,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1230.35,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1774.59,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 12472.49,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 13006.41,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 4.2,
+          "reviewCount": 5
+        },
+        "productionDate": "1960-1969",
+        "category": "Side Chairs"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Side Chairs",
+              "@id": "/furniture/seating/side-chairs/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

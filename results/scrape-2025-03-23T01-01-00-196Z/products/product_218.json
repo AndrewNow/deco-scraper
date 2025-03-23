@@ -1,0 +1,239 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44056492",
+  "name": "Original and Documented Jugendstil Adolf Loos Chair, 20th Century, 1907",
+  "slug": "f_44056492",
+  "price": "CA$35,523.79",
+  "description": "f_44056492",
+  "image_url": "https://a.1stdibscdn.com/original-and-documented-jugendstil-adolf-loos-chair-20th-century-1907-for-sale/f_10502/f_440564921741987381626/f_44056492_1741987381907_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/chairs/original-documented-jugendstil-adolf-loos-chair-20th-century-1907/id-f_44056492/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 39.38 in (100 cm)",
+      "width": "Width: 21.66 in (55 cm)",
+      "depth": "Depth: 21.66 in (55 cm)"
+    },
+    "style": "Jugendstil (Of the Period)",
+    "materials": [
+      "Beech",
+      "Beech"
+    ],
+    "origin": "Austria",
+    "period": "1900-1909",
+    "dateOfManufacture": "1907",
+    "condition": {
+      "rating": "Excellent",
+      "details": "Wear consistent with age and use."
+    },
+    "sellerLocation": "Vienna, AT",
+    "referenceNumber": "Seller: 60043",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Chair from the antechamber of the Rudolf Kraus apartment, brother of Karl Kraus, the famous wordsmith. This Apartment in Vienna 1, Nibelungengasse 13, was presented by Adolf Loos on walking tours, when he has shown his works to the public. Loos has ordered furniture at cabinet makers as Josef Veillich or Friedrich Otto Schmidt, often following inspiring examples from the 18th century. The old fabric-cover has not been restored. The historical Images was made in 1930.</span></div></div>",
+    "rawSpecificationsText": "Chair from the antechamber of the Rudolf Kraus apartment, brother of Karl Kraus, the famous wordsmith. This Apartment in Vienna 1, Nibelungengasse 13, was presented by Adolf Loos on walking tours, when he has shown his works to the public. Loos has ordered furniture at cabinet makers as Josef Veillich or Friedrich Otto Schmidt, often following inspiring examples from the 18th century. The old fabric-cover has not been restored. The historical Images was made in 1930."
+  },
+  "raw_data": {
+    "productId": "f_44056492",
+    "slug": "f_44056492",
+    "url": "https://www.1stdibs.com/furniture/seating/chairs/original-documented-jugendstil-adolf-loos-chair-20th-century-1907/id-f_44056492/",
+    "name": "Original and Documented Jugendstil Adolf Loos Chair, 20th Century, 1907",
+    "price": "CA$35,523.79",
+    "imageUrl": "https://a.1stdibscdn.com/original-and-documented-jugendstil-adolf-loos-chair-20th-century-1907-for-sale/f_10502/f_440564921741987381626/f_44056492_1741987381907_bg_processed.jpg",
+    "description": "f_44056492",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 39.38 in (100 cm)",
+        "width": "Width: 21.66 in (55 cm)",
+        "depth": "Depth: 21.66 in (55 cm)"
+      },
+      "style": "Jugendstil (Of the Period)",
+      "materials": [
+        "Beech",
+        "Beech"
+      ],
+      "origin": "Austria",
+      "period": "1900-1909",
+      "dateOfManufacture": "1907",
+      "condition": {
+        "rating": "Excellent",
+        "details": "Wear consistent with age and use."
+      },
+      "sellerLocation": "Vienna, AT",
+      "referenceNumber": "Seller: 60043",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Chair from the antechamber of the Rudolf Kraus apartment, brother of Karl Kraus, the famous wordsmith. This Apartment in Vienna 1, Nibelungengasse 13, was presented by Adolf Loos on walking tours, when he has shown his works to the public. Loos has ordered furniture at cabinet makers as Josef Veillich or Friedrich Otto Schmidt, often following inspiring examples from the 18th century. The old fabric-cover has not been restored. The historical Images was made in 1930.</span></div></div>",
+      "rawSpecificationsText": "Chair from the antechamber of the Rudolf Kraus apartment, brother of Karl Kraus, the famous wordsmith. This Apartment in Vienna 1, Nibelungengasse 13, was presented by Adolf Loos on walking tours, when he has shown his works to the public. Loos has ordered furniture at cabinet makers as Josef Veillich or Friedrich Otto Schmidt, often following inspiring examples from the 18th century. The old fabric-cover has not been restored. The historical Images was made in 1930."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Original and Documented Jugendstil Adolf Loos Chair, 20th Century, 1907",
+        "description": "Chair from the antechamber of the Rudolf Kraus apartment, brother of Karl Kraus, the famous wordsmith. This Apartment in Vienna 1, Nibelungengasse 13, was presented by Adolf Loos on walking tours, when he has shown his works to the public. Loos has ordered furniture at cabinet makers as Josef Veillich or Friedrich Otto Schmidt, often following inspiring examples from the 18th century. The old fabric-cover has not been restored. The historical Images was made in 1930.\n",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Adolf Loos, Friedrich Otto Schmidt, Woka Lamps",
+            "caption": "Original and Documented Jugendstil Adolf Loos Chair, 20th Century, 1907 For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/original-and-documented-jugendstil-adolf-loos-chair-20th-century-1907-for-sale/f_10502/f_440564921741987381626/f_44056492_1741987381907_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/original-and-documented-jugendstil-adolf-loos-chair-20th-century-1907-for-sale/f_10502/f_440564921741987381626/f_44056492_1741987381907_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-15T13:22:19.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Adolf Loos, Friedrich Otto Schmidt, Woka Lamps",
+            "caption": "Chair from the antechamber of the Rudolf Kraus apartment, brother of Karl Kraus, the famous wordsmith. This Apartment in Vienna 1, Nibelungengasse 13, was presented by Adolf Loos on walking tours, when he has shown his works to the public. Loos has",
+            "contentUrl": "https://a.1stdibscdn.com/original-and-documented-jugendstil-adolf-loos-chair-20th-century-1907-for-sale-picture-2/f_10502/f_440564921741987405146/IMG_5537_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/original-and-documented-jugendstil-adolf-loos-chair-20th-century-1907-for-sale-picture-2/f_10502/f_440564921741987405146/IMG_5537_master.jpeg?width=768",
+            "uploadDate": "2025-03-15T13:22:19.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Adolf Loos, Friedrich Otto Schmidt, Woka Lamps",
+            "caption": "Austrian Original and Documented Jugendstil Adolf Loos Chair, 20th Century, 1907 For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/original-and-documented-jugendstil-adolf-loos-chair-20th-century-1907-for-sale-picture-3/f_10502/f_440564921741987405272/IMG_5538_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/original-and-documented-jugendstil-adolf-loos-chair-20th-century-1907-for-sale-picture-3/f_10502/f_440564921741987405272/IMG_5538_master.jpeg?width=768",
+            "uploadDate": "2025-03-15T13:22:19.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Adolf Loos, Friedrich Otto Schmidt, Woka Lamps",
+            "caption": "Hand-Crafted Original and Documented Jugendstil Adolf Loos Chair, 20th Century, 1907 For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/original-and-documented-jugendstil-adolf-loos-chair-20th-century-1907-for-sale-picture-4/f_10502/f_440564921741987405447/IMG_5539_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/original-and-documented-jugendstil-adolf-loos-chair-20th-century-1907-for-sale-picture-4/f_10502/f_440564921741987405447/IMG_5539_master.jpeg?width=768",
+            "uploadDate": "2025-03-15T13:22:19.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Adolf Loos, Friedrich Otto Schmidt, Woka Lamps",
+            "caption": "Original and Documented Jugendstil Adolf Loos Chair, 20th Century, 1907 In Excellent Condition For Sale In Vienna, AT",
+            "contentUrl": "https://a.1stdibscdn.com/original-and-documented-jugendstil-adolf-loos-chair-20th-century-1907-for-sale-picture-5/f_10502/f_440564921741987405589/IMG_5540_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/original-and-documented-jugendstil-adolf-loos-chair-20th-century-1907-for-sale-picture-5/f_10502/f_440564921741987405589/IMG_5540_master.jpeg?width=768",
+            "uploadDate": "2025-03-15T13:22:19.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/UsedCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/chairs/original-documented-jugendstil-adolf-loos-chair-20th-century-1907/id-f_44056492/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 21771.37,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 39261.26,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 498473.4,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 22200,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 19064.26,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 169886.65,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 24629.11,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 35523.79,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 249674.73,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 260362.78,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 4.6,
+          "reviewCount": 10
+        },
+        "productionDate": "1900-1909",
+        "category": "Chairs",
+        "brand": {
+          "@type": "Brand",
+          "name": "Adolf Loos, Friedrich Otto Schmidt, Woka Lamps"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Chairs",
+              "@id": "/furniture/seating/chairs/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

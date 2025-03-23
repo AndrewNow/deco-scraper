@@ -1,0 +1,277 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44133022",
+  "name": "Pine Wood Dining Chairs, 1970s, Sweden, Set of 5",
+  "slug": "f_44133022",
+  "price": "CA$1,920.20",
+  "description": "f_44133022",
+  "image_url": "https://a.1stdibscdn.com/pine-wood-dining-chairs-1970s-sweden-set-of-5-for-sale/f_88782/f_441330221742492575949/f_44133022_1742492576477_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/dining-room-chairs/pine-wood-dining-chairs-1970s-sweden-set-of-5/id-f_44133022/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 38.98 in (99 cm)",
+      "width": "Width: 16.93 in (43 cm)",
+      "depth": "Depth: 17.33 in (44 cm)",
+      "seatHeight": "Seat Height: 18.51 in (47 cm)"
+    },
+    "style": "Mid-Century Modern (Of the Period)",
+    "materials": [
+      "Pine",
+      "Pine"
+    ],
+    "origin": "Sweden",
+    "period": "1970-1979",
+    "dateOfManufacture": "1970",
+    "condition": {
+      "rating": "Good",
+      "details": "Wear consistent with age and use."
+    },
+    "sellerLocation": "Göteborg, SE",
+    "referenceNumber": "1stDibs: LU8878244133022",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Authentic 1970s Swedish design with a rustic and timeless appeal.\n\nCrafted from solid pine with visible wood grain and warm natural tones.\n\nContoured backrest with decorative cutout detailing for added charm.\n\nSturdy construction, designed for both comfort and durability.\n\nSet of five chairs, ideal for kitchen or dining room use.\n\nVersatile style suitable for farmhouse, rustic, and Scandinavian interiors.\n\nBeautiful vintage patina that enhances the wood’s natural character.\n\nRustic Scandinavian design with solid wood construction and timeless charm.</span></div></div>",
+    "rawSpecificationsText": "Authentic 1970s Swedish design with a rustic and timeless appeal.\n\nCrafted from solid pine with visible wood grain and warm natural tones.\n\nContoured backrest with decorative cutout detailing for added charm.\n\nSturdy construction, designed for both comfort and durability.\n\nSet of five chairs, ideal for kitchen or dining room use.\n\nVersatile style suitable for farmhouse, rustic, and Scandinavian interiors.\n\nBeautiful vintage patina that enhances the wood’s natural character.\n\nRustic Scandinavian design with solid wood construction and timeless charm."
+  },
+  "raw_data": {
+    "productId": "f_44133022",
+    "slug": "f_44133022",
+    "url": "https://www.1stdibs.com/furniture/seating/dining-room-chairs/pine-wood-dining-chairs-1970s-sweden-set-of-5/id-f_44133022/",
+    "name": "Pine Wood Dining Chairs, 1970s, Sweden, Set of 5",
+    "price": "CA$1,920.20",
+    "imageUrl": "https://a.1stdibscdn.com/pine-wood-dining-chairs-1970s-sweden-set-of-5-for-sale/f_88782/f_441330221742492575949/f_44133022_1742492576477_bg_processed.jpg",
+    "description": "f_44133022",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 38.98 in (99 cm)",
+        "width": "Width: 16.93 in (43 cm)",
+        "depth": "Depth: 17.33 in (44 cm)",
+        "seatHeight": "Seat Height: 18.51 in (47 cm)"
+      },
+      "style": "Mid-Century Modern (Of the Period)",
+      "materials": [
+        "Pine",
+        "Pine"
+      ],
+      "origin": "Sweden",
+      "period": "1970-1979",
+      "dateOfManufacture": "1970",
+      "condition": {
+        "rating": "Good",
+        "details": "Wear consistent with age and use."
+      },
+      "sellerLocation": "Göteborg, SE",
+      "referenceNumber": "1stDibs: LU8878244133022",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Authentic 1970s Swedish design with a rustic and timeless appeal.\n\nCrafted from solid pine with visible wood grain and warm natural tones.\n\nContoured backrest with decorative cutout detailing for added charm.\n\nSturdy construction, designed for both comfort and durability.\n\nSet of five chairs, ideal for kitchen or dining room use.\n\nVersatile style suitable for farmhouse, rustic, and Scandinavian interiors.\n\nBeautiful vintage patina that enhances the wood’s natural character.\n\nRustic Scandinavian design with solid wood construction and timeless charm.</span></div></div>",
+      "rawSpecificationsText": "Authentic 1970s Swedish design with a rustic and timeless appeal.\n\nCrafted from solid pine with visible wood grain and warm natural tones.\n\nContoured backrest with decorative cutout detailing for added charm.\n\nSturdy construction, designed for both comfort and durability.\n\nSet of five chairs, ideal for kitchen or dining room use.\n\nVersatile style suitable for farmhouse, rustic, and Scandinavian interiors.\n\nBeautiful vintage patina that enhances the wood’s natural character.\n\nRustic Scandinavian design with solid wood construction and timeless charm."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Pine Wood Dining Chairs, 1970s, Sweden, Set of 5",
+        "description": "Authentic 1970s Swedish design with a rustic and timeless appeal.\n\nCrafted from solid pine with visible wood grain and warm natural tones.\n\nContoured backrest with decorative cutout detailing for added charm.\n\nSturdy construction, designed for both comfort and durability.\n\nSet of five chairs, ideal for kitchen or dining room use.\n\nVersatile style suitable for farmhouse, rustic, and Scandinavian interiors.\n\nBeautiful vintage patina that enhances the wood’s natural character.\n\nRustic Scandinavian design with solid wood construction and timeless charm.",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Pine Wood Dining Chairs, 1970s, Sweden, Set of 5 For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/pine-wood-dining-chairs-1970s-sweden-set-of-5-for-sale/f_88782/f_441330221742492575949/f_44133022_1742492576477_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/pine-wood-dining-chairs-1970s-sweden-set-of-5-for-sale/f_88782/f_441330221742492575949/f_44133022_1742492576477_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-20T13:59:51.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Authentic 1970s Swedish design with a rustic and timeless appeal.\n\nCrafted from solid pine with visible wood grain and warm natural tones.\n\nContoured backrest with decorative cutout detailing for added charm.\n\nSturdy construction, designed for both",
+            "contentUrl": "https://a.1stdibscdn.com/pine-wood-dining-chairs-1970s-sweden-set-of-5-for-sale-picture-2/f_88782/f_441330221742492611058/Photoroom_20250308_102518_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/pine-wood-dining-chairs-1970s-sweden-set-of-5-for-sale-picture-2/f_88782/f_441330221742492611058/Photoroom_20250308_102518_master.jpeg?width=768",
+            "uploadDate": "2025-03-20T13:59:51.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Mid-Century Modern Pine Wood Dining Chairs, 1970s, Sweden, Set of 5 For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/pine-wood-dining-chairs-1970s-sweden-set-of-5-for-sale-picture-3/f_88782/f_441330221742492610982/Photoroom_20250308_102637_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/pine-wood-dining-chairs-1970s-sweden-set-of-5-for-sale-picture-3/f_88782/f_441330221742492610982/Photoroom_20250308_102637_master.jpeg?width=768",
+            "uploadDate": "2025-03-20T13:59:51.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Swedish Pine Wood Dining Chairs, 1970s, Sweden, Set of 5 For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/pine-wood-dining-chairs-1970s-sweden-set-of-5-for-sale-picture-4/f_88782/f_441330221742492611262/Photoroom_20250308_102653_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/pine-wood-dining-chairs-1970s-sweden-set-of-5-for-sale-picture-4/f_88782/f_441330221742492611262/Photoroom_20250308_102653_master.jpeg?width=768",
+            "uploadDate": "2025-03-20T13:59:51.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Pine Wood Dining Chairs, 1970s, Sweden, Set of 5 In Good Condition For Sale In Göteborg, SE",
+            "contentUrl": "https://a.1stdibscdn.com/pine-wood-dining-chairs-1970s-sweden-set-of-5-for-sale-picture-5/f_88782/f_441330221742492611208/Photoroom_20250308_102715_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/pine-wood-dining-chairs-1970s-sweden-set-of-5-for-sale-picture-5/f_88782/f_441330221742492611208/Photoroom_20250308_102715_master.jpeg?width=768",
+            "uploadDate": "2025-03-20T13:59:51.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Late 20th Century Pine Wood Dining Chairs, 1970s, Sweden, Set of 5 For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/pine-wood-dining-chairs-1970s-sweden-set-of-5-for-sale-picture-6/f_88782/f_441330221742492611412/Photoroom_20250308_102551_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/pine-wood-dining-chairs-1970s-sweden-set-of-5-for-sale-picture-6/f_88782/f_441330221742492611412/Photoroom_20250308_102551_master.jpeg?width=768",
+            "uploadDate": "2025-03-20T13:59:51.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Pine Wood Dining Chairs, 1970s, Sweden, Set of 5 For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/pine-wood-dining-chairs-1970s-sweden-set-of-5-for-sale-picture-7/f_88782/f_441330221742492611530/Photoroom_20250308_102620_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/pine-wood-dining-chairs-1970s-sweden-set-of-5-for-sale-picture-7/f_88782/f_441330221742492611530/Photoroom_20250308_102620_master.jpeg?width=768",
+            "uploadDate": "2025-03-20T13:59:51.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Pine Wood Dining Chairs, 1970s, Sweden, Set of 5 For Sale 2",
+            "contentUrl": "https://a.1stdibscdn.com/pine-wood-dining-chairs-1970s-sweden-set-of-5-for-sale-picture-8/f_88782/f_441330221742492612630/Photoroom_20250308_102737_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/pine-wood-dining-chairs-1970s-sweden-set-of-5-for-sale-picture-8/f_88782/f_441330221742492612630/Photoroom_20250308_102737_master.jpeg?width=768",
+            "uploadDate": "2025-03-20T13:59:51.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Pine Wood Dining Chairs, 1970s, Sweden, Set of 5 For Sale 3",
+            "contentUrl": "https://a.1stdibscdn.com/pine-wood-dining-chairs-1970s-sweden-set-of-5-for-sale-picture-9/f_88782/f_441330221742492612149/Photoroom_20250308_102809_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/pine-wood-dining-chairs-1970s-sweden-set-of-5-for-sale-picture-9/f_88782/f_441330221742492612149/Photoroom_20250308_102809_master.jpeg?width=768",
+            "uploadDate": "2025-03-20T13:59:51.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/UsedCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/dining-room-chairs/pine-wood-dining-chairs-1970s-sweden-set-of-5/id-f_44133022/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1176.83,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 2122.23,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 26944.51,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1200,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1030.5,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 9183.06,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1331.3,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1920.2,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 13495.93,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 14073.66,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 5,
+          "reviewCount": 1
+        },
+        "productionDate": "1970-1979",
+        "category": "Dining Room Chairs"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Dining Room Chairs",
+              "@id": "/furniture/seating/dining-room-chairs/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

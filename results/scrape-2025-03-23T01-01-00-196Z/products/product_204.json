@@ -1,0 +1,247 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44109302",
+  "name": "5331 Black & Blue Bar Stool by Centro Ricerche MAAM",
+  "slug": "f_44109302",
+  "price": "CA$1,787.50",
+  "description": "f_44109302",
+  "image_url": "https://a.1stdibscdn.com/5331-black-blue-bar-stool-by-centro-ricerche-maam-for-sale/f_17062/f_441093021742373837988/f_44109302_1742373838207_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/stools/5331-black-blue-bar-stool-centro-ricerche-maam/id-f_44109302/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 28.75 in (73 cm)",
+      "width": "Width: 16.93 in (43 cm)",
+      "depth": "Depth: 16.93 in (43 cm)"
+    },
+    "materials": [
+      "Wood",
+      "Wood"
+    ],
+    "origin": "Italy",
+    "period": "2010-",
+    "dateOfManufacture": "contemporary",
+    "condition": {
+      "rating": "New",
+      "details": null
+    },
+    "sellerLocation": "Milan, IT",
+    "referenceNumber": "Seller: MOREVR-121",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Harmonious profiles and proportions define this elegant bar stool, an impeccable addition to exclusive bar counters in hospitality or private spaces, alike. Equipped with a brass ring for enhanced stability, the shaped-cherry structure features sinuous and subtly tapered legs extending up to the plush round seat where generous padding comes sealed by a prized blue-toned leather cover.</span></div></div>",
+    "rawSpecificationsText": "Harmonious profiles and proportions define this elegant bar stool, an impeccable addition to exclusive bar counters in hospitality or private spaces, alike. Equipped with a brass ring for enhanced stability, the shaped-cherry structure features sinuous and subtly tapered legs extending up to the plush round seat where generous padding comes sealed by a prized blue-toned leather cover."
+  },
+  "raw_data": {
+    "productId": "f_44109302",
+    "slug": "f_44109302",
+    "url": "https://www.1stdibs.com/furniture/seating/stools/5331-black-blue-bar-stool-centro-ricerche-maam/id-f_44109302/",
+    "name": "5331 Black & Blue Bar Stool by Centro Ricerche MAAM",
+    "price": "CA$1,787.50",
+    "imageUrl": "https://a.1stdibscdn.com/5331-black-blue-bar-stool-by-centro-ricerche-maam-for-sale/f_17062/f_441093021742373837988/f_44109302_1742373838207_bg_processed.jpg",
+    "description": "f_44109302",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 28.75 in (73 cm)",
+        "width": "Width: 16.93 in (43 cm)",
+        "depth": "Depth: 16.93 in (43 cm)"
+      },
+      "materials": [
+        "Wood",
+        "Wood"
+      ],
+      "origin": "Italy",
+      "period": "2010-",
+      "dateOfManufacture": "contemporary",
+      "condition": {
+        "rating": "New",
+        "details": null
+      },
+      "sellerLocation": "Milan, IT",
+      "referenceNumber": "Seller: MOREVR-121",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Harmonious profiles and proportions define this elegant bar stool, an impeccable addition to exclusive bar counters in hospitality or private spaces, alike. Equipped with a brass ring for enhanced stability, the shaped-cherry structure features sinuous and subtly tapered legs extending up to the plush round seat where generous padding comes sealed by a prized blue-toned leather cover.</span></div></div>",
+      "rawSpecificationsText": "Harmonious profiles and proportions define this elegant bar stool, an impeccable addition to exclusive bar counters in hospitality or private spaces, alike. Equipped with a brass ring for enhanced stability, the shaped-cherry structure features sinuous and subtly tapered legs extending up to the plush round seat where generous padding comes sealed by a prized blue-toned leather cover."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "5331 Black & Blue Bar Stool by Centro Ricerche MAAM",
+        "description": "Harmonious profiles and proportions define this elegant bar stool, an impeccable addition to exclusive bar counters in hospitality or private spaces, alike. Equipped with a brass ring for enhanced stability, the shaped-cherry structure features sinuous and subtly tapered legs extending up to the plush round seat where generous padding comes sealed by a prized blue-toned leather cover.",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Morelato",
+            "caption": "5331 Black & Blue Bar Stool by Centro Ricerche MAAM For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/5331-black-blue-bar-stool-by-centro-ricerche-maam-for-sale/f_17062/f_441093021742373837988/f_44109302_1742373838207_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/5331-black-blue-bar-stool-by-centro-ricerche-maam-for-sale/f_17062/f_441093021742373837988/f_44109302_1742373838207_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-19T04:48:03.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Morelato",
+            "caption": "Harmonious profiles and proportions define this elegant bar stool, an impeccable addition to exclusive bar counters in hospitality or private spaces, alike. Equipped with a brass ring for enhanced stability, the shaped-cherry structure features",
+            "contentUrl": "https://a.1stdibscdn.com/5331-black-blue-bar-stool-by-centro-ricerche-maam-for-sale-picture-2/f_17062/f_441093021742373862172/1710943077918_MMAANY_0013_0005_Sgabello_20Bar_20Biedermeier_205331_20_282_29_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/5331-black-blue-bar-stool-by-centro-ricerche-maam-for-sale-picture-2/f_17062/f_441093021742373862172/1710943077918_MMAANY_0013_0005_Sgabello_20Bar_20Biedermeier_205331_20_282_29_master.jpg?width=768",
+            "uploadDate": "2025-03-19T04:48:03.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Morelato",
+            "caption": "Italian 5331 Black & Blue Bar Stool by Centro Ricerche MAAM For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/5331-black-blue-bar-stool-by-centro-ricerche-maam-for-sale-picture-3/f_17062/f_441093021742373914611/1710943077918_MMAANY_0013_0005_Sgabello_20Bar_20Biedermeier_205331_20_282_29_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/5331-black-blue-bar-stool-by-centro-ricerche-maam-for-sale-picture-3/f_17062/f_441093021742373914611/1710943077918_MMAANY_0013_0005_Sgabello_20Bar_20Biedermeier_205331_20_282_29_master.jpg?width=768",
+            "uploadDate": "2025-03-19T04:48:03.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Morelato",
+            "caption": "5331 Black & Blue Bar Stool by Centro Ricerche MAAM In New Condition For Sale In Milan, IT",
+            "contentUrl": "https://a.1stdibscdn.com/5331-black-blue-bar-stool-by-centro-ricerche-maam-for-sale-picture-4/f_17062/f_441093021742373928838/1710943077918_MMAANY_0013_0005_Sgabello_20Bar_20Biedermeier_205331_20_282_29_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/5331-black-blue-bar-stool-by-centro-ricerche-maam-for-sale-picture-4/f_17062/f_441093021742373928838/1710943077918_MMAANY_0013_0005_Sgabello_20Bar_20Biedermeier_205331_20_282_29_master.jpg?width=768",
+            "uploadDate": "2025-03-19T04:48:03.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Morelato",
+            "caption": "Contemporary 5331 Black & Blue Bar Stool by Centro Ricerche MAAM For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/5331-black-blue-bar-stool-by-centro-ricerche-maam-for-sale-picture-5/f_17062/f_441093021742373967042/1710943077918_MMAANY_0013_0005_Sgabello_20Bar_20Biedermeier_205331_20_282_29_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/5331-black-blue-bar-stool-by-centro-ricerche-maam-for-sale-picture-5/f_17062/f_441093021742373967042/1710943077918_MMAANY_0013_0005_Sgabello_20Bar_20Biedermeier_205331_20_282_29_master.jpg?width=768",
+            "uploadDate": "2025-03-19T04:48:03.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Morelato",
+            "caption": "Wood 5331 Black & Blue Bar Stool by Centro Ricerche MAAM For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/5331-black-blue-bar-stool-by-centro-ricerche-maam-for-sale-picture-6/f_17062/f_441093021742373979096/1710943077918_MMAANY_0013_0005_Sgabello_20Bar_20Biedermeier_205331_20_282_29_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/5331-black-blue-bar-stool-by-centro-ricerche-maam-for-sale-picture-6/f_17062/f_441093021742373979096/1710943077918_MMAANY_0013_0005_Sgabello_20Bar_20Biedermeier_205331_20_282_29_master.jpg?width=768",
+            "uploadDate": "2025-03-19T04:48:03.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/NewCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/stools/5331-black-blue-bar-stool-centro-ricerche-maam/id-f_44109302/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1095.5,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1975.57,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 25082.44,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1139.41,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 959.29,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 8548.44,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1215,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1787.5,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 12563.26,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 13101.07,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 4.8,
+          "reviewCount": 105
+        },
+        "productionDate": "2010-",
+        "category": "Stools",
+        "brand": {
+          "@type": "Brand",
+          "name": "Morelato"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Stools",
+              "@id": "/furniture/seating/stools/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

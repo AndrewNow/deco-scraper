@@ -1,0 +1,291 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44099952",
+  "name": "Nazaré Daybed",
+  "slug": "f_44099952",
+  "price": "CA$8,640.92",
+  "description": "f_44099952",
+  "image_url": "https://a.1stdibscdn.com/nazare-daybed-for-sale/f_62582/f_440999521742312465970/f_44099952_1742312466473_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/day-beds/nazare-daybed/id-f_44099952/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 16.15 in (41 cm)",
+      "width": "Width: 76.78 in (195 cm)",
+      "depth": "Depth: 30.71 in (78 cm)",
+      "seatHeight": "Seat Height: 15.75 in (40 cm)"
+    },
+    "style": "Modern (In the Style Of)",
+    "materials": [
+      "Walnut",
+      "Walnut"
+    ],
+    "origin": "Portugal",
+    "period": "2010-",
+    "dateOfManufacture": "2024",
+    "condition": {
+      "rating": "New",
+      "details": null
+    },
+    "sellerLocation": "Macieira de Sarnes, PT",
+    "referenceNumber": "1stDibs: LU6258244099952",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">NAZARÉ DAYBED, designed in 2024.\n\nThe Nazaré Daybed is crafted from solid walnut and has a removable cushion. The legs have a hand-carved detailed wave texture giving the piece it's name.\n\nAvailable in customer’s own material. Please inquire to view other wood and fabric options.\n\nProduction lead time: 8-12 weeks</span></div></div>",
+    "rawSpecificationsText": "NAZARÉ DAYBED, designed in 2024.\n\nThe Nazaré Daybed is crafted from solid walnut and has a removable cushion. The legs have a hand-carved detailed wave texture giving the piece it's name.\n\nAvailable in customer’s own material. Please inquire to view other wood and fabric options.\n\nProduction lead time: 8-12 weeks"
+  },
+  "raw_data": {
+    "productId": "f_44099952",
+    "slug": "f_44099952",
+    "url": "https://www.1stdibs.com/furniture/seating/day-beds/nazare-daybed/id-f_44099952/",
+    "name": "Nazaré Daybed",
+    "price": "CA$8,640.92",
+    "imageUrl": "https://a.1stdibscdn.com/nazare-daybed-for-sale/f_62582/f_440999521742312465970/f_44099952_1742312466473_bg_processed.jpg",
+    "description": "f_44099952",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 16.15 in (41 cm)",
+        "width": "Width: 76.78 in (195 cm)",
+        "depth": "Depth: 30.71 in (78 cm)",
+        "seatHeight": "Seat Height: 15.75 in (40 cm)"
+      },
+      "style": "Modern (In the Style Of)",
+      "materials": [
+        "Walnut",
+        "Walnut"
+      ],
+      "origin": "Portugal",
+      "period": "2010-",
+      "dateOfManufacture": "2024",
+      "condition": {
+        "rating": "New",
+        "details": null
+      },
+      "sellerLocation": "Macieira de Sarnes, PT",
+      "referenceNumber": "1stDibs: LU6258244099952",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">NAZARÉ DAYBED, designed in 2024.\n\nThe Nazaré Daybed is crafted from solid walnut and has a removable cushion. The legs have a hand-carved detailed wave texture giving the piece it's name.\n\nAvailable in customer’s own material. Please inquire to view other wood and fabric options.\n\nProduction lead time: 8-12 weeks</span></div></div>",
+      "rawSpecificationsText": "NAZARÉ DAYBED, designed in 2024.\n\nThe Nazaré Daybed is crafted from solid walnut and has a removable cushion. The legs have a hand-carved detailed wave texture giving the piece it's name.\n\nAvailable in customer’s own material. Please inquire to view other wood and fabric options.\n\nProduction lead time: 8-12 weeks"
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Nazaré Daybed",
+        "description": "NAZARÉ DAYBED, designed in 2024.\n\nThe Nazaré Daybed is crafted from solid walnut and has a removable cushion. The legs have a hand-carved detailed wave texture giving the piece it's name.\n\nAvailable in customer’s own material. Please inquire to view other wood and fabric options.\n\nProduction lead time: 8-12 weeks",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Project 213A",
+            "caption": "Nazaré Daybed For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/nazare-daybed-for-sale/f_62582/f_440999521742312465970/f_44099952_1742312466473_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/nazare-daybed-for-sale/f_62582/f_440999521742312465970/f_44099952_1742312466473_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-18T11:45:02.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Project 213A",
+            "caption": "NAZARÉ DAYBED, designed in 2024.\n\nThe Nazaré Daybed is crafted from solid walnut and has a removable cushion. The legs have a hand-carved detailed wave texture giving the piece it's name.\n\nAvailable in customer’s own material. Please inquire to view",
+            "contentUrl": "https://a.1stdibscdn.com/nazare-daybed-for-sale-picture-2/f_62582/f_440999521742312542148/Project_213A_Nazare_Daybed_walnut_3_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/nazare-daybed-for-sale-picture-2/f_62582/f_440999521742312542148/Project_213A_Nazare_Daybed_walnut_3_master.jpg?width=768",
+            "uploadDate": "2025-03-18T11:45:02.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Project 213A",
+            "caption": "Modern Nazaré Daybed For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/nazare-daybed-for-sale-picture-3/f_62582/f_440999521742312545930/Project_213A_Nazare_Daybed_d_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/nazare-daybed-for-sale-picture-3/f_62582/f_440999521742312545930/Project_213A_Nazare_Daybed_d_master.jpg?width=768",
+            "uploadDate": "2025-03-18T11:45:02.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Project 213A",
+            "caption": "Portuguese Nazaré Daybed For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/nazare-daybed-for-sale-picture-4/f_62582/f_440999521742312546504/Project_213A_Nazare_Daybed_bc_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/nazare-daybed-for-sale-picture-4/f_62582/f_440999521742312546504/Project_213A_Nazare_Daybed_bc_master.jpg?width=768",
+            "uploadDate": "2025-03-18T11:45:02.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Project 213A",
+            "caption": "Hand-Crafted Nazaré Daybed For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/nazare-daybed-for-sale-picture-5/f_62582/f_440999521742312542174/Project_213A_Nazare_Daybed_walnut_5_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/nazare-daybed-for-sale-picture-5/f_62582/f_440999521742312542174/Project_213A_Nazare_Daybed_walnut_5_master.jpg?width=768",
+            "uploadDate": "2025-03-18T11:45:02.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Project 213A",
+            "caption": "Nazaré Daybed In New Condition For Sale In Macieira de Sarnes, PT",
+            "contentUrl": "https://a.1stdibscdn.com/nazare-daybed-for-sale-picture-6/f_62582/f_440999521742312541996/Project_213A_Nazare_Daybed_walnut_7_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/nazare-daybed-for-sale-picture-6/f_62582/f_440999521742312541996/Project_213A_Nazare_Daybed_walnut_7_master.jpg?width=768",
+            "uploadDate": "2025-03-18T11:45:02.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Project 213A",
+            "caption": "Contemporary Nazaré Daybed For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/nazare-daybed-for-sale-picture-7/f_62582/f_440999521742312543237/Project_213A_Nazare_Daybed_walnut_8_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/nazare-daybed-for-sale-picture-7/f_62582/f_440999521742312543237/Project_213A_Nazare_Daybed_walnut_8_master.jpg?width=768",
+            "uploadDate": "2025-03-18T11:45:02.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Project 213A",
+            "caption": "Walnut Nazaré Daybed For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/nazare-daybed-for-sale-picture-8/f_62582/f_440999521742312546539/Project_213A_Nazare_Daybed_walnut_10_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/nazare-daybed-for-sale-picture-8/f_62582/f_440999521742312546539/Project_213A_Nazare_Daybed_walnut_10_master.jpg?width=768",
+            "uploadDate": "2025-03-18T11:45:02.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Project 213A",
+            "caption": "Nazaré Daybed For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/nazare-daybed-for-sale-picture-9/f_62582/f_440999521742312547180/Project_213A_Nazare_Daybed_walnut_11_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/nazare-daybed-for-sale-picture-9/f_62582/f_440999521742312547180/Project_213A_Nazare_Daybed_walnut_11_master.jpg?width=768",
+            "uploadDate": "2025-03-18T11:45:02.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Project 213A",
+            "caption": "Nazaré Daybed For Sale 2",
+            "contentUrl": "https://a.1stdibscdn.com/nazare-daybed-for-sale-picture-10/f_62582/f_440999521742312545264/Project_213A_Nazare_Daybed_walnut_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/nazare-daybed-for-sale-picture-10/f_62582/f_440999521742312545264/Project_213A_Nazare_Daybed_walnut_master.jpg?width=768",
+            "uploadDate": "2025-03-18T11:45:02.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/NewCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/day-beds/nazare-daybed/id-f_44099952/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 9550.04,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 5295.74,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 121250.29,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 5400,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 4637.25,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 41323.78,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 5990.86,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 8640.92,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 60731.69,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 63331.49,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 5,
+          "reviewCount": 2
+        },
+        "productionDate": "2010-",
+        "category": "Daybeds",
+        "brand": {
+          "@type": "Brand",
+          "name": "Project 213A"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Daybeds",
+              "@id": "/furniture/seating/day-beds/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

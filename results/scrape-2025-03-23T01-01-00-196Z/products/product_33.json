@@ -1,0 +1,345 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44119412",
+  "name": "Mid Century High Back Chiavari Ladder Chair, Italy 1950's",
+  "slug": "f_44119412",
+  "price": "CA$2,224.24",
+  "description": "f_44119412",
+  "image_url": "https://a.1stdibscdn.com/mid-century-high-back-chiavari-ladder-chair-italy-1950s-for-sale/f_55782/f_441194121742409868508/f_44119412_1742409868968_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/chairs/mid-century-high-back-chiavari-ladder-chair-italy-1950s/id-f_44119412/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 48.43 in (123 cm)",
+      "width": "Width: 17.33 in (44 cm)",
+      "depth": "Depth: 17.33 in (44 cm)",
+      "seatHeight": "Seat Height: 17.72 in (45 cm)"
+    },
+    "style": "Mid-Century Modern (Of the Period)",
+    "materials": [
+      "Rattan",
+      "Wood",
+      "Rattan",
+      "Wood"
+    ],
+    "origin": "Italy",
+    "period": "1950-1959",
+    "dateOfManufacture": "Ca. 1950",
+    "condition": {
+      "rating": "Good",
+      "details": "Wear consistent with age and use. The seat and the structure of the chair is in good condition, some traces of use."
+    },
+    "sellerLocation": "Oud Beijerland, NL",
+    "referenceNumber": "1stDibs: LU5578244119412",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">A beautiful ladder high-back chair by Chiavari fabricated in Italy, 1950's.\n\nSlim design and amazingly light and firm.\nEbonized hardwood frame with cane seat.\n\nThe seat and the structure of the chair is in good condition, some traces of use (see the pictures).\n\nWe work with professional packers and shippers, we can deliver worldwide in 5 to 10 days.</span></div></div>",
+    "rawSpecificationsText": "A beautiful ladder high-back chair by Chiavari fabricated in Italy, 1950's.\n\nSlim design and amazingly light and firm.\nEbonized hardwood frame with cane seat.\n\nThe seat and the structure of the chair is in good condition, some traces of use (see the pictures).\n\nWe work with professional packers and shippers, we can deliver worldwide in 5 to 10 days."
+  },
+  "raw_data": {
+    "productId": "f_44119412",
+    "slug": "f_44119412",
+    "url": "https://www.1stdibs.com/furniture/seating/chairs/mid-century-high-back-chiavari-ladder-chair-italy-1950s/id-f_44119412/",
+    "name": "Mid Century High Back Chiavari Ladder Chair, Italy 1950's",
+    "price": "CA$2,224.24",
+    "imageUrl": "https://a.1stdibscdn.com/mid-century-high-back-chiavari-ladder-chair-italy-1950s-for-sale/f_55782/f_441194121742409868508/f_44119412_1742409868968_bg_processed.jpg",
+    "description": "f_44119412",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 48.43 in (123 cm)",
+        "width": "Width: 17.33 in (44 cm)",
+        "depth": "Depth: 17.33 in (44 cm)",
+        "seatHeight": "Seat Height: 17.72 in (45 cm)"
+      },
+      "style": "Mid-Century Modern (Of the Period)",
+      "materials": [
+        "Rattan",
+        "Wood",
+        "Rattan",
+        "Wood"
+      ],
+      "origin": "Italy",
+      "period": "1950-1959",
+      "dateOfManufacture": "Ca. 1950",
+      "condition": {
+        "rating": "Good",
+        "details": "Wear consistent with age and use. The seat and the structure of the chair is in good condition, some traces of use."
+      },
+      "sellerLocation": "Oud Beijerland, NL",
+      "referenceNumber": "1stDibs: LU5578244119412",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">A beautiful ladder high-back chair by Chiavari fabricated in Italy, 1950's.\n\nSlim design and amazingly light and firm.\nEbonized hardwood frame with cane seat.\n\nThe seat and the structure of the chair is in good condition, some traces of use (see the pictures).\n\nWe work with professional packers and shippers, we can deliver worldwide in 5 to 10 days.</span></div></div>",
+      "rawSpecificationsText": "A beautiful ladder high-back chair by Chiavari fabricated in Italy, 1950's.\n\nSlim design and amazingly light and firm.\nEbonized hardwood frame with cane seat.\n\nThe seat and the structure of the chair is in good condition, some traces of use (see the pictures).\n\nWe work with professional packers and shippers, we can deliver worldwide in 5 to 10 days."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Mid Century High Back Chiavari Ladder Chair, Italy 1950's",
+        "description": "A beautiful ladder high-back chair by Chiavari fabricated in Italy, 1950's.\n\nSlim design and amazingly light and firm.\nEbonized hardwood frame with cane seat.\n\nThe seat and the structure of the chair is in good condition, some traces of use (see the pictures).\n\nWe work with professional packers and shippers, we can deliver worldwide in 5 to 10 days.",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Chiavari",
+            "caption": "Mid Century High Back Chiavari Ladder Chair, Italy 1950's For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/mid-century-high-back-chiavari-ladder-chair-italy-1950s-for-sale/f_55782/f_441194121742409868508/f_44119412_1742409868968_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mid-century-high-back-chiavari-ladder-chair-italy-1950s-for-sale/f_55782/f_441194121742409868508/f_44119412_1742409868968_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-19T18:29:38.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Chiavari",
+            "caption": "A beautiful ladder high-back chair by Chiavari fabricated in Italy, 1950's.\n\nSlim design and amazingly light and firm.\nEbonized hardwood frame with cane seat.\n\nThe seat and the structure of the chair is in good condition, some traces of use (see the",
+            "contentUrl": "https://a.1stdibscdn.com/mid-century-high-back-chiavari-ladder-chair-italy-1950s-for-sale-picture-2/f_55782/f_441194121742410268383/20250314_171635_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mid-century-high-back-chiavari-ladder-chair-italy-1950s-for-sale-picture-2/f_55782/f_441194121742410268383/20250314_171635_master.jpg?width=768",
+            "uploadDate": "2025-03-19T18:29:38.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Chiavari",
+            "caption": "Mid-Century Modern Mid Century High Back Chiavari Ladder Chair, Italy 1950's For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/mid-century-high-back-chiavari-ladder-chair-italy-1950s-for-sale-picture-3/f_55782/f_441194121742410272543/20250314_171536_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mid-century-high-back-chiavari-ladder-chair-italy-1950s-for-sale-picture-3/f_55782/f_441194121742410272543/20250314_171536_master.jpg?width=768",
+            "uploadDate": "2025-03-19T18:29:38.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Chiavari",
+            "caption": "Italian Mid Century High Back Chiavari Ladder Chair, Italy 1950's For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/mid-century-high-back-chiavari-ladder-chair-italy-1950s-for-sale-picture-4/f_55782/f_441194121742410268465/20250314_171659_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mid-century-high-back-chiavari-ladder-chair-italy-1950s-for-sale-picture-4/f_55782/f_441194121742410268465/20250314_171659_master.jpg?width=768",
+            "uploadDate": "2025-03-19T18:29:38.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Chiavari",
+            "caption": "Hand-Crafted Mid Century High Back Chiavari Ladder Chair, Italy 1950's For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/mid-century-high-back-chiavari-ladder-chair-italy-1950s-for-sale-picture-5/f_55782/f_441194121742410268388/20250314_171709_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mid-century-high-back-chiavari-ladder-chair-italy-1950s-for-sale-picture-5/f_55782/f_441194121742410268388/20250314_171709_master.jpg?width=768",
+            "uploadDate": "2025-03-19T18:29:38.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Chiavari",
+            "caption": "Mid Century High Back Chiavari Ladder Chair, Italy 1950's In Good Condition For Sale In Oud Beijerland, NL",
+            "contentUrl": "https://a.1stdibscdn.com/mid-century-high-back-chiavari-ladder-chair-italy-1950s-for-sale-picture-6/f_55782/f_441194121742410268462/20250314_171719_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mid-century-high-back-chiavari-ladder-chair-italy-1950s-for-sale-picture-6/f_55782/f_441194121742410268462/20250314_171719_master.jpg?width=768",
+            "uploadDate": "2025-03-19T18:29:38.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Chiavari",
+            "caption": "Mid-20th Century Mid Century High Back Chiavari Ladder Chair, Italy 1950's For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/mid-century-high-back-chiavari-ladder-chair-italy-1950s-for-sale-picture-7/f_55782/f_441194121742410272526/20250314_171732_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mid-century-high-back-chiavari-ladder-chair-italy-1950s-for-sale-picture-7/f_55782/f_441194121742410272526/20250314_171732_master.jpg?width=768",
+            "uploadDate": "2025-03-19T18:29:38.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Chiavari",
+            "caption": "Rattan Mid Century High Back Chiavari Ladder Chair, Italy 1950's For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/mid-century-high-back-chiavari-ladder-chair-italy-1950s-for-sale-picture-8/f_55782/f_441194121742410268382/20250314_171744_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mid-century-high-back-chiavari-ladder-chair-italy-1950s-for-sale-picture-8/f_55782/f_441194121742410268382/20250314_171744_master.jpg?width=768",
+            "uploadDate": "2025-03-19T18:29:38.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Chiavari",
+            "caption": "Mid Century High Back Chiavari Ladder Chair, Italy 1950's For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/mid-century-high-back-chiavari-ladder-chair-italy-1950s-for-sale-picture-9/f_55782/f_441194121742410274445/20250314_171755_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mid-century-high-back-chiavari-ladder-chair-italy-1950s-for-sale-picture-9/f_55782/f_441194121742410274445/20250314_171755_master.jpg?width=768",
+            "uploadDate": "2025-03-19T18:29:38.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Chiavari",
+            "caption": "Mid Century High Back Chiavari Ladder Chair, Italy 1950's For Sale 2",
+            "contentUrl": "https://a.1stdibscdn.com/mid-century-high-back-chiavari-ladder-chair-italy-1950s-for-sale-picture-10/f_55782/f_441194121742410272579/20250314_171811_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mid-century-high-back-chiavari-ladder-chair-italy-1950s-for-sale-picture-10/f_55782/f_441194121742410272579/20250314_171811_master.jpg?width=768",
+            "uploadDate": "2025-03-19T18:29:38.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Chiavari",
+            "caption": "Mid Century High Back Chiavari Ladder Chair, Italy 1950's For Sale 3",
+            "contentUrl": "https://a.1stdibscdn.com/mid-century-high-back-chiavari-ladder-chair-italy-1950s-for-sale-picture-11/f_55782/f_441194121742410272711/20250314_171821_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mid-century-high-back-chiavari-ladder-chair-italy-1950s-for-sale-picture-11/f_55782/f_441194121742410272711/20250314_171821_master.jpg?width=768",
+            "uploadDate": "2025-03-19T18:29:38.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Chiavari",
+            "caption": "Mid Century High Back Chiavari Ladder Chair, Italy 1950's For Sale 4",
+            "contentUrl": "https://a.1stdibscdn.com/mid-century-high-back-chiavari-ladder-chair-italy-1950s-for-sale-picture-12/f_55782/f_441194121742410274440/20250314_171831_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mid-century-high-back-chiavari-ladder-chair-italy-1950s-for-sale-picture-12/f_55782/f_441194121742410274440/20250314_171831_master.jpg?width=768",
+            "uploadDate": "2025-03-19T18:29:38.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Chiavari",
+            "caption": "Mid Century High Back Chiavari Ladder Chair, Italy 1950's For Sale 5",
+            "contentUrl": "https://a.1stdibscdn.com/mid-century-high-back-chiavari-ladder-chair-italy-1950s-for-sale-picture-13/f_55782/f_441194121742410272578/20250314_171841_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mid-century-high-back-chiavari-ladder-chair-italy-1950s-for-sale-picture-13/f_55782/f_441194121742410272578/20250314_171841_master.jpg?width=768",
+            "uploadDate": "2025-03-19T18:29:38.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Chiavari",
+            "caption": "Mid Century High Back Chiavari Ladder Chair, Italy 1950's For Sale 6",
+            "contentUrl": "https://a.1stdibscdn.com/mid-century-high-back-chiavari-ladder-chair-italy-1950s-for-sale-picture-14/f_55782/f_441194121742410268352/20250314_171854_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mid-century-high-back-chiavari-ladder-chair-italy-1950s-for-sale-picture-14/f_55782/f_441194121742410268352/20250314_171854_master.jpg?width=768",
+            "uploadDate": "2025-03-19T18:29:38.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Chiavari",
+            "caption": "Mid Century High Back Chiavari Ladder Chair, Italy 1950's For Sale 7",
+            "contentUrl": "https://a.1stdibscdn.com/mid-century-high-back-chiavari-ladder-chair-italy-1950s-for-sale-picture-15/f_55782/f_441194121742410272287/20250314_171857_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mid-century-high-back-chiavari-ladder-chair-italy-1950s-for-sale-picture-15/f_55782/f_441194121742410272287/20250314_171857_master.jpg?width=768",
+            "uploadDate": "2025-03-19T18:29:38.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/UsedCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/chairs/mid-century-high-back-chiavari-ladder-chair-italy-1950s/id-f_44119412/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1363.16,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 2458.25,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 31210.72,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1390,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1193.66,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 10637.05,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1542.09,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 2224.24,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 15632.79,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 16301.99,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 5,
+          "reviewCount": 22
+        },
+        "productionDate": "1950-1959",
+        "category": "Chairs",
+        "brand": {
+          "@type": "Brand",
+          "name": "Chiavari"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Chairs",
+              "@id": "/furniture/seating/chairs/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

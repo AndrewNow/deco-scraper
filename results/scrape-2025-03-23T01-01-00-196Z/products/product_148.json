@@ -1,0 +1,267 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_33832472",
+  "name": "Dining Chairs by Henning Kjærnulf, Model Razorblade, Denmark, Oak",
+  "slug": "f_33832472",
+  "price": "CA$896.10",
+  "description": "f_33832472",
+  "image_url": "https://a.1stdibscdn.com/dining-chairs-by-henning-kjaernulf-model-razoblade-denmark-oak-for-sale/f_42391/f_338324721681632424755/f_33832472_1681632425443_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/dining-room-chairs/dining-chairs-henning-kjaernulf-model-razorblade-denmark-oak/id-f_33832472/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 33.47 in (85 cm)",
+      "width": "Width: 19.69 in (50 cm)",
+      "depth": "Depth: 19.69 in (50 cm)",
+      "seatHeight": "Seat Height: 17.33 in (44 cm)"
+    },
+    "style": "Scandinavian Modern (Of the Period)",
+    "materials": [
+      "Oak",
+      "Oak"
+    ],
+    "origin": "Denmark",
+    "period": "2010-",
+    "dateOfManufacture": "2023",
+    "condition": {
+      "rating": "New",
+      "details": null
+    },
+    "sellerLocation": "Esbjerg, DK",
+    "referenceNumber": "1stDibs: LU4239133832472",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Set of striking dining chairs by Henning Kjærnulf, made of oak and boucle.\n\nRefreshing design with bold Baroque coming together nicely with Mid-Century Modernism.\n\nModel: Razorblade\n\nMade by Another Classic under license from Henning Kjærnulfs son.</span></div></div>",
+    "rawSpecificationsText": "Set of striking dining chairs by Henning Kjærnulf, made of oak and boucle.\n\nRefreshing design with bold Baroque coming together nicely with Mid-Century Modernism.\n\nModel: Razorblade\n\nMade by Another Classic under license from Henning Kjærnulfs son."
+  },
+  "raw_data": {
+    "productId": "f_33832472",
+    "slug": "f_33832472",
+    "url": "https://www.1stdibs.com/furniture/seating/dining-room-chairs/dining-chairs-henning-kjaernulf-model-razorblade-denmark-oak/id-f_33832472/",
+    "name": "Dining Chairs by Henning Kjærnulf, Model Razorblade, Denmark, Oak",
+    "price": "CA$896.10",
+    "imageUrl": "https://a.1stdibscdn.com/dining-chairs-by-henning-kjaernulf-model-razoblade-denmark-oak-for-sale/f_42391/f_338324721681632424755/f_33832472_1681632425443_bg_processed.jpg",
+    "description": "f_33832472",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 33.47 in (85 cm)",
+        "width": "Width: 19.69 in (50 cm)",
+        "depth": "Depth: 19.69 in (50 cm)",
+        "seatHeight": "Seat Height: 17.33 in (44 cm)"
+      },
+      "style": "Scandinavian Modern (Of the Period)",
+      "materials": [
+        "Oak",
+        "Oak"
+      ],
+      "origin": "Denmark",
+      "period": "2010-",
+      "dateOfManufacture": "2023",
+      "condition": {
+        "rating": "New",
+        "details": null
+      },
+      "sellerLocation": "Esbjerg, DK",
+      "referenceNumber": "1stDibs: LU4239133832472",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Set of striking dining chairs by Henning Kjærnulf, made of oak and boucle.\n\nRefreshing design with bold Baroque coming together nicely with Mid-Century Modernism.\n\nModel: Razorblade\n\nMade by Another Classic under license from Henning Kjærnulfs son.</span></div></div>",
+      "rawSpecificationsText": "Set of striking dining chairs by Henning Kjærnulf, made of oak and boucle.\n\nRefreshing design with bold Baroque coming together nicely with Mid-Century Modernism.\n\nModel: Razorblade\n\nMade by Another Classic under license from Henning Kjærnulfs son."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Dining Chairs by Henning Kjærnulf, Model Razorblade, Denmark, Oak",
+        "description": "Set of striking dining chairs by Henning Kjærnulf, made of oak and boucle.\n\nRefreshing design with bold Baroque coming together nicely with Mid-Century Modernism.\n\nModel: Razorblade\n\nMade by Another Classic under license from Henning Kjærnulfs son.\n\n",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Dining Chairs by Henning Kjærnulf, Model Razorblade, Denmark, Oak For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/dining-chairs-by-henning-kjaernulf-model-razoblade-denmark-oak-for-sale/f_42391/f_338324721681632424755/f_33832472_1681632425443_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/dining-chairs-by-henning-kjaernulf-model-razoblade-denmark-oak-for-sale/f_42391/f_338324721681632424755/f_33832472_1681632425443_bg_processed.jpg?width=768",
+            "uploadDate": "2023-04-16T04:07:30.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Set of striking dining chairs by Henning Kjærnulf, made of oak and boucle.\n\nRefreshing design with bold Baroque coming together nicely with Mid-Century Modernism.\n\nModel: Razorblade\n\nMade by Another Classic under license from Henning Kjærnulfs son.\n\n",
+            "contentUrl": "https://a.1stdibscdn.com/dining-chairs-by-henning-kjaernulf-model-razoblade-denmark-oak-for-sale-picture-2/f_42391/f_338324721681632430908/IMG_2497_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/dining-chairs-by-henning-kjaernulf-model-razoblade-denmark-oak-for-sale-picture-2/f_42391/f_338324721681632430908/IMG_2497_master.jpg?width=768",
+            "uploadDate": "2023-04-16T04:07:30.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Scandinavian Modern Dining Chairs by Henning Kjærnulf, Model Razorblade, Denmark, Oak For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/dining-chairs-by-henning-kjaernulf-model-razoblade-denmark-oak-for-sale-picture-3/f_42391/f_338324721681632430993/IMG_2498_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/dining-chairs-by-henning-kjaernulf-model-razoblade-denmark-oak-for-sale-picture-3/f_42391/f_338324721681632430993/IMG_2498_master.jpg?width=768",
+            "uploadDate": "2023-04-16T04:07:30.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Danish Dining Chairs by Henning Kjærnulf, Model Razorblade, Denmark, Oak For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/dining-chairs-by-henning-kjaernulf-model-razoblade-denmark-oak-for-sale-picture-4/f_42391/f_338324721681632430940/IMG_2499_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/dining-chairs-by-henning-kjaernulf-model-razoblade-denmark-oak-for-sale-picture-4/f_42391/f_338324721681632430940/IMG_2499_master.jpg?width=768",
+            "uploadDate": "2023-04-16T04:07:30.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Dining Chairs by Henning Kjærnulf, Model Razorblade, Denmark, Oak In New Condition For Sale In Esbjerg, DK",
+            "contentUrl": "https://a.1stdibscdn.com/dining-chairs-by-henning-kjaernulf-model-razoblade-denmark-oak-for-sale-picture-5/f_42391/f_338324721681632431005/IMG_2500_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/dining-chairs-by-henning-kjaernulf-model-razoblade-denmark-oak-for-sale-picture-5/f_42391/f_338324721681632431005/IMG_2500_master.jpg?width=768",
+            "uploadDate": "2023-04-16T04:07:30.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Contemporary Dining Chairs by Henning Kjærnulf, Model Razorblade, Denmark, Oak For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/dining-chairs-by-henning-kjaernulf-model-razoblade-denmark-oak-for-sale-picture-6/f_42391/f_338324721681632430909/IMG_2501_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/dining-chairs-by-henning-kjaernulf-model-razoblade-denmark-oak-for-sale-picture-6/f_42391/f_338324721681632430909/IMG_2501_master.jpg?width=768",
+            "uploadDate": "2023-04-16T04:07:30.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Dining Chairs by Henning Kjærnulf, Model Razorblade, Denmark, Oak For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/dining-chairs-by-henning-kjaernulf-model-razoblade-denmark-oak-for-sale-picture-7/f_42391/f_338324721681632431087/IMG_2502_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/dining-chairs-by-henning-kjaernulf-model-razoblade-denmark-oak-for-sale-picture-7/f_42391/f_338324721681632431087/IMG_2502_master.jpg?width=768",
+            "uploadDate": "2023-04-16T04:07:30.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Dining Chairs by Henning Kjærnulf, Model Razorblade, Denmark, Oak For Sale 2",
+            "contentUrl": "https://a.1stdibscdn.com/dining-chairs-by-henning-kjaernulf-model-razoblade-denmark-oak-for-sale-picture-8/f_42391/f_338324721681632432374/IMG_2503_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/dining-chairs-by-henning-kjaernulf-model-razoblade-denmark-oak-for-sale-picture-8/f_42391/f_338324721681632432374/IMG_2503_master.jpg?width=768",
+            "uploadDate": "2023-04-16T04:07:30.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/NewCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/dining-room-chairs/dining-chairs-henning-kjaernulf-model-razorblade-denmark-oak/id-f_33832472/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 549.19,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 990.37,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 12574.1,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 560,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 480.9,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 4285.43,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 621.27,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 896.1,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 6298.1,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 6567.71,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 4.9,
+          "reviewCount": 32
+        },
+        "productionDate": "2010-",
+        "category": "Dining Room Chairs"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Dining Room Chairs",
+              "@id": "/furniture/seating/dining-room-chairs/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

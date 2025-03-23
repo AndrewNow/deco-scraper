@@ -1,0 +1,375 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44109432",
+  "name": "Modern Dining Chair Flock CS2 Fluffy Edition in premium Faux Fur by Noom",
+  "slug": "f_44109432",
+  "price": "CA$3,074.80",
+  "description": "f_44109432",
+  "image_url": "https://a.1stdibscdn.com/modern-dining-chair-flock-cs2-fluffy-edition-in-premium-faux-fur-by-noom-for-sale/f_42321/f_441094321742374526463/f_44109432_1742374527112_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/chairs/modern-dining-chair-flock-cs2-fluffy-edition-premium-faux-fur-noom/id-f_44109432/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 30.71 in (78 cm)",
+      "width": "Width: 21.66 in (55 cm)",
+      "depth": "Depth: 24.02 in (61 cm)",
+      "seatHeight": "Seat Height: 18.9 in (48 cm)"
+    },
+    "style": "Modern (In the Style Of)",
+    "materials": [
+      "Ash",
+      "Bouclé",
+      "Fabric",
+      "Faux Fur",
+      "Sheepskin",
+      "Velvet",
+      "Wool",
+      "Ash",
+      "Bouclé",
+      "Fabric",
+      "Faux Fur",
+      "Sheepskin",
+      "Velvet",
+      "Wool"
+    ],
+    "origin": "Ukraine",
+    "period": "2010-",
+    "dateOfManufacture": "2025",
+    "condition": {
+      "rating": "New",
+      "details": null
+    },
+    "sellerLocation": "Paris, FR",
+    "referenceNumber": "1stDibs: LU4232144109432",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">The \"Flock\" collection embodies the idea that home should be a haven of comfort, a sanctuary, and a gathering place adorned with personalized, character-rich, and visually striking statement objects. The name \"Flock\" reflects its role as a tranquil oasis and central meeting space within the home, where soft, voluptuous forms, natural materials, and pleasing tactile surfaces create an ambiance of warmth and cocooning.\n\nDesigner Kateryna Sokolova explains, \"Home is the most intimate place for rest, comfort, and gathering, and it should be filled with personalized, character-rich, and eye-catching statement objects like Flock design pieces. In addition to the distinct shape, I wanted to create furniture that would become part of the family, a friend, intimate, and beloved.\"\n\nErgonomics plays a pivotal role in NOOM's design philosophy, ensuring that its products are aesthetically pleasing and incredibly comfortable. The Flock Chair, characterized by its smooth wide backrest and spacious, comfortable seat, results from extensive research, numerous prototypes, and the meticulous craftsmanship of local artisans under the designer's close supervision.\n\nThe Flock Chair epitomizes NOOM's commitment to delivering an exceptional design that transcends adversity, providing functional furniture and cherished companions for future generations.\n\nDesigner: Kateryna Sokolova\nMaterials: wood, plywood, metal, molded foam, textile\nAvailable in a wide range of colors and other finishes and fabrics on request.\nDimensions: H 78 cm, W 55 cm, D 61 cm  seat H 47 cm</span></div></div>",
+    "rawSpecificationsText": "The \"Flock\" collection embodies the idea that home should be a haven of comfort, a sanctuary, and a gathering place adorned with personalized, character-rich, and visually striking statement objects. The name \"Flock\" reflects its role as a tranquil oasis and central meeting space within the home, where soft, voluptuous forms, natural materials, and pleasing tactile surfaces create an ambiance of warmth and cocooning.\n\nDesigner Kateryna Sokolova explains, \"Home is the most intimate place for rest, comfort, and gathering, and it should be filled with personalized, character-rich, and eye-catching statement objects like Flock design pieces. In addition to the distinct shape, I wanted to create furniture that would become part of the family, a friend, intimate, and beloved.\"\n\nErgonomics plays a pivotal role in NOOM's design philosophy, ensuring that its products are aesthetically pleasing and incredibly comfortable. The Flock Chair, characterized by its smooth wide backrest and spacious, comfortable seat, results from extensive research, numerous prototypes, and the meticulous craftsmanship of local artisans under the designer's close supervision.\n\nThe Flock Chair epitomizes NOOM's commitment to delivering an exceptional design that transcends adversity, providing functional furniture and cherished companions for future generations.\n\nDesigner: Kateryna Sokolova\nMaterials: wood, plywood, metal, molded foam, textile\nAvailable in a wide range of colors and other finishes and fabrics on request.\nDimensions: H 78 cm, W 55 cm, D 61 cm  seat H 47 cm"
+  },
+  "raw_data": {
+    "productId": "f_44109432",
+    "slug": "f_44109432",
+    "url": "https://www.1stdibs.com/furniture/seating/chairs/modern-dining-chair-flock-cs2-fluffy-edition-premium-faux-fur-noom/id-f_44109432/",
+    "name": "Modern Dining Chair Flock CS2 Fluffy Edition in premium Faux Fur by Noom",
+    "price": "CA$3,074.80",
+    "imageUrl": "https://a.1stdibscdn.com/modern-dining-chair-flock-cs2-fluffy-edition-in-premium-faux-fur-by-noom-for-sale/f_42321/f_441094321742374526463/f_44109432_1742374527112_bg_processed.jpg",
+    "description": "f_44109432",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 30.71 in (78 cm)",
+        "width": "Width: 21.66 in (55 cm)",
+        "depth": "Depth: 24.02 in (61 cm)",
+        "seatHeight": "Seat Height: 18.9 in (48 cm)"
+      },
+      "style": "Modern (In the Style Of)",
+      "materials": [
+        "Ash",
+        "Bouclé",
+        "Fabric",
+        "Faux Fur",
+        "Sheepskin",
+        "Velvet",
+        "Wool",
+        "Ash",
+        "Bouclé",
+        "Fabric",
+        "Faux Fur",
+        "Sheepskin",
+        "Velvet",
+        "Wool"
+      ],
+      "origin": "Ukraine",
+      "period": "2010-",
+      "dateOfManufacture": "2025",
+      "condition": {
+        "rating": "New",
+        "details": null
+      },
+      "sellerLocation": "Paris, FR",
+      "referenceNumber": "1stDibs: LU4232144109432",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">The \"Flock\" collection embodies the idea that home should be a haven of comfort, a sanctuary, and a gathering place adorned with personalized, character-rich, and visually striking statement objects. The name \"Flock\" reflects its role as a tranquil oasis and central meeting space within the home, where soft, voluptuous forms, natural materials, and pleasing tactile surfaces create an ambiance of warmth and cocooning.\n\nDesigner Kateryna Sokolova explains, \"Home is the most intimate place for rest, comfort, and gathering, and it should be filled with personalized, character-rich, and eye-catching statement objects like Flock design pieces. In addition to the distinct shape, I wanted to create furniture that would become part of the family, a friend, intimate, and beloved.\"\n\nErgonomics plays a pivotal role in NOOM's design philosophy, ensuring that its products are aesthetically pleasing and incredibly comfortable. The Flock Chair, characterized by its smooth wide backrest and spacious, comfortable seat, results from extensive research, numerous prototypes, and the meticulous craftsmanship of local artisans under the designer's close supervision.\n\nThe Flock Chair epitomizes NOOM's commitment to delivering an exceptional design that transcends adversity, providing functional furniture and cherished companions for future generations.\n\nDesigner: Kateryna Sokolova\nMaterials: wood, plywood, metal, molded foam, textile\nAvailable in a wide range of colors and other finishes and fabrics on request.\nDimensions: H 78 cm, W 55 cm, D 61 cm  seat H 47 cm</span></div></div>",
+      "rawSpecificationsText": "The \"Flock\" collection embodies the idea that home should be a haven of comfort, a sanctuary, and a gathering place adorned with personalized, character-rich, and visually striking statement objects. The name \"Flock\" reflects its role as a tranquil oasis and central meeting space within the home, where soft, voluptuous forms, natural materials, and pleasing tactile surfaces create an ambiance of warmth and cocooning.\n\nDesigner Kateryna Sokolova explains, \"Home is the most intimate place for rest, comfort, and gathering, and it should be filled with personalized, character-rich, and eye-catching statement objects like Flock design pieces. In addition to the distinct shape, I wanted to create furniture that would become part of the family, a friend, intimate, and beloved.\"\n\nErgonomics plays a pivotal role in NOOM's design philosophy, ensuring that its products are aesthetically pleasing and incredibly comfortable. The Flock Chair, characterized by its smooth wide backrest and spacious, comfortable seat, results from extensive research, numerous prototypes, and the meticulous craftsmanship of local artisans under the designer's close supervision.\n\nThe Flock Chair epitomizes NOOM's commitment to delivering an exceptional design that transcends adversity, providing functional furniture and cherished companions for future generations.\n\nDesigner: Kateryna Sokolova\nMaterials: wood, plywood, metal, molded foam, textile\nAvailable in a wide range of colors and other finishes and fabrics on request.\nDimensions: H 78 cm, W 55 cm, D 61 cm  seat H 47 cm"
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Modern Dining Chair Flock CS2 Fluffy Edition in premium Faux Fur by Noom",
+        "description": "The \"Flock\" collection embodies the idea that home should be a haven of comfort, a sanctuary, and a gathering place adorned with personalized, character-rich, and visually striking statement objects. The name \"Flock\" reflects its role as a tranquil oasis and central meeting space within the home, where soft, voluptuous forms, natural materials, and pleasing tactile surfaces create an ambiance of warmth and cocooning.\n\nDesigner Kateryna Sokolova explains, \"Home is the most intimate place for rest, comfort, and gathering, and it should be filled with personalized, character-rich, and eye-catching statement objects like Flock design pieces. In addition to the distinct shape, I wanted to create furniture that would become part of the family, a friend, intimate, and beloved.\"\n\nErgonomics plays a pivotal role in NOOM's design philosophy, ensuring that its products are aesthetically pleasing and incredibly comfortable. The Flock Chair, characterized by its smooth wide backrest and spacious, comfortable seat, results from extensive research, numerous prototypes, and the meticulous craftsmanship of local artisans under the designer's close supervision.\n\nThe Flock Chair epitomizes NOOM's commitment to delivering an exceptional design that transcends adversity, providing functional furniture and cherished companions for future generations.\n\nDesigner: Kateryna Sokolova\nMaterials: wood, plywood, metal, molded foam, textile\nAvailable in a wide range of colors and other finishes and fabrics on request.\nDimensions: H 78 cm, W 55 cm, D 61 cm  seat H 47 cm\n",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Kateryna Sokolova",
+            "caption": "Modern Dining Chair Flock CS2 Fluffy Edition in premium Faux Fur by Noom For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/modern-dining-chair-flock-cs2-fluffy-edition-in-premium-faux-fur-by-noom-for-sale/f_42321/f_441094321742374526463/f_44109432_1742374527112_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/modern-dining-chair-flock-cs2-fluffy-edition-in-premium-faux-fur-by-noom-for-sale/f_42321/f_441094321742374526463/f_44109432_1742374527112_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-20T07:10:11.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Kateryna Sokolova",
+            "caption": "The \"Flock\" collection embodies the idea that home should be a haven of comfort, a sanctuary, and a gathering place adorned with personalized, character-rich, and visually striking statement objects. The name \"Flock\" reflects its role as a tranquil",
+            "contentUrl": "https://a.1stdibscdn.com/modern-dining-chair-flock-cs2-fluffy-edition-in-premium-faux-fur-by-noom-for-sale-picture-2/f_42321/f_441094321742374561272/_Flock_chair_CS2_Fluffy_Edition_by_NOOM_2__master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/modern-dining-chair-flock-cs2-fluffy-edition-in-premium-faux-fur-by-noom-for-sale-picture-2/f_42321/f_441094321742374561272/_Flock_chair_CS2_Fluffy_Edition_by_NOOM_2__master.jpg?width=768",
+            "uploadDate": "2025-03-20T07:10:11.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Kateryna Sokolova",
+            "caption": "Ukrainian Modern Dining Chair Flock CS2 Fluffy Edition in premium Faux Fur by Noom For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/modern-dining-chair-flock-cs2-fluffy-edition-in-premium-faux-fur-by-noom-for-sale-picture-3/f_42321/f_441094321742374561241/_Flock_chair_CS2_Fluffy_Edition_by_NOOM_1__master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/modern-dining-chair-flock-cs2-fluffy-edition-in-premium-faux-fur-by-noom-for-sale-picture-3/f_42321/f_441094321742374561241/_Flock_chair_CS2_Fluffy_Edition_by_NOOM_1__master.jpg?width=768",
+            "uploadDate": "2025-03-20T07:10:11.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Kateryna Sokolova",
+            "caption": "Modern Dining Chair Flock CS2 Fluffy Edition in premium Faux Fur by Noom In New Condition For Sale In Paris, FR",
+            "contentUrl": "https://a.1stdibscdn.com/modern-dining-chair-flock-cs2-fluffy-edition-in-premium-faux-fur-by-noom-for-sale-picture-4/f_42321/f_441094321742374563862/_Flock_chair_CS2_Fluffy_Edition_by_NOOM_8__master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/modern-dining-chair-flock-cs2-fluffy-edition-in-premium-faux-fur-by-noom-for-sale-picture-4/f_42321/f_441094321742374563862/_Flock_chair_CS2_Fluffy_Edition_by_NOOM_8__master.jpg?width=768",
+            "uploadDate": "2025-03-20T07:10:11.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Kateryna Sokolova",
+            "caption": "Contemporary Modern Dining Chair Flock CS2 Fluffy Edition in premium Faux Fur by Noom For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/modern-dining-chair-flock-cs2-fluffy-edition-in-premium-faux-fur-by-noom-for-sale-picture-5/f_42321/f_441094321742374561300/_Flock_chair_CS2_Fluffy_Edition_by_NOOM_4__master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/modern-dining-chair-flock-cs2-fluffy-edition-in-premium-faux-fur-by-noom-for-sale-picture-5/f_42321/f_441094321742374561300/_Flock_chair_CS2_Fluffy_Edition_by_NOOM_4__master.jpg?width=768",
+            "uploadDate": "2025-03-20T07:10:11.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Kateryna Sokolova",
+            "caption": "Fabric Modern Dining Chair Flock CS2 Fluffy Edition in premium Faux Fur by Noom For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/modern-dining-chair-flock-cs2-fluffy-edition-in-premium-faux-fur-by-noom-for-sale-picture-6/f_42321/f_441094321742374561317/_Flock_chair_CS2_Fluffy_Edition_by_NOOM_5__master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/modern-dining-chair-flock-cs2-fluffy-edition-in-premium-faux-fur-by-noom-for-sale-picture-6/f_42321/f_441094321742374561317/_Flock_chair_CS2_Fluffy_Edition_by_NOOM_5__master.jpg?width=768",
+            "uploadDate": "2025-03-20T07:10:11.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Kateryna Sokolova",
+            "caption": "Modern Dining Chair Flock CS2 Fluffy Edition in premium Faux Fur by Noom For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/modern-dining-chair-flock-cs2-fluffy-edition-in-premium-faux-fur-by-noom-for-sale-picture-7/f_42321/f_441094321742374561321/_Flock_chair_CS2_Fluffy_Edition_by_NOOM_6__master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/modern-dining-chair-flock-cs2-fluffy-edition-in-premium-faux-fur-by-noom-for-sale-picture-7/f_42321/f_441094321742374561321/_Flock_chair_CS2_Fluffy_Edition_by_NOOM_6__master.jpg?width=768",
+            "uploadDate": "2025-03-20T07:10:11.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Kateryna Sokolova",
+            "caption": "Modern Dining Chair Flock CS2 Fluffy Edition in premium Faux Fur by Noom For Sale 2",
+            "contentUrl": "https://a.1stdibscdn.com/modern-dining-chair-flock-cs2-fluffy-edition-in-premium-faux-fur-by-noom-for-sale-picture-8/f_42321/f_441094321742374561465/_Flock_chair_CS2_Fluffy_Edition_by_NOOM_7__master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/modern-dining-chair-flock-cs2-fluffy-edition-in-premium-faux-fur-by-noom-for-sale-picture-8/f_42321/f_441094321742374561465/_Flock_chair_CS2_Fluffy_Edition_by_NOOM_7__master.jpg?width=768",
+            "uploadDate": "2025-03-20T07:10:11.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Kateryna Sokolova",
+            "caption": "Modern Dining Chair Flock CS2 Fluffy Edition in premium Faux Fur by Noom For Sale 3",
+            "contentUrl": "https://a.1stdibscdn.com/modern-dining-chair-flock-cs2-fluffy-edition-in-premium-faux-fur-by-noom-for-sale-picture-9/f_42321/f_441094321742374563789/_Flock_chair_CS2_Fluffy_Edition_by_NOOM_9__master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/modern-dining-chair-flock-cs2-fluffy-edition-in-premium-faux-fur-by-noom-for-sale-picture-9/f_42321/f_441094321742374563789/_Flock_chair_CS2_Fluffy_Edition_by_NOOM_9__master.jpg?width=768",
+            "uploadDate": "2025-03-20T07:10:11.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Kateryna Sokolova",
+            "caption": "Modern Dining Chair Flock CS2 Fluffy Edition in premium Faux Fur by Noom For Sale 4",
+            "contentUrl": "https://a.1stdibscdn.com/modern-dining-chair-flock-cs2-fluffy-edition-in-premium-faux-fur-by-noom-for-sale-picture-10/f_42321/f_441094321742374563762/_Flock_chair_CS2_Fluffy_Edition_by_NOOM_10__master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/modern-dining-chair-flock-cs2-fluffy-edition-in-premium-faux-fur-by-noom-for-sale-picture-10/f_42321/f_441094321742374563762/_Flock_chair_CS2_Fluffy_Edition_by_NOOM_10__master.jpg?width=768",
+            "uploadDate": "2025-03-20T07:10:11.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Kateryna Sokolova",
+            "caption": "Modern Dining Chair Flock CS2 Fluffy Edition in premium Faux Fur by Noom For Sale 5",
+            "contentUrl": "https://a.1stdibscdn.com/modern-dining-chair-flock-cs2-fluffy-edition-in-premium-faux-fur-by-noom-for-sale-picture-11/f_42321/f_441094321742374563454/_Flock_chair_CS2_Fluffy_Edition_by_NOOM_11__master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/modern-dining-chair-flock-cs2-fluffy-edition-in-premium-faux-fur-by-noom-for-sale-picture-11/f_42321/f_441094321742374563454/_Flock_chair_CS2_Fluffy_Edition_by_NOOM_11__master.jpg?width=768",
+            "uploadDate": "2025-03-20T07:10:11.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Kateryna Sokolova",
+            "caption": "Modern Dining Chair Flock CS2 Fluffy Edition in premium Faux Fur by Noom For Sale 6",
+            "contentUrl": "https://a.1stdibscdn.com/modern-dining-chair-flock-cs2-fluffy-edition-in-premium-faux-fur-by-noom-for-sale-picture-12/f_42321/f_441094321742377227893/BEZ03242_HDR_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/modern-dining-chair-flock-cs2-fluffy-edition-in-premium-faux-fur-by-noom-for-sale-picture-12/f_42321/f_441094321742377227893/BEZ03242_HDR_master.jpg?width=768",
+            "uploadDate": "2025-03-20T07:10:11.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Kateryna Sokolova",
+            "caption": "Modern Dining Chair Flock CS2 Fluffy Edition in premium Faux Fur by Noom For Sale 7",
+            "contentUrl": "https://a.1stdibscdn.com/modern-dining-chair-flock-cs2-fluffy-edition-in-premium-faux-fur-by-noom-for-sale-picture-13/f_42321/f_441094321742377890527/Flock_chair_CS1_by_NOOM_17_a_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/modern-dining-chair-flock-cs2-fluffy-edition-in-premium-faux-fur-by-noom-for-sale-picture-13/f_42321/f_441094321742377890527/Flock_chair_CS1_by_NOOM_17_a_master.jpg?width=768",
+            "uploadDate": "2025-03-20T07:10:11.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Kateryna Sokolova",
+            "caption": "Modern Dining Chair Flock CS2 Fluffy Edition in premium Faux Fur by Noom For Sale 8",
+            "contentUrl": "https://a.1stdibscdn.com/modern-dining-chair-flock-cs2-fluffy-edition-in-premium-faux-fur-by-noom-for-sale-picture-14/f_42321/f_441094321742377890189/Flock_chair_CS1_by_NOOM_18__master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/modern-dining-chair-flock-cs2-fluffy-edition-in-premium-faux-fur-by-noom-for-sale-picture-14/f_42321/f_441094321742377890189/Flock_chair_CS1_by_NOOM_18__master.jpg?width=768",
+            "uploadDate": "2025-03-20T07:10:11.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Kateryna Sokolova",
+            "caption": "Modern Dining Chair Flock CS2 Fluffy Edition in premium Faux Fur by Noom For Sale 9",
+            "contentUrl": "https://a.1stdibscdn.com/modern-dining-chair-flock-cs2-fluffy-edition-in-premium-faux-fur-by-noom-for-sale-picture-15/f_42321/f_441094321742377890187/The_Flock_chairs_by_NOOM_on_steel_background_2__master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/modern-dining-chair-flock-cs2-fluffy-edition-in-premium-faux-fur-by-noom-for-sale-picture-15/f_42321/f_441094321742377890187/The_Flock_chairs_by_NOOM_on_steel_background_2__master.jpg?width=768",
+            "uploadDate": "2025-03-20T07:10:11.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/NewCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/chairs/modern-dining-chair-flock-cs2-fluffy-edition-premium-faux-fur-noom/id-f_44109432/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1884.45,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3398.3,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 43145.93,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1959.98,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1650.13,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 14704.73,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3074.8,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 2090,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 21610.88,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 22535.99,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 4.9,
+          "reviewCount": 18
+        },
+        "productionDate": "2010-",
+        "category": "Chairs",
+        "brand": {
+          "@type": "Brand",
+          "name": "Kateryna Sokolova"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Chairs",
+              "@id": "/furniture/seating/chairs/"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "VideoObject",
+        "name": "Modern Dining Chair Flock CS2 Fluffy Edition in premium Faux Fur by Noom",
+        "description": "The \"Flock\" collection embodies the idea that home should be a haven of comfort, a sanctuary, and a gathering place adorned with personalized, character-rich, and visually striking statement objects. The name \"Flock\" reflects its role as a tranquil oasis and central meeting space within the home, where soft, voluptuous forms, natural materials, and pleasing tactile surfaces create an ambiance of warmth and cocooning.\n\nDesigner Kateryna Sokolova explains, \"Home is the most intimate place for rest, comfort, and gathering, and it should be filled with personalized, character-rich, and eye-catching statement objects like Flock design pieces. In addition to the distinct shape, I wanted to create furniture that would become part of the family, a friend, intimate, and beloved.\"\n\nErgonomics plays a pivotal role in NOOM's design philosophy, ensuring that its products are aesthetically pleasing and incredibly comfortable. The Flock Chair, characterized by its smooth wide backrest and spacious, comfortable seat, results from extensive research, numerous prototypes, and the meticulous craftsmanship of local artisans under the designer's close supervision.\n\nThe Flock Chair epitomizes NOOM's commitment to delivering an exceptional design that transcends adversity, providing functional furniture and cherished companions for future generations.\n\nDesigner: Kateryna Sokolova\nMaterials: wood, plywood, metal, molded foam, textile\nAvailable in a wide range of colors and other finishes and fabrics on request.\nDimensions: H 78 cm, W 55 cm, D 61 cm  seat H 47 cm\n",
+        "thumbnailUrl": "https://i.vimeocdn.com/video/1995148333-a9f2b261bb6399e01c6c40b073e4f7d92258e0cc46ba58b7ba23956fcf22ebcc-d_1920x1080?&r=pad",
+        "uploadDate": "2025-03-19T09:49:00+00:00",
+        "duration": "PT0H0M21S",
+        "contentUrl": "https://player.vimeo.com/progressive_redirect/playback/1067268869/rendition/240p/file.mp4?loc=external&oauth2_token_id=1438265637&signature=6734d0416327bff039979b69d18ab3a89c72279e75460fa360933d37659f742a&user_id=95659418"
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

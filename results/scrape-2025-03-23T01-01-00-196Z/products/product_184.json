@@ -1,0 +1,301 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44093632",
+  "name": "Swivel Piano Stool Made in Italy, 1980s",
+  "slug": "f_44093632",
+  "price": "CA$1,200.13",
+  "description": "f_44093632",
+  "image_url": "https://a.1stdibscdn.com/swivel-piano-stool-made-in-italy-1980s-for-sale/f_83792/f_440936321742284745055/f_44093632_1742284746107_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/stools/swivel-piano-stool-made-italy-1980s/id-f_44093632/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 19.69 in (50 cm)",
+      "seatHeight": "Seat Height: 19.69 in (50 cm)"
+    },
+    "materials": [
+      "Wood",
+      "Wood"
+    ],
+    "origin": "Italy",
+    "period": "1980-1989",
+    "dateOfManufacture": "1980",
+    "condition": {
+      "rating": "Good",
+      "details": null
+    },
+    "sellerLocation": "Palermo, IT",
+    "referenceNumber": "1stDibs: LU8379244093632",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Swivel piano stool Made in Italy, 1980s\nThe height is adjustable by means of a worm screw.\nGood condition, as per descriptive photographs.</span></div></div>",
+    "rawSpecificationsText": "Swivel piano stool Made in Italy, 1980s\nThe height is adjustable by means of a worm screw.\nGood condition, as per descriptive photographs."
+  },
+  "raw_data": {
+    "productId": "f_44093632",
+    "slug": "f_44093632",
+    "url": "https://www.1stdibs.com/furniture/seating/stools/swivel-piano-stool-made-italy-1980s/id-f_44093632/",
+    "name": "Swivel Piano Stool Made in Italy, 1980s",
+    "price": "CA$1,200.13",
+    "imageUrl": "https://a.1stdibscdn.com/swivel-piano-stool-made-in-italy-1980s-for-sale/f_83792/f_440936321742284745055/f_44093632_1742284746107_bg_processed.jpg",
+    "description": "f_44093632",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 19.69 in (50 cm)",
+        "seatHeight": "Seat Height: 19.69 in (50 cm)"
+      },
+      "materials": [
+        "Wood",
+        "Wood"
+      ],
+      "origin": "Italy",
+      "period": "1980-1989",
+      "dateOfManufacture": "1980",
+      "condition": {
+        "rating": "Good",
+        "details": null
+      },
+      "sellerLocation": "Palermo, IT",
+      "referenceNumber": "1stDibs: LU8379244093632",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Swivel piano stool Made in Italy, 1980s\nThe height is adjustable by means of a worm screw.\nGood condition, as per descriptive photographs.</span></div></div>",
+      "rawSpecificationsText": "Swivel piano stool Made in Italy, 1980s\nThe height is adjustable by means of a worm screw.\nGood condition, as per descriptive photographs."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Swivel Piano Stool Made in Italy, 1980s",
+        "description": "Swivel piano stool Made in Italy, 1980s\nThe height is adjustable by means of a worm screw.\nGood condition, as per descriptive photographs.",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Swivel Piano Stool Made in Italy, 1980s For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/swivel-piano-stool-made-in-italy-1980s-for-sale/f_83792/f_440936321742284745055/f_44093632_1742284746107_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/swivel-piano-stool-made-in-italy-1980s-for-sale/f_83792/f_440936321742284745055/f_44093632_1742284746107_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-18T04:06:32.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Swivel piano stool Made in Italy, 1980s\nThe height is adjustable by means of a worm screw.\nGood condition, as per descriptive photographs.",
+            "contentUrl": "https://a.1stdibscdn.com/swivel-piano-stool-made-in-italy-1980s-for-sale-picture-2/f_83792/f_44093632/IMG_1742284971404_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/swivel-piano-stool-made-in-italy-1980s-for-sale-picture-2/f_83792/f_44093632/IMG_1742284971404_master.jpeg?width=768",
+            "uploadDate": "2025-03-18T04:06:32.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Italian Swivel Piano Stool Made in Italy, 1980s For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/swivel-piano-stool-made-in-italy-1980s-for-sale-picture-3/f_83792/f_44093632/IMG_1742284974907_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/swivel-piano-stool-made-in-italy-1980s-for-sale-picture-3/f_83792/f_44093632/IMG_1742284974907_master.jpeg?width=768",
+            "uploadDate": "2025-03-18T04:06:32.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Swivel Piano Stool Made in Italy, 1980s In Good Condition For Sale In Palermo, IT",
+            "contentUrl": "https://a.1stdibscdn.com/swivel-piano-stool-made-in-italy-1980s-for-sale-picture-4/f_83792/f_44093632/IMG_1742284978330_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/swivel-piano-stool-made-in-italy-1980s-for-sale-picture-4/f_83792/f_44093632/IMG_1742284978330_master.jpeg?width=768",
+            "uploadDate": "2025-03-18T04:06:32.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Late 20th Century Swivel Piano Stool Made in Italy, 1980s For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/swivel-piano-stool-made-in-italy-1980s-for-sale-picture-5/f_83792/f_44093632/IMG_1742284984048_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/swivel-piano-stool-made-in-italy-1980s-for-sale-picture-5/f_83792/f_44093632/IMG_1742284984048_master.jpeg?width=768",
+            "uploadDate": "2025-03-18T04:06:32.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Wood Swivel Piano Stool Made in Italy, 1980s For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/swivel-piano-stool-made-in-italy-1980s-for-sale-picture-6/f_83792/f_44093632/IMG_1742284987776_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/swivel-piano-stool-made-in-italy-1980s-for-sale-picture-6/f_83792/f_44093632/IMG_1742284987776_master.jpeg?width=768",
+            "uploadDate": "2025-03-18T04:06:32.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Swivel Piano Stool Made in Italy, 1980s For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/swivel-piano-stool-made-in-italy-1980s-for-sale-picture-7/f_83792/f_44093632/IMG_1742284991669_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/swivel-piano-stool-made-in-italy-1980s-for-sale-picture-7/f_83792/f_44093632/IMG_1742284991669_master.jpeg?width=768",
+            "uploadDate": "2025-03-18T04:06:32.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Swivel Piano Stool Made in Italy, 1980s For Sale 2",
+            "contentUrl": "https://a.1stdibscdn.com/swivel-piano-stool-made-in-italy-1980s-for-sale-picture-8/f_83792/f_44093632/IMG_1742284995895_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/swivel-piano-stool-made-in-italy-1980s-for-sale-picture-8/f_83792/f_44093632/IMG_1742284995895_master.jpeg?width=768",
+            "uploadDate": "2025-03-18T04:06:32.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Swivel Piano Stool Made in Italy, 1980s For Sale 3",
+            "contentUrl": "https://a.1stdibscdn.com/swivel-piano-stool-made-in-italy-1980s-for-sale-picture-9/f_83792/f_44093632/IMG_1742284999172_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/swivel-piano-stool-made-in-italy-1980s-for-sale-picture-9/f_83792/f_44093632/IMG_1742284999172_master.jpeg?width=768",
+            "uploadDate": "2025-03-18T04:06:32.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Swivel Piano Stool Made in Italy, 1980s For Sale 4",
+            "contentUrl": "https://a.1stdibscdn.com/swivel-piano-stool-made-in-italy-1980s-for-sale-picture-10/f_83792/f_44093632/IMG_1742285004030_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/swivel-piano-stool-made-in-italy-1980s-for-sale-picture-10/f_83792/f_44093632/IMG_1742285004030_master.jpeg?width=768",
+            "uploadDate": "2025-03-18T04:06:32.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Swivel Piano Stool Made in Italy, 1980s For Sale 5",
+            "contentUrl": "https://a.1stdibscdn.com/swivel-piano-stool-made-in-italy-1980s-for-sale-picture-11/f_83792/f_44093632/IMG_1742285010627_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/swivel-piano-stool-made-in-italy-1980s-for-sale-picture-11/f_83792/f_44093632/IMG_1742285010627_master.jpeg?width=768",
+            "uploadDate": "2025-03-18T04:06:32.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/UsedCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/stools/swivel-piano-stool-made-italy-1980s/id-f_44093632/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 735.52,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1326.39,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 16840.32,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 750,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 644.06,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 5739.41,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 832.06,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1200.13,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 8434.96,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 8796.04,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 5,
+          "reviewCount": 13
+        },
+        "productionDate": "1980-1989",
+        "category": "Stools"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Stools",
+              "@id": "/furniture/seating/stools/"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "VideoObject",
+        "name": "Swivel Piano Stool Made in Italy, 1980s",
+        "description": "Swivel piano stool Made in Italy, 1980s\nThe height is adjustable by means of a worm screw.\nGood condition, as per descriptive photographs.",
+        "thumbnailUrl": "https://i.vimeocdn.com/video/1994650124-02f42656d6b75c2c916c747624989ab00061edc3475e76994355bd2a516cd2e7-d_1920x1080?&r=pad",
+        "uploadDate": "2025-03-18T08:01:34+00:00",
+        "duration": "PT0H0M8S",
+        "contentUrl": "https://player.vimeo.com/progressive_redirect/playback/1066849693/rendition/240p/file.mp4?loc=external&oauth2_token_id=1438265637&signature=961671e96cb5193aace78ea01d22f3f848e986b6366ca5ab79f61595ce09377c&user_id=95659418"
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

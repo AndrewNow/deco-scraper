@@ -1,0 +1,327 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_24858442",
+  "name": "Mid-Century Sculptural Brutalist Swedish Stump Chair in Solid Pine",
+  "slug": "f_24858442",
+  "price": "CA$4,160.44",
+  "description": "f_24858442",
+  "image_url": "https://a.1stdibscdn.com/archivesE/upload/1121189/f_248584421628759589513/24858442_datamatics.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/chairs/mid-century-sculptural-brutalist-swedish-stump-chair-solid-pine/id-f_24858442/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 33.08 in (84 cm)",
+      "width": "Width: 20.48 in (52 cm)",
+      "depth": "Depth: 20.87 in (53 cm)",
+      "seatHeight": "Seat Height: 17.33 in (44 cm)"
+    },
+    "style": "Mid-Century Modern (Of the Period)",
+    "materials": [
+      "Pine",
+      "Pine"
+    ],
+    "origin": "Sweden",
+    "period": "1950-1959",
+    "dateOfManufacture": "1950s",
+    "condition": {
+      "rating": "Good",
+      "details": "Wear consistent with age and use."
+    },
+    "sellerLocation": "Odense, DK",
+    "referenceNumber": "1stDibs: LU5686224858442",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Mid-Century Sculptural Brutalist Swedish Stump Chair in Solid Pine. Handcrafted in Sweden.\nGreat warm patina.\n\nHonorable mentions in similar style include Roland Wilhelmsson, Pierre Chapo, and Axel Einar Hjorth.</span></div></div>",
+    "rawSpecificationsText": "Mid-Century Sculptural Brutalist Swedish Stump Chair in Solid Pine. Handcrafted in Sweden.\nGreat warm patina.\n\nHonorable mentions in similar style include Roland Wilhelmsson, Pierre Chapo, and Axel Einar Hjorth."
+  },
+  "raw_data": {
+    "productId": "f_24858442",
+    "slug": "f_24858442",
+    "url": "https://www.1stdibs.com/furniture/seating/chairs/mid-century-sculptural-brutalist-swedish-stump-chair-solid-pine/id-f_24858442/",
+    "name": "Mid-Century Sculptural Brutalist Swedish Stump Chair in Solid Pine",
+    "price": "CA$4,160.44",
+    "imageUrl": "https://a.1stdibscdn.com/archivesE/upload/1121189/f_248584421628759589513/24858442_datamatics.jpg",
+    "description": "f_24858442",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 33.08 in (84 cm)",
+        "width": "Width: 20.48 in (52 cm)",
+        "depth": "Depth: 20.87 in (53 cm)",
+        "seatHeight": "Seat Height: 17.33 in (44 cm)"
+      },
+      "style": "Mid-Century Modern (Of the Period)",
+      "materials": [
+        "Pine",
+        "Pine"
+      ],
+      "origin": "Sweden",
+      "period": "1950-1959",
+      "dateOfManufacture": "1950s",
+      "condition": {
+        "rating": "Good",
+        "details": "Wear consistent with age and use."
+      },
+      "sellerLocation": "Odense, DK",
+      "referenceNumber": "1stDibs: LU5686224858442",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Mid-Century Sculptural Brutalist Swedish Stump Chair in Solid Pine. Handcrafted in Sweden.\nGreat warm patina.\n\nHonorable mentions in similar style include Roland Wilhelmsson, Pierre Chapo, and Axel Einar Hjorth.</span></div></div>",
+      "rawSpecificationsText": "Mid-Century Sculptural Brutalist Swedish Stump Chair in Solid Pine. Handcrafted in Sweden.\nGreat warm patina.\n\nHonorable mentions in similar style include Roland Wilhelmsson, Pierre Chapo, and Axel Einar Hjorth."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Mid-Century Sculptural Brutalist Swedish Stump Chair in Solid Pine",
+        "description": "Mid-Century Sculptural Brutalist Swedish Stump Chair in Solid Pine. Handcrafted in Sweden.\r\nGreat warm patina.\r\n\r\nHonorable mentions in similar style include Roland Wilhelmsson, Pierre Chapo, and Axel Einar Hjorth.",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Mid-Century Sculptural Brutalist Swedish Stump Chair in Solid Pine  For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/archivesE/upload/1121189/f_248584421628759589513/24858442_datamatics.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/archivesE/upload/1121189/f_248584421628759589513/24858442_datamatics.jpg?width=768",
+            "uploadDate": "2021-08-11T04:49:24.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Mid-Century Sculptural Brutalist Swedish Stump Chair in Solid Pine. Handcrafted in Sweden.\r\nGreat warm patina.\r\n\r\nHonorable mentions in similar style include Roland Wilhelmsson, Pierre Chapo, and Axel Einar Hjorth.",
+            "contentUrl": "https://a.1stdibscdn.com/mid-century-sculptural-brutalist-swedish-stump-chair-in-solid-pine-for-sale-picture-2/f_56862/f_248584421628671394089/233552854_1773067619557482_3481925351034688276_n_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mid-century-sculptural-brutalist-swedish-stump-chair-in-solid-pine-for-sale-picture-2/f_56862/f_248584421628671394089/233552854_1773067619557482_3481925351034688276_n_master.jpg?width=768",
+            "uploadDate": "2021-08-11T04:49:24.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Mid-Century Modern Mid-Century Sculptural Brutalist Swedish Stump Chair in Solid Pine  For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/mid-century-sculptural-brutalist-swedish-stump-chair-in-solid-pine-for-sale-picture-3/f_56862/f_248584421628671393976/230171886_4377137012344515_612925326222188338_n_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mid-century-sculptural-brutalist-swedish-stump-chair-in-solid-pine-for-sale-picture-3/f_56862/f_248584421628671393976/230171886_4377137012344515_612925326222188338_n_master.jpg?width=768",
+            "uploadDate": "2021-08-11T04:49:24.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Hand-Carved Mid-Century Sculptural Brutalist Swedish Stump Chair in Solid Pine  For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/mid-century-sculptural-brutalist-swedish-stump-chair-in-solid-pine-for-sale-picture-4/f_56862/f_248584421628671396145/231923337_1214859595652988_4400971049123182978_n_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mid-century-sculptural-brutalist-swedish-stump-chair-in-solid-pine-for-sale-picture-4/f_56862/f_248584421628671396145/231923337_1214859595652988_4400971049123182978_n_master.jpg?width=768",
+            "uploadDate": "2021-08-11T04:49:24.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Mid-Century Sculptural Brutalist Swedish Stump Chair in Solid Pine  In Good Condition For Sale In Odense, DK",
+            "contentUrl": "https://a.1stdibscdn.com/mid-century-sculptural-brutalist-swedish-stump-chair-in-solid-pine-for-sale-picture-5/f_56862/f_248584421628671396547/235033576_526990091839161_7647555196428727841_n_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mid-century-sculptural-brutalist-swedish-stump-chair-in-solid-pine-for-sale-picture-5/f_56862/f_248584421628671396547/235033576_526990091839161_7647555196428727841_n_master.jpg?width=768",
+            "uploadDate": "2021-08-11T04:49:24.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Mid-20th Century Mid-Century Sculptural Brutalist Swedish Stump Chair in Solid Pine  For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/mid-century-sculptural-brutalist-swedish-stump-chair-in-solid-pine-for-sale-picture-6/f_56862/f_248584421628671394290/230432609_1051097078756660_1292141241166282004_n_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mid-century-sculptural-brutalist-swedish-stump-chair-in-solid-pine-for-sale-picture-6/f_56862/f_248584421628671394290/230432609_1051097078756660_1292141241166282004_n_master.jpg?width=768",
+            "uploadDate": "2021-08-11T04:49:24.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Mid-Century Sculptural Brutalist Swedish Stump Chair in Solid Pine  For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/mid-century-sculptural-brutalist-swedish-stump-chair-in-solid-pine-for-sale-picture-7/f_56862/f_248584421628671394295/233389846_547817809681813_3403477494124270877_n_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mid-century-sculptural-brutalist-swedish-stump-chair-in-solid-pine-for-sale-picture-7/f_56862/f_248584421628671394295/233389846_547817809681813_3403477494124270877_n_master.jpg?width=768",
+            "uploadDate": "2021-08-11T04:49:24.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Mid-Century Sculptural Brutalist Swedish Stump Chair in Solid Pine  For Sale 2",
+            "contentUrl": "https://a.1stdibscdn.com/mid-century-sculptural-brutalist-swedish-stump-chair-in-solid-pine-for-sale-picture-8/f_56862/f_248584421628671396346/230029102_215837967026680_6117467787387240672_n_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mid-century-sculptural-brutalist-swedish-stump-chair-in-solid-pine-for-sale-picture-8/f_56862/f_248584421628671396346/230029102_215837967026680_6117467787387240672_n_master.jpg?width=768",
+            "uploadDate": "2021-08-11T04:49:24.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Mid-Century Sculptural Brutalist Swedish Stump Chair in Solid Pine  For Sale 3",
+            "contentUrl": "https://a.1stdibscdn.com/mid-century-sculptural-brutalist-swedish-stump-chair-in-solid-pine-for-sale-picture-9/f_56862/f_248584421628671396617/233531632_133555648930971_7618968451004114318_n_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mid-century-sculptural-brutalist-swedish-stump-chair-in-solid-pine-for-sale-picture-9/f_56862/f_248584421628671396617/233531632_133555648930971_7618968451004114318_n_master.jpg?width=768",
+            "uploadDate": "2021-08-11T04:49:24.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Mid-Century Sculptural Brutalist Swedish Stump Chair in Solid Pine  For Sale 4",
+            "contentUrl": "https://a.1stdibscdn.com/mid-century-sculptural-brutalist-swedish-stump-chair-in-solid-pine-for-sale-picture-10/f_56862/f_248584421628671396268/236253115_890638621805836_4462677563041295164_n_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mid-century-sculptural-brutalist-swedish-stump-chair-in-solid-pine-for-sale-picture-10/f_56862/f_248584421628671396268/236253115_890638621805836_4462677563041295164_n_master.jpg?width=768",
+            "uploadDate": "2021-08-11T04:49:24.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Mid-Century Sculptural Brutalist Swedish Stump Chair in Solid Pine  For Sale 5",
+            "contentUrl": "https://a.1stdibscdn.com/mid-century-sculptural-brutalist-swedish-stump-chair-in-solid-pine-for-sale-picture-11/f_56862/f_248584421628671393831/235372279_1044089876398923_8533972705458210630_n_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mid-century-sculptural-brutalist-swedish-stump-chair-in-solid-pine-for-sale-picture-11/f_56862/f_248584421628671393831/235372279_1044089876398923_8533972705458210630_n_master.jpg?width=768",
+            "uploadDate": "2021-08-11T04:49:24.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Mid-Century Sculptural Brutalist Swedish Stump Chair in Solid Pine  For Sale 6",
+            "contentUrl": "https://a.1stdibscdn.com/mid-century-sculptural-brutalist-swedish-stump-chair-in-solid-pine-for-sale-picture-12/f_56862/f_248584421628671396211/234786585_340481630950236_1196420767873567543_n_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mid-century-sculptural-brutalist-swedish-stump-chair-in-solid-pine-for-sale-picture-12/f_56862/f_248584421628671396211/234786585_340481630950236_1196420767873567543_n_master.jpg?width=768",
+            "uploadDate": "2021-08-11T04:49:24.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Mid-Century Sculptural Brutalist Swedish Stump Chair in Solid Pine  For Sale 7",
+            "contentUrl": "https://a.1stdibscdn.com/mid-century-sculptural-brutalist-swedish-stump-chair-in-solid-pine-for-sale-picture-13/f_56862/f_248584421628671394269/231465935_371840951192102_6257004981058332942_n_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mid-century-sculptural-brutalist-swedish-stump-chair-in-solid-pine-for-sale-picture-13/f_56862/f_248584421628671394269/231465935_371840951192102_6257004981058332942_n_master.jpg?width=768",
+            "uploadDate": "2021-08-11T04:49:24.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Mid-Century Sculptural Brutalist Swedish Stump Chair in Solid Pine  For Sale 8",
+            "contentUrl": "https://a.1stdibscdn.com/mid-century-sculptural-brutalist-swedish-stump-chair-in-solid-pine-for-sale-picture-14/f_56862/f_248584421628671397917/231993151_362808055445812_5996833613671856849_n_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/mid-century-sculptural-brutalist-swedish-stump-chair-in-solid-pine-for-sale-picture-14/f_56862/f_248584421628671397917/231993151_362808055445812_5996833613671856849_n_master.jpg?width=768",
+            "uploadDate": "2021-08-11T04:49:24.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/UsedCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/chairs/mid-century-sculptural-brutalist-swedish-stump-chair-solid-pine/id-f_24858442/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 2549.8,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 4598.17,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 58379.77,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 2600,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 2232.75,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 19896.63,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 2884.49,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 4160.44,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 29241.18,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 30492.94,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 5,
+          "reviewCount": 41
+        },
+        "productionDate": "1950-1959",
+        "category": "Chairs"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Chairs",
+              "@id": "/furniture/seating/chairs/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

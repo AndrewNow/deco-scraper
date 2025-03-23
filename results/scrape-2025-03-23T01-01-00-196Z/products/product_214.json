@@ -1,0 +1,281 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44059122",
+  "name": "A pair of wingback chairs, Scandinavian, 1960/70s.",
+  "slug": "f_44059122",
+  "price": "CA$5,002.07",
+  "description": "f_44059122",
+  "image_url": "https://a.1stdibscdn.com/a-pair-of-wingback-chairs-scandinavian-1960-70s-for-sale/f_74802/f_440591221742041124856/f_44059122_1742041125814_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/wingback-chairs/pair-of-wingback-chairs-scandinavian-1960-70s/id-f_44059122/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 41.34 in (105 cm)",
+      "width": "Width: 27.56 in (70 cm)",
+      "depth": "Depth: 24.41 in (62 cm)",
+      "seatHeight": "Seat Height: 16.15 in (41 cm)"
+    },
+    "style": "Country (Of the Period)",
+    "materials": [
+      "Oak",
+      "Wood",
+      "Oak",
+      "Wood"
+    ],
+    "origin": "Denmark",
+    "period": "1960-1969",
+    "dateOfManufacture": "1960/70s",
+    "condition": {
+      "rating": "Good",
+      "details": "Reupholstered. Wear consistent with age and use."
+    },
+    "sellerLocation": "Stockholm, SE",
+    "referenceNumber": "1stDibs: LU7480244059122",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">A pair of wingback chairs in oak, with soft green wool mix fabric.\n\nCountry style, Scandinavian 1960/70s.\n\nIn good condition, smaller signs of use.</span></div></div>",
+    "rawSpecificationsText": "A pair of wingback chairs in oak, with soft green wool mix fabric.\n\nCountry style, Scandinavian 1960/70s.\n\nIn good condition, smaller signs of use."
+  },
+  "raw_data": {
+    "productId": "f_44059122",
+    "slug": "f_44059122",
+    "url": "https://www.1stdibs.com/furniture/seating/wingback-chairs/pair-of-wingback-chairs-scandinavian-1960-70s/id-f_44059122/",
+    "name": "A pair of wingback chairs, Scandinavian, 1960/70s.",
+    "price": "CA$5,002.07",
+    "imageUrl": "https://a.1stdibscdn.com/a-pair-of-wingback-chairs-scandinavian-1960-70s-for-sale/f_74802/f_440591221742041124856/f_44059122_1742041125814_bg_processed.jpg",
+    "description": "f_44059122",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 41.34 in (105 cm)",
+        "width": "Width: 27.56 in (70 cm)",
+        "depth": "Depth: 24.41 in (62 cm)",
+        "seatHeight": "Seat Height: 16.15 in (41 cm)"
+      },
+      "style": "Country (Of the Period)",
+      "materials": [
+        "Oak",
+        "Wood",
+        "Oak",
+        "Wood"
+      ],
+      "origin": "Denmark",
+      "period": "1960-1969",
+      "dateOfManufacture": "1960/70s",
+      "condition": {
+        "rating": "Good",
+        "details": "Reupholstered. Wear consistent with age and use."
+      },
+      "sellerLocation": "Stockholm, SE",
+      "referenceNumber": "1stDibs: LU7480244059122",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">A pair of wingback chairs in oak, with soft green wool mix fabric.\n\nCountry style, Scandinavian 1960/70s.\n\nIn good condition, smaller signs of use.</span></div></div>",
+      "rawSpecificationsText": "A pair of wingback chairs in oak, with soft green wool mix fabric.\n\nCountry style, Scandinavian 1960/70s.\n\nIn good condition, smaller signs of use."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "A pair of wingback chairs, Scandinavian, 1960/70s.",
+        "description": "A pair of wingback chairs in oak, with soft green wool mix fabric.\n\nCountry style, Scandinavian 1960/70s.\n\nIn good condition, smaller signs of use. ",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "A pair of wingback chairs, Scandinavian, 1960/70s.  For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/a-pair-of-wingback-chairs-scandinavian-1960-70s-for-sale/f_74802/f_440591221742041124856/f_44059122_1742041125814_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/a-pair-of-wingback-chairs-scandinavian-1960-70s-for-sale/f_74802/f_440591221742041124856/f_44059122_1742041125814_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-19T12:19:17.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "A pair of wingback chairs in oak, with soft green wool mix fabric.\n\nCountry style, Scandinavian 1960/70s.\n\nIn good condition, smaller signs of use. ",
+            "contentUrl": "https://a.1stdibscdn.com/a-pair-of-wingback-chairs-scandinavian-1960-70s-for-sale-picture-2/f_74802/1742029989050/1000016779_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/a-pair-of-wingback-chairs-scandinavian-1960-70s-for-sale-picture-2/f_74802/1742029989050/1000016779_master.jpg?width=768",
+            "uploadDate": "2025-03-19T12:19:17.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Country A pair of wingback chairs, Scandinavian, 1960/70s.  For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/a-pair-of-wingback-chairs-scandinavian-1960-70s-for-sale-picture-3/f_74802/f_440591221742030243133/1000016789_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/a-pair-of-wingback-chairs-scandinavian-1960-70s-for-sale-picture-3/f_74802/f_440591221742030243133/1000016789_master.jpg?width=768",
+            "uploadDate": "2025-03-19T12:19:17.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Danish A pair of wingback chairs, Scandinavian, 1960/70s.  For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/a-pair-of-wingback-chairs-scandinavian-1960-70s-for-sale-picture-4/f_74802/f_44059122/1000016791_1742041349862_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/a-pair-of-wingback-chairs-scandinavian-1960-70s-for-sale-picture-4/f_74802/f_44059122/1000016791_1742041349862_master.jpg?width=768",
+            "uploadDate": "2025-03-19T12:19:17.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "A pair of wingback chairs, Scandinavian, 1960/70s.  In Good Condition For Sale In Stockholm, SE",
+            "contentUrl": "https://a.1stdibscdn.com/a-pair-of-wingback-chairs-scandinavian-1960-70s-for-sale-picture-5/f_74802/f_440591221742030241831/1000016788_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/a-pair-of-wingback-chairs-scandinavian-1960-70s-for-sale-picture-5/f_74802/f_440591221742030241831/1000016788_master.jpg?width=768",
+            "uploadDate": "2025-03-19T12:19:17.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Mid-20th Century A pair of wingback chairs, Scandinavian, 1960/70s.  For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/a-pair-of-wingback-chairs-scandinavian-1960-70s-for-sale-picture-6/f_74802/f_440591221742030242953/1000016786_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/a-pair-of-wingback-chairs-scandinavian-1960-70s-for-sale-picture-6/f_74802/f_440591221742030242953/1000016786_master.jpg?width=768",
+            "uploadDate": "2025-03-19T12:19:17.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Wood A pair of wingback chairs, Scandinavian, 1960/70s.  For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/a-pair-of-wingback-chairs-scandinavian-1960-70s-for-sale-picture-7/f_74802/f_440591221742030243042/1000016785_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/a-pair-of-wingback-chairs-scandinavian-1960-70s-for-sale-picture-7/f_74802/f_440591221742030243042/1000016785_master.jpg?width=768",
+            "uploadDate": "2025-03-19T12:19:17.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "A pair of wingback chairs, Scandinavian, 1960/70s.  For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/a-pair-of-wingback-chairs-scandinavian-1960-70s-for-sale-picture-8/f_74802/f_440591221742030241909/1000016782_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/a-pair-of-wingback-chairs-scandinavian-1960-70s-for-sale-picture-8/f_74802/f_440591221742030241909/1000016782_master.jpg?width=768",
+            "uploadDate": "2025-03-19T12:19:17.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "A pair of wingback chairs, Scandinavian, 1960/70s.  For Sale 2",
+            "contentUrl": "https://a.1stdibscdn.com/a-pair-of-wingback-chairs-scandinavian-1960-70s-for-sale-picture-9/f_74802/f_440591221742030244863/1000016777_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/a-pair-of-wingback-chairs-scandinavian-1960-70s-for-sale-picture-9/f_74802/f_440591221742030244863/1000016777_master.jpg?width=768",
+            "uploadDate": "2025-03-19T12:19:17.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/UsedCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/wingback-chairs/pair-of-wingback-chairs-scandinavian-1960-70s/id-f_44059122/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3065.6,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 5528.34,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 70189.55,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3188.48,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 2684.42,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 23921.57,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3400,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 5002.07,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 35156.45,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 36661.42,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 5,
+          "reviewCount": 5
+        },
+        "productionDate": "1960-1969",
+        "category": "Wingback Chairs"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Wingback Chairs",
+              "@id": "/furniture/seating/wingback-chairs/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

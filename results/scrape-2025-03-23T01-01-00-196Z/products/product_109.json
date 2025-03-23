@@ -1,0 +1,385 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44135582",
+  "name": "1960s Italian “Plia” Blue Lucite Folding Chair by Giancarlo Piretti for Anonima",
+  "slug": "f_44135582",
+  "price": "CA$441.36",
+  "description": "f_44135582",
+  "image_url": "https://a.1stdibscdn.com/1960s-italian-plia-blue-lucite-folding-chair-by-giancarlo-piretti-for-anonima-for-sale/f_92052/f_441355821742509224474/f_44135582_1742509224917_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/chairs/1960s-italian-plia-blue-lucite-folding-chair-giancarlo-piretti-anonima/id-f_44135582/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 30 in (76.2 cm)",
+      "width": "Width: 18.5 in (46.99 cm)",
+      "depth": "Depth: 20 in (50.8 cm)",
+      "seatHeight": "Seat Height: 17.5 in (44.45 cm)"
+    },
+    "style": "Space Age (Of the Period)",
+    "materials": [
+      "Chrome",
+      "Plastic",
+      "Chrome",
+      "Plastic"
+    ],
+    "origin": "Italy",
+    "period": "1960-1969",
+    "dateOfManufacture": "1960s",
+    "condition": {
+      "rating": "Good",
+      "details": "Wear consistent with age and use."
+    },
+    "sellerLocation": "San Gabriel, CA",
+    "referenceNumber": "1stDibs: LU9205244135582",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">18.5” wide x 30” high x 20” deep. Seat height: 17.5”\n\n\n1960s folding chrome and blue lucite chairs by Giancarlo Piretti for Castelli. Made in Italy. Labeled with a tag on each chair. Good condition with some minimal scuffs and scratches to seat and seat-backs. Sold individually. Please inquire about multiple chair discounts on shipping.</span></div></div>",
+    "rawSpecificationsText": "18.5” wide x 30” high x 20” deep. Seat height: 17.5”\n\n\n1960s folding chrome and blue lucite chairs by Giancarlo Piretti for Castelli. Made in Italy. Labeled with a tag on each chair. Good condition with some minimal scuffs and scratches to seat and seat-backs. Sold individually. Please inquire about multiple chair discounts on shipping."
+  },
+  "raw_data": {
+    "productId": "f_44135582",
+    "slug": "f_44135582",
+    "url": "https://www.1stdibs.com/furniture/seating/chairs/1960s-italian-plia-blue-lucite-folding-chair-giancarlo-piretti-anonima/id-f_44135582/",
+    "name": "1960s Italian “Plia” Blue Lucite Folding Chair by Giancarlo Piretti for Anonima",
+    "price": "CA$441.36",
+    "imageUrl": "https://a.1stdibscdn.com/1960s-italian-plia-blue-lucite-folding-chair-by-giancarlo-piretti-for-anonima-for-sale/f_92052/f_441355821742509224474/f_44135582_1742509224917_bg_processed.jpg",
+    "description": "f_44135582",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 30 in (76.2 cm)",
+        "width": "Width: 18.5 in (46.99 cm)",
+        "depth": "Depth: 20 in (50.8 cm)",
+        "seatHeight": "Seat Height: 17.5 in (44.45 cm)"
+      },
+      "style": "Space Age (Of the Period)",
+      "materials": [
+        "Chrome",
+        "Plastic",
+        "Chrome",
+        "Plastic"
+      ],
+      "origin": "Italy",
+      "period": "1960-1969",
+      "dateOfManufacture": "1960s",
+      "condition": {
+        "rating": "Good",
+        "details": "Wear consistent with age and use."
+      },
+      "sellerLocation": "San Gabriel, CA",
+      "referenceNumber": "1stDibs: LU9205244135582",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">18.5” wide x 30” high x 20” deep. Seat height: 17.5”\n\n\n1960s folding chrome and blue lucite chairs by Giancarlo Piretti for Castelli. Made in Italy. Labeled with a tag on each chair. Good condition with some minimal scuffs and scratches to seat and seat-backs. Sold individually. Please inquire about multiple chair discounts on shipping.</span></div></div>",
+      "rawSpecificationsText": "18.5” wide x 30” high x 20” deep. Seat height: 17.5”\n\n\n1960s folding chrome and blue lucite chairs by Giancarlo Piretti for Castelli. Made in Italy. Labeled with a tag on each chair. Good condition with some minimal scuffs and scratches to seat and seat-backs. Sold individually. Please inquire about multiple chair discounts on shipping."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "1960s Italian “Plia” Blue Lucite Folding Chair by Giancarlo Piretti for Anonima",
+        "description": "18.5” wide x 30” high x 20” deep. Seat height: 17.5”\n\n\n1960s folding chrome and blue lucite chairs by Giancarlo Piretti for Castelli. Made in Italy. Labeled with a tag on each chair. Good condition with some minimal scuffs and scratches to seat and seat-backs. Sold individually. Please inquire about multiple chair discounts on shipping. ",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Anonima Castelli, Giancarlo Piretti",
+            "caption": "1960s Italian “Plia” Blue Lucite Folding Chair by Giancarlo Piretti for Anonima For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/1960s-italian-plia-blue-lucite-folding-chair-by-giancarlo-piretti-for-anonima-for-sale/f_92052/f_441355821742509224474/f_44135582_1742509224917_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/1960s-italian-plia-blue-lucite-folding-chair-by-giancarlo-piretti-for-anonima-for-sale/f_92052/f_441355821742509224474/f_44135582_1742509224917_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-20T18:35:03.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Anonima Castelli, Giancarlo Piretti",
+            "caption": "18.5” wide x 30” high x 20” deep. Seat height: 17.5”\n\n\n1960s folding chrome and blue lucite chairs by Giancarlo Piretti for Castelli. Made in Italy. Labeled with a tag on each chair. Good condition with some minimal scuffs and scratches to seat and",
+            "contentUrl": "https://a.1stdibscdn.com/1960s-italian-plia-blue-lucite-folding-chair-by-giancarlo-piretti-for-anonima-for-sale-picture-2/f_92052/f_441355821742509264595/selects_03852_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/1960s-italian-plia-blue-lucite-folding-chair-by-giancarlo-piretti-for-anonima-for-sale-picture-2/f_92052/f_441355821742509264595/selects_03852_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:35:03.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Anonima Castelli, Giancarlo Piretti",
+            "caption": "Space Age 1960s Italian “Plia” Blue Lucite Folding Chair by Giancarlo Piretti for Anonima For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/1960s-italian-plia-blue-lucite-folding-chair-by-giancarlo-piretti-for-anonima-for-sale-picture-3/f_92052/f_441355821742509264528/selects_03858_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/1960s-italian-plia-blue-lucite-folding-chair-by-giancarlo-piretti-for-anonima-for-sale-picture-3/f_92052/f_441355821742509264528/selects_03858_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:35:03.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Anonima Castelli, Giancarlo Piretti",
+            "caption": "1960s Italian “Plia” Blue Lucite Folding Chair by Giancarlo Piretti for Anonima In Good Condition For Sale In San Gabriel, CA",
+            "contentUrl": "https://a.1stdibscdn.com/1960s-italian-plia-blue-lucite-folding-chair-by-giancarlo-piretti-for-anonima-for-sale-picture-4/f_92052/f_441355821742509331723/selects_03827_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/1960s-italian-plia-blue-lucite-folding-chair-by-giancarlo-piretti-for-anonima-for-sale-picture-4/f_92052/f_441355821742509331723/selects_03827_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:35:03.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Anonima Castelli, Giancarlo Piretti",
+            "caption": "Mid-20th Century 1960s Italian “Plia” Blue Lucite Folding Chair by Giancarlo Piretti for Anonima For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/1960s-italian-plia-blue-lucite-folding-chair-by-giancarlo-piretti-for-anonima-for-sale-picture-5/f_92052/f_441355821742509331700/selects_03830_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/1960s-italian-plia-blue-lucite-folding-chair-by-giancarlo-piretti-for-anonima-for-sale-picture-5/f_92052/f_441355821742509331700/selects_03830_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:35:03.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Anonima Castelli, Giancarlo Piretti",
+            "caption": "Chrome 1960s Italian “Plia” Blue Lucite Folding Chair by Giancarlo Piretti for Anonima For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/1960s-italian-plia-blue-lucite-folding-chair-by-giancarlo-piretti-for-anonima-for-sale-picture-6/f_92052/f_441355821742509331774/selects_03834_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/1960s-italian-plia-blue-lucite-folding-chair-by-giancarlo-piretti-for-anonima-for-sale-picture-6/f_92052/f_441355821742509331774/selects_03834_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:35:03.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Anonima Castelli, Giancarlo Piretti",
+            "caption": "1960s Italian “Plia” Blue Lucite Folding Chair by Giancarlo Piretti for Anonima For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/1960s-italian-plia-blue-lucite-folding-chair-by-giancarlo-piretti-for-anonima-for-sale-picture-7/f_92052/f_441355821742509331657/selects_03838_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/1960s-italian-plia-blue-lucite-folding-chair-by-giancarlo-piretti-for-anonima-for-sale-picture-7/f_92052/f_441355821742509331657/selects_03838_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:35:03.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Anonima Castelli, Giancarlo Piretti",
+            "caption": "1960s Italian “Plia” Blue Lucite Folding Chair by Giancarlo Piretti for Anonima For Sale 2",
+            "contentUrl": "https://a.1stdibscdn.com/1960s-italian-plia-blue-lucite-folding-chair-by-giancarlo-piretti-for-anonima-for-sale-picture-8/f_92052/f_441355821742509331727/selects_03847_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/1960s-italian-plia-blue-lucite-folding-chair-by-giancarlo-piretti-for-anonima-for-sale-picture-8/f_92052/f_441355821742509331727/selects_03847_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:35:03.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Anonima Castelli, Giancarlo Piretti",
+            "caption": "1960s Italian “Plia” Blue Lucite Folding Chair by Giancarlo Piretti for Anonima For Sale 3",
+            "contentUrl": "https://a.1stdibscdn.com/1960s-italian-plia-blue-lucite-folding-chair-by-giancarlo-piretti-for-anonima-for-sale-picture-9/f_92052/f_441355821742509363322/selects_03863_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/1960s-italian-plia-blue-lucite-folding-chair-by-giancarlo-piretti-for-anonima-for-sale-picture-9/f_92052/f_441355821742509363322/selects_03863_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:35:03.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Anonima Castelli, Giancarlo Piretti",
+            "caption": "1960s Italian “Plia” Blue Lucite Folding Chair by Giancarlo Piretti for Anonima For Sale 4",
+            "contentUrl": "https://a.1stdibscdn.com/1960s-italian-plia-blue-lucite-folding-chair-by-giancarlo-piretti-for-anonima-for-sale-picture-10/f_92052/f_441355821742509363402/selects_03866_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/1960s-italian-plia-blue-lucite-folding-chair-by-giancarlo-piretti-for-anonima-for-sale-picture-10/f_92052/f_441355821742509363402/selects_03866_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:35:03.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Anonima Castelli, Giancarlo Piretti",
+            "caption": "1960s Italian “Plia” Blue Lucite Folding Chair by Giancarlo Piretti for Anonima For Sale 5",
+            "contentUrl": "https://a.1stdibscdn.com/1960s-italian-plia-blue-lucite-folding-chair-by-giancarlo-piretti-for-anonima-for-sale-picture-11/f_92052/f_441355821742509363413/selects_03875_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/1960s-italian-plia-blue-lucite-folding-chair-by-giancarlo-piretti-for-anonima-for-sale-picture-11/f_92052/f_441355821742509363413/selects_03875_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:35:03.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Anonima Castelli, Giancarlo Piretti",
+            "caption": "1960s Italian “Plia” Blue Lucite Folding Chair by Giancarlo Piretti for Anonima For Sale 6",
+            "contentUrl": "https://a.1stdibscdn.com/1960s-italian-plia-blue-lucite-folding-chair-by-giancarlo-piretti-for-anonima-for-sale-picture-12/f_92052/f_441355821742509363403/selects_03877_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/1960s-italian-plia-blue-lucite-folding-chair-by-giancarlo-piretti-for-anonima-for-sale-picture-12/f_92052/f_441355821742509363403/selects_03877_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:35:03.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Anonima Castelli, Giancarlo Piretti",
+            "caption": "1960s Italian “Plia” Blue Lucite Folding Chair by Giancarlo Piretti for Anonima For Sale 7",
+            "contentUrl": "https://a.1stdibscdn.com/1960s-italian-plia-blue-lucite-folding-chair-by-giancarlo-piretti-for-anonima-for-sale-picture-13/f_92052/f_441355821742509363318/selects_03882_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/1960s-italian-plia-blue-lucite-folding-chair-by-giancarlo-piretti-for-anonima-for-sale-picture-13/f_92052/f_441355821742509363318/selects_03882_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:35:03.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Anonima Castelli, Giancarlo Piretti",
+            "caption": "1960s Italian “Plia” Blue Lucite Folding Chair by Giancarlo Piretti for Anonima For Sale 8",
+            "contentUrl": "https://a.1stdibscdn.com/1960s-italian-plia-blue-lucite-folding-chair-by-giancarlo-piretti-for-anonima-for-sale-picture-14/f_92052/f_441355821742509363408/selects_03885_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/1960s-italian-plia-blue-lucite-folding-chair-by-giancarlo-piretti-for-anonima-for-sale-picture-14/f_92052/f_441355821742509363408/selects_03885_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:35:03.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Anonima Castelli, Giancarlo Piretti",
+            "caption": "1960s Italian “Plia” Blue Lucite Folding Chair by Giancarlo Piretti for Anonima For Sale 9",
+            "contentUrl": "https://a.1stdibscdn.com/1960s-italian-plia-blue-lucite-folding-chair-by-giancarlo-piretti-for-anonima-for-sale-picture-15/f_92052/f_441355821742509364699/selects_03891_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/1960s-italian-plia-blue-lucite-folding-chair-by-giancarlo-piretti-for-anonima-for-sale-picture-15/f_92052/f_441355821742509364699/selects_03891_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:35:03.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Anonima Castelli, Giancarlo Piretti",
+            "caption": "1960s Italian “Plia” Blue Lucite Folding Chair by Giancarlo Piretti for Anonima For Sale 10",
+            "contentUrl": "https://a.1stdibscdn.com/1960s-italian-plia-blue-lucite-folding-chair-by-giancarlo-piretti-for-anonima-for-sale-picture-16/f_92052/f_441355821742509364743/selects_03893_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/1960s-italian-plia-blue-lucite-folding-chair-by-giancarlo-piretti-for-anonima-for-sale-picture-16/f_92052/f_441355821742509364743/selects_03893_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:35:03.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Anonima Castelli, Giancarlo Piretti",
+            "caption": "1960s Italian “Plia” Blue Lucite Folding Chair by Giancarlo Piretti for Anonima For Sale 11",
+            "contentUrl": "https://a.1stdibscdn.com/1960s-italian-plia-blue-lucite-folding-chair-by-giancarlo-piretti-for-anonima-for-sale-picture-17/f_92052/f_441355821742509364669/selects_03894_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/1960s-italian-plia-blue-lucite-folding-chair-by-giancarlo-piretti-for-anonima-for-sale-picture-17/f_92052/f_441355821742509364669/selects_03894_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:35:03.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Anonima Castelli, Giancarlo Piretti",
+            "caption": "1960s Italian “Plia” Blue Lucite Folding Chair by Giancarlo Piretti for Anonima For Sale 12",
+            "contentUrl": "https://a.1stdibscdn.com/1960s-italian-plia-blue-lucite-folding-chair-by-giancarlo-piretti-for-anonima-for-sale-picture-18/f_92052/f_441355821742509364710/selects_03904_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/1960s-italian-plia-blue-lucite-folding-chair-by-giancarlo-piretti-for-anonima-for-sale-picture-18/f_92052/f_441355821742509364710/selects_03904_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:35:03.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Anonima Castelli, Giancarlo Piretti",
+            "caption": "1960s Italian “Plia” Blue Lucite Folding Chair by Giancarlo Piretti for Anonima For Sale 13",
+            "contentUrl": "https://a.1stdibscdn.com/1960s-italian-plia-blue-lucite-folding-chair-by-giancarlo-piretti-for-anonima-for-sale-picture-19/f_92052/f_441355821742509364739/selects_03911_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/1960s-italian-plia-blue-lucite-folding-chair-by-giancarlo-piretti-for-anonima-for-sale-picture-19/f_92052/f_441355821742509364739/selects_03911_master.jpg?width=768",
+            "uploadDate": "2025-03-20T18:35:03.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/UsedCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/chairs/1960s-italian-plia-blue-lucite-folding-chair-giancarlo-piretti-anonima/id-f_44135582/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 487.79,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 270.49,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 6193.2,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 281.34,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 236.86,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 2110.73,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 300,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 441.36,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3102.04,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3234.83,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 5,
+          "reviewCount": 1
+        },
+        "productionDate": "1960-1969",
+        "category": "Chairs",
+        "brand": {
+          "@type": "Brand",
+          "name": "Anonima Castelli, Giancarlo Piretti"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Chairs",
+              "@id": "/furniture/seating/chairs/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

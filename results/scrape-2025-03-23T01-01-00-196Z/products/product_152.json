@@ -1,0 +1,387 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44128182",
+  "name": "Set of 4 postmodern wooden chairs, 1980s.",
+  "slug": "f_44128182",
+  "price": "CA$2,872.31",
+  "description": "f_44128182",
+  "image_url": "https://a.1stdibscdn.com/set-of-4-postmodern-wooden-chairs-1980s-for-sale/f_73982/f_441281821742476726179/f_44128182_1742476727013_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/chairs/set-of-4-postmodern-wooden-chairs-1980s/id-f_44128182/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 33.08 in (84 cm)",
+      "width": "Width: 18.9 in (48 cm)",
+      "depth": "Depth: 25.6 in (65 cm)",
+      "seatHeight": "Seat Height: 18.9 in (48 cm)"
+    },
+    "materials": [
+      "Metal",
+      "Wood",
+      "Metal",
+      "Wood"
+    ],
+    "period": "Late 20th Century",
+    "dateOfManufacture": "Circa 1980",
+    "condition": {
+      "rating": "Good",
+      "details": null
+    },
+    "sellerLocation": "PARIS, FR",
+    "referenceNumber": "Seller: LP5041-5044",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Set de 4 chaises de salle à manger empilables par D-Tec, design post-moderne style Memphis des années 1980. Structure en métal noir et assise en contreplaqué aux lignes géométriques. Son design épuré et intemporel allie fonctionnalité et esthétique.</span></div></div>",
+    "rawSpecificationsText": "Set de 4 chaises de salle à manger empilables par D-Tec, design post-moderne style Memphis des années 1980. Structure en métal noir et assise en contreplaqué aux lignes géométriques. Son design épuré et intemporel allie fonctionnalité et esthétique."
+  },
+  "raw_data": {
+    "productId": "f_44128182",
+    "slug": "f_44128182",
+    "url": "https://www.1stdibs.com/furniture/seating/chairs/set-of-4-postmodern-wooden-chairs-1980s/id-f_44128182/",
+    "name": "Set of 4 postmodern wooden chairs, 1980s.",
+    "price": "CA$2,872.31",
+    "imageUrl": "https://a.1stdibscdn.com/set-of-4-postmodern-wooden-chairs-1980s-for-sale/f_73982/f_441281821742476726179/f_44128182_1742476727013_bg_processed.jpg",
+    "description": "f_44128182",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 33.08 in (84 cm)",
+        "width": "Width: 18.9 in (48 cm)",
+        "depth": "Depth: 25.6 in (65 cm)",
+        "seatHeight": "Seat Height: 18.9 in (48 cm)"
+      },
+      "materials": [
+        "Metal",
+        "Wood",
+        "Metal",
+        "Wood"
+      ],
+      "period": "Late 20th Century",
+      "dateOfManufacture": "Circa 1980",
+      "condition": {
+        "rating": "Good",
+        "details": null
+      },
+      "sellerLocation": "PARIS, FR",
+      "referenceNumber": "Seller: LP5041-5044",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Set de 4 chaises de salle à manger empilables par D-Tec, design post-moderne style Memphis des années 1980. Structure en métal noir et assise en contreplaqué aux lignes géométriques. Son design épuré et intemporel allie fonctionnalité et esthétique.</span></div></div>",
+      "rawSpecificationsText": "Set de 4 chaises de salle à manger empilables par D-Tec, design post-moderne style Memphis des années 1980. Structure en métal noir et assise en contreplaqué aux lignes géométriques. Son design épuré et intemporel allie fonctionnalité et esthétique."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Set of 4 postmodern wooden chairs, 1980s.",
+        "description": "Set de 4 chaises de salle à manger empilables par D-Tec, design post-moderne style Memphis des années 1980. Structure en métal noir et assise en contreplaqué aux lignes géométriques. Son design épuré et intemporel allie fonctionnalité et esthétique.",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Set of 4 postmodern wooden chairs, 1980s. For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/set-of-4-postmodern-wooden-chairs-1980s-for-sale/f_73982/f_441281821742476726179/f_44128182_1742476727013_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/set-of-4-postmodern-wooden-chairs-1980s-for-sale/f_73982/f_441281821742476726179/f_44128182_1742476727013_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-20T09:26:06.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Set de 4 chaises de salle à manger empilables par D-Tec, design post-moderne style Memphis des années 1980. Structure en métal noir et assise en contreplaqué aux lignes géométriques. Son design épuré et intemporel allie fonctionnalité et esthétique.",
+            "contentUrl": "https://a.1stdibscdn.com/set-of-4-postmodern-wooden-chairs-1980s-for-sale-picture-2/f_73982/f_441281821742476769720/LP5041_1_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/set-of-4-postmodern-wooden-chairs-1980s-for-sale-picture-2/f_73982/f_441281821742476769720/LP5041_1_master.jpg?width=768",
+            "uploadDate": "2025-03-20T09:26:06.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Set of 4 postmodern wooden chairs, 1980s. In Good Condition For Sale In PARIS, FR",
+            "contentUrl": "https://a.1stdibscdn.com/set-of-4-postmodern-wooden-chairs-1980s-for-sale-picture-3/f_73982/f_441281821742476769569/LP5041_2_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/set-of-4-postmodern-wooden-chairs-1980s-for-sale-picture-3/f_73982/f_441281821742476769569/LP5041_2_master.jpg?width=768",
+            "uploadDate": "2025-03-20T09:26:06.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "20th Century Set of 4 postmodern wooden chairs, 1980s. For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/set-of-4-postmodern-wooden-chairs-1980s-for-sale-picture-4/f_73982/f_441281821742476769462/LP5041_3_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/set-of-4-postmodern-wooden-chairs-1980s-for-sale-picture-4/f_73982/f_441281821742476769462/LP5041_3_master.jpg?width=768",
+            "uploadDate": "2025-03-20T09:26:06.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Metal Set of 4 postmodern wooden chairs, 1980s. For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/set-of-4-postmodern-wooden-chairs-1980s-for-sale-picture-5/f_73982/f_441281821742476769784/LP5041_4_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/set-of-4-postmodern-wooden-chairs-1980s-for-sale-picture-5/f_73982/f_441281821742476769784/LP5041_4_master.jpg?width=768",
+            "uploadDate": "2025-03-20T09:26:06.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Set of 4 postmodern wooden chairs, 1980s. For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/set-of-4-postmodern-wooden-chairs-1980s-for-sale-picture-6/f_73982/f_441281821742476769769/LP5041_5_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/set-of-4-postmodern-wooden-chairs-1980s-for-sale-picture-6/f_73982/f_441281821742476769769/LP5041_5_master.jpg?width=768",
+            "uploadDate": "2025-03-20T09:26:06.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Set of 4 postmodern wooden chairs, 1980s. For Sale 2",
+            "contentUrl": "https://a.1stdibscdn.com/set-of-4-postmodern-wooden-chairs-1980s-for-sale-picture-7/f_73982/f_441281821742476769773/LP5041_6_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/set-of-4-postmodern-wooden-chairs-1980s-for-sale-picture-7/f_73982/f_441281821742476769773/LP5041_6_master.jpg?width=768",
+            "uploadDate": "2025-03-20T09:26:06.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Set of 4 postmodern wooden chairs, 1980s. For Sale 3",
+            "contentUrl": "https://a.1stdibscdn.com/set-of-4-postmodern-wooden-chairs-1980s-for-sale-picture-8/f_73982/f_441281821742476771778/LP5041_7_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/set-of-4-postmodern-wooden-chairs-1980s-for-sale-picture-8/f_73982/f_441281821742476771778/LP5041_7_master.jpg?width=768",
+            "uploadDate": "2025-03-20T09:26:06.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Set of 4 postmodern wooden chairs, 1980s. For Sale 4",
+            "contentUrl": "https://a.1stdibscdn.com/set-of-4-postmodern-wooden-chairs-1980s-for-sale-picture-9/f_73982/f_441281821742476771757/LP5041_8_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/set-of-4-postmodern-wooden-chairs-1980s-for-sale-picture-9/f_73982/f_441281821742476771757/LP5041_8_master.jpg?width=768",
+            "uploadDate": "2025-03-20T09:26:06.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Set of 4 postmodern wooden chairs, 1980s. For Sale 5",
+            "contentUrl": "https://a.1stdibscdn.com/set-of-4-postmodern-wooden-chairs-1980s-for-sale-picture-10/f_73982/f_441281821742476771777/LP5041_9_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/set-of-4-postmodern-wooden-chairs-1980s-for-sale-picture-10/f_73982/f_441281821742476771777/LP5041_9_master.jpg?width=768",
+            "uploadDate": "2025-03-20T09:26:06.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Set of 4 postmodern wooden chairs, 1980s. For Sale 6",
+            "contentUrl": "https://a.1stdibscdn.com/set-of-4-postmodern-wooden-chairs-1980s-for-sale-picture-11/f_73982/f_441281821742476771455/LP5041_10_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/set-of-4-postmodern-wooden-chairs-1980s-for-sale-picture-11/f_73982/f_441281821742476771455/LP5041_10_master.jpg?width=768",
+            "uploadDate": "2025-03-20T09:26:06.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Set of 4 postmodern wooden chairs, 1980s. For Sale 7",
+            "contentUrl": "https://a.1stdibscdn.com/set-of-4-postmodern-wooden-chairs-1980s-for-sale-picture-12/f_73982/f_441281821742476772184/LP5041_11_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/set-of-4-postmodern-wooden-chairs-1980s-for-sale-picture-12/f_73982/f_441281821742476772184/LP5041_11_master.jpg?width=768",
+            "uploadDate": "2025-03-20T09:26:06.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Set of 4 postmodern wooden chairs, 1980s. For Sale 8",
+            "contentUrl": "https://a.1stdibscdn.com/set-of-4-postmodern-wooden-chairs-1980s-for-sale-picture-13/f_73982/f_441281821742476771806/LP5041_12_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/set-of-4-postmodern-wooden-chairs-1980s-for-sale-picture-13/f_73982/f_441281821742476771806/LP5041_12_master.jpg?width=768",
+            "uploadDate": "2025-03-20T09:26:06.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Set of 4 postmodern wooden chairs, 1980s. For Sale 9",
+            "contentUrl": "https://a.1stdibscdn.com/set-of-4-postmodern-wooden-chairs-1980s-for-sale-picture-14/f_73982/f_441281821742476772143/LP5041_14_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/set-of-4-postmodern-wooden-chairs-1980s-for-sale-picture-14/f_73982/f_441281821742476772143/LP5041_14_master.jpg?width=768",
+            "uploadDate": "2025-03-20T09:26:06.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Set of 4 postmodern wooden chairs, 1980s. For Sale 10",
+            "contentUrl": "https://a.1stdibscdn.com/set-of-4-postmodern-wooden-chairs-1980s-for-sale-picture-15/f_73982/f_441281821742476771963/LP5041_15_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/set-of-4-postmodern-wooden-chairs-1980s-for-sale-picture-15/f_73982/f_441281821742476771963/LP5041_15_master.jpg?width=768",
+            "uploadDate": "2025-03-20T09:26:06.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Set of 4 postmodern wooden chairs, 1980s. For Sale 11",
+            "contentUrl": "https://a.1stdibscdn.com/set-of-4-postmodern-wooden-chairs-1980s-for-sale-picture-16/f_73982/f_441281821742476772178/LP5041_16_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/set-of-4-postmodern-wooden-chairs-1980s-for-sale-picture-16/f_73982/f_441281821742476772178/LP5041_16_master.jpg?width=768",
+            "uploadDate": "2025-03-20T09:26:06.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Set of 4 postmodern wooden chairs, 1980s. For Sale 12",
+            "contentUrl": "https://a.1stdibscdn.com/set-of-4-postmodern-wooden-chairs-1980s-for-sale-picture-17/f_73982/f_441281821742476771599/LP5041_17_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/set-of-4-postmodern-wooden-chairs-1980s-for-sale-picture-17/f_73982/f_441281821742476771599/LP5041_17_master.jpg?width=768",
+            "uploadDate": "2025-03-20T09:26:06.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Set of 4 postmodern wooden chairs, 1980s. For Sale 13",
+            "contentUrl": "https://a.1stdibscdn.com/set-of-4-postmodern-wooden-chairs-1980s-for-sale-picture-18/f_73982/f_441281821742476896302/LP5041_20_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/set-of-4-postmodern-wooden-chairs-1980s-for-sale-picture-18/f_73982/f_441281821742476896302/LP5041_20_master.jpg?width=768",
+            "uploadDate": "2025-03-20T09:26:06.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Set of 4 postmodern wooden chairs, 1980s. For Sale 14",
+            "contentUrl": "https://a.1stdibscdn.com/set-of-4-postmodern-wooden-chairs-1980s-for-sale-picture-19/f_73982/f_441281821742476896300/LP5041_21_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/set-of-4-postmodern-wooden-chairs-1980s-for-sale-picture-19/f_73982/f_441281821742476896300/LP5041_21_master.jpg?width=768",
+            "uploadDate": "2025-03-20T09:26:06.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Set of 4 postmodern wooden chairs, 1980s. For Sale 15",
+            "contentUrl": "https://a.1stdibscdn.com/set-of-4-postmodern-wooden-chairs-1980s-for-sale-picture-20/f_73982/f_441281821742476896226/LP5041_22_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/set-of-4-postmodern-wooden-chairs-1980s-for-sale-picture-20/f_73982/f_441281821742476896226/LP5041_22_master.jpg?width=768",
+            "uploadDate": "2025-03-20T09:26:06.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/UsedCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/chairs/set-of-4-postmodern-wooden-chairs-1980s/id-f_44128182/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1760.34,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3174.5,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 40304.49,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1795,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1541.46,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 13736.33,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1991.41,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 2872.31,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 20187.66,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 21051.86,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 5,
+          "reviewCount": 2
+        },
+        "productionDate": "Late 20th Century",
+        "category": "Chairs"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Chairs",
+              "@id": "/furniture/seating/chairs/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

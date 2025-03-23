@@ -1,0 +1,301 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44132002",
+  "name": "Josep Lluscà for Cassina Cos MCM Italian Leather Dining Chairs - Set of 6",
+  "slug": "f_44132002",
+  "price": "CA$13,380.54",
+  "description": "f_44132002",
+  "image_url": "https://a.1stdibscdn.com/josep-llusca-for-cassina-cos-mcm-italian-leather-dining-chairs-set-of-6-for-sale/f_54082/f_441320021742489129169/f_44132002_1742489129341_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/dining-room-chairs/josep-llusca-cassina-cos-mcm-italian-leather-dining-chairs-set-of-6/id-f_44132002/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 32.25 in (81.92 cm)",
+      "width": "Width: 18 in (45.72 cm)",
+      "depth": "Depth: 22 in (55.88 cm)",
+      "seatHeight": "Seat Height: 18.5 in (46.99 cm)"
+    },
+    "style": "Mid-Century Modern (Of the Period)",
+    "materials": [
+      "Leather",
+      "Leather"
+    ],
+    "origin": "Italy",
+    "period": "1970-1979",
+    "dateOfManufacture": "Unknown",
+    "condition": {
+      "rating": "Good",
+      "details": "Wear consistent with age and use."
+    },
+    "sellerLocation": "Countryside, IL",
+    "referenceNumber": "Seller: 2025-0354",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Josep Lluscà for Cassina Cos Mid Century Italian Leather Dining Chairs - Set of 6\n\nEach chair measures: 18 wide x 22 deep x 32.25 inches high, with a seat height/chair clearance of 18.5 inches\n\nAll pieces of furniture can be had in what we call restored vintage condition. That means the piece is restored upon purchase so it’s free of watermarks, chips or deep scratches with color loss - all of this is done at no additional cost to you, but it will take a bit longer to ship if you choose to have it restored.</span></div></div>",
+    "rawSpecificationsText": "Josep Lluscà for Cassina Cos Mid Century Italian Leather Dining Chairs - Set of 6\n\nEach chair measures: 18 wide x 22 deep x 32.25 inches high, with a seat height/chair clearance of 18.5 inches\n\nAll pieces of furniture can be had in what we call restored vintage condition. That means the piece is restored upon purchase so it’s free of watermarks, chips or deep scratches with color loss - all of this is done at no additional cost to you, but it will take a bit longer to ship if you choose to have it restored."
+  },
+  "raw_data": {
+    "productId": "f_44132002",
+    "slug": "f_44132002",
+    "url": "https://www.1stdibs.com/furniture/seating/dining-room-chairs/josep-llusca-cassina-cos-mcm-italian-leather-dining-chairs-set-of-6/id-f_44132002/",
+    "name": "Josep Lluscà for Cassina Cos MCM Italian Leather Dining Chairs - Set of 6",
+    "price": "CA$13,380.54",
+    "imageUrl": "https://a.1stdibscdn.com/josep-llusca-for-cassina-cos-mcm-italian-leather-dining-chairs-set-of-6-for-sale/f_54082/f_441320021742489129169/f_44132002_1742489129341_bg_processed.jpg",
+    "description": "f_44132002",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 32.25 in (81.92 cm)",
+        "width": "Width: 18 in (45.72 cm)",
+        "depth": "Depth: 22 in (55.88 cm)",
+        "seatHeight": "Seat Height: 18.5 in (46.99 cm)"
+      },
+      "style": "Mid-Century Modern (Of the Period)",
+      "materials": [
+        "Leather",
+        "Leather"
+      ],
+      "origin": "Italy",
+      "period": "1970-1979",
+      "dateOfManufacture": "Unknown",
+      "condition": {
+        "rating": "Good",
+        "details": "Wear consistent with age and use."
+      },
+      "sellerLocation": "Countryside, IL",
+      "referenceNumber": "Seller: 2025-0354",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Josep Lluscà for Cassina Cos Mid Century Italian Leather Dining Chairs - Set of 6\n\nEach chair measures: 18 wide x 22 deep x 32.25 inches high, with a seat height/chair clearance of 18.5 inches\n\nAll pieces of furniture can be had in what we call restored vintage condition. That means the piece is restored upon purchase so it’s free of watermarks, chips or deep scratches with color loss - all of this is done at no additional cost to you, but it will take a bit longer to ship if you choose to have it restored.</span></div></div>",
+      "rawSpecificationsText": "Josep Lluscà for Cassina Cos Mid Century Italian Leather Dining Chairs - Set of 6\n\nEach chair measures: 18 wide x 22 deep x 32.25 inches high, with a seat height/chair clearance of 18.5 inches\n\nAll pieces of furniture can be had in what we call restored vintage condition. That means the piece is restored upon purchase so it’s free of watermarks, chips or deep scratches with color loss - all of this is done at no additional cost to you, but it will take a bit longer to ship if you choose to have it restored."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Josep Lluscà for Cassina Cos MCM Italian Leather Dining Chairs - Set of 6",
+        "description": "Josep Lluscà for Cassina Cos Mid Century Italian Leather Dining Chairs - Set of 6\n\nEach chair measures: 18 wide x 22 deep x 32.25 inches high, with a seat height/chair clearance of 18.5 inches\n\nAll pieces of furniture can be had in what we call restored vintage condition. That means the piece is restored upon purchase so it’s free of watermarks, chips or deep scratches with color loss - all of this is done at no additional cost to you, but it will take a bit longer to ship if you choose to have it restored.",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Cassina, Josep Llusca",
+            "caption": "Josep Lluscà for Cassina Cos MCM Italian Leather Dining Chairs - Set of 6 For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/josep-llusca-for-cassina-cos-mcm-italian-leather-dining-chairs-set-of-6-for-sale/f_54082/f_441320021742489129169/f_44132002_1742489129341_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/josep-llusca-for-cassina-cos-mcm-italian-leather-dining-chairs-set-of-6-for-sale/f_54082/f_441320021742489129169/f_44132002_1742489129341_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-20T12:48:48.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Cassina, Josep Llusca",
+            "caption": "Josep Lluscà for Cassina Cos Mid Century Italian Leather Dining Chairs - Set of 6\n\nEach chair measures: 18 wide x 22 deep x 32.25 inches high, with a seat height/chair clearance of 18.5 inches\n\nAll pieces of furniture can be had in what we call",
+            "contentUrl": "https://a.1stdibscdn.com/josep-llusca-for-cassina-cos-mcm-italian-leather-dining-chairs-set-of-6-for-sale-picture-2/f_54082/f_441320021742489145158/Josep_Llusca_for_Cassina_Cos_Mid_Century_Italian_Leather_Dining_Chairs_Set_of_6_1_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/josep-llusca-for-cassina-cos-mcm-italian-leather-dining-chairs-set-of-6-for-sale-picture-2/f_54082/f_441320021742489145158/Josep_Llusca_for_Cassina_Cos_Mid_Century_Italian_Leather_Dining_Chairs_Set_of_6_1_master.jpg?width=768",
+            "uploadDate": "2025-03-20T12:48:48.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Cassina, Josep Llusca",
+            "caption": "Mid-Century Modern Josep Lluscà for Cassina Cos MCM Italian Leather Dining Chairs - Set of 6 For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/josep-llusca-for-cassina-cos-mcm-italian-leather-dining-chairs-set-of-6-for-sale-picture-3/f_54082/f_441320021742489148546/Josep_Llusca_for_Cassina_Cos_Mid_Century_Italian_Leather_Dining_Chairs_Set_of_6_3_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/josep-llusca-for-cassina-cos-mcm-italian-leather-dining-chairs-set-of-6-for-sale-picture-3/f_54082/f_441320021742489148546/Josep_Llusca_for_Cassina_Cos_Mid_Century_Italian_Leather_Dining_Chairs_Set_of_6_3_master.jpg?width=768",
+            "uploadDate": "2025-03-20T12:48:48.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Cassina, Josep Llusca",
+            "caption": "Josep Lluscà for Cassina Cos MCM Italian Leather Dining Chairs - Set of 6 In Good Condition For Sale In Countryside, IL",
+            "contentUrl": "https://a.1stdibscdn.com/josep-llusca-for-cassina-cos-mcm-italian-leather-dining-chairs-set-of-6-for-sale-picture-4/f_54082/f_441320021742489148544/Josep_Llusca_for_Cassina_Cos_Mid_Century_Italian_Leather_Dining_Chairs_Set_of_6_11_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/josep-llusca-for-cassina-cos-mcm-italian-leather-dining-chairs-set-of-6-for-sale-picture-4/f_54082/f_441320021742489148544/Josep_Llusca_for_Cassina_Cos_Mid_Century_Italian_Leather_Dining_Chairs_Set_of_6_11_master.jpg?width=768",
+            "uploadDate": "2025-03-20T12:48:48.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Cassina, Josep Llusca",
+            "caption": "Late 20th Century Josep Lluscà for Cassina Cos MCM Italian Leather Dining Chairs - Set of 6 For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/josep-llusca-for-cassina-cos-mcm-italian-leather-dining-chairs-set-of-6-for-sale-picture-5/f_54082/f_441320021742489147342/Josep_Llusca_for_Cassina_Cos_Mid_Century_Italian_Leather_Dining_Chairs_Set_of_6_10_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/josep-llusca-for-cassina-cos-mcm-italian-leather-dining-chairs-set-of-6-for-sale-picture-5/f_54082/f_441320021742489147342/Josep_Llusca_for_Cassina_Cos_Mid_Century_Italian_Leather_Dining_Chairs_Set_of_6_10_master.jpg?width=768",
+            "uploadDate": "2025-03-20T12:48:48.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Cassina, Josep Llusca",
+            "caption": "Josep Lluscà for Cassina Cos MCM Italian Leather Dining Chairs - Set of 6 For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/josep-llusca-for-cassina-cos-mcm-italian-leather-dining-chairs-set-of-6-for-sale-picture-6/f_54082/f_441320021742489148544/Josep_Llusca_for_Cassina_Cos_Mid_Century_Italian_Leather_Dining_Chairs_Set_of_6_12_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/josep-llusca-for-cassina-cos-mcm-italian-leather-dining-chairs-set-of-6-for-sale-picture-6/f_54082/f_441320021742489148544/Josep_Llusca_for_Cassina_Cos_Mid_Century_Italian_Leather_Dining_Chairs_Set_of_6_12_master.jpg?width=768",
+            "uploadDate": "2025-03-20T12:48:48.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Cassina, Josep Llusca",
+            "caption": "Josep Lluscà for Cassina Cos MCM Italian Leather Dining Chairs - Set of 6 For Sale 2",
+            "contentUrl": "https://a.1stdibscdn.com/josep-llusca-for-cassina-cos-mcm-italian-leather-dining-chairs-set-of-6-for-sale-picture-7/f_54082/f_441320021742489147912/Josep_Llusca_for_Cassina_Cos_Mid_Century_Italian_Leather_Dining_Chairs_Set_of_6_13_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/josep-llusca-for-cassina-cos-mcm-italian-leather-dining-chairs-set-of-6-for-sale-picture-7/f_54082/f_441320021742489147912/Josep_Llusca_for_Cassina_Cos_Mid_Century_Italian_Leather_Dining_Chairs_Set_of_6_13_master.jpg?width=768",
+            "uploadDate": "2025-03-20T12:48:48.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Cassina, Josep Llusca",
+            "caption": "Josep Lluscà for Cassina Cos MCM Italian Leather Dining Chairs - Set of 6 For Sale 3",
+            "contentUrl": "https://a.1stdibscdn.com/josep-llusca-for-cassina-cos-mcm-italian-leather-dining-chairs-set-of-6-for-sale-picture-8/f_54082/f_441320021742489148547/Josep_Llusca_for_Cassina_Cos_Mid_Century_Italian_Leather_Dining_Chairs_Set_of_6_14_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/josep-llusca-for-cassina-cos-mcm-italian-leather-dining-chairs-set-of-6-for-sale-picture-8/f_54082/f_441320021742489148547/Josep_Llusca_for_Cassina_Cos_Mid_Century_Italian_Leather_Dining_Chairs_Set_of_6_14_master.jpg?width=768",
+            "uploadDate": "2025-03-20T12:48:48.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Cassina, Josep Llusca",
+            "caption": "Josep Lluscà for Cassina Cos MCM Italian Leather Dining Chairs - Set of 6 For Sale 4",
+            "contentUrl": "https://a.1stdibscdn.com/josep-llusca-for-cassina-cos-mcm-italian-leather-dining-chairs-set-of-6-for-sale-picture-9/f_54082/f_441320021742489148569/Josep_Llusca_for_Cassina_Cos_Mid_Century_Italian_Leather_Dining_Chairs_Set_of_6_15_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/josep-llusca-for-cassina-cos-mcm-italian-leather-dining-chairs-set-of-6-for-sale-picture-9/f_54082/f_441320021742489148569/Josep_Llusca_for_Cassina_Cos_Mid_Century_Italian_Leather_Dining_Chairs_Set_of_6_15_master.jpg?width=768",
+            "uploadDate": "2025-03-20T12:48:48.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Cassina, Josep Llusca",
+            "caption": "Josep Lluscà for Cassina Cos MCM Italian Leather Dining Chairs - Set of 6 For Sale 5",
+            "contentUrl": "https://a.1stdibscdn.com/josep-llusca-for-cassina-cos-mcm-italian-leather-dining-chairs-set-of-6-for-sale-picture-10/f_54082/f_441320021742489148659/Josep_Llusca_for_Cassina_Cos_Mid_Century_Italian_Leather_Dining_Chairs_Set_of_6_16_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/josep-llusca-for-cassina-cos-mcm-italian-leather-dining-chairs-set-of-6-for-sale-picture-10/f_54082/f_441320021742489148659/Josep_Llusca_for_Cassina_Cos_Mid_Century_Italian_Leather_Dining_Chairs_Set_of_6_16_master.jpg?width=768",
+            "uploadDate": "2025-03-20T12:48:48.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Cassina, Josep Llusca",
+            "caption": "Josep Lluscà for Cassina Cos MCM Italian Leather Dining Chairs - Set of 6 For Sale 6",
+            "contentUrl": "https://a.1stdibscdn.com/josep-llusca-for-cassina-cos-mcm-italian-leather-dining-chairs-set-of-6-for-sale-picture-11/f_54082/f_441320021742489149200/Josep_Llusca_for_Cassina_Cos_Mid_Century_Italian_Leather_Dining_Chairs_Set_of_6_17_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/josep-llusca-for-cassina-cos-mcm-italian-leather-dining-chairs-set-of-6-for-sale-picture-11/f_54082/f_441320021742489149200/Josep_Llusca_for_Cassina_Cos_Mid_Century_Italian_Leather_Dining_Chairs_Set_of_6_17_master.jpg?width=768",
+            "uploadDate": "2025-03-20T12:48:48.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/UsedCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/dining-room-chairs/josep-llusca-cassina-cos-mcm-italian-leather-dining-chairs-set-of-6/id-f_44132002/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 8200.49,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 14788.31,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 187757.03,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 8529.18,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 7180.82,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 63990.2,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 9095,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 13380.54,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 94043.51,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 98069.31,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 4.8,
+          "reviewCount": 40
+        },
+        "productionDate": "1970-1979",
+        "category": "Dining Room Chairs",
+        "brand": {
+          "@type": "Brand",
+          "name": "Cassina, Josep Llusca"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Dining Room Chairs",
+              "@id": "/furniture/seating/dining-room-chairs/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44097722",
+  "name": "Pouf in vimini di Tito Agnoli per Bonacina, 1960s, set di 2",
+  "slug": "f_44097722",
+  "price": "CA$2,560.27",
+  "description": "f_44097722",
+  "image_url": "https://a.1stdibscdn.com/pouf-in-vimini-di-tito-agnoli-per-bonacina-1960s-set-di-2-for-sale/f_78602/f_440977221742305431459/f_44097722_1742305432583_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/ottomans-poufs/pouf-vimini-di-tito-agnoli-per-bonacina-1960s-set-di-2/id-f_44097722/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 15.75 in (40 cm)"
+    },
+    "materials": [
+      "Rattan",
+      "Rush",
+      "Wicker",
+      "Rattan",
+      "Rush",
+      "Wicker"
+    ],
+    "period": "1960-1969",
+    "dateOfManufacture": "1960s",
+    "condition": {
+      "rating": "Good",
+      "details": null
+    },
+    "sellerLocation": "Quarrata, IT",
+    "referenceNumber": "1stDibs: LU7860244097722",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Pouf in vimini, realizzati a mano, disegnati da Tito Agnoli per Bonacina negli anni ‘60.</span></div></div>",
+    "rawSpecificationsText": "Pouf in vimini, realizzati a mano, disegnati da Tito Agnoli per Bonacina negli anni ‘60."
+  },
+  "raw_data": {
+    "productId": "f_44097722",
+    "slug": "f_44097722",
+    "url": "https://www.1stdibs.com/furniture/seating/ottomans-poufs/pouf-vimini-di-tito-agnoli-per-bonacina-1960s-set-di-2/id-f_44097722/",
+    "name": "Pouf in vimini di Tito Agnoli per Bonacina, 1960s, set di 2",
+    "price": "CA$2,560.27",
+    "imageUrl": "https://a.1stdibscdn.com/pouf-in-vimini-di-tito-agnoli-per-bonacina-1960s-set-di-2-for-sale/f_78602/f_440977221742305431459/f_44097722_1742305432583_bg_processed.jpg",
+    "description": "f_44097722",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 15.75 in (40 cm)"
+      },
+      "materials": [
+        "Rattan",
+        "Rush",
+        "Wicker",
+        "Rattan",
+        "Rush",
+        "Wicker"
+      ],
+      "period": "1960-1969",
+      "dateOfManufacture": "1960s",
+      "condition": {
+        "rating": "Good",
+        "details": null
+      },
+      "sellerLocation": "Quarrata, IT",
+      "referenceNumber": "1stDibs: LU7860244097722",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Pouf in vimini, realizzati a mano, disegnati da Tito Agnoli per Bonacina negli anni ‘60.</span></div></div>",
+      "rawSpecificationsText": "Pouf in vimini, realizzati a mano, disegnati da Tito Agnoli per Bonacina negli anni ‘60."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Pouf in vimini di Tito Agnoli per Bonacina, 1960s, set di 2",
+        "description": "Pouf in vimini, realizzati a mano, disegnati da Tito Agnoli per Bonacina negli anni ‘60.",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Pouf in vimini di Tito Agnoli per Bonacina, 1960s, set di 2 For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/pouf-in-vimini-di-tito-agnoli-per-bonacina-1960s-set-di-2-for-sale/f_78602/f_440977221742305431459/f_44097722_1742305432583_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/pouf-in-vimini-di-tito-agnoli-per-bonacina-1960s-set-di-2-for-sale/f_78602/f_440977221742305431459/f_44097722_1742305432583_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-18T09:46:33.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Pouf in vimini, realizzati a mano, disegnati da Tito Agnoli per Bonacina negli anni ‘60.",
+            "contentUrl": "https://a.1stdibscdn.com/pouf-in-vimini-di-tito-agnoli-per-bonacina-1960s-set-di-2-for-sale-picture-2/f_78602/f_440977221742305511661/IMG_0289_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/pouf-in-vimini-di-tito-agnoli-per-bonacina-1960s-set-di-2-for-sale-picture-2/f_78602/f_440977221742305511661/IMG_0289_master.jpeg?width=768",
+            "uploadDate": "2025-03-18T09:46:33.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Pouf in vimini di Tito Agnoli per Bonacina, 1960s, set di 2 In Good Condition For Sale In Quarrata, IT",
+            "contentUrl": "https://a.1stdibscdn.com/pouf-in-vimini-di-tito-agnoli-per-bonacina-1960s-set-di-2-for-sale-picture-3/f_78602/f_440977221742305512816/tempImagewIAoQG_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/pouf-in-vimini-di-tito-agnoli-per-bonacina-1960s-set-di-2-for-sale-picture-3/f_78602/f_440977221742305512816/tempImagewIAoQG_master.jpg?width=768",
+            "uploadDate": "2025-03-18T09:46:33.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Mid-20th Century Pouf in vimini di Tito Agnoli per Bonacina, 1960s, set di 2 For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/pouf-in-vimini-di-tito-agnoli-per-bonacina-1960s-set-di-2-for-sale-picture-4/f_78602/f_440977221742305513293/tempImageOhBxOR_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/pouf-in-vimini-di-tito-agnoli-per-bonacina-1960s-set-di-2-for-sale-picture-4/f_78602/f_440977221742305513293/tempImageOhBxOR_master.jpg?width=768",
+            "uploadDate": "2025-03-18T09:46:33.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/UsedCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/ottomans-poufs/pouf-vimini-di-tito-agnoli-per-bonacina-1960s-set-di-2/id-f_44097722/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1569.11,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 2829.64,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 35926.01,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1600,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1374,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 12244.08,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1775.07,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 2560.27,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 17994.58,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 18764.88,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "productionDate": "1960-1969",
+        "category": "Ottomans and Poufs"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Ottomans and Poufs",
+              "@id": "/furniture/seating/ottomans-poufs/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

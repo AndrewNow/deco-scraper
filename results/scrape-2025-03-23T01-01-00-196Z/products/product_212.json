@@ -1,0 +1,257 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44094962",
+  "name": "Black with Multicolor Patchwork Limited Edition Bench by Lorenza Bozzoli Couture",
+  "slug": "f_44094962",
+  "price": "CA$10,857.43",
+  "description": "f_44094962",
+  "image_url": "https://a.1stdibscdn.com/black-with-multicolor-patchwork-limited-edition-bench-by-lorenza-bozzoli-couture-for-sale/f_17062/f_440949621742290841324/f_44094962_1742290841932_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/benches/black-multicolor-patchwork-limited-edition-bench-lorenza-bozzoli-couture/id-f_44094962/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 18.12 in (46 cm)",
+      "width": "Width: 33.47 in (85 cm)",
+      "depth": "Depth: 15.75 in (40 cm)"
+    },
+    "materials": [
+      "Leather",
+      "Leather"
+    ],
+    "origin": "Italy",
+    "period": "2010-",
+    "dateOfManufacture": "contemporary",
+    "condition": {
+      "rating": "New",
+      "details": null
+    },
+    "sellerLocation": "Milan, IT",
+    "referenceNumber": "Seller: LOREMI-289",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">This luxurious black mink fur bench features a stunning multicolor patchwork of flamed mink fur inserts, offering a warm and ultra-soft seating experience. The vibrant multicolor fringes add a bold touch, while the sleek black base color enhances its elegance. Crafted with a sturdy beech wood structure and legs, this piece is a true statement of craftsmanship and design. Limited edition of 3 pieces.</span></div></div>",
+    "rawSpecificationsText": "This luxurious black mink fur bench features a stunning multicolor patchwork of flamed mink fur inserts, offering a warm and ultra-soft seating experience. The vibrant multicolor fringes add a bold touch, while the sleek black base color enhances its elegance. Crafted with a sturdy beech wood structure and legs, this piece is a true statement of craftsmanship and design. Limited edition of 3 pieces."
+  },
+  "raw_data": {
+    "productId": "f_44094962",
+    "slug": "f_44094962",
+    "url": "https://www.1stdibs.com/furniture/seating/benches/black-multicolor-patchwork-limited-edition-bench-lorenza-bozzoli-couture/id-f_44094962/",
+    "name": "Black with Multicolor Patchwork Limited Edition Bench by Lorenza Bozzoli Couture",
+    "price": "CA$10,857.43",
+    "imageUrl": "https://a.1stdibscdn.com/black-with-multicolor-patchwork-limited-edition-bench-by-lorenza-bozzoli-couture-for-sale/f_17062/f_440949621742290841324/f_44094962_1742290841932_bg_processed.jpg",
+    "description": "f_44094962",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 18.12 in (46 cm)",
+        "width": "Width: 33.47 in (85 cm)",
+        "depth": "Depth: 15.75 in (40 cm)"
+      },
+      "materials": [
+        "Leather",
+        "Leather"
+      ],
+      "origin": "Italy",
+      "period": "2010-",
+      "dateOfManufacture": "contemporary",
+      "condition": {
+        "rating": "New",
+        "details": null
+      },
+      "sellerLocation": "Milan, IT",
+      "referenceNumber": "Seller: LOREMI-289",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">This luxurious black mink fur bench features a stunning multicolor patchwork of flamed mink fur inserts, offering a warm and ultra-soft seating experience. The vibrant multicolor fringes add a bold touch, while the sleek black base color enhances its elegance. Crafted with a sturdy beech wood structure and legs, this piece is a true statement of craftsmanship and design. Limited edition of 3 pieces.</span></div></div>",
+      "rawSpecificationsText": "This luxurious black mink fur bench features a stunning multicolor patchwork of flamed mink fur inserts, offering a warm and ultra-soft seating experience. The vibrant multicolor fringes add a bold touch, while the sleek black base color enhances its elegance. Crafted with a sturdy beech wood structure and legs, this piece is a true statement of craftsmanship and design. Limited edition of 3 pieces."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Black with Multicolor Patchwork Limited Edition Bench by Lorenza Bozzoli Couture",
+        "description": "This luxurious black mink fur bench features a stunning multicolor patchwork of flamed mink fur inserts, offering a warm and ultra-soft seating experience. The vibrant multicolor fringes add a bold touch, while the sleek black base color enhances its elegance. Crafted with a sturdy beech wood structure and legs, this piece is a true statement of craftsmanship and design. Limited edition of 3 pieces.",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Lorenza Bozzoli",
+            "caption": "Black with Multicolor Patchwork Limited Edition Bench by Lorenza Bozzoli Couture For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/black-with-multicolor-patchwork-limited-edition-bench-by-lorenza-bozzoli-couture-for-sale/f_17062/f_440949621742290841324/f_44094962_1742290841932_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/black-with-multicolor-patchwork-limited-edition-bench-by-lorenza-bozzoli-couture-for-sale/f_17062/f_440949621742290841324/f_44094962_1742290841932_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-18T05:44:26.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Lorenza Bozzoli",
+            "caption": "This luxurious black mink fur bench features a stunning multicolor patchwork of flamed mink fur inserts, offering a warm and ultra-soft seating experience. The vibrant multicolor fringes add a bold touch, while the sleek black base color enhances",
+            "contentUrl": "https://a.1stdibscdn.com/black-with-multicolor-patchwork-limited-edition-bench-by-lorenza-bozzoli-couture-for-sale-picture-2/f_17062/f_440949621742290855347/1732869063742_MATENY_0000_FUR_202_0_Lorenza_20Bozzoli_20Couture_205_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/black-with-multicolor-patchwork-limited-edition-bench-by-lorenza-bozzoli-couture-for-sale-picture-2/f_17062/f_440949621742290855347/1732869063742_MATENY_0000_FUR_202_0_Lorenza_20Bozzoli_20Couture_205_master.jpg?width=768",
+            "uploadDate": "2025-03-18T05:44:26.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Lorenza Bozzoli",
+            "caption": "Italian Black with Multicolor Patchwork Limited Edition Bench by Lorenza Bozzoli Couture For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/black-with-multicolor-patchwork-limited-edition-bench-by-lorenza-bozzoli-couture-for-sale-picture-3/f_17062/f_440949621742290855448/1732869063431_MATENY_0001_FUR_202_0_2_Lorenza_20Bozzoli_20Couture_204_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/black-with-multicolor-patchwork-limited-edition-bench-by-lorenza-bozzoli-couture-for-sale-picture-3/f_17062/f_440949621742290855448/1732869063431_MATENY_0001_FUR_202_0_2_Lorenza_20Bozzoli_20Couture_204_master.jpg?width=768",
+            "uploadDate": "2025-03-18T05:44:26.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Lorenza Bozzoli",
+            "caption": "Black with Multicolor Patchwork Limited Edition Bench by Lorenza Bozzoli Couture In New Condition For Sale In Milan, IT",
+            "contentUrl": "https://a.1stdibscdn.com/black-with-multicolor-patchwork-limited-edition-bench-by-lorenza-bozzoli-couture-for-sale-picture-4/f_17062/f_440949621742290855464/1732868997811_MATENY_0000_0000_FUR_202_0_1_Lorenza_20Bozzoli_20Couture_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/black-with-multicolor-patchwork-limited-edition-bench-by-lorenza-bozzoli-couture-for-sale-picture-4/f_17062/f_440949621742290855464/1732868997811_MATENY_0000_0000_FUR_202_0_1_Lorenza_20Bozzoli_20Couture_master.jpg?width=768",
+            "uploadDate": "2025-03-18T05:44:26.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Lorenza Bozzoli",
+            "caption": "Contemporary Black with Multicolor Patchwork Limited Edition Bench by Lorenza Bozzoli Couture For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/black-with-multicolor-patchwork-limited-edition-bench-by-lorenza-bozzoli-couture-for-sale-picture-5/f_17062/f_440949621742290867162/1732869063742_MATENY_0000_FUR_202_0_Lorenza_20Bozzoli_20Couture_205_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/black-with-multicolor-patchwork-limited-edition-bench-by-lorenza-bozzoli-couture-for-sale-picture-5/f_17062/f_440949621742290867162/1732869063742_MATENY_0000_FUR_202_0_Lorenza_20Bozzoli_20Couture_205_master.jpg?width=768",
+            "uploadDate": "2025-03-18T05:44:26.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Lorenza Bozzoli",
+            "caption": "Leather Black with Multicolor Patchwork Limited Edition Bench by Lorenza Bozzoli Couture For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/black-with-multicolor-patchwork-limited-edition-bench-by-lorenza-bozzoli-couture-for-sale-picture-6/f_17062/f_440949621742290867371/1732869063431_MATENY_0001_FUR_202_0_2_Lorenza_20Bozzoli_20Couture_204_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/black-with-multicolor-patchwork-limited-edition-bench-by-lorenza-bozzoli-couture-for-sale-picture-6/f_17062/f_440949621742290867371/1732869063431_MATENY_0001_FUR_202_0_2_Lorenza_20Bozzoli_20Couture_204_master.jpg?width=768",
+            "uploadDate": "2025-03-18T05:44:26.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Lorenza Bozzoli",
+            "caption": "Black with Multicolor Patchwork Limited Edition Bench by Lorenza Bozzoli Couture For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/black-with-multicolor-patchwork-limited-edition-bench-by-lorenza-bozzoli-couture-for-sale-picture-7/f_17062/f_440949621742290867659/1732868997811_MATENY_0000_0000_FUR_202_0_1_Lorenza_20Bozzoli_20Couture_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/black-with-multicolor-patchwork-limited-edition-bench-by-lorenza-bozzoli-couture-for-sale-picture-7/f_17062/f_440949621742290867659/1732868997811_MATENY_0000_0000_FUR_202_0_1_Lorenza_20Bozzoli_20Couture_master.jpg?width=768",
+            "uploadDate": "2025-03-18T05:44:26.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/NewCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/benches/black-multicolor-patchwork-limited-edition-bench-lorenza-bozzoli-couture/id-f_44094962/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 6654.17,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 11999.75,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 152352.6,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 6920.88,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 5826.77,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 51923.88,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 7380,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 10857.43,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 76310.18,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 79576.86,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 4.8,
+          "reviewCount": 105
+        },
+        "productionDate": "2010-",
+        "category": "Benches",
+        "brand": {
+          "@type": "Brand",
+          "name": "Lorenza Bozzoli"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Benches",
+              "@id": "/furniture/seating/benches/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

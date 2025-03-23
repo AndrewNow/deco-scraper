@@ -1,0 +1,279 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44123572",
+  "name": "Bacchus Chair in fumed white oak and green velvet",
+  "slug": "f_44123572",
+  "price": "CA$11,475.34",
+  "description": "f_44123572",
+  "image_url": "https://a.1stdibscdn.com/bacchus-chair-in-fumed-white-oak-and-green-velvet-for-sale/f_78962/f_441235721742431712089/f_44123572_1742431712229_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/chairs/bacchus-chair-fumed-white-oak-green-velvet/id-f_44123572/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 26 in (66.04 cm)",
+      "width": "Width: 30 in (76.2 cm)",
+      "depth": "Depth: 25 in (63.5 cm)",
+      "seatHeight": "Seat Height: 16 in (40.64 cm)"
+    },
+    "style": "Modern (In the Style Of)",
+    "materials": [
+      "Oak",
+      "Textile",
+      "Upholstery",
+      "Velvet",
+      "Oak",
+      "Textile",
+      "Upholstery",
+      "Velvet"
+    ],
+    "origin": "United States",
+    "period": "2010-",
+    "dateOfManufacture": "2025",
+    "condition": {
+      "rating": "New",
+      "details": null
+    },
+    "sellerLocation": "Indianapolis, IN",
+    "referenceNumber": "1stDibs: LU7896244123572",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">The Bacchus chair is a low soft seat made to feel like a personal love seat. This addition is in fumed white oak and green high durability velvet. Its made with exposed joinery to exhibit the craftsmanship and finished with a satin top coat that gives the wood a soft feel. Low, wide and plush it gives you a generous space to curl up in.</span></div></div>",
+    "rawSpecificationsText": "The Bacchus chair is a low soft seat made to feel like a personal love seat. This addition is in fumed white oak and green high durability velvet. Its made with exposed joinery to exhibit the craftsmanship and finished with a satin top coat that gives the wood a soft feel. Low, wide and plush it gives you a generous space to curl up in."
+  },
+  "raw_data": {
+    "productId": "f_44123572",
+    "slug": "f_44123572",
+    "url": "https://www.1stdibs.com/furniture/seating/chairs/bacchus-chair-fumed-white-oak-green-velvet/id-f_44123572/",
+    "name": "Bacchus Chair in fumed white oak and green velvet",
+    "price": "CA$11,475.34",
+    "imageUrl": "https://a.1stdibscdn.com/bacchus-chair-in-fumed-white-oak-and-green-velvet-for-sale/f_78962/f_441235721742431712089/f_44123572_1742431712229_bg_processed.jpg",
+    "description": "f_44123572",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 26 in (66.04 cm)",
+        "width": "Width: 30 in (76.2 cm)",
+        "depth": "Depth: 25 in (63.5 cm)",
+        "seatHeight": "Seat Height: 16 in (40.64 cm)"
+      },
+      "style": "Modern (In the Style Of)",
+      "materials": [
+        "Oak",
+        "Textile",
+        "Upholstery",
+        "Velvet",
+        "Oak",
+        "Textile",
+        "Upholstery",
+        "Velvet"
+      ],
+      "origin": "United States",
+      "period": "2010-",
+      "dateOfManufacture": "2025",
+      "condition": {
+        "rating": "New",
+        "details": null
+      },
+      "sellerLocation": "Indianapolis, IN",
+      "referenceNumber": "1stDibs: LU7896244123572",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">The Bacchus chair is a low soft seat made to feel like a personal love seat. This addition is in fumed white oak and green high durability velvet. Its made with exposed joinery to exhibit the craftsmanship and finished with a satin top coat that gives the wood a soft feel. Low, wide and plush it gives you a generous space to curl up in.</span></div></div>",
+      "rawSpecificationsText": "The Bacchus chair is a low soft seat made to feel like a personal love seat. This addition is in fumed white oak and green high durability velvet. Its made with exposed joinery to exhibit the craftsmanship and finished with a satin top coat that gives the wood a soft feel. Low, wide and plush it gives you a generous space to curl up in."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Bacchus Chair in fumed white oak and green velvet",
+        "description": "The Bacchus chair is a low soft seat made to feel like a personal love seat. This addition is in fumed white oak and green high durability velvet. Its made with exposed joinery to exhibit the craftsmanship and finished with a satin top coat that gives the wood a soft feel. Low, wide and plush it gives you a generous space to curl up in. ",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Bacchus Chair in fumed white oak and green velvet For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/bacchus-chair-in-fumed-white-oak-and-green-velvet-for-sale/f_78962/f_441235721742431712089/f_44123572_1742431712229_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/bacchus-chair-in-fumed-white-oak-and-green-velvet-for-sale/f_78962/f_441235721742431712089/f_44123572_1742431712229_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-19T21:04:42.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "The Bacchus chair is a low soft seat made to feel like a personal love seat. This addition is in fumed white oak and green high durability velvet. Its made with exposed joinery to exhibit the craftsmanship and finished with a satin top coat that",
+            "contentUrl": "https://a.1stdibscdn.com/bacchus-chair-in-fumed-white-oak-and-green-velvet-for-sale-picture-2/f_78962/f_441235721742431751718/6Q2A4847_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/bacchus-chair-in-fumed-white-oak-and-green-velvet-for-sale-picture-2/f_78962/f_441235721742431751718/6Q2A4847_master.jpg?width=768",
+            "uploadDate": "2025-03-19T21:04:42.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Modern Bacchus Chair in fumed white oak and green velvet For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/bacchus-chair-in-fumed-white-oak-and-green-velvet-for-sale-picture-3/f_78962/f_441235721742431751590/6Q2A4803_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/bacchus-chair-in-fumed-white-oak-and-green-velvet-for-sale-picture-3/f_78962/f_441235721742431751590/6Q2A4803_master.jpg?width=768",
+            "uploadDate": "2025-03-19T21:04:42.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "American Bacchus Chair in fumed white oak and green velvet For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/bacchus-chair-in-fumed-white-oak-and-green-velvet-for-sale-picture-4/f_78962/f_441235721742431751583/6Q2A4886_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/bacchus-chair-in-fumed-white-oak-and-green-velvet-for-sale-picture-4/f_78962/f_441235721742431751583/6Q2A4886_master.jpg?width=768",
+            "uploadDate": "2025-03-19T21:04:42.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Blackened Bacchus Chair in fumed white oak and green velvet For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/bacchus-chair-in-fumed-white-oak-and-green-velvet-for-sale-picture-5/f_78962/f_441235721742431751586/6Q2A4892_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/bacchus-chair-in-fumed-white-oak-and-green-velvet-for-sale-picture-5/f_78962/f_441235721742431751586/6Q2A4892_master.jpg?width=768",
+            "uploadDate": "2025-03-19T21:04:42.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Bacchus Chair in fumed white oak and green velvet In New Condition For Sale In Indianapolis, IN",
+            "contentUrl": "https://a.1stdibscdn.com/bacchus-chair-in-fumed-white-oak-and-green-velvet-for-sale-picture-6/f_78962/f_441235721742431751589/DSC05934_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/bacchus-chair-in-fumed-white-oak-and-green-velvet-for-sale-picture-6/f_78962/f_441235721742431751589/DSC05934_master.jpg?width=768",
+            "uploadDate": "2025-03-19T21:04:42.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Contemporary Bacchus Chair in fumed white oak and green velvet For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/bacchus-chair-in-fumed-white-oak-and-green-velvet-for-sale-picture-7/f_78962/f_441235721742431752146/DSC05937_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/bacchus-chair-in-fumed-white-oak-and-green-velvet-for-sale-picture-7/f_78962/f_441235721742431752146/DSC05937_master.jpg?width=768",
+            "uploadDate": "2025-03-19T21:04:42.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Textile Bacchus Chair in fumed white oak and green velvet For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/bacchus-chair-in-fumed-white-oak-and-green-velvet-for-sale-picture-8/f_78962/f_441235721742431751720/DSC05941_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/bacchus-chair-in-fumed-white-oak-and-green-velvet-for-sale-picture-8/f_78962/f_441235721742431751720/DSC05941_master.jpg?width=768",
+            "uploadDate": "2025-03-19T21:04:42.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/NewCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/chairs/bacchus-chair-fumed-white-oak-green-velvet/id-f_44123572/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 7032.86,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 12682.66,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 161023.08,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 7314.75,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 6158.37,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 54878.9,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 7800,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 11475.34,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 80653.04,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 84105.62,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 5,
+          "reviewCount": 1
+        },
+        "productionDate": "2010-",
+        "category": "Chairs"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Chairs",
+              "@id": "/furniture/seating/chairs/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

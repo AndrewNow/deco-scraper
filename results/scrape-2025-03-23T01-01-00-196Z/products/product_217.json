@@ -1,0 +1,229 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_43956992",
+  "name": "Original Josef Hoffmann & Kohn Jacob Chair from 1914",
+  "slug": "f_43956992",
+  "price": "CA$18,401.96",
+  "description": "f_43956992",
+  "image_url": "https://a.1stdibscdn.com/original-josef-hoffmann-kohn-jacob-chair-from-1914-for-sale/f_10502/f_439569921741465954498/f_43956992_1741465954758_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/chairs/original-josef-hoffmann-kohn-jacob-chair-from-1914/id-f_43956992/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 30.71 in (78 cm)",
+      "width": "Width: 20.87 in (53 cm)",
+      "depth": "Depth: 17.33 in (44 cm)"
+    },
+    "style": "Jugendstil (Of the Period)",
+    "materials": [
+      "Bentwood",
+      "Bentwood"
+    ],
+    "origin": "Austria",
+    "period": "1910-1919",
+    "dateOfManufacture": "1914",
+    "condition": {
+      "rating": "Good",
+      "details": "Refinished. Reupholstered. A very rare undocumented chair by Josef Hoffmann and J&J Kohn. An identical chair with leather upholstery is available as well."
+    },
+    "sellerLocation": "Vienna, AT",
+    "referenceNumber": "Seller: 70061",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">A very rare undocumented chair by Josef Hoffmann and J&amp;J Kohn. An identical chair with leather upholstery is available as well.</span></div></div>",
+    "rawSpecificationsText": "A very rare undocumented chair by Josef Hoffmann and J&J Kohn. An identical chair with leather upholstery is available as well."
+  },
+  "raw_data": {
+    "productId": "f_43956992",
+    "slug": "f_43956992",
+    "url": "https://www.1stdibs.com/furniture/seating/chairs/original-josef-hoffmann-kohn-jacob-chair-from-1914/id-f_43956992/",
+    "name": "Original Josef Hoffmann & Kohn Jacob Chair from 1914",
+    "price": "CA$18,401.96",
+    "imageUrl": "https://a.1stdibscdn.com/original-josef-hoffmann-kohn-jacob-chair-from-1914-for-sale/f_10502/f_439569921741465954498/f_43956992_1741465954758_bg_processed.jpg",
+    "description": "f_43956992",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 30.71 in (78 cm)",
+        "width": "Width: 20.87 in (53 cm)",
+        "depth": "Depth: 17.33 in (44 cm)"
+      },
+      "style": "Jugendstil (Of the Period)",
+      "materials": [
+        "Bentwood",
+        "Bentwood"
+      ],
+      "origin": "Austria",
+      "period": "1910-1919",
+      "dateOfManufacture": "1914",
+      "condition": {
+        "rating": "Good",
+        "details": "Refinished. Reupholstered. A very rare undocumented chair by Josef Hoffmann and J&J Kohn. An identical chair with leather upholstery is available as well."
+      },
+      "sellerLocation": "Vienna, AT",
+      "referenceNumber": "Seller: 70061",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">A very rare undocumented chair by Josef Hoffmann and J&amp;J Kohn. An identical chair with leather upholstery is available as well.</span></div></div>",
+      "rawSpecificationsText": "A very rare undocumented chair by Josef Hoffmann and J&J Kohn. An identical chair with leather upholstery is available as well."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Original Josef Hoffmann & Kohn Jacob Chair from 1914",
+        "description": "A very rare undocumented chair by Josef Hoffmann and J&J Kohn. An identical chair with leather upholstery is available as well.",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Gebrüder Thonet Vienna GmbH, Josef Hoffmann, Woka Lamps",
+            "caption": "Original Josef Hoffmann & Kohn Jacob Chair from 1914 For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/original-josef-hoffmann-kohn-jacob-chair-from-1914-for-sale/f_10502/f_439569921741465954498/f_43956992_1741465954758_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/original-josef-hoffmann-kohn-jacob-chair-from-1914-for-sale/f_10502/f_439569921741465954498/f_43956992_1741465954758_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-15T13:25:43.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Gebrüder Thonet Vienna GmbH, Josef Hoffmann, Woka Lamps",
+            "caption": "A very rare undocumented chair by Josef Hoffmann and J&J Kohn. An identical chair with leather upholstery is available as well.",
+            "contentUrl": "https://a.1stdibscdn.com/original-josef-hoffmann-kohn-jacob-chair-from-1914-for-sale-picture-2/f_10502/f_439569921741465999431/IMG_5502_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/original-josef-hoffmann-kohn-jacob-chair-from-1914-for-sale-picture-2/f_10502/f_439569921741465999431/IMG_5502_master.jpeg?width=768",
+            "uploadDate": "2025-03-15T13:25:43.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Gebrüder Thonet Vienna GmbH, Josef Hoffmann, Woka Lamps",
+            "caption": "Jugendstil Original Josef Hoffmann & Kohn Jacob Chair from 1914 For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/original-josef-hoffmann-kohn-jacob-chair-from-1914-for-sale-picture-3/f_10502/f_439569921741465999494/IMG_5503_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/original-josef-hoffmann-kohn-jacob-chair-from-1914-for-sale-picture-3/f_10502/f_439569921741465999494/IMG_5503_master.jpeg?width=768",
+            "uploadDate": "2025-03-15T13:25:43.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Gebrüder Thonet Vienna GmbH, Josef Hoffmann, Woka Lamps",
+            "caption": "Austrian Original Josef Hoffmann & Kohn Jacob Chair from 1914 For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/original-josef-hoffmann-kohn-jacob-chair-from-1914-for-sale-picture-4/f_10502/f_439569921741465999791/IMG_5504_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/original-josef-hoffmann-kohn-jacob-chair-from-1914-for-sale-picture-4/f_10502/f_439569921741465999791/IMG_5504_master.jpeg?width=768",
+            "uploadDate": "2025-03-15T13:25:43.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/UsedCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/chairs/original-josef-hoffmann-kohn-jacob-chair-from-1914/id-f_43956992/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 20338.04,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 11277.96,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 258218.2,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 11500,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 9875.63,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 88004.34,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 12758.32,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 18401.96,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 129336.01,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 134872.61,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 4.6,
+          "reviewCount": 10
+        },
+        "productionDate": "1910-1919",
+        "category": "Chairs",
+        "brand": {
+          "@type": "Brand",
+          "name": "Gebrüder Thonet Vienna GmbH, Josef Hoffmann, Woka Lamps"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Chairs",
+              "@id": "/furniture/seating/chairs/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

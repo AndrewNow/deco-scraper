@@ -1,0 +1,295 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44129982",
+  "name": "Adrian Pearsall for Craft Associates Mid Century Long Gondola Sofa",
+  "slug": "f_44129982",
+  "price": "CA$19,118.21",
+  "description": "f_44129982",
+  "image_url": "https://a.1stdibscdn.com/adrian-pearsall-for-craft-associates-mid-century-long-gondola-sofa-for-sale/f_54082/f_441299821742483733515/f_44129982_1742483733819_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/sofas/adrian-pearsall-craft-associates-mid-century-long-gondola-sofa/id-f_44129982/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 29 in (73.66 cm)",
+      "width": "Width: 123 in (312.42 cm)",
+      "depth": "Depth: 33 in (83.82 cm)",
+      "seatHeight": "Seat Height: 19 in (48.26 cm)"
+    },
+    "style": "Mid-Century Modern (Of the Period)",
+    "materials": [
+      "Upholstery",
+      "Wood",
+      "Upholstery",
+      "Wood"
+    ],
+    "origin": "United States",
+    "period": "1970-1979",
+    "dateOfManufacture": "Unknown",
+    "condition": {
+      "rating": "Good",
+      "details": "Wear consistent with age and use."
+    },
+    "sellerLocation": "Countryside, IL",
+    "referenceNumber": "Seller: 2024-0328",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Adrian Pearsall for Craft Associates Mid Century Long Gondola Sofa \n\nThis sofa measures: 123 wide x 33 deep x 29 inches high, with a seat height of 19 and arm height of 21 inches\n\nAll pieces of furniture can be had in what we call restored vintage condition. That means the piece is restored upon purchase so it’s free of watermarks, chips or deep scratches with color loss - all of this is done at no additional cost to you, but it will take a bit longer to ship if you choose to have it restored.</span></div></div>",
+    "rawSpecificationsText": "Adrian Pearsall for Craft Associates Mid Century Long Gondola Sofa \n\nThis sofa measures: 123 wide x 33 deep x 29 inches high, with a seat height of 19 and arm height of 21 inches\n\nAll pieces of furniture can be had in what we call restored vintage condition. That means the piece is restored upon purchase so it’s free of watermarks, chips or deep scratches with color loss - all of this is done at no additional cost to you, but it will take a bit longer to ship if you choose to have it restored."
+  },
+  "raw_data": {
+    "productId": "f_44129982",
+    "slug": "f_44129982",
+    "url": "https://www.1stdibs.com/furniture/seating/sofas/adrian-pearsall-craft-associates-mid-century-long-gondola-sofa/id-f_44129982/",
+    "name": "Adrian Pearsall for Craft Associates Mid Century Long Gondola Sofa",
+    "price": "CA$19,118.21",
+    "imageUrl": "https://a.1stdibscdn.com/adrian-pearsall-for-craft-associates-mid-century-long-gondola-sofa-for-sale/f_54082/f_441299821742483733515/f_44129982_1742483733819_bg_processed.jpg",
+    "description": "f_44129982",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 29 in (73.66 cm)",
+        "width": "Width: 123 in (312.42 cm)",
+        "depth": "Depth: 33 in (83.82 cm)",
+        "seatHeight": "Seat Height: 19 in (48.26 cm)"
+      },
+      "style": "Mid-Century Modern (Of the Period)",
+      "materials": [
+        "Upholstery",
+        "Wood",
+        "Upholstery",
+        "Wood"
+      ],
+      "origin": "United States",
+      "period": "1970-1979",
+      "dateOfManufacture": "Unknown",
+      "condition": {
+        "rating": "Good",
+        "details": "Wear consistent with age and use."
+      },
+      "sellerLocation": "Countryside, IL",
+      "referenceNumber": "Seller: 2024-0328",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Adrian Pearsall for Craft Associates Mid Century Long Gondola Sofa \n\nThis sofa measures: 123 wide x 33 deep x 29 inches high, with a seat height of 19 and arm height of 21 inches\n\nAll pieces of furniture can be had in what we call restored vintage condition. That means the piece is restored upon purchase so it’s free of watermarks, chips or deep scratches with color loss - all of this is done at no additional cost to you, but it will take a bit longer to ship if you choose to have it restored.</span></div></div>",
+      "rawSpecificationsText": "Adrian Pearsall for Craft Associates Mid Century Long Gondola Sofa \n\nThis sofa measures: 123 wide x 33 deep x 29 inches high, with a seat height of 19 and arm height of 21 inches\n\nAll pieces of furniture can be had in what we call restored vintage condition. That means the piece is restored upon purchase so it’s free of watermarks, chips or deep scratches with color loss - all of this is done at no additional cost to you, but it will take a bit longer to ship if you choose to have it restored."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Adrian Pearsall for Craft Associates Mid Century Long Gondola Sofa",
+        "description": "Adrian Pearsall for Craft Associates Mid Century Long Gondola Sofa \n\nThis sofa measures: 123 wide x 33 deep x 29 inches high, with a seat height of 19 and arm height of 21 inches\n\nAll pieces of furniture can be had in what we call restored vintage condition. That means the piece is restored upon purchase so it’s free of watermarks, chips or deep scratches with color loss - all of this is done at no additional cost to you, but it will take a bit longer to ship if you choose to have it restored.",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Adrian Pearsall, Craft Associates",
+            "caption": "Adrian Pearsall for Craft Associates Mid Century Long Gondola Sofa For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/adrian-pearsall-for-craft-associates-mid-century-long-gondola-sofa-for-sale/f_54082/f_441299821742483733515/f_44129982_1742483733819_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/adrian-pearsall-for-craft-associates-mid-century-long-gondola-sofa-for-sale/f_54082/f_441299821742483733515/f_44129982_1742483733819_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-20T11:53:15.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Adrian Pearsall, Craft Associates",
+            "caption": "Adrian Pearsall for Craft Associates Mid Century Long Gondola Sofa \n\nThis sofa measures: 123 wide x 33 deep x 29 inches high, with a seat height of 19 and arm height of 21 inches\n\nAll pieces of furniture can be had in what we call restored vintage",
+            "contentUrl": "https://a.1stdibscdn.com/adrian-pearsall-for-craft-associates-mid-century-long-gondola-sofa-for-sale-picture-2/f_54082/f_441299821742485817589/Adrian_Pearsall_for_Craft_Associates_Mid_Century_Long_Gondola_Sofa_1_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/adrian-pearsall-for-craft-associates-mid-century-long-gondola-sofa-for-sale-picture-2/f_54082/f_441299821742485817589/Adrian_Pearsall_for_Craft_Associates_Mid_Century_Long_Gondola_Sofa_1_master.jpg?width=768",
+            "uploadDate": "2025-03-20T11:53:15.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Adrian Pearsall, Craft Associates",
+            "caption": "Mid-Century Modern Adrian Pearsall for Craft Associates Mid Century Long Gondola Sofa For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/adrian-pearsall-for-craft-associates-mid-century-long-gondola-sofa-for-sale-picture-3/f_54082/f_441299821742485817667/Adrian_Pearsall_for_Craft_Associates_Mid_Century_Long_Gondola_Sofa_3_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/adrian-pearsall-for-craft-associates-mid-century-long-gondola-sofa-for-sale-picture-3/f_54082/f_441299821742485817667/Adrian_Pearsall_for_Craft_Associates_Mid_Century_Long_Gondola_Sofa_3_master.jpg?width=768",
+            "uploadDate": "2025-03-20T11:53:15.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Adrian Pearsall, Craft Associates",
+            "caption": "American Adrian Pearsall for Craft Associates Mid Century Long Gondola Sofa For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/adrian-pearsall-for-craft-associates-mid-century-long-gondola-sofa-for-sale-picture-4/f_54082/f_441299821742485818593/Adrian_Pearsall_for_Craft_Associates_Mid_Century_Long_Gondola_Sofa_9_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/adrian-pearsall-for-craft-associates-mid-century-long-gondola-sofa-for-sale-picture-4/f_54082/f_441299821742485818593/Adrian_Pearsall_for_Craft_Associates_Mid_Century_Long_Gondola_Sofa_9_master.jpg?width=768",
+            "uploadDate": "2025-03-20T11:53:15.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Adrian Pearsall, Craft Associates",
+            "caption": "Adrian Pearsall for Craft Associates Mid Century Long Gondola Sofa In Good Condition For Sale In Countryside, IL",
+            "contentUrl": "https://a.1stdibscdn.com/adrian-pearsall-for-craft-associates-mid-century-long-gondola-sofa-for-sale-picture-5/f_54082/f_441299821742485818186/Adrian_Pearsall_for_Craft_Associates_Mid_Century_Long_Gondola_Sofa_8_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/adrian-pearsall-for-craft-associates-mid-century-long-gondola-sofa-for-sale-picture-5/f_54082/f_441299821742485818186/Adrian_Pearsall_for_Craft_Associates_Mid_Century_Long_Gondola_Sofa_8_master.jpg?width=768",
+            "uploadDate": "2025-03-20T11:53:15.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Adrian Pearsall, Craft Associates",
+            "caption": "Late 20th Century Adrian Pearsall for Craft Associates Mid Century Long Gondola Sofa For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/adrian-pearsall-for-craft-associates-mid-century-long-gondola-sofa-for-sale-picture-6/f_54082/f_441299821742485817852/Adrian_Pearsall_for_Craft_Associates_Mid_Century_Long_Gondola_Sofa_7_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/adrian-pearsall-for-craft-associates-mid-century-long-gondola-sofa-for-sale-picture-6/f_54082/f_441299821742485817852/Adrian_Pearsall_for_Craft_Associates_Mid_Century_Long_Gondola_Sofa_7_master.jpg?width=768",
+            "uploadDate": "2025-03-20T11:53:15.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Adrian Pearsall, Craft Associates",
+            "caption": "Upholstery Adrian Pearsall for Craft Associates Mid Century Long Gondola Sofa For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/adrian-pearsall-for-craft-associates-mid-century-long-gondola-sofa-for-sale-picture-7/f_54082/f_441299821742485817857/Adrian_Pearsall_for_Craft_Associates_Mid_Century_Long_Gondola_Sofa_4_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/adrian-pearsall-for-craft-associates-mid-century-long-gondola-sofa-for-sale-picture-7/f_54082/f_441299821742485817857/Adrian_Pearsall_for_Craft_Associates_Mid_Century_Long_Gondola_Sofa_4_master.jpg?width=768",
+            "uploadDate": "2025-03-20T11:53:15.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Adrian Pearsall, Craft Associates",
+            "caption": "Adrian Pearsall for Craft Associates Mid Century Long Gondola Sofa For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/adrian-pearsall-for-craft-associates-mid-century-long-gondola-sofa-for-sale-picture-8/f_54082/f_441299821742485818128/Adrian_Pearsall_for_Craft_Associates_Mid_Century_Long_Gondola_Sofa_5_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/adrian-pearsall-for-craft-associates-mid-century-long-gondola-sofa-for-sale-picture-8/f_54082/f_441299821742485818128/Adrian_Pearsall_for_Craft_Associates_Mid_Century_Long_Gondola_Sofa_5_master.jpg?width=768",
+            "uploadDate": "2025-03-20T11:53:15.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Adrian Pearsall, Craft Associates",
+            "caption": "Adrian Pearsall for Craft Associates Mid Century Long Gondola Sofa For Sale 2",
+            "contentUrl": "https://a.1stdibscdn.com/adrian-pearsall-for-craft-associates-mid-century-long-gondola-sofa-for-sale-picture-9/f_54082/f_441299821742485818128/Adrian_Pearsall_for_Craft_Associates_Mid_Century_Long_Gondola_Sofa_6_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/adrian-pearsall-for-craft-associates-mid-century-long-gondola-sofa-for-sale-picture-9/f_54082/f_441299821742485818128/Adrian_Pearsall_for_Craft_Associates_Mid_Century_Long_Gondola_Sofa_6_master.jpg?width=768",
+            "uploadDate": "2025-03-20T11:53:15.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Adrian Pearsall, Craft Associates",
+            "caption": "Adrian Pearsall for Craft Associates Mid Century Long Gondola Sofa For Sale 3",
+            "contentUrl": "https://a.1stdibscdn.com/adrian-pearsall-for-craft-associates-mid-century-long-gondola-sofa-for-sale-picture-10/f_54082/f_441299821742485818352/Adrian_Pearsall_for_Craft_Associates_Mid_Century_Long_Gondola_Sofa_cover_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/adrian-pearsall-for-craft-associates-mid-century-long-gondola-sofa-for-sale-picture-10/f_54082/f_441299821742485818352/Adrian_Pearsall_for_Craft_Associates_Mid_Century_Long_Gondola_Sofa_cover_master.jpg?width=768",
+            "uploadDate": "2025-03-20T11:53:15.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/UsedCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/sofas/adrian-pearsall-craft-associates-mid-century-long-gondola-sofa/id-f_44129982/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 11716.92,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 21129.64,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 268268.57,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 12186.56,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 10260.01,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 91429.65,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 12995,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 19118.21,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 134370.02,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 140122.12,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 4.8,
+          "reviewCount": 40
+        },
+        "productionDate": "1970-1979",
+        "category": "Sofas",
+        "brand": {
+          "@type": "Brand",
+          "name": "Adrian Pearsall, Craft Associates"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Sofas",
+              "@id": "/furniture/seating/sofas/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

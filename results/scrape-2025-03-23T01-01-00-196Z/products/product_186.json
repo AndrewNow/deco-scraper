@@ -1,0 +1,321 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44099702",
+  "name": "Eero Saarinen Womb Chair in Charcoal Grey Boucle Wooly Fabric",
+  "slug": "f_44099702",
+  "price": "CA$9,937.58",
+  "description": "f_44099702",
+  "image_url": "https://a.1stdibscdn.com/eero-saarinen-womb-chair-in-charcoal-grey-boucle-wooly-fabric-for-sale/f_73682/f_440997021742312137974/f_44099702_1742312138347_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/lounge-chairs/eero-saarinen-womb-chair-charcoal-grey-boucle-wooly-fabric/id-f_44099702/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 36 in (91.44 cm)",
+      "width": "Width: 42 in (106.68 cm)",
+      "depth": "Depth: 31 in (78.74 cm)",
+      "seatHeight": "Seat Height: 4 in (10.16 cm)"
+    },
+    "style": "Mid-Century Modern (In the Style Of)",
+    "materials": [
+      "Bouclé",
+      "Bouclé"
+    ],
+    "origin": "United States",
+    "period": "1970-1979",
+    "dateOfManufacture": "circa 1970",
+    "condition": {
+      "rating": "Good",
+      "details": "Reupholstered. Refinished. Replacements made: Our team of expert upholsterers replaced the previous seat foam with a 100% feather insert. \nThe chair also received a complete foam replacement from the back to the sides."
+    },
+    "sellerLocation": "Saint Louis, US",
+    "referenceNumber": "1stDibs: LU7368244099702",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Sink into effortless comfort with the iconic Eero Saarinen Womb Chair, reimagined in luxurious charcoal grey boucle. Perfectly reupholstered with a plush feather and foam insert, this chair invites you to relax and unwind in style. Its timeless design, paired with sleek black steel legs, effortlessly complements any space—whether it's your office, study, or parlor room. A cozy retreat for every day.</span></div></div>",
+    "rawSpecificationsText": "Sink into effortless comfort with the iconic Eero Saarinen Womb Chair, reimagined in luxurious charcoal grey boucle. Perfectly reupholstered with a plush feather and foam insert, this chair invites you to relax and unwind in style. Its timeless design, paired with sleek black steel legs, effortlessly complements any space—whether it's your office, study, or parlor room. A cozy retreat for every day."
+  },
+  "raw_data": {
+    "productId": "f_44099702",
+    "slug": "f_44099702",
+    "url": "https://www.1stdibs.com/furniture/seating/lounge-chairs/eero-saarinen-womb-chair-charcoal-grey-boucle-wooly-fabric/id-f_44099702/",
+    "name": "Eero Saarinen Womb Chair in Charcoal Grey Boucle Wooly Fabric",
+    "price": "CA$9,937.58",
+    "imageUrl": "https://a.1stdibscdn.com/eero-saarinen-womb-chair-in-charcoal-grey-boucle-wooly-fabric-for-sale/f_73682/f_440997021742312137974/f_44099702_1742312138347_bg_processed.jpg",
+    "description": "f_44099702",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 36 in (91.44 cm)",
+        "width": "Width: 42 in (106.68 cm)",
+        "depth": "Depth: 31 in (78.74 cm)",
+        "seatHeight": "Seat Height: 4 in (10.16 cm)"
+      },
+      "style": "Mid-Century Modern (In the Style Of)",
+      "materials": [
+        "Bouclé",
+        "Bouclé"
+      ],
+      "origin": "United States",
+      "period": "1970-1979",
+      "dateOfManufacture": "circa 1970",
+      "condition": {
+        "rating": "Good",
+        "details": "Reupholstered. Refinished. Replacements made: Our team of expert upholsterers replaced the previous seat foam with a 100% feather insert. \nThe chair also received a complete foam replacement from the back to the sides."
+      },
+      "sellerLocation": "Saint Louis, US",
+      "referenceNumber": "1stDibs: LU7368244099702",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Sink into effortless comfort with the iconic Eero Saarinen Womb Chair, reimagined in luxurious charcoal grey boucle. Perfectly reupholstered with a plush feather and foam insert, this chair invites you to relax and unwind in style. Its timeless design, paired with sleek black steel legs, effortlessly complements any space—whether it's your office, study, or parlor room. A cozy retreat for every day.</span></div></div>",
+      "rawSpecificationsText": "Sink into effortless comfort with the iconic Eero Saarinen Womb Chair, reimagined in luxurious charcoal grey boucle. Perfectly reupholstered with a plush feather and foam insert, this chair invites you to relax and unwind in style. Its timeless design, paired with sleek black steel legs, effortlessly complements any space—whether it's your office, study, or parlor room. A cozy retreat for every day."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Eero Saarinen Womb Chair in Charcoal Grey Boucle Wooly Fabric",
+        "description": "Sink into effortless comfort with the iconic Eero Saarinen Womb Chair, reimagined in luxurious charcoal grey boucle. Perfectly reupholstered with a plush feather and foam insert, this chair invites you to relax and unwind in style. Its timeless design, paired with sleek black steel legs, effortlessly complements any space—whether it's your office, study, or parlor room. A cozy retreat for every day.\n\n",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Eero Saarinen",
+            "caption": "Eero Saarinen Womb Chair in Charcoal Grey Boucle Wooly Fabric For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/eero-saarinen-womb-chair-in-charcoal-grey-boucle-wooly-fabric-for-sale/f_73682/f_440997021742312137974/f_44099702_1742312138347_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/eero-saarinen-womb-chair-in-charcoal-grey-boucle-wooly-fabric-for-sale/f_73682/f_440997021742312137974/f_44099702_1742312138347_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-18T12:17:23.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Eero Saarinen",
+            "caption": "Sink into effortless comfort with the iconic Eero Saarinen Womb Chair, reimagined in luxurious charcoal grey boucle. Perfectly reupholstered with a plush feather and foam insert, this chair invites you to relax and unwind in style. Its timeless",
+            "contentUrl": "https://a.1stdibscdn.com/eero-saarinen-womb-chair-in-charcoal-grey-boucle-wooly-fabric-for-sale-picture-2/f_73682/f_44099702/IMG_1742312423325_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/eero-saarinen-womb-chair-in-charcoal-grey-boucle-wooly-fabric-for-sale-picture-2/f_73682/f_44099702/IMG_1742312423325_master.jpg?width=768",
+            "uploadDate": "2025-03-18T12:17:23.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Eero Saarinen",
+            "caption": "Mid-Century Modern Eero Saarinen Womb Chair in Charcoal Grey Boucle Wooly Fabric For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/eero-saarinen-womb-chair-in-charcoal-grey-boucle-wooly-fabric-for-sale-picture-3/f_73682/f_440997021742312241876/IMG_4721_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/eero-saarinen-womb-chair-in-charcoal-grey-boucle-wooly-fabric-for-sale-picture-3/f_73682/f_440997021742312241876/IMG_4721_master.jpg?width=768",
+            "uploadDate": "2025-03-18T12:17:23.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Eero Saarinen",
+            "caption": "American Eero Saarinen Womb Chair in Charcoal Grey Boucle Wooly Fabric For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/eero-saarinen-womb-chair-in-charcoal-grey-boucle-wooly-fabric-for-sale-picture-4/f_73682/f_440997021742312257505/IMG_4723_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/eero-saarinen-womb-chair-in-charcoal-grey-boucle-wooly-fabric-for-sale-picture-4/f_73682/f_440997021742312257505/IMG_4723_master.jpg?width=768",
+            "uploadDate": "2025-03-18T12:17:23.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Eero Saarinen",
+            "caption": "Eero Saarinen Womb Chair in Charcoal Grey Boucle Wooly Fabric In Good Condition For Sale In Saint Louis, US",
+            "contentUrl": "https://a.1stdibscdn.com/eero-saarinen-womb-chair-in-charcoal-grey-boucle-wooly-fabric-for-sale-picture-5/f_73682/f_440997021742312277243/IMG_4725_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/eero-saarinen-womb-chair-in-charcoal-grey-boucle-wooly-fabric-for-sale-picture-5/f_73682/f_440997021742312277243/IMG_4725_master.jpg?width=768",
+            "uploadDate": "2025-03-18T12:17:23.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Eero Saarinen",
+            "caption": "Late 20th Century Eero Saarinen Womb Chair in Charcoal Grey Boucle Wooly Fabric For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/eero-saarinen-womb-chair-in-charcoal-grey-boucle-wooly-fabric-for-sale-picture-6/f_73682/f_440997021742312301082/IMG_4726_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/eero-saarinen-womb-chair-in-charcoal-grey-boucle-wooly-fabric-for-sale-picture-6/f_73682/f_440997021742312301082/IMG_4726_master.jpg?width=768",
+            "uploadDate": "2025-03-18T12:17:23.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Eero Saarinen",
+            "caption": "Bouclé Eero Saarinen Womb Chair in Charcoal Grey Boucle Wooly Fabric For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/eero-saarinen-womb-chair-in-charcoal-grey-boucle-wooly-fabric-for-sale-picture-7/f_73682/f_440997021742312336539/IMG_4727_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/eero-saarinen-womb-chair-in-charcoal-grey-boucle-wooly-fabric-for-sale-picture-7/f_73682/f_440997021742312336539/IMG_4727_master.jpg?width=768",
+            "uploadDate": "2025-03-18T12:17:23.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Eero Saarinen",
+            "caption": "Eero Saarinen Womb Chair in Charcoal Grey Boucle Wooly Fabric For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/eero-saarinen-womb-chair-in-charcoal-grey-boucle-wooly-fabric-for-sale-picture-8/f_73682/f_440997021742312352823/IMG_4728_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/eero-saarinen-womb-chair-in-charcoal-grey-boucle-wooly-fabric-for-sale-picture-8/f_73682/f_440997021742312352823/IMG_4728_master.jpg?width=768",
+            "uploadDate": "2025-03-18T12:17:23.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Eero Saarinen",
+            "caption": "Eero Saarinen Womb Chair in Charcoal Grey Boucle Wooly Fabric For Sale 2",
+            "contentUrl": "https://a.1stdibscdn.com/eero-saarinen-womb-chair-in-charcoal-grey-boucle-wooly-fabric-for-sale-picture-9/f_73682/f_440997021742312362435/IMG_4729_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/eero-saarinen-womb-chair-in-charcoal-grey-boucle-wooly-fabric-for-sale-picture-9/f_73682/f_440997021742312362435/IMG_4729_master.jpg?width=768",
+            "uploadDate": "2025-03-18T12:17:23.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Eero Saarinen",
+            "caption": "Eero Saarinen Womb Chair in Charcoal Grey Boucle Wooly Fabric For Sale 3",
+            "contentUrl": "https://a.1stdibscdn.com/eero-saarinen-womb-chair-in-charcoal-grey-boucle-wooly-fabric-for-sale-picture-10/f_73682/f_440997021742312384062/Photoroom_20250318_103203_master.JPEG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/eero-saarinen-womb-chair-in-charcoal-grey-boucle-wooly-fabric-for-sale-picture-10/f_73682/f_440997021742312384062/Photoroom_20250318_103203_master.JPEG?width=768",
+            "uploadDate": "2025-03-18T12:17:23.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Eero Saarinen",
+            "caption": "Eero Saarinen Womb Chair in Charcoal Grey Boucle Wooly Fabric For Sale 4",
+            "contentUrl": "https://a.1stdibscdn.com/eero-saarinen-womb-chair-in-charcoal-grey-boucle-wooly-fabric-for-sale-picture-11/f_73682/f_440997021742312195525/IMG_4731_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/eero-saarinen-womb-chair-in-charcoal-grey-boucle-wooly-fabric-for-sale-picture-11/f_73682/f_440997021742312195525/IMG_4731_master.jpg?width=768",
+            "uploadDate": "2025-03-18T12:17:23.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Eero Saarinen",
+            "caption": "Eero Saarinen Womb Chair in Charcoal Grey Boucle Wooly Fabric For Sale 5",
+            "contentUrl": "https://a.1stdibscdn.com/eero-saarinen-womb-chair-in-charcoal-grey-boucle-wooly-fabric-for-sale-picture-12/f_73682/f_440997021742312532103/IMG_4719_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/eero-saarinen-womb-chair-in-charcoal-grey-boucle-wooly-fabric-for-sale-picture-12/f_73682/f_440997021742312532103/IMG_4719_master.jpg?width=768",
+            "uploadDate": "2025-03-18T12:17:23.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/UsedCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/lounge-chairs/eero-saarinen-womb-chair-charcoal-grey-boucle-wooly-fabric/id-f_44099702/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 6127.67,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 11023.77,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 139801.32,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 6401.57,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 5357.66,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 47749.93,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 6800,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 9937.58,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 70408.38,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 73288.06,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 5,
+          "reviewCount": 2
+        },
+        "productionDate": "1970-1979",
+        "category": "Lounge Chairs",
+        "brand": {
+          "@type": "Brand",
+          "name": "Eero Saarinen"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Lounge Chairs",
+              "@id": "/furniture/seating/lounge-chairs/"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "VideoObject",
+        "name": "Eero Saarinen Womb Chair in Charcoal Grey Boucle Wooly Fabric",
+        "description": "Sink into effortless comfort with the iconic Eero Saarinen Womb Chair, reimagined in luxurious charcoal grey boucle. Perfectly reupholstered with a plush feather and foam insert, this chair invites you to relax and unwind in style. Its timeless design, paired with sleek black steel legs, effortlessly complements any space—whether it's your office, study, or parlor room. A cozy retreat for every day.\n\n",
+        "thumbnailUrl": "https://i.vimeocdn.com/video/1994836110-48f9edea52a50b28c1d73b5d1e1017cb2e5cd1eed8f34ca2a948ba2e76bd5925-d_1920x1080?&r=pad",
+        "uploadDate": "2025-03-18T16:16:32+00:00",
+        "duration": "PT0H0M28S",
+        "contentUrl": "https://player.vimeo.com/progressive_redirect/playback/1067006545/rendition/720p/file.mp4?loc=external&oauth2_token_id=1438265637&signature=e79da1fc70690a3d395baa1cc434e1c239ef5009064cec4be44dd3b17a353ae6&user_id=95659418"
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

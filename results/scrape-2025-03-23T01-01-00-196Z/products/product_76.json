@@ -1,0 +1,247 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44099892",
+  "name": "19th Century Italian Pair of Painted Wood Banquettes",
+  "slug": "f_44099892",
+  "price": "CA$14,358.88",
+  "description": "f_44099892",
+  "image_url": "https://a.1stdibscdn.com/19th-century-italian-pair-of-painted-wood-banquettes-for-sale/f_8879/f_440998921742312176089/f_44099892_1742312177699_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/benches/19th-century-italian-pair-of-painted-wood-banquettes/id-f_44099892/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 49.5 in (125.73 cm)",
+      "width": "Width: 58.5 in (148.59 cm)",
+      "depth": "Depth: 15 in (38.1 cm)",
+      "seatHeight": "Seat Height: 19.5 in (49.53 cm)"
+    },
+    "style": "Gustavian (In the Style Of)",
+    "materials": [
+      "Wood",
+      "Wood"
+    ],
+    "origin": "Sweden",
+    "period": "19th Century",
+    "dateOfManufacture": "19th Century",
+    "condition": {
+      "rating": "Fair",
+      "details": "Wear consistent with age and use. Small decorative embellishments have been reattached at the top of the bench."
+    },
+    "sellerLocation": "New Orleans, LA",
+    "referenceNumber": "Seller: BQP26514",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Set of two beautifully proportioned benches with scraped paint finish.  The seat lifts up for storage.</span></div></div>",
+    "rawSpecificationsText": "Set of two beautifully proportioned benches with scraped paint finish.  The seat lifts up for storage."
+  },
+  "raw_data": {
+    "productId": "f_44099892",
+    "slug": "f_44099892",
+    "url": "https://www.1stdibs.com/furniture/seating/benches/19th-century-italian-pair-of-painted-wood-banquettes/id-f_44099892/",
+    "name": "19th Century Italian Pair of Painted Wood Banquettes",
+    "price": "CA$14,358.88",
+    "imageUrl": "https://a.1stdibscdn.com/19th-century-italian-pair-of-painted-wood-banquettes-for-sale/f_8879/f_440998921742312176089/f_44099892_1742312177699_bg_processed.jpg",
+    "description": "f_44099892",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 49.5 in (125.73 cm)",
+        "width": "Width: 58.5 in (148.59 cm)",
+        "depth": "Depth: 15 in (38.1 cm)",
+        "seatHeight": "Seat Height: 19.5 in (49.53 cm)"
+      },
+      "style": "Gustavian (In the Style Of)",
+      "materials": [
+        "Wood",
+        "Wood"
+      ],
+      "origin": "Sweden",
+      "period": "19th Century",
+      "dateOfManufacture": "19th Century",
+      "condition": {
+        "rating": "Fair",
+        "details": "Wear consistent with age and use. Small decorative embellishments have been reattached at the top of the bench."
+      },
+      "sellerLocation": "New Orleans, LA",
+      "referenceNumber": "Seller: BQP26514",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Set of two beautifully proportioned benches with scraped paint finish.  The seat lifts up for storage.</span></div></div>",
+      "rawSpecificationsText": "Set of two beautifully proportioned benches with scraped paint finish.  The seat lifts up for storage."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "19th Century Italian Pair of Painted Wood Banquettes",
+        "description": "Set of two beautifully proportioned benches with scraped paint finish.  The seat lifts up for storage.",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "19th Century Italian Pair of Painted Wood Banquettes For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/19th-century-italian-pair-of-painted-wood-banquettes-for-sale/f_8879/f_440998921742312176089/f_44099892_1742312177699_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/19th-century-italian-pair-of-painted-wood-banquettes-for-sale/f_8879/f_440998921742312176089/f_44099892_1742312177699_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-18T11:43:51.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Set of two beautifully proportioned benches with scraped paint finish.  The seat lifts up for storage.",
+            "contentUrl": "https://a.1stdibscdn.com/19th-century-italian-pair-of-painted-wood-banquettes-for-sale-picture-2/f_8879/f_440998921742312199054/image_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/19th-century-italian-pair-of-painted-wood-banquettes-for-sale-picture-2/f_8879/f_440998921742312199054/image_master.jpeg?width=768",
+            "uploadDate": "2025-03-18T11:43:51.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Gustavian 19th Century Italian Pair of Painted Wood Banquettes For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/19th-century-italian-pair-of-painted-wood-banquettes-for-sale-picture-3/f_8879/f_440998921742312218308/image_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/19th-century-italian-pair-of-painted-wood-banquettes-for-sale-picture-3/f_8879/f_440998921742312218308/image_master.jpeg?width=768",
+            "uploadDate": "2025-03-18T11:43:51.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Swedish 19th Century Italian Pair of Painted Wood Banquettes For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/19th-century-italian-pair-of-painted-wood-banquettes-for-sale-picture-4/f_8879/f_440998921742312234463/image_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/19th-century-italian-pair-of-painted-wood-banquettes-for-sale-picture-4/f_8879/f_440998921742312234463/image_master.jpeg?width=768",
+            "uploadDate": "2025-03-18T11:43:51.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "19th Century Italian Pair of Painted Wood Banquettes In Fair Condition For Sale In New Orleans, LA",
+            "contentUrl": "https://a.1stdibscdn.com/19th-century-italian-pair-of-painted-wood-banquettes-for-sale-picture-5/f_8879/f_440998921742312294091/image_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/19th-century-italian-pair-of-painted-wood-banquettes-for-sale-picture-5/f_8879/f_440998921742312294091/image_master.jpeg?width=768",
+            "uploadDate": "2025-03-18T11:43:51.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "19th Century Italian Pair of Painted Wood Banquettes For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/19th-century-italian-pair-of-painted-wood-banquettes-for-sale-picture-6/f_8879/f_440998921742312308123/image_master.jpeg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/19th-century-italian-pair-of-painted-wood-banquettes-for-sale-picture-6/f_8879/f_440998921742312308123/image_master.jpeg?width=768",
+            "uploadDate": "2025-03-18T11:43:51.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/UsedCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/benches/19th-century-italian-pair-of-painted-wood-banquettes/id-f_44099892/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 8800.09,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 15869.58,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 201485.28,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 9152.81,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 7705.86,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 68668.98,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 9760,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 14358.88,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 100919.7,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 105239.85,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 4.4,
+          "reviewCount": 7
+        },
+        "productionDate": "19th Century",
+        "category": "Benches"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Benches",
+              "@id": "/furniture/seating/benches/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

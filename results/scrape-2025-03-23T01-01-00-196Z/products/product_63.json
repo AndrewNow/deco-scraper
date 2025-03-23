@@ -1,0 +1,254 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_41923932",
+  "name": "Chess Swivel Chair in Disa Lapis by Sister by Studio Ashby",
+  "slug": "f_41923932",
+  "price": "CA$6,272.11",
+  "description": "f_41923932",
+  "image_url": "https://a.1stdibscdn.com/chess-swivel-chair-in-disa-lapis-by-sister-by-studio-ashby-for-sale/f_87162/f_419239321729181151415/f_41923932_1729181151849_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/swivel-chairs/chess-swivel-chair-disa-lapis-sister-studio-ashby/id-f_41923932/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 31.89 in (81 cm)",
+      "width": "Width: 21.26 in (54 cm)",
+      "depth": "Depth: 19.3 in (49 cm)",
+      "seatHeight": "Seat Height: 17.72 in (45 cm)"
+    },
+    "materials": [
+      "Fabric",
+      "Walnut",
+      "Fabric",
+      "Walnut"
+    ],
+    "origin": "United Kingdom",
+    "period": "2010-",
+    "dateOfManufacture": "2025",
+    "condition": {
+      "rating": "New",
+      "details": null
+    },
+    "sellerLocation": "London, GB",
+    "referenceNumber": "1stDibs: LU8716241923932",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Inspired by the distinctive shapes of chess pieces, the Chess Swivel Chair is crafted as the ideal chair for game nights. Its sturdy yet comfortable design, echoing the proportions of chess pieces, ensures you're ready for those intense, edge-of-your-seat moments during any board game.\n\nUpholstered here in our Disa Lapis, with a swivel base in walnut.\n\nDimensions = Height 81cm x Width 54cm x Depth 49cm – Seat Height 45cm</span></div></div>",
+    "rawSpecificationsText": "Inspired by the distinctive shapes of chess pieces, the Chess Swivel Chair is crafted as the ideal chair for game nights. Its sturdy yet comfortable design, echoing the proportions of chess pieces, ensures you're ready for those intense, edge-of-your-seat moments during any board game.\n\nUpholstered here in our Disa Lapis, with a swivel base in walnut.\n\nDimensions = Height 81cm x Width 54cm x Depth 49cm – Seat Height 45cm"
+  },
+  "raw_data": {
+    "productId": "f_41923932",
+    "slug": "f_41923932",
+    "url": "https://www.1stdibs.com/furniture/seating/swivel-chairs/chess-swivel-chair-disa-lapis-sister-studio-ashby/id-f_41923932/",
+    "name": "Chess Swivel Chair in Disa Lapis by Sister by Studio Ashby",
+    "price": "CA$6,272.11",
+    "imageUrl": "https://a.1stdibscdn.com/chess-swivel-chair-in-disa-lapis-by-sister-by-studio-ashby-for-sale/f_87162/f_419239321729181151415/f_41923932_1729181151849_bg_processed.jpg",
+    "description": "f_41923932",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 31.89 in (81 cm)",
+        "width": "Width: 21.26 in (54 cm)",
+        "depth": "Depth: 19.3 in (49 cm)",
+        "seatHeight": "Seat Height: 17.72 in (45 cm)"
+      },
+      "materials": [
+        "Fabric",
+        "Walnut",
+        "Fabric",
+        "Walnut"
+      ],
+      "origin": "United Kingdom",
+      "period": "2010-",
+      "dateOfManufacture": "2025",
+      "condition": {
+        "rating": "New",
+        "details": null
+      },
+      "sellerLocation": "London, GB",
+      "referenceNumber": "1stDibs: LU8716241923932",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Inspired by the distinctive shapes of chess pieces, the Chess Swivel Chair is crafted as the ideal chair for game nights. Its sturdy yet comfortable design, echoing the proportions of chess pieces, ensures you're ready for those intense, edge-of-your-seat moments during any board game.\n\nUpholstered here in our Disa Lapis, with a swivel base in walnut.\n\nDimensions = Height 81cm x Width 54cm x Depth 49cm – Seat Height 45cm</span></div></div>",
+      "rawSpecificationsText": "Inspired by the distinctive shapes of chess pieces, the Chess Swivel Chair is crafted as the ideal chair for game nights. Its sturdy yet comfortable design, echoing the proportions of chess pieces, ensures you're ready for those intense, edge-of-your-seat moments during any board game.\n\nUpholstered here in our Disa Lapis, with a swivel base in walnut.\n\nDimensions = Height 81cm x Width 54cm x Depth 49cm – Seat Height 45cm"
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Chess Swivel Chair in Disa Lapis by Sister by Studio Ashby",
+        "description": "Inspired by the distinctive shapes of chess pieces, the Chess Swivel Chair is crafted as the ideal chair for game nights. Its sturdy yet comfortable design, echoing the proportions of chess pieces, ensures you're ready for those intense, edge-of-your-seat moments during any board game.\n\nUpholstered here in our Disa Lapis, with a swivel base in walnut.\n\nDimensions = Height 81cm x Width 54cm x Depth 49cm – Seat Height 45cm",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Chess Swivel Chair in Disa Lapis by Sister by Studio Ashby For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/chess-swivel-chair-in-disa-lapis-by-sister-by-studio-ashby-for-sale/f_87162/f_419239321729181151415/f_41923932_1729181151849_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/chess-swivel-chair-in-disa-lapis-by-sister-by-studio-ashby-for-sale/f_87162/f_419239321729181151415/f_41923932_1729181151849_bg_processed.jpg?width=768",
+            "uploadDate": "2024-10-17T12:07:33.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Inspired by the distinctive shapes of chess pieces, the Chess Swivel Chair is crafted as the ideal chair for game nights. Its sturdy yet comfortable design, echoing the proportions of chess pieces, ensures you're ready for those intense,",
+            "contentUrl": "https://a.1stdibscdn.com/chess-swivel-chair-in-disa-lapis-by-sister-by-studio-ashby-for-sale-picture-2/f_87162/f_419239321729181175529/The_Chess_Chair_Sister_By_Studio_Ashby1_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/chess-swivel-chair-in-disa-lapis-by-sister-by-studio-ashby-for-sale-picture-2/f_87162/f_419239321729181175529/The_Chess_Chair_Sister_By_Studio_Ashby1_master.jpg?width=768",
+            "uploadDate": "2024-10-17T12:07:33.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "British Chess Swivel Chair in Disa Lapis by Sister by Studio Ashby For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/chess-swivel-chair-in-disa-lapis-by-sister-by-studio-ashby-for-sale-picture-3/f_87162/f_419239321729181175556/The_Chess_Chair_Sister_By_Studio_Ashby2_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/chess-swivel-chair-in-disa-lapis-by-sister-by-studio-ashby-for-sale-picture-3/f_87162/f_419239321729181175556/The_Chess_Chair_Sister_By_Studio_Ashby2_master.jpg?width=768",
+            "uploadDate": "2024-10-17T12:07:33.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Chess Swivel Chair in Disa Lapis by Sister by Studio Ashby In New Condition For Sale In London, GB",
+            "contentUrl": "https://a.1stdibscdn.com/chess-swivel-chair-in-disa-lapis-by-sister-by-studio-ashby-for-sale-picture-4/f_87162/f_419239321729181176030/The_Chess_Chair_Sister_By_Studio_Ashby3_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/chess-swivel-chair-in-disa-lapis-by-sister-by-studio-ashby-for-sale-picture-4/f_87162/f_419239321729181176030/The_Chess_Chair_Sister_By_Studio_Ashby3_master.jpg?width=768",
+            "uploadDate": "2024-10-17T12:07:33.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Contemporary Chess Swivel Chair in Disa Lapis by Sister by Studio Ashby For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/chess-swivel-chair-in-disa-lapis-by-sister-by-studio-ashby-for-sale-picture-5/f_87162/f_419239321729181176077/The_Chess_Chair_Sister_By_Studio_Ashby4_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/chess-swivel-chair-in-disa-lapis-by-sister-by-studio-ashby-for-sale-picture-5/f_87162/f_419239321729181176077/The_Chess_Chair_Sister_By_Studio_Ashby4_master.jpg?width=768",
+            "uploadDate": "2024-10-17T12:07:33.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Fabric Chess Swivel Chair in Disa Lapis by Sister by Studio Ashby For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/chess-swivel-chair-in-disa-lapis-by-sister-by-studio-ashby-for-sale-picture-6/f_87162/f_419239321729181175905/The_Chess_Chair_Sister_By_Studio_Ashby5_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/chess-swivel-chair-in-disa-lapis-by-sister-by-studio-ashby-for-sale-picture-6/f_87162/f_419239321729181175905/The_Chess_Chair_Sister_By_Studio_Ashby5_master.jpg?width=768",
+            "uploadDate": "2024-10-17T12:07:33.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Chess Swivel Chair in Disa Lapis by Sister by Studio Ashby For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/chess-swivel-chair-in-disa-lapis-by-sister-by-studio-ashby-for-sale-picture-7/f_87162/f_419239321729181197065/SAxLBW_Lifestyle4_WebReady_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/chess-swivel-chair-in-disa-lapis-by-sister-by-studio-ashby-for-sale-picture-7/f_87162/f_419239321729181197065/SAxLBW_Lifestyle4_WebReady_master.jpg?width=768",
+            "uploadDate": "2024-10-17T12:07:33.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/NewCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/swivel-chairs/chess-swivel-chair-disa-lapis-sister-studio-ashby/id-f_41923932/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3843.97,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 6932,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 88010.85,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3998.04,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3300,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 29995.32,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 4348.53,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 6272.11,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 44082.76,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 45969.85,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "productionDate": "2010-",
+        "category": "Swivel Chairs"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Swivel Chairs",
+              "@id": "/furniture/seating/swivel-chairs/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

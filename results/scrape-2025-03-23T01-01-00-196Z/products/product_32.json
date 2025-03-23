@@ -1,0 +1,279 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_28734342",
+  "name": "Marco Bogazzi Modern Outdoor Adirondack Chair in Teak or Mahogany",
+  "slug": "f_28734342",
+  "price": "CA$1,765.44",
+  "description": "f_28734342",
+  "image_url": "https://a.1stdibscdn.com/marco-bogazzi-modern-outdoor-adirondack-chair-in-teak-or-mahogany-for-sale/f_68512/f_287343421653000910752/f_28734342_1653000911060_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/lounge-chairs/marco-bogazzi-modern-outdoor-adirondack-chair-teak-mahogany/id-f_28734342/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 29 in (73.66 cm)",
+      "width": "Width: 34 in (86.36 cm)",
+      "depth": "Depth: 32 in (81.28 cm)",
+      "seatHeight": "Seat Height: 13.5 in (34.29 cm)"
+    },
+    "materials": [
+      "Mahogany",
+      "Teak",
+      "Mahogany",
+      "Teak"
+    ],
+    "origin": "United States",
+    "period": "21st Century",
+    "dateOfManufacture": "2025",
+    "condition": {
+      "rating": "New",
+      "details": null
+    },
+    "sellerLocation": "Portland, OR",
+    "referenceNumber": "1stDibs: LU6851228734342",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Modern outdoor rocking chair designed for traditional/transitional and modern/contemporary outdoor decks, patio, porches, and poolsides. \n\nBuilt using mortise and tenon joinery, this chair is designed to age gracefully even in the most demanding outdoor environments. Each slat is curved to provide a most comfortable rocking experience. It ships fully assembled and as such, has no exposed hardware.\n\nAvailable in solid grade a teak or mahogany, the wood is sanded to 400 grit and left bare so as to develop a beautiful, uniform gray patina over time. \n\nCustom cushions are available upon request.\n\nShipping is free within the continental US.</span></div></div>",
+    "rawSpecificationsText": "Modern outdoor rocking chair designed for traditional/transitional and modern/contemporary outdoor decks, patio, porches, and poolsides. \n\nBuilt using mortise and tenon joinery, this chair is designed to age gracefully even in the most demanding outdoor environments. Each slat is curved to provide a most comfortable rocking experience. It ships fully assembled and as such, has no exposed hardware.\n\nAvailable in solid grade a teak or mahogany, the wood is sanded to 400 grit and left bare so as to develop a beautiful, uniform gray patina over time. \n\nCustom cushions are available upon request.\n\nShipping is free within the continental US."
+  },
+  "raw_data": {
+    "productId": "f_28734342",
+    "slug": "f_28734342",
+    "url": "https://www.1stdibs.com/furniture/seating/lounge-chairs/marco-bogazzi-modern-outdoor-adirondack-chair-teak-mahogany/id-f_28734342/",
+    "name": "Marco Bogazzi Modern Outdoor Adirondack Chair in Teak or Mahogany",
+    "price": "CA$1,765.44",
+    "imageUrl": "https://a.1stdibscdn.com/marco-bogazzi-modern-outdoor-adirondack-chair-in-teak-or-mahogany-for-sale/f_68512/f_287343421653000910752/f_28734342_1653000911060_bg_processed.jpg",
+    "description": "f_28734342",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 29 in (73.66 cm)",
+        "width": "Width: 34 in (86.36 cm)",
+        "depth": "Depth: 32 in (81.28 cm)",
+        "seatHeight": "Seat Height: 13.5 in (34.29 cm)"
+      },
+      "materials": [
+        "Mahogany",
+        "Teak",
+        "Mahogany",
+        "Teak"
+      ],
+      "origin": "United States",
+      "period": "21st Century",
+      "dateOfManufacture": "2025",
+      "condition": {
+        "rating": "New",
+        "details": null
+      },
+      "sellerLocation": "Portland, OR",
+      "referenceNumber": "1stDibs: LU6851228734342",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Modern outdoor rocking chair designed for traditional/transitional and modern/contemporary outdoor decks, patio, porches, and poolsides. \n\nBuilt using mortise and tenon joinery, this chair is designed to age gracefully even in the most demanding outdoor environments. Each slat is curved to provide a most comfortable rocking experience. It ships fully assembled and as such, has no exposed hardware.\n\nAvailable in solid grade a teak or mahogany, the wood is sanded to 400 grit and left bare so as to develop a beautiful, uniform gray patina over time. \n\nCustom cushions are available upon request.\n\nShipping is free within the continental US.</span></div></div>",
+      "rawSpecificationsText": "Modern outdoor rocking chair designed for traditional/transitional and modern/contemporary outdoor decks, patio, porches, and poolsides. \n\nBuilt using mortise and tenon joinery, this chair is designed to age gracefully even in the most demanding outdoor environments. Each slat is curved to provide a most comfortable rocking experience. It ships fully assembled and as such, has no exposed hardware.\n\nAvailable in solid grade a teak or mahogany, the wood is sanded to 400 grit and left bare so as to develop a beautiful, uniform gray patina over time. \n\nCustom cushions are available upon request.\n\nShipping is free within the continental US."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Marco Bogazzi Modern Outdoor Adirondack Chair in Teak or Mahogany",
+        "description": "Modern outdoor rocking chair designed for traditional/transitional and modern/contemporary outdoor decks, patio, porches, and poolsides. \r\n\r\nBuilt using mortise and tenon joinery, this chair is designed to age gracefully even in the most demanding outdoor environments. Each slat is curved to provide a most comfortable rocking experience. It ships fully assembled and as such, has no exposed hardware.\r\n\r\nAvailable in solid grade a teak or mahogany, the wood is sanded to 400 grit and left bare so as to develop a beautiful, uniform gray patina over time. \r\n\r\nCustom cushions are available upon request.\r\n\r\nShipping is free within the continental US.\r\n ",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Marco Bogazzi Modern Outdoor Adirondack Chair in Teak or Mahogany For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/marco-bogazzi-modern-outdoor-adirondack-chair-in-teak-or-mahogany-for-sale/f_68512/f_287343421653000910752/f_28734342_1653000911060_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/marco-bogazzi-modern-outdoor-adirondack-chair-in-teak-or-mahogany-for-sale/f_68512/f_287343421653000910752/f_28734342_1653000911060_bg_processed.jpg?width=768",
+            "uploadDate": "2022-05-19T18:59:50.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Modern outdoor rocking chair designed for traditional/transitional and modern/contemporary outdoor decks, patio, porches, and poolsides. \r\n\r\nBuilt using mortise and tenon joinery, this chair is designed to age gracefully even in the most demanding",
+            "contentUrl": "https://a.1stdibscdn.com/marco-bogazzi-modern-outdoor-adirondack-chair-in-teak-or-mahogany-for-sale-picture-2/f_68512/f_287343421653000976255/DSC_0239_lr_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/marco-bogazzi-modern-outdoor-adirondack-chair-in-teak-or-mahogany-for-sale-picture-2/f_68512/f_287343421653000976255/DSC_0239_lr_master.jpg?width=768",
+            "uploadDate": "2022-05-19T18:59:50.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "teak adirondack chairs uk",
+            "contentUrl": "https://a.1stdibscdn.com/marco-bogazzi-modern-outdoor-adirondack-chair-in-teak-or-mahogany-for-sale-picture-3/f_68512/f_287343421653000975996/DSC_0236_lr_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/marco-bogazzi-modern-outdoor-adirondack-chair-in-teak-or-mahogany-for-sale-picture-3/f_68512/f_287343421653000975996/DSC_0236_lr_master.jpg?width=768",
+            "uploadDate": "2022-05-19T18:59:50.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "mirko bogazzi",
+            "contentUrl": "https://a.1stdibscdn.com/marco-bogazzi-modern-outdoor-adirondack-chair-in-teak-or-mahogany-for-sale-picture-4/f_68512/f_287343421653000970317/DSC_0241_lr_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/marco-bogazzi-modern-outdoor-adirondack-chair-in-teak-or-mahogany-for-sale-picture-4/f_68512/f_287343421653000970317/DSC_0241_lr_master.jpg?width=768",
+            "uploadDate": "2022-05-19T18:59:50.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "modern teak adirondack chairs",
+            "contentUrl": "https://a.1stdibscdn.com/marco-bogazzi-modern-outdoor-adirondack-chair-in-teak-or-mahogany-for-sale-picture-5/f_68512/f_287343421653000976278/DSC_0242_lr_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/marco-bogazzi-modern-outdoor-adirondack-chair-in-teak-or-mahogany-for-sale-picture-5/f_68512/f_287343421653000976278/DSC_0242_lr_master.jpg?width=768",
+            "uploadDate": "2022-05-19T18:59:50.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "American Marco Bogazzi Modern Outdoor Adirondack Chair in Teak or Mahogany For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/marco-bogazzi-modern-outdoor-adirondack-chair-in-teak-or-mahogany-for-sale-picture-6/f_68512/f_287343421653000976080/DSC_0245_lr_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/marco-bogazzi-modern-outdoor-adirondack-chair-in-teak-or-mahogany-for-sale-picture-6/f_68512/f_287343421653000976080/DSC_0245_lr_master.jpg?width=768",
+            "uploadDate": "2022-05-19T18:59:50.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Marco Bogazzi Modern Outdoor Adirondack Chair in Teak or Mahogany In New Condition For Sale In Portland, OR",
+            "contentUrl": "https://a.1stdibscdn.com/marco-bogazzi-modern-outdoor-adirondack-chair-in-teak-or-mahogany-for-sale-picture-7/f_68512/f_287343421738516384297/IMG_2834_LR_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/marco-bogazzi-modern-outdoor-adirondack-chair-in-teak-or-mahogany-for-sale-picture-7/f_68512/f_287343421738516384297/IMG_2834_LR_master.jpg?width=768",
+            "uploadDate": "2022-05-19T18:59:50.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Contemporary Marco Bogazzi Modern Outdoor Adirondack Chair in Teak or Mahogany For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/marco-bogazzi-modern-outdoor-adirondack-chair-in-teak-or-mahogany-for-sale-picture-8/f_68512/f_287343421738516251190/icm_fullxfull_647203441_s8e4cfioiqs480scosgc_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/marco-bogazzi-modern-outdoor-adirondack-chair-in-teak-or-mahogany-for-sale-picture-8/f_68512/f_287343421738516251190/icm_fullxfull_647203441_s8e4cfioiqs480scosgc_master.jpg?width=768",
+            "uploadDate": "2022-05-19T18:59:50.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Marco Bogazzi Modern Outdoor Adirondack Chair in Teak or Mahogany For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/marco-bogazzi-modern-outdoor-adirondack-chair-in-teak-or-mahogany-for-sale-picture-9/f_68512/f_287343421738516339050/IMG_0218_lr_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/marco-bogazzi-modern-outdoor-adirondack-chair-in-teak-or-mahogany-for-sale-picture-9/f_68512/f_287343421738516339050/IMG_0218_lr_master.jpg?width=768",
+            "uploadDate": "2022-05-19T18:59:50.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/NewCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/lounge-chairs/marco-bogazzi-modern-outdoor-adirondack-chair-teak-mahogany/id-f_28734342/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1081.98,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1951.18,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 24772.78,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1125.35,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 947.44,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 8442.91,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1200,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 1765.44,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 12408.16,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 12939.33,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 5,
+          "reviewCount": 1
+        },
+        "productionDate": "21st Century",
+        "category": "Lounge Chairs"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Lounge Chairs",
+              "@id": "/furniture/seating/lounge-chairs/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

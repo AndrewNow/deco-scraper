@@ -13,6 +13,9 @@ const CONCURRENCY = 10; // Process 10 products simultaneously - adjust based on 
 const SAVE_DELAY = 1000; // 1 second delay between requests as a baseline
 const SAVE_INTERVAL = 10; // Save all products file every X completed products
 
+// Add a new constant for pagination
+const MAX_PAGES = Infinity; // Remove the page limit to get all products
+
 async function test1stDibsScraper() {
   console.log('Starting 1stDibs scraper with concurrency...');
   
@@ -96,8 +99,8 @@ async function test1stDibsScraper() {
       // Navigate to the category page without taking screenshots
       await page.goto(testCategory.url, { waitUntil: 'networkidle' });
       
-      // Extract product links, allowing for multiple pages
-      const productLinks = await extractProductLinks(adapter, page, testCategory.url, 3); // Get 3 pages worth of products
+      // Extract product links - Changed from 3 pages to MAX_PAGES (Infinity)
+      const productLinks = await extractProductLinks(adapter, page, testCategory.url, MAX_PAGES);
       console.log(`Found ${productLinks.length} product links`);
       await appendToLog(logFilePath, `Found ${productLinks.length} product links`);
       
@@ -288,34 +291,73 @@ async function appendToLog(filePath, message) {
   }
 }
 
-// Helper function to extract product links with pagination
+// Update the extractProductLinks function to be more robust for many pages
 async function extractProductLinks(adapter, page, categoryUrl, maxPages = Infinity) {
   let allLinks = [];
   let currentPage = 1;
   let hasNextPage = true;
+  let consecutiveFailures = 0;
+  const MAX_FAILURES = 3; // Number of consecutive failures before giving up
   
   // Initial extraction
   const links = await adapter.extractProductLinksFromCategory(page, categoryUrl);
-  allLinks.push(...links);
+  if (links.length > 0) {
+    allLinks.push(...links);
+    consecutiveFailures = 0; // Reset failure count on success
+  } else {
+    consecutiveFailures++;
+  }
   console.log(`Page ${currentPage}: Found ${links.length} products. Total: ${allLinks.length}`);
   
   // Handle pagination
-  while (hasNextPage && currentPage < maxPages) {
-    hasNextPage = await adapter.goToNextPage(page);
-    if (hasNextPage) {
-      currentPage++;
-      console.log(`Moving to page ${currentPage}...`);
-      
-      // Extract products from the new page
-      const newLinks = await adapter.extractProductLinksFromCategory(page, page.url());
-      allLinks.push(...newLinks);
-      console.log(`Page ${currentPage}: Found ${newLinks.length} products. Total: ${allLinks.length}`);
+  while (hasNextPage && currentPage < maxPages && consecutiveFailures < MAX_FAILURES) {
+    try {
+      hasNextPage = await adapter.goToNextPage(page);
+      if (hasNextPage) {
+        currentPage++;
+        console.log(`Moving to page ${currentPage}...`);
+        
+        // Add a small delay between pages to avoid rate limiting
+        await new Promise(resolve => setTimeout(resolve, 2000));
+        
+        // Extract products from the new page
+        const newLinks = await adapter.extractProductLinksFromCategory(page, page.url());
+        
+        if (newLinks.length > 0) {
+          allLinks.push(...newLinks);
+          consecutiveFailures = 0; // Reset failure count on success
+          console.log(`Page ${currentPage}: Found ${newLinks.length} products. Total: ${allLinks.length}`);
+        } else {
+          consecutiveFailures++;
+          console.log(`Warning: No products found on page ${currentPage}. Consecutive failures: ${consecutiveFailures}`);
+        }
+        
+        // Periodically log progress
+        if (currentPage % 10 === 0) {
+          console.log(`Progress update: Processed ${currentPage} pages, found ${allLinks.length} products so far`);
+        }
+      } else {
+        console.log('No more pages available - reached the end of the category');
+        break;
+      }
+    } catch (error) {
+      console.error(`Error on page ${currentPage}:`, error.message);
+      consecutiveFailures++;
+      if (consecutiveFailures >= MAX_FAILURES) {
+        console.log(`Stopping after ${MAX_FAILURES} consecutive failures`);
+        break;
+      }
+      // Wait a bit longer after an error before retrying
+      await new Promise(resolve => setTimeout(resolve, 5000));
     }
   }
   
   // Remove duplicate links
   const uniqueLinks = [...new Set(allLinks)];
-  console.log(`Found ${uniqueLinks.length} unique product links (removed ${allLinks.length - uniqueLinks.length} duplicates)`);
+  console.log(`\nScraping complete!`);
+  console.log(`Total pages processed: ${currentPage}`);
+  console.log(`Total products found: ${allLinks.length}`);
+  console.log(`Unique products: ${uniqueLinks.length} (removed ${allLinks.length - uniqueLinks.length} duplicates)`);
   
   return uniqueLinks;
 }

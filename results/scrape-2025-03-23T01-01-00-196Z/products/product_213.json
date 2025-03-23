@@ -1,0 +1,301 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44091122",
+  "name": "Pair of Low Sass Stool from Souda, Dining Chair, Seating, Shape A",
+  "slug": "f_44091122",
+  "price": "CA$8,091.58",
+  "description": "f_44091122",
+  "image_url": "https://a.1stdibscdn.com/archivesE/upload/1121189/f_440911221742379050150/44091122_datamatics.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/stools/pair-of-low-sass-stool-from-souda-dining-chair-seating-shape/id-f_44091122/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 18 in (45.72 cm)",
+      "seatHeight": "Seat Height: 18 in (45.72 cm)"
+    },
+    "style": "Modern (Of the Period)",
+    "materials": [
+      "Ash",
+      "Wood",
+      "Ash",
+      "Wood"
+    ],
+    "origin": "United States",
+    "period": "2010-",
+    "dateOfManufacture": "2019",
+    "condition": {
+      "rating": "New",
+      "details": null
+    },
+    "sellerLocation": "Brooklyn, NY",
+    "referenceNumber": "Seller: SASS-S-MX-A-18",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">This listing is for 2 Sass Stool from Souda. We offer three different shapes (A, B, &amp; C). This listing is for 'A', which is the stool in the first image. 'B' and 'C' are available in our other listings.\n\nThe Sottsass inspired “Sass Stools” are simple, sculptural accents for any interior space. Made from stacked wooden bases and a carved out seat, Sass stools are perfect individually or in groups. \n\nMeasures: 18 inches tall with 14 inch diameter. \nEach stool has a small dished out top for comfort.\nMade in the USA \nEach stool is solid wood.</span></div></div>",
+    "rawSpecificationsText": "This listing is for 2 Sass Stool from Souda. We offer three different shapes (A, B, & C). This listing is for 'A', which is the stool in the first image. 'B' and 'C' are available in our other listings.\n\nThe Sottsass inspired “Sass Stools” are simple, sculptural accents for any interior space. Made from stacked wooden bases and a carved out seat, Sass stools are perfect individually or in groups. \n\nMeasures: 18 inches tall with 14 inch diameter. \nEach stool has a small dished out top for comfort.\nMade in the USA \nEach stool is solid wood."
+  },
+  "raw_data": {
+    "productId": "f_44091122",
+    "slug": "f_44091122",
+    "url": "https://www.1stdibs.com/furniture/seating/stools/pair-of-low-sass-stool-from-souda-dining-chair-seating-shape/id-f_44091122/",
+    "name": "Pair of Low Sass Stool from Souda, Dining Chair, Seating, Shape A",
+    "price": "CA$8,091.58",
+    "imageUrl": "https://a.1stdibscdn.com/archivesE/upload/1121189/f_440911221742379050150/44091122_datamatics.jpg",
+    "description": "f_44091122",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 18 in (45.72 cm)",
+        "seatHeight": "Seat Height: 18 in (45.72 cm)"
+      },
+      "style": "Modern (Of the Period)",
+      "materials": [
+        "Ash",
+        "Wood",
+        "Ash",
+        "Wood"
+      ],
+      "origin": "United States",
+      "period": "2010-",
+      "dateOfManufacture": "2019",
+      "condition": {
+        "rating": "New",
+        "details": null
+      },
+      "sellerLocation": "Brooklyn, NY",
+      "referenceNumber": "Seller: SASS-S-MX-A-18",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">This listing is for 2 Sass Stool from Souda. We offer three different shapes (A, B, &amp; C). This listing is for 'A', which is the stool in the first image. 'B' and 'C' are available in our other listings.\n\nThe Sottsass inspired “Sass Stools” are simple, sculptural accents for any interior space. Made from stacked wooden bases and a carved out seat, Sass stools are perfect individually or in groups. \n\nMeasures: 18 inches tall with 14 inch diameter. \nEach stool has a small dished out top for comfort.\nMade in the USA \nEach stool is solid wood.</span></div></div>",
+      "rawSpecificationsText": "This listing is for 2 Sass Stool from Souda. We offer three different shapes (A, B, & C). This listing is for 'A', which is the stool in the first image. 'B' and 'C' are available in our other listings.\n\nThe Sottsass inspired “Sass Stools” are simple, sculptural accents for any interior space. Made from stacked wooden bases and a carved out seat, Sass stools are perfect individually or in groups. \n\nMeasures: 18 inches tall with 14 inch diameter. \nEach stool has a small dished out top for comfort.\nMade in the USA \nEach stool is solid wood."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Pair of Low Sass Stool from Souda, Dining Chair, Seating, Shape A",
+        "description": "This listing is for 2 Sass Stool from Souda. We offer three different shapes (A, B, & C). This listing is for 'A', which is the stool in the first image. 'B' and 'C' are available in our other listings.\n\nThe Sottsass inspired “Sass Stools” are simple, sculptural accents for any interior space. Made from stacked wooden bases and a carved out seat, Sass stools are perfect individually or in groups. \n\nMeasures: 18 inches tall with 14 inch diameter. \nEach stool has a small dished out top for comfort.\nMade in the USA \nEach stool is solid wood.",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "MPGMB, Souda",
+            "caption": "Pair of Low Sass Stool from Souda, Dining Chair, Seating, Shape A For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/archivesE/upload/1121189/f_440911221742379050150/44091122_datamatics.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/archivesE/upload/1121189/f_440911221742379050150/44091122_datamatics.jpg?width=768",
+            "uploadDate": "2025-03-17T19:41:58.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "MPGMB, Souda",
+            "caption": "This listing is for 2 Sass Stool from Souda. We offer three different shapes (A, B, & C). This listing is for 'A', which is the stool in the first image. 'B' and 'C' are available in our other listings.\n\nThe Sottsass inspired “Sass Stools” are",
+            "contentUrl": "https://a.1stdibscdn.com/pair-of-low-sass-stool-from-souda-dining-chair-seating-shape-a-for-sale-picture-2/f_23153/f_440911221742254874984/IMG_5814s_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/pair-of-low-sass-stool-from-souda-dining-chair-seating-shape-a-for-sale-picture-2/f_23153/f_440911221742254874984/IMG_5814s_master.jpg?width=768",
+            "uploadDate": "2025-03-17T19:41:58.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "MPGMB, Souda",
+            "caption": "Modern Pair of Low Sass Stool from Souda, Dining Chair, Seating, Shape A For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/pair-of-low-sass-stool-from-souda-dining-chair-seating-shape-a-for-sale-picture-3/f_23153/f_440911221742254875833/IMG_5822s_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/pair-of-low-sass-stool-from-souda-dining-chair-seating-shape-a-for-sale-picture-3/f_23153/f_440911221742254875833/IMG_5822s_master.jpg?width=768",
+            "uploadDate": "2025-03-17T19:41:58.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "MPGMB, Souda",
+            "caption": "American Pair of Low Sass Stool from Souda, Dining Chair, Seating, Shape A For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/pair-of-low-sass-stool-from-souda-dining-chair-seating-shape-a-for-sale-picture-4/f_23153/f_440911221742254876645/IMG_5868s_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/pair-of-low-sass-stool-from-souda-dining-chair-seating-shape-a-for-sale-picture-4/f_23153/f_440911221742254876645/IMG_5868s_master.jpg?width=768",
+            "uploadDate": "2025-03-17T19:41:58.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "MPGMB, Souda",
+            "caption": "Turned Pair of Low Sass Stool from Souda, Dining Chair, Seating, Shape A For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/pair-of-low-sass-stool-from-souda-dining-chair-seating-shape-a-for-sale-picture-5/f_23153/f_440911221742254877332/IMG_5848s_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/pair-of-low-sass-stool-from-souda-dining-chair-seating-shape-a-for-sale-picture-5/f_23153/f_440911221742254877332/IMG_5848s_master.jpg?width=768",
+            "uploadDate": "2025-03-17T19:41:58.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "MPGMB, Souda",
+            "caption": "Pair of Low Sass Stool from Souda, Dining Chair, Seating, Shape A In New Condition For Sale In Brooklyn, NY",
+            "contentUrl": "https://a.1stdibscdn.com/pair-of-low-sass-stool-from-souda-dining-chair-seating-shape-a-for-sale-picture-6/f_23153/f_440911221742254878124/IMG_5861s_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/pair-of-low-sass-stool-from-souda-dining-chair-seating-shape-a-for-sale-picture-6/f_23153/f_440911221742254878124/IMG_5861s_master.jpg?width=768",
+            "uploadDate": "2025-03-17T19:41:58.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "MPGMB, Souda",
+            "caption": "Contemporary Pair of Low Sass Stool from Souda, Dining Chair, Seating, Shape A For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/pair-of-low-sass-stool-from-souda-dining-chair-seating-shape-a-for-sale-picture-7/f_23153/f_440911221742254878969/IMG_5856s_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/pair-of-low-sass-stool-from-souda-dining-chair-seating-shape-a-for-sale-picture-7/f_23153/f_440911221742254878969/IMG_5856s_master.jpg?width=768",
+            "uploadDate": "2025-03-17T19:41:58.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "MPGMB, Souda",
+            "caption": "Wood Pair of Low Sass Stool from Souda, Dining Chair, Seating, Shape A For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/pair-of-low-sass-stool-from-souda-dining-chair-seating-shape-a-for-sale-picture-8/f_23153/f_440911221742254879849/IMG_5815s_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/pair-of-low-sass-stool-from-souda-dining-chair-seating-shape-a-for-sale-picture-8/f_23153/f_440911221742254879849/IMG_5815s_master.jpg?width=768",
+            "uploadDate": "2025-03-17T19:41:58.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "MPGMB, Souda",
+            "caption": "Pair of Low Sass Stool from Souda, Dining Chair, Seating, Shape A For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/pair-of-low-sass-stool-from-souda-dining-chair-seating-shape-a-for-sale-picture-9/f_23153/f_440911221742254880618/IMG_5816s_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/pair-of-low-sass-stool-from-souda-dining-chair-seating-shape-a-for-sale-picture-9/f_23153/f_440911221742254880618/IMG_5816s_master.jpg?width=768",
+            "uploadDate": "2025-03-17T19:41:58.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "MPGMB, Souda",
+            "caption": "Pair of Low Sass Stool from Souda, Dining Chair, Seating, Shape A For Sale 2",
+            "contentUrl": "https://a.1stdibscdn.com/pair-of-low-sass-stool-from-souda-dining-chair-seating-shape-a-for-sale-picture-10/f_23153/f_440911221742254881423/IMG_5819s_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/pair-of-low-sass-stool-from-souda-dining-chair-seating-shape-a-for-sale-picture-10/f_23153/f_440911221742254881423/IMG_5819s_master.jpg?width=768",
+            "uploadDate": "2025-03-17T19:41:58.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "MPGMB, Souda",
+            "caption": "Pair of Low Sass Stool from Souda, Dining Chair, Seating, Shape A For Sale 3",
+            "contentUrl": "https://a.1stdibscdn.com/pair-of-low-sass-stool-from-souda-dining-chair-seating-shape-a-for-sale-picture-11/f_23153/f_440911221742254882278/IMG_5820s_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/pair-of-low-sass-stool-from-souda-dining-chair-seating-shape-a-for-sale-picture-11/f_23153/f_440911221742254882278/IMG_5820s_master.jpg?width=768",
+            "uploadDate": "2025-03-17T19:41:58.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/NewCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/stools/pair-of-low-sass-stool-from-souda-dining-chair-seating-shape/id-f_44091122/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 4959.07,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 8942.9,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 113541.91,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 5157.83,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 4342.44,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 38696.66,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 5500,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 8091.58,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 56870.73,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 59305.25,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 4.8,
+          "reviewCount": 19
+        },
+        "productionDate": "2010-",
+        "category": "Stools",
+        "brand": {
+          "@type": "Brand",
+          "name": "MPGMB, Souda"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Stools",
+              "@id": "/furniture/seating/stools/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}
