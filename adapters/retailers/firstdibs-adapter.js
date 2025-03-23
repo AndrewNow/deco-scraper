@@ -12,15 +12,8 @@ export class FirstDibsAdapter extends BaseAdapter {
     this.country = country;
     this.language = language;
     this.baseUrl = `https://www.1stdibs.com`;
-    
-<<<<<<< HEAD
-    // Anti-bot detection configuration
-    this.retryAttempts = 3;
-    this.retryDelay = 2000; // 2 seconds between retries
-=======
     // Concurrency settings
     this.concurrency = concurrency;
->>>>>>> test
   }
 
   /**
