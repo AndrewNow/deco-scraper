@@ -1,0 +1,291 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44022542",
+  "name": "Hoop Armchair by PALANGE & TOFFOLONI",
+  "slug": "f_44022542",
+  "price": "CA$4,800.51",
+  "description": "",
+  "image_url": "https://a.1stdibscdn.com/hoop-armchair-by-palange-toffoloni-for-sale/f_46162/f_440225421741860618364/f_44022542_1741860619012_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/armchairs/hoop-armchair-palange-toffoloni/id-f_44022542/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 41.34 in (105 cm)",
+      "width": "Width: 30.71 in (78 cm)",
+      "depth": "Depth: 31.5 in (80 cm)",
+      "seatHeight": "Seat Height: 13.78 in (35 cm)"
+    },
+    "style": "Mid-Century Modern (Of the Period)",
+    "materials": [
+      "Leather",
+      "Leather"
+    ],
+    "origin": "Italy",
+    "period": "1970-1979",
+    "dateOfManufacture": "1972",
+    "condition": {
+      "rating": "Good",
+      "details": "Wear consistent with age and use."
+    },
+    "sellerLocation": "Berlin, DE",
+    "referenceNumber": "1stDibs: LU4616244022542",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Armchair designed by Piero Palange and Werther Toffolon. Italy, Germa, 1972.\n\nBlack lacquered wooden frame with the original leather upholstery. This is model G23. Seat height: 35 cm.\nCondition:  \n\nGood condition.</span></div></div>",
+    "rawSpecificationsText": "Armchair designed by Piero Palange and Werther Toffolon. Italy, Germa, 1972.\n\nBlack lacquered wooden frame with the original leather upholstery. This is model G23. Seat height: 35 cm.\nCondition:  \n\nGood condition."
+  },
+  "raw_data": {
+    "productId": "f_44022542",
+    "slug": "f_44022542",
+    "url": "https://www.1stdibs.com/furniture/seating/armchairs/hoop-armchair-palange-toffoloni/id-f_44022542/",
+    "name": "Hoop Armchair by PALANGE & TOFFOLONI",
+    "price": "CA$4,800.51",
+    "imageUrl": "https://a.1stdibscdn.com/hoop-armchair-by-palange-toffoloni-for-sale/f_46162/f_440225421741860618364/f_44022542_1741860619012_bg_processed.jpg",
+    "description": "",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 41.34 in (105 cm)",
+        "width": "Width: 30.71 in (78 cm)",
+        "depth": "Depth: 31.5 in (80 cm)",
+        "seatHeight": "Seat Height: 13.78 in (35 cm)"
+      },
+      "style": "Mid-Century Modern (Of the Period)",
+      "materials": [
+        "Leather",
+        "Leather"
+      ],
+      "origin": "Italy",
+      "period": "1970-1979",
+      "dateOfManufacture": "1972",
+      "condition": {
+        "rating": "Good",
+        "details": "Wear consistent with age and use."
+      },
+      "sellerLocation": "Berlin, DE",
+      "referenceNumber": "1stDibs: LU4616244022542",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"collapsed\" class=\"_85f5162c _473e3111\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"_98acf5a0\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Armchair designed by Piero Palange and Werther Toffolon. Italy, Germa, 1972.\n\nBlack lacquered wooden frame with the original leather upholstery. This is model G23. Seat height: 35 cm.\nCondition:  \n\nGood condition.</span></div></div>",
+      "rawSpecificationsText": "Armchair designed by Piero Palange and Werther Toffolon. Italy, Germa, 1972.\n\nBlack lacquered wooden frame with the original leather upholstery. This is model G23. Seat height: 35 cm.\nCondition:  \n\nGood condition."
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Hoop Armchair by PALANGE & TOFFOLONI",
+        "description": "Armchair designed by Piero Palange and Werther Toffolon. Italy, Germa, 1972.\n\nBlack lacquered wooden frame with the original leather upholstery. This is model G23. Seat height: 35 cm.\nCondition:  \n\nGood condition.\n",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Werther Toffoloni and Piero Palange",
+            "caption": "Hoop Armchair by PALANGE & TOFFOLONI For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/hoop-armchair-by-palange-toffoloni-for-sale/f_46162/f_440225421741860618364/f_44022542_1741860619012_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/hoop-armchair-by-palange-toffoloni-for-sale/f_46162/f_440225421741860618364/f_44022542_1741860619012_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-13T06:13:23.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Werther Toffoloni and Piero Palange",
+            "caption": "Armchair designed by Piero Palange and Werther Toffolon. Italy, Germa, 1972.\n\nBlack lacquered wooden frame with the original leather upholstery. This is model G23. Seat height: 35 cm.\nCondition:  \n\nGood condition.\n",
+            "contentUrl": "https://a.1stdibscdn.com/hoop-armchair-by-palange-toffoloni-for-sale-picture-2/f_46162/f_440225421741860636640/IMG_8874_master.JPG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/hoop-armchair-by-palange-toffoloni-for-sale-picture-2/f_46162/f_440225421741860636640/IMG_8874_master.JPG?width=768",
+            "uploadDate": "2025-03-13T06:13:23.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Werther Toffoloni and Piero Palange",
+            "caption": "Mid-Century Modern Hoop Armchair by PALANGE & TOFFOLONI For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/hoop-armchair-by-palange-toffoloni-for-sale-picture-3/f_46162/f_440225421741860637918/IMG_8872_master.JPG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/hoop-armchair-by-palange-toffoloni-for-sale-picture-3/f_46162/f_440225421741860637918/IMG_8872_master.JPG?width=768",
+            "uploadDate": "2025-03-13T06:13:23.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Werther Toffoloni and Piero Palange",
+            "caption": "Italian Hoop Armchair by PALANGE & TOFFOLONI For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/hoop-armchair-by-palange-toffoloni-for-sale-picture-4/f_46162/f_440225421741860637192/IMG_8868_master.JPG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/hoop-armchair-by-palange-toffoloni-for-sale-picture-4/f_46162/f_440225421741860637192/IMG_8868_master.JPG?width=768",
+            "uploadDate": "2025-03-13T06:13:23.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Werther Toffoloni and Piero Palange",
+            "caption": "Hoop Armchair by PALANGE & TOFFOLONI In Good Condition For Sale In Berlin, Berlin",
+            "contentUrl": "https://a.1stdibscdn.com/hoop-armchair-by-palange-toffoloni-for-sale-picture-5/f_46162/f_440225421741860637394/IMG_8862_master.JPG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/hoop-armchair-by-palange-toffoloni-for-sale-picture-5/f_46162/f_440225421741860637394/IMG_8862_master.JPG?width=768",
+            "uploadDate": "2025-03-13T06:13:23.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Werther Toffoloni and Piero Palange",
+            "caption": "Late 20th Century Hoop Armchair by PALANGE & TOFFOLONI For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/hoop-armchair-by-palange-toffoloni-for-sale-picture-6/f_46162/f_440225421741860640651/IMG_8857_master.JPG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/hoop-armchair-by-palange-toffoloni-for-sale-picture-6/f_46162/f_440225421741860640651/IMG_8857_master.JPG?width=768",
+            "uploadDate": "2025-03-13T06:13:23.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Werther Toffoloni and Piero Palange",
+            "caption": "Leather Hoop Armchair by PALANGE & TOFFOLONI For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/hoop-armchair-by-palange-toffoloni-for-sale-picture-7/f_46162/f_440225421741860637685/IMG_8878_master.JPG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/hoop-armchair-by-palange-toffoloni-for-sale-picture-7/f_46162/f_440225421741860637685/IMG_8878_master.JPG?width=768",
+            "uploadDate": "2025-03-13T06:13:23.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Werther Toffoloni and Piero Palange",
+            "caption": "Hoop Armchair by PALANGE & TOFFOLONI For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/hoop-armchair-by-palange-toffoloni-for-sale-picture-8/f_46162/f_440225421741860637649/IMG_8855_master.JPG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/hoop-armchair-by-palange-toffoloni-for-sale-picture-8/f_46162/f_440225421741860637649/IMG_8855_master.JPG?width=768",
+            "uploadDate": "2025-03-13T06:13:23.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Werther Toffoloni and Piero Palange",
+            "caption": "Hoop Armchair by PALANGE & TOFFOLONI For Sale 2",
+            "contentUrl": "https://a.1stdibscdn.com/hoop-armchair-by-palange-toffoloni-for-sale-picture-9/f_46162/f_440225421741860639981/IMG_8847_master.JPG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/hoop-armchair-by-palange-toffoloni-for-sale-picture-9/f_46162/f_440225421741860639981/IMG_8847_master.JPG?width=768",
+            "uploadDate": "2025-03-13T06:13:23.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "Werther Toffoloni and Piero Palange",
+            "caption": "Hoop Armchair by PALANGE & TOFFOLONI For Sale 3",
+            "contentUrl": "https://a.1stdibscdn.com/hoop-armchair-by-palange-toffoloni-for-sale-picture-10/f_46162/f_440225421741860774198/IMG_8878_master.JPG?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/hoop-armchair-by-palange-toffoloni-for-sale-picture-10/f_46162/f_440225421741860774198/IMG_8878_master.JPG?width=768",
+            "uploadDate": "2025-03-13T06:13:23.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/UsedCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/armchairs/hoop-armchair-palange-toffoloni/id-f_44022542/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 5305.58,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 2942.08,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 67361.27,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3000,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 2576.25,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 22957.65,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3328.26,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 4800.51,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 33739.83,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 35184.16,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 5,
+          "reviewCount": 10
+        },
+        "productionDate": "1970-1979",
+        "category": "Armchairs",
+        "brand": {
+          "@type": "Brand",
+          "name": "Werther Toffoloni and Piero Palange"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Armchairs",
+              "@id": "/furniture/seating/armchairs/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

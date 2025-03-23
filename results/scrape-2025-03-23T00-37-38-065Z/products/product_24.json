@@ -1,0 +1,275 @@
+{
+  "retailer": "1stDibs",
+  "product_id": "f_44095492",
+  "name": "Swedish Original Painted Storage Bench",
+  "slug": "f_44095492",
+  "price": "CA$5,789.32",
+  "description": "",
+  "image_url": "https://a.1stdibscdn.com/swedish-original-painted-storage-bench-for-sale/f_24833/f_440954921742292244984/f_44095492_1742292246237_bg_processed.jpg",
+  "url": "https://www.1stdibs.com/furniture/seating/benches/swedish-original-painted-storage-bench/id-f_44095492/",
+  "specifications": {
+    "dimensions": {
+      "height": "Height: 40.5 in (102.87 cm)",
+      "width": "Width: 82 in (208.28 cm)",
+      "depth": "Depth: 23 in (58.42 cm)",
+      "seatHeight": "Seat Height: 18 in (45.72 cm)"
+    },
+    "materials": [
+      "Pine",
+      "Pine"
+    ],
+    "origin": "Sweden",
+    "period": "19th Century",
+    "dateOfManufacture": "1810",
+    "condition": {
+      "rating": "Good",
+      "details": "Wear consistent with age and use."
+    },
+    "sellerLocation": "Leamington Spa, GB",
+    "referenceNumber": "Seller: 1810",
+    "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Good early 19th century Swedish original painted pine storage bench. 1810.\n\nThe seat will need to be upholstered.\n\n\nSeat height: 18-inches (46cm)\n\n\nCode: 8845\n\nDimensions:\nW: 82\" (208.3 cm)\nH: 40.5\" (102.9 cm)\nD: 23\" (58.4 cm)</span></div></div>",
+    "rawSpecificationsText": "Good early 19th century Swedish original painted pine storage bench. 1810.\n\nThe seat will need to be upholstered.\n\n\nSeat height: 18-inches (46cm)\n\n\nCode: 8845\n\nDimensions:\nW: 82\" (208.3 cm)\nH: 40.5\" (102.9 cm)\nD: 23\" (58.4 cm)"
+  },
+  "raw_data": {
+    "productId": "f_44095492",
+    "slug": "f_44095492",
+    "url": "https://www.1stdibs.com/furniture/seating/benches/swedish-original-painted-storage-bench/id-f_44095492/",
+    "name": "Swedish Original Painted Storage Bench",
+    "price": "CA$5,789.32",
+    "imageUrl": "https://a.1stdibscdn.com/swedish-original-painted-storage-bench-for-sale/f_24833/f_440954921742292244984/f_44095492_1742292246237_bg_processed.jpg",
+    "description": "",
+    "specifications": {
+      "dimensions": {
+        "height": "Height: 40.5 in (102.87 cm)",
+        "width": "Width: 82 in (208.28 cm)",
+        "depth": "Depth: 23 in (58.42 cm)",
+        "seatHeight": "Seat Height: 18 in (45.72 cm)"
+      },
+      "materials": [
+        "Pine",
+        "Pine"
+      ],
+      "origin": "Sweden",
+      "period": "19th Century",
+      "dateOfManufacture": "1810",
+      "condition": {
+        "rating": "Good",
+        "details": "Wear consistent with age and use."
+      },
+      "sellerLocation": "Leamington Spa, GB",
+      "referenceNumber": "Seller: 1810",
+      "rawSpecificationsHTML": "<div id=\":Ropiha:\" data-tn=\"expanding-area\" data-state=\"expanded\" class=\"_85f5162c\" style=\"height: auto;\"><div data-tn=\"expanding-area-children-wrapper\" class=\"\"><span class=\"_dda3618c\" data-tn=\"pdp-item-description-content\">Good early 19th century Swedish original painted pine storage bench. 1810.\n\nThe seat will need to be upholstered.\n\n\nSeat height: 18-inches (46cm)\n\n\nCode: 8845\n\nDimensions:\nW: 82\" (208.3 cm)\nH: 40.5\" (102.9 cm)\nD: 23\" (58.4 cm)</span></div></div>",
+      "rawSpecificationsText": "Good early 19th century Swedish original painted pine storage bench. 1810.\n\nThe seat will need to be upholstered.\n\n\nSeat height: 18-inches (46cm)\n\n\nCode: 8845\n\nDimensions:\nW: 82\" (208.3 cm)\nH: 40.5\" (102.9 cm)\nD: 23\" (58.4 cm)"
+    },
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Swedish Original Painted Storage Bench",
+        "description": "Good early 19th century Swedish original painted pine storage bench. 1810.\n\nThe seat will need to be upholstered.\n\n\nSeat height: 18-inches (46cm)\n\n\nCode: 8845\n\nDimensions:\nW: 82\" (208.3 cm)\nH: 40.5\" (102.9 cm)\nD: 23\" (58.4 cm)",
+        "image": [
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Swedish Original Painted Storage Bench For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/swedish-original-painted-storage-bench-for-sale/f_24833/f_440954921742292244984/f_44095492_1742292246237_bg_processed.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/swedish-original-painted-storage-bench-for-sale/f_24833/f_440954921742292244984/f_44095492_1742292246237_bg_processed.jpg?width=768",
+            "uploadDate": "2025-03-18T06:07:07.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Good early 19th century Swedish original painted pine storage bench. 1810.\n\nThe seat will need to be upholstered.\n\n\nSeat height: 18-inches (46cm)\n\n\nCode: 8845\n\nDimensions:\nW: 82\" (208.3 cm)\nH: 40.5\" (102.9 cm)\nD: 23\" (58.4 cm)",
+            "contentUrl": "https://a.1stdibscdn.com/swedish-original-painted-storage-bench-for-sale-picture-2/f_24833/f_440954921742292293638/IMG_0866_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/swedish-original-painted-storage-bench-for-sale-picture-2/f_24833/f_440954921742292293638/IMG_0866_master.jpg?width=768",
+            "uploadDate": "2025-03-18T06:07:07.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Swedish Original Painted Storage Bench In Good Condition For Sale In Leamington Spa, Warwickshire",
+            "contentUrl": "https://a.1stdibscdn.com/swedish-original-painted-storage-bench-for-sale-picture-3/f_24833/f_440954921742292293921/IMG_0867_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/swedish-original-painted-storage-bench-for-sale-picture-3/f_24833/f_440954921742292293921/IMG_0867_master.jpg?width=768",
+            "uploadDate": "2025-03-18T06:07:07.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "19th Century Swedish Original Painted Storage Bench For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/swedish-original-painted-storage-bench-for-sale-picture-4/f_24833/f_440954921742292281652/IMG_0868_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/swedish-original-painted-storage-bench-for-sale-picture-4/f_24833/f_440954921742292281652/IMG_0868_master.jpg?width=768",
+            "uploadDate": "2025-03-18T06:07:07.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Pine Swedish Original Painted Storage Bench For Sale",
+            "contentUrl": "https://a.1stdibscdn.com/swedish-original-painted-storage-bench-for-sale-picture-5/f_24833/f_440954921742292300547/IMG_0869_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/swedish-original-painted-storage-bench-for-sale-picture-5/f_24833/f_440954921742292300547/IMG_0869_master.jpg?width=768",
+            "uploadDate": "2025-03-18T06:07:07.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Swedish Original Painted Storage Bench For Sale 1",
+            "contentUrl": "https://a.1stdibscdn.com/swedish-original-painted-storage-bench-for-sale-picture-6/f_24833/f_440954921742292292624/IMG_0870_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/swedish-original-painted-storage-bench-for-sale-picture-6/f_24833/f_440954921742292292624/IMG_0870_master.jpg?width=768",
+            "uploadDate": "2025-03-18T06:07:07.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Swedish Original Painted Storage Bench For Sale 2",
+            "contentUrl": "https://a.1stdibscdn.com/swedish-original-painted-storage-bench-for-sale-picture-7/f_24833/f_440954921742292294196/IMG_0871_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/swedish-original-painted-storage-bench-for-sale-picture-7/f_24833/f_440954921742292294196/IMG_0871_master.jpg?width=768",
+            "uploadDate": "2025-03-18T06:07:07.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Swedish Original Painted Storage Bench For Sale 3",
+            "contentUrl": "https://a.1stdibscdn.com/swedish-original-painted-storage-bench-for-sale-picture-8/f_24833/f_440954921742292294779/IMG_0872_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/swedish-original-painted-storage-bench-for-sale-picture-8/f_24833/f_440954921742292294779/IMG_0872_master.jpg?width=768",
+            "uploadDate": "2025-03-18T06:07:07.000-04:00",
+            "representativeOfPage": true
+          },
+          {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "author": "",
+            "caption": "Swedish Original Painted Storage Bench For Sale 4",
+            "contentUrl": "https://a.1stdibscdn.com/swedish-original-painted-storage-bench-for-sale-picture-9/f_24833/f_440954921742292298082/IMG_0873_master.jpg?width=768",
+            "thumbnailUrl": "https://a.1stdibscdn.com/swedish-original-painted-storage-bench-for-sale-picture-9/f_24833/f_440954921742292298082/IMG_0873_master.jpg?width=768",
+            "uploadDate": "2025-03-18T06:07:07.000-04:00",
+            "representativeOfPage": true
+          }
+        ],
+        "itemCondition": "http://schema.org/UsedCondition",
+        "url": "https://www.1stdibs.com/furniture/seating/benches/swedish-original-painted-storage-bench/id-f_44095492/",
+        "offers": [
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 6422.09,
+            "priceCurrency": "AUD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3569.79,
+            "priceCurrency": "CHF"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 81443.78,
+            "priceCurrency": "MXN"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3729.35,
+            "priceCurrency": "EUR"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 3060,
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 27817.58,
+            "priceCurrency": "DKK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 4040.69,
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 5789.32,
+            "priceCurrency": "CAD"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 41017.67,
+            "priceCurrency": "SEK"
+          },
+          {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": 42695.28,
+            "priceCurrency": "NOK"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 4.9,
+          "reviewCount": 21
+        },
+        "productionDate": "19th Century",
+        "category": "Benches"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "name": "Home",
+              "@id": "/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "name": "Furniture",
+              "@id": "/furniture/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "name": "Seating",
+              "@id": "/furniture/seating/"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "name": "Benches",
+              "@id": "/furniture/seating/benches/"
+            }
+          }
+        ]
+      }
+    ],
+    "extractionMethod": "manual"
+  }
+}

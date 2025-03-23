@@ -1,4 +1,5 @@
 import { BaseAdapter } from '../base-adapter.js';
+import pLimit from 'p-limit';
 
 /**
  * 1stDibs Adapter
@@ -6,11 +7,14 @@ import { BaseAdapter } from '../base-adapter.js';
  * This adapter handles scraping 1stDibs' website.
  */
 export class FirstDibsAdapter extends BaseAdapter {
-  constructor(country = 'us', language = 'en') {
+  constructor(country = 'us', language = 'en', concurrency = 3) {
     super();
     this.country = country;
     this.language = language;
     this.baseUrl = `https://www.1stdibs.com`;
+    
+    // Concurrency settings
+    this.concurrency = concurrency;
   }
 
   /**
@@ -449,5 +453,149 @@ export class FirstDibsAdapter extends BaseAdapter {
     };
     
     return transformedData;
+  }
+
+  /**
+   * Process multiple products in parallel with controlled concurrency
+   * @param {Browser} browser - Playwright browser instance
+   * @param {Array<string>} productUrls - Array of product URLs to process
+   * @param {Object} options - Configuration options
+   * @returns {Promise<Array>} Array of processed products
+   */
+  async processProductsWithConcurrency(browser, productUrls, options = {}) {
+    const {
+      onSuccess = () => {},    // Callback when a product is successfully processed
+      onFailure = () => {},    // Callback when a product processing fails
+      onProgress = () => {},   // Callback for overall progress
+      maxProducts = Infinity,  // Maximum number of products to process
+      saveDelay = 1000         // Delay between requests to avoid rate limiting
+    } = options;
+    
+    console.log(`Setting up parallel processing with concurrency of ${this.concurrency}`);
+    
+    // Create the concurrency limiter
+    const limit = pLimit(this.concurrency);
+    
+    // Limit to specified number of products if provided
+    const urlsToProcess = productUrls.slice(0, maxProducts);
+    console.log(`Will process ${urlsToProcess.length} products with concurrency of ${this.concurrency}`);
+    
+    // Track progress
+    let completedCount = 0;
+    let successCount = 0;
+    let failureCount = 0;
+    const results = [];
+    const startTime = Date.now();
+    
+    // Process products concurrently
+    const promises = urlsToProcess.map((url, index) => {
+      // Use the limiter to control concurrency
+      return limit(async () => {
+        const productNumber = index + 1;
+        console.log(`Starting product ${productNumber}/${urlsToProcess.length}: ${url}`);
+        
+        // Add random delay between requests
+        const delay = Math.floor(Math.random() * 2000) + saveDelay;
+        await new Promise(resolve => setTimeout(resolve, delay));
+        
+        // Create a new context for each product for isolation
+        let context = null;
+        let page = null;
+        
+        try {
+          // Create a new browser context for each product to avoid cookie/session issues
+          context = await browser.newContext({
+            userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36',
+          });
+          
+          // Create a new page for this product
+          page = await context.newPage();
+          
+          // Extract the product data
+          const productData = await this.extractProductData(page, url);
+          
+          if (productData) {
+            // Transform the data to standardized format
+            const transformedData = this.transformProductData(productData);
+            
+            if (transformedData) {
+              console.log(`✅ Product ${productNumber}: Successfully processed data`);
+              successCount++;
+              results.push(transformedData);
+              
+              // Call success callback
+              await onSuccess(transformedData, productNumber);
+              return transformedData;
+            } else {
+              console.log(`❌ Product ${productNumber}: Failed to transform data`);
+              failureCount++;
+              
+              // Call failure callback
+              await onFailure(url, 'Failed to transform data', productNumber);
+              return null;
+            }
+          } else {
+            console.log(`❌ Product ${productNumber}: Failed to extract data`);
+            failureCount++;
+            
+            // Call failure callback
+            await onFailure(url, 'Failed to extract data', productNumber);
+            return null;
+          }
+        } catch (error) {
+          console.error(`Error processing product ${productNumber}:`, error.message);
+          failureCount++;
+          
+          // Call failure callback
+          await onFailure(url, error.message, productNumber);
+          return null;
+        } finally {
+          // Always clean up resources
+          if (page) {
+            await page.close().catch(() => console.log(`Warning: Could not close page for product ${productNumber}`));
+          }
+          
+          if (context) {
+            await context.close().catch(() => console.log(`Warning: Could not close context for product ${productNumber}`));
+          }
+          
+          // Update progress tracking
+          completedCount++;
+          const elapsedSeconds = (Date.now() - startTime) / 1000;
+          const itemsPerSecond = completedCount / elapsedSeconds;
+          const estimatedTotalSeconds = urlsToProcess.length / itemsPerSecond;
+          const remainingSeconds = estimatedTotalSeconds - elapsedSeconds;
+          
+          // Progress information
+          const progressInfo = {
+            total: urlsToProcess.length,
+            completed: completedCount,
+            success: successCount,
+            failure: failureCount,
+            percent: Math.round((completedCount / urlsToProcess.length) * 100),
+            elapsedSeconds: elapsedSeconds.toFixed(1),
+            remainingSeconds: remainingSeconds.toFixed(1),
+            estimatedTotalSeconds: estimatedTotalSeconds.toFixed(1),
+            itemsPerSecond: itemsPerSecond.toFixed(2)
+          };
+          
+          console.log(`Progress: ${progressInfo.percent}% (${progressInfo.completed}/${progressInfo.total}), Success: ${progressInfo.success}, Failed: ${progressInfo.failure}`);
+          
+          // Call progress callback
+          await onProgress(progressInfo, productNumber);
+        }
+      });
+    });
+    
+    // Wait for all products to be processed
+    console.log('Waiting for all product processing to complete...');
+    await Promise.all(promises);
+    
+    const totalTime = ((Date.now() - startTime) / 1000).toFixed(1);
+    console.log(`✅ Completed processing ${urlsToProcess.length} products in ${totalTime} seconds`);
+    console.log(`   Success: ${successCount}, Failed: ${failureCount}`);
+    
+    // Return successful results
+    return results.filter(Boolean);
   }
 } 
